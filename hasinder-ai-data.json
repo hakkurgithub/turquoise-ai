@@ -1,7 +1,7 @@
 {
-  "version": "1.0",
-  "program": "Hasinder Akademi - Gumruk ve Dis Ticaret Uzmanlasma",
-  "toplam_soru": 35,
+  "version": "2.0",
+  "program": "Hasinder Akademi - Gumruk ve Dis Ticaret Uzmanlasma Sinav Hazirlik",
+  "toplam_soru": 60,
   "sorular": [
     {
       "id": 1,
@@ -15,7 +15,7 @@
       "kategori": "genel_tanim",
       "anahtar_kelime": "hasinder nedir ne ise yarar platform amaci",
       "soru": "Hasinder nedir?",
-      "cevap": "Hasinder, Istanbul Hatay Sanayici ve Is Insanlari Dernegi (HASINDER) bunyedir. Profesyonel bir egitim platformudur. Temel amaci B2B ticaret, gumruk, dis ticaret, hukuk ve lojistik alanlarinda uzman yetistirmektir. Gumruk ve Dis Ticaret Uzmanlasma Programimiz 15 hafta surer."
+      "cevap": "Hasinder, Istanbul Hatay Sanayici ve Is Insanlari Dernegi (HASINDER) bunyedir. Profesyonel bir egitim platformudur. Temel amaci B2B ticaret, gumruk, dis ticaret, hukuk ve lojistik alanlarinda uzman yetistirmektedir. Gumruk ve Dis Ticaret Uzmanlasma Programimiz 15 hafta surer."
     },
     {
       "id": 3,
@@ -64,7 +64,7 @@
       "kategori": "modul_6",
       "anahtar_kelime": "ihracat e-ihracat mikro ihracat ihracat rejimi 6. modul altinci",
       "soru": "E-ihracat nasil yapilir?",
-      "cevap": "E-ihracat, internet uzerinden yapilan ihracattir. Mikro ihracat (7.500 Euro alti) basitlestirilmis prosedurden yararlanir. ETGB sistemi ile baslanir, hizli kargo sirketleri (DHL, FedEx, UPS) ile gonderim yapilir. 6. modulde e-ihracat, mikro ihracat, taahhutler ve ihracat destekleri detayli islenir."
+      "cevap": "E-ihracat, internet uzerinden yapilan ihracattir. Mikro ihracat 7.500 Euro altidir ve basitlestirilmis prosedurden yararlanir. ETGB sistemi ile baslanir, hizli kargo sirketleri (DHL, FedEx, UPS) ile gonderim yapilir. 6. modulde e-ihracat, mikro ihracat, taahhutler ve ihracat destekleri detayli islenir."
     },
     {
       "id": 10,
@@ -148,14 +148,14 @@
       "kategori": "sure",
       "anahtar_kelime": "sure kac saat ne zaman tarih kac hafta",
       "soru": "Egitim ne zaman basliyor?",
-      "cevap": "Egitim 15 hafta surer. Her hafta Cumartesi gunu 10:00-13:00 saatleri arasindadir. Toplam 45 saat egitim. Istanbul\'da yuz yuze + online (Hybrid) olarak yapilir. Sonraki donem baslangici icin erken kayit firsatlarini kacirmayin!"
+      "cevap": "Egitim 15 hafta surer. Her hafta Cumartesi gunu 10:00-13:00 saatleri arasindadir. Toplam 45 saat egitim. Istanbul'da yuz yuze + online (Hybrid) olarak yapilir. Sonraki donem baslangici icin erken kayit firsatlarini kacirmayin!"
     },
     {
       "id": 22,
       "kategori": "sertifika",
       "anahtar_kelime": "sertifika belge diploma onay universite",
       "soru": "Sertifika veriyor musunuz?",
-      "cevap": "Evet! Programi tamamlayan katilimcilara Universite onayli uluslararasi gecerli sertifika verilmektedir. Sertifikaniz hem Turkiye hem de yurtdisinda gecerlidir ve CV\'nizde onemli bir avantaj saglar. Altin Paket katilimcilarina ayrica 1 yil Hasinder dernek uyeligi HEDIYE!"
+      "cevap": "Evet! Programi tamamlayan katilimcilara Universite onayli uluslararasi gecerli sertifika verilmektedir. Sertifikaniz hem Turkiye hem de yurtdisinda gecerlidir ve CV'nizde onemli bir avantaj saglar. Altin Paket katilimcilarina ayrica 1 yil Hasinder dernek uyeligi HEDIYE!"
     },
     {
       "id": 23,
@@ -169,7 +169,7 @@
       "kategori": "egitim_yeri",
       "anahtar_kelime": "nerede istanbul ofis online uzaktan egitim yeri",
       "soru": "Egitim nerede yapiliyor?",
-      "cevap": "Egitim Istanbul\'da Hasinder Merkez Ofis\'te yuz yuze yapilir. Ayrica online katilim da mumkundur (Hybrid sistem). Istediginiz yerden katilabilirsiniz."
+      "cevap": "Egitim Istanbul'da Hasinder Merkez Ofis'te yuz yuze yapilir. Ayrica online katilim da mumkundur (Hybrid sistem). Istediginiz yerden katilabilirsiniz."
     },
     {
       "id": 25,
@@ -197,7 +197,7 @@
       "kategori": "ozel_ogretmen",
       "anahtar_kelime": "yapay zeka ai asistan bot egitmen kim",
       "soru": "Sen kimsin?",
-      "cevap": "Ben Hasinder Akademi\'nin yapay zeka egitmen asistaniyim. Gumruk ve Dis Ticaret Uzmanlasma Programi hakkinda 7/24 sorularinizi yanitliyorum. Tum 15 modulu kapsayan bilgiye sahibim. Mufredat, fiyatlar, kayit ve gumruk mevzuati hakkinda soru sorabilirsiniz."
+      "cevap": "Ben Hasinder Akademi'nin yapay zeka egitmen asistaniyim. Gumruk ve Dis Ticaret Uzmanlasma Programi hakkinda 7/24 sorularinizi yanitliyorum. Tum 15 modulu kapsayan bilgiye sahibim. Mufredat, fiyatlar, kayit ve gumruk mevzuati hakkinda soru sorabilirsiniz."
     },
     {
       "id": 29,
@@ -218,14 +218,14 @@
       "kategori": "kapanis",
       "anahtar_kelime": "tesekkur sagol tesekkur ederim",
       "soru": "Tesekkurler",
-      "cevap": "Rica ederim! Yardimci olabildiysem ne mutlu. Baska bir sorunuz olursa her zaman buradayim. Iyi calismalar dilerim! Hasinder Akademi\'de gorusmek uzere."
+      "cevap": "Rica ederim! Baska bir sorunuz olursa her zaman buradayim. Iyi calismalar dilerim!"
     },
     {
       "id": 32,
       "kategori": "kapanis",
       "anahtar_kelime": "gule gule hoscakal bay bay iyi gunler",
       "soru": "Gule gule",
-      "cevap": "Gule gule! Hasinder Akademi\'de gorusmek uzere. Bize WhatsApp\'tan +90 533 371 55 77 numaradan ulasabilirsiniz. Iyi gunler!"
+      "cevap": "Gule gule! Hasinder Akademi'de gorusmek uzere. WhatsApp: +90 533 371 55 77"
     },
     {
       "id": 33,
@@ -246,7 +246,182 @@
       "kategori": "varsayilan",
       "anahtar_kelime": "",
       "soru": "Varsayilan",
-      "cevap": "Bu konuda size yardimci olmak isterdim. Gumruk mevzuati, ihracat rejimleri, INCOTERMS, tesvikler veya kayit hakkinda soru sorabilirsiniz. Programimizin 15 haftalik mufredati bu konularin tumunu kapsiyor. Detayli bilgi icin WhatsApp: +90 533 371 55 77 veya e-posta: kurt.hakki@gmail.com"
+      "cevap": "Bu konuda size yardimci olmak isterdim. Gumruk mevzuati, ihracat rejimleri, INCOTERMS, tesvikler veya kayit hakkinda soru sorabilirsiniz. WhatsApp: +90 533 371 55 77 veya e-posta: kurt.hakki@gmail.com"
+    },
+    {
+      "id": 36,
+      "kategori": "modul_1_mevzuat",
+      "anahtar_kelime": "4458 sayili gumruk kanunu ithalat vergileri kapsam vergi",
+      "soru": "4458 sayili Gumruk Kanununa gore ithalat vergileri neleri kapsar?",
+      "cevap": "4458 sayili Gumruk Kanunu Madde 14'e gore ithalat vergileri: gumruk vergisi, anti-damping vergisi, telafi edici vergi, korunma onlemi kapsaminda ek gumruk vergisi, KDV ve OTV'yi kapsar. Toplu konut fonu ve kultur fonu GIB tarafindan tahsil edilir."
+    },
+    {
+      "id": 37,
+      "kategori": "modul_1_mevzuat",
+      "anahtar_kelime": "gumruk vergisi orani hesaplama gtip tarife cetveli",
+      "soru": "GTIP koduna gore gumruk vergisi orani nasil belirlenir?",
+      "cevap": "GTIP (Gumruk Tarife Istatistik Pozisyonu) koduna gore vergi oranlari Gumruk Tarife Cetveli'nde belirlenir. 8 haneli GTIP kodunun ilk 6 hanesi HS (Harmonize Sistem) kodudur. Ornegin 8471.30.11 - Otomatik veri isleme makinalari (PC) gumruk vergisi %0'dir. Guncel oranlar Ticaret Bakanligi web sitesinden kontrol edilmelidir."
+    },
+    {
+      "id": 38,
+      "kategori": "modul_1_mevzuat",
+      "anahtar_kelime": "serbest dolasim durum vergi yukumlulugu tamamlanmis",
+      "soru": "Esyanin serbest dolasima girmesi ne demektir?",
+      "cevap": "Serbest dolasima giris, esyanin Turkiye Gumruk Bolgesine girmesi, gumruk islemlerinin tamamlanmasi ve gumruk vergilerinin odenerek serbestce dolasima girmesidir. Bu durumda esya uzerinde gumruk denetimi kalmaz ve ticareti yapilabilir (4458 sayili Kanun Madde 63)."
+    },
+    {
+      "id": 39,
+      "kategori": "modul_2_incoterms",
+      "anahtar_kelime": "exw ex works uretici fabrika teslim satici yukumluluk",
+      "soru": "EXW (Ex Works) teslim seklinde satici ve alicinin yukumlulukleri nelerdir?",
+      "cevap": "EXW (Ex Works - Is Yerinde Teslim): Saticinin yukumlulugu minimumdur. Satici esyayi kendi yerinde (fabrika, depo) hazir hale getirir. Alici tum nakliye masraflarini, gumruk islemlerini (hem ihracat hem ithalat), sigortayi ve riski ustlenir."
+    },
+    {
+      "id": 40,
+      "kategori": "modul_2_incoterms",
+      "anahtar_kelime": "fob free on board gemi bordasi navlun risk gecisi",
+      "soru": "FOB (Free On Board) teslim seklinde risk gecisi nerede gerceklesir?",
+      "cevap": "FOB (Free On Board - Gemi Bordasinda Teslim): Risk gecisi, esyanin yukleme limaninda belirlenen geminin bordasina gectigi anda gerceklesir. Satici esyayi gemiye kadar tasimakla yukumludur. Alici deniz navlunu, sigortayi ve varis limanindan sonraki tasimayi ustlenir."
+    },
+    {
+      "id": 41,
+      "kategori": "modul_2_incoterms",
+      "anahtar_kelime": "cif cost insurance freight maliyet sigorta navlun fob fark",
+      "soru": "CIF (Cost Insurance and Freight) ile FOB arasindaki fark nedir?",
+      "cevap": "CIF (Cost Insurance and Freight): Satici esyanin bedeli + ana navlun sigortasi + nakliye ucretini odemek zorundadir. Risk gecisi FOB'ta oldugu gibi gemi bordasinda gerceklesir. FOB'ta ise navlun ve sigorta aliciya aittir. CIF'ta satici daha fazla yukumluluk ustlenir."
+    },
+    {
+      "id": 42,
+      "kategori": "modul_2_incoterms",
+      "anahtar_kelime": "ddp delivered duty paid gumruk vergisi odendi teslim satici",
+      "soru": "DDP (Delivered Duty Paid) hangi durumlarda tercih edilir?",
+      "cevap": "DDP (Delivered Duty Paid - Gumruk Vergisi Odenmis Teslim): Saticinin yukumlulugu maksimumdur. Satici esyayi alicinin yerine kadar tasir, tum gumruk islemlerini (ithalat ve ihracat) yapar ve gumruk vergilerini odenir. Genellikle saticinin hedef ulkede gumruk temsilcisi oldugu durumlarda tercih edilir."
+    },
+    {
+      "id": 43,
+      "kategori": "modul_2_incoterms",
+      "anahtar_kelime": "incoterms 2020 2010 yenilik degisiklik dat dpu fca cip",
+      "soru": "INCOTERMS 2020'de 2010'a gore hangi degisiklikler yapildi?",
+      "cevap": "INCOTERMS 2020 degisiklikleri: 1) DAT yerine DPU geldi, 2) FCA'da navlun makbuzunda duzenleme yapildi, 3) CIP'te sigorta kapsami artirildi (CIF'e gore daha genis), 4) Kullanim rehberi guncellendi, 5) Esya guvenligi yukumlulukleri netlestirildi."
+    },
+    {
+      "id": 44,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "gumruk beyannamesi doldurma e-gumruk sistem adimlari",
+      "soru": "E-Gumruk beyannamesi nasil doldurulur?",
+      "cevap": "E-Gumruk beyannamesi doldurma adimlari: 1) Ticaret Sicil No ile E-Gumruk sistemine giris, 2) Beyan turu secimi, 3) GTIP kodu girisi, 4) Esya tanimi ve miktari, 5) Gumruk islemi secimi, 6) Tedarikci/alici bilgileri, 7) Tasima araci ve ulke bilgileri, 8) Belge eklenmesi, 9) Onay ve tescil."
+    },
+    {
+      "id": 45,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "kirmizi hat sari hat yesil hat kontrol muayene risk tareks",
+      "soru": "Kirmizi, sari ve yesil hat kontrol sistemleri nedir?",
+      "cevap": "Gumruk beyanname kontrol hatlari: YESIL HAT: Otomatik onay, esya acilmadan gecer. SARI HAT: Belgeler kontrol edilir. KIRMIZI HAT: Esyanin fiziki muayenesi yapilir. Risk analiz sistemi TAREKS ile belirlenir."
+    },
+    {
+      "id": 46,
+      "kategori": "modul_5_aeo",
+      "anahtar_kelime": "aeo yetkilendirilmis yukumlu basvuru asamalari surec denetim",
+      "soru": "AEO basvuru sureci nasil isler?",
+      "cevap": "AEO basvuru sureci: 1) E-Gumruk uzerinden basvuru, 2) Gerekli belgeler (ticaret sicil, mali tablolar, guvenlik prosedurleri), 3) Gumruk idaresi on inceleme, 4) Sahada denetim, 5) Guvenlik ve uygunluk degerlendirmesi, 6) AEO sertifikasi. Surec 3-6 ay surer."
+    },
+    {
+      "id": 47,
+      "kategori": "modul_6_ihracat",
+      "anahtar_kelime": "mikro ihracat tanim limit euro basitlestirilmis prosedur",
+      "soru": "Mikro ihracat nedir ve limiti ne kadardir?",
+      "cevap": "Mikro ihracat: 7.500 Euro'yu asmiyan, kisisel kullanim disinda olan esyanin kucuk olcekli ihracatidir. Basitlestirilmis gumruk islemleri uygulanir. E-TGB kullanilir, gumruk musavirine gerek kalmadan hizli gonderim yapilabilir."
+    },
+    {
+      "id": 48,
+      "kategori": "modul_6_ihracat",
+      "anahtar_kelime": "e-ihracat internet online ihracat platform amazon ebay alibaba",
+      "soru": "E-ihracat yapmak icin hangi platformlar kullanilabilir?",
+      "cevap": "E-ihracat platformlari: Amazon, eBay, Etsy, Alibaba, Trendyol (yurtdisi), Hepsiburada (yurtdisi). Ayrica kendi e-ticaret siteniz uzerinden de e-ihracat yapabilirsiniz. Mikro ihracat kapsaminda ETGB ile hizli gonderim mumkun."
+    },
+    {
+      "id": 49,
+      "kategori": "modul_10_transit",
+      "anahtar_kelime": "t1 belgesi transit tasima belgesi doldurma ncts sistem",
+      "soru": "T1 transit belgesi nasil duzenlenir?",
+      "cevap": "T1 Transit Belgesi: NCTS uzerinden elektronik olarak duzenlenir. 1) Baslangic gumruk idaresinden basvuru, 2) Esya bilgileri ve GTIP kodlari, 3) Hedef gumruk idaresi, 4) Teminat verilir, 5) Onay alindiktan sonra tasinma baslar, 6) Hedefte kapatma islemi."
+    },
+    {
+      "id": 50,
+      "kategori": "modul_10_transit",
+      "anahtar_kelime": "ncts sistem elektronik transit yonetim ab turkiye",
+      "soru": "NCTS sistemi nedir ve nasil calisir?",
+      "cevap": "NCTS (New Computerised Transit System): Transit tasimalarin elektronik olarak yonetildigi sistemdir. AB ve Turkiye arasinda ortak calisir. Tum T1/T2 beyanlari sistem uzerinden yapilir, kagit belge yerine elektronik mesajlar kullanilir."
+    },
+    {
+      "id": 51,
+      "kategori": "modul_11_cezalar",
+      "anahtar_kelime": "gumruk cezasi 241 idari para cezasi miktar hesaplama eksik beyan",
+      "soru": "Gumruk Kanunu 241. madde idari para cezasi ne kadardir?",
+      "cevap": "4458 sayili Kanun Madde 241: Gumruk mevzuatina aykiri hareket edenlere verilen idari para cezasi, aykiriiligin turune gore degisir. Eksik beyan veya yanlis beyan durumunda eksik kalan verginin 1-3 kati arasi ceza uygulanir. Cezaya itiraz icin 15 gun icinde yetkili idareye basvurulmalidir."
+    },
+    {
+      "id": 52,
+      "kategori": "modul_12_uzlasma",
+      "anahtar_kelime": "uzlasma komisyonu basvuru sure itiraz 5326 kanun",
+      "soru": "Uzlasma basvurusu nasil yapilir ve suresi nedir?",
+      "cevap": "Uzlasma basvurusu: Idari para cezasi teblig edildikten sonra 15 gun icinde yazili olarak uzlasma komisyonuna basvurulur. Komisyon 30 gun icinde karar verir. Uzlasma tutari genellikle cezanin %50-75'i arasindadir. (5326 sayili Kanun)"
+    },
+    {
+      "id": 53,
+      "kategori": "modul_13_kacakcilik",
+      "anahtar_kelime": "5607 kacakcilik suc unsurlari ceza hapis yasak maddeler",
+      "soru": "5607 sayili Kanuna gore gumruk kacakciliginin unsurlari nelerdir?",
+      "cevap": "5607 sayili Kanun Madde 3: Gumruk kacakciliginin unsurlari: 1) Esyanin gizli veya sahte belge ile gumrukten gecirilmesi, 2) Gumruk vergisi kacakciligi, 3) Yasak maddelerin ticareti, 4) Fikri mulkiyet haklarini ihlal eden esya. Cezasi: 1-5 yil hapis veya adli para cezasi."
+    },
+    {
+      "id": 54,
+      "kategori": "modul_14_tesvikler",
+      "anahtar_kelime": "kosgeb egitim destek basvuru sartlari girisimci kobi",
+      "soru": "KOSGEB egitim desteginden nasil yararlanabilirim?",
+      "cevap": "KOSGEB egitim destegi: Girisimciler ve KOBİ'ler icin egitim giderlerinin bir kismini karsilar. Basvuru icin: 1) KOSGEB'e kayitli girisimci olmak, 2) Egitim programinin onaylanmasi, 3) Giderlerin belgelenmesi gerekir. Hasinder Akademi programi icin KOSGEB destegi alabilirsiniz."
+    },
+    {
+      "id": 55,
+      "kategori": "modul_14_tesvikler",
+      "anahtar_kelime": "yatirim tesvik belgesi ytb yatirimci bilgi sistemi ybs",
+      "soru": "Yatirim Tesvik Belgesi nasil alinir?",
+      "cevap": "Yatirim Tesvik Belgesi: Cumhurbaskanligi Yatirim Ofisi veya sanayi odalarindan basvuru yapilir. Yatirimci Bilgi Sistemi (YBS) uzerinden online basvuru gerekir. Belgeler: yatirim plani, mali analiz, pazar arastirmasi. Tesvik unsurlari: vergi indirimi, KDV istisnasi, gumruk vergisi muafiyeti, faiz destegi."
+    },
+    {
+      "id": 56,
+      "kategori": "modul_15_pazar",
+      "anahtar_kelime": "yurtdisi musteri bulma crm dijital pazarlama linkedin alibaba amazon",
+      "soru": "Yurtdisinda musteri bulmak icin hangi yontemler kullanilir?",
+      "cevap": "15. modulde ogretilen yontemler: LinkedIn (B2B musteri bulma), Alibaba (toptan ihracat), Amazon (perakende e-ihracat), CRM yazilimlari (musteri iliskileri yonetimi), SEO/SEM (dijital pazarlama), fuar katilimlari, ticaret heyetleri, buyuk elcilikler ve ticaret musavirlikleri."
+    },
+    {
+      "id": 57,
+      "kategori": "genel_soru",
+      "anahtar_kelime": "gtip kodu bulma tarife cetveli harmenize sistem hs kodu",
+      "soru": "GTIP kodu nasil bulunur?",
+      "cevap": "GTIP kodu, esyanin HS (Harmonize Sistem) kodu temel alinarak belirlenir. 1) Esyanin turune gore HS bolumu bulunur (6 haneli), 2) Ulke ozelliklerine gore 8. ve 10. haneler eklenir, 3) Ticaret Bakanligi'nin web sitesindeki GTIP sorgulama araci kullanilir. Ornegin: Dizustu bilgisayar: 8471.30.11.00.00"
+    },
+    {
+      "id": 58,
+      "kategori": "genel_soru",
+      "anahtar_kelime": "mense sahadetnamesi origin certificate form a form d europa eur.1",
+      "soru": "Menşe Şahadetnamesi nedir ve nasil alinir?",
+      "cevap": "Menşe Şahadetnamesi: Esyanin hangi ulkede uretildigini gosteren resmi belgedir. Turleri: Form A (Genellestirilmis Tercihler Sistemi), EUR.1 (AB-Turkiye arasi), Form D (Gumruk Birligi). Basvuru: Ticaret Odasina yapilir. Gumruk Birligi ulkeleri ile ticarette A.TR Dolasim Belgesi de kullanilir."
+    },
+    {
+      "id": 59,
+      "kategori": "genel_soru",
+      "anahtar_kelime": "ticaret bakanligi gumrukler genel mudurlugu gtb rehberlik yardim destek",
+      "soru": "Gumruk islemleri ile ilgili sorulari nereye sorabilirim?",
+      "cevap": "Gumruk islemleri icin: 1) Gumrukler Genel Mudurlugu (gtb.gov.tr), 2) Ticaret Bakanligi Gumruk Rehberligi Hatti (Alo 189), 3) Bolge gumruk mudurlukleri, 4) Gumruk musavirleri, 5) E-Gumruk sistemi uzerinden online destek. Hasinder Akademi: WhatsApp +90 533 371 55 77"
+    },
+    {
+      "id": 60,
+      "kategori": "genel_soru",
+      "anahtar_kelime": "antrepo serbest bolge gumruk antrepolari turleri genel ozel kapali acik",
+      "soru": "Gumruk antrepo tipleri nelerdir?",
+      "cevap": "Gumruk antrepo tipleri: A) Genel Antrepo (I - III - IV - V - VI - VII. tip), B) Ozel Antrepo (II. tip). 1. tip (Genel): Herkesin esyasini depolayabilir. 2. tip (Ozel): Sadece antrepo isleticisinin esyasi. 3. tip: Kapali alan. 4. tip: Acik alan. 5. tip: Sivi yakit. 6. tip: Tehlikeli madde. 7. tip: Soguk hava deposu."
     }
   ]
 }
