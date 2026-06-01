@@ -1,7 +1,7 @@
 {
   "version": "2.0",
   "program": "Hasinder Akademi - Gumruk ve Dis Ticaret Uzmanlasma Sinav Hazirlik",
-  "toplam_soru": 60,
+  "toplam_soru": 85,
   "sorular": [
     {
       "id": 1,
@@ -422,6 +422,181 @@
       "anahtar_kelime": "antrepo serbest bolge gumruk antrepolari turleri genel ozel kapali acik",
       "soru": "Gumruk antrepo tipleri nelerdir?",
       "cevap": "Gumruk antrepo tipleri: A) Genel Antrepo (I - III - IV - V - VI - VII. tip), B) Ozel Antrepo (II. tip). 1. tip (Genel): Herkesin esyasini depolayabilir. 2. tip (Ozel): Sadece antrepo isleticisinin esyasi. 3. tip: Kapali alan. 4. tip: Acik alan. 5. tip: Sivi yakit. 6. tip: Tehlikeli madde. 7. tip: Soguk hava deposu."
+    },
+    {
+      "id": 61,
+      "kategori": "modul_2_incoterms",
+      "anahtar_kelime": "fca free carrier tasiyiciya teslim navlun makbuzu bl",
+      "soru": "FCA (Free Carrier) teslim seklinde satıcı ve alıcı yükümlülükleri nelerdir?",
+      "cevap": "FCA (Free Carrier - Taşıyıcıya Teslim): Satıcı, esyayi belirlenen yerde (satıci tesisleri veya başka bir yer) alıcının tayin ettiği taşıyıcıya teslim eder. Satıcı ihracat gümrük işlemlerini yapar. Alici ana navlunu, sigortayi ve ithalat gümrük işlemlerini üstlenir. INCOTERMS 2020'de FCA'da 'on board' konşimento (BL) düzenleme imkanı getirildi."
+    },
+    {
+      "id": 62,
+      "kategori": "modul_2_incoterms",
+      "anahtar_kelime": "cpt carriage paid to navlun odenmis tasima cip fark",
+      "soru": "CPT (Carriage Paid To) ile CIP arasındaki fark nedir?",
+      "cevap": "CPT (Carriage Paid To - Navlun Ödenmiş Taşıma): Satıcı ana taşıma/navlunu öder. Risk, esya ilk taşıyıcıya teslim edildiğinde geçer. CIP (Carriage and Insurance Paid To) ise CPT'ye ek olarak satıcı minimum sigorta (%110 değerinde, Institute Cargo Clauses A kapsamında INCOTERMS 2020'de) yapmak zorundadır. CIP'te sigorta kapsamı CIF'e göre daha geniş."
+    },
+    {
+      "id": 63,
+      "kategori": "modul_2_incoterms",
+      "anahtar_kelime": "dap delivered at place yerinde teslim navlumsuz ithalat",
+      "soru": "DAP (Delivered At Place) teslim şeklinde kim ithalat gümrük işlemlerini yapar?",
+      "cevap": "DAP (Delivered At Place - Belirlenen Yerde Teslim): Satıcı, esyayi belirlenen varış yerine kadar taşımakla yükümlüdür. Risk varış yerinde teslimde geçer. İthalat gümrük işlemleri ve vergileri ALICI tarafından yapılır/ödenir. DAP, ithalat vergilerini alıcının ödemesi gerektiği durumlar için uygundur."
+    },
+    {
+      "id": 64,
+      "kategori": "modul_2_incoterms",
+      "anahtar_kelime": "dpu delivered placed unloaded bosaltilmis yer teslim dat",
+      "soru": "DPU (Delivered at Place Unloaded) nedir ve DAT'tan farkı nedir?",
+      "cevap": "DPU (Delivered at Place Unloaded - Boşaltılmış Yerde Teslim): Satıcı esyayi belirlenen varış yerine getirip boşaltmakla yükümlüdür. INCOTERMS 2020'de DAT (Delivered at Terminal) yerine geldi çünkü DPU sadece 'terminal' değil herhangi bir yerde (depo, fabrika vb.) boşaltmayı kapsar. İthalat gümrük işlemleri alıcıya aittir."
+    },
+    {
+      "id": 65,
+      "kategori": "modul_2_incoterms",
+      "anahtar_kelime": "fas free alongside ship gemi yanasmasinda teslim liman",
+      "soru": "FAS (Free Alongside Ship) teslim şekli hangi taşıma türünde kullanılır?",
+      "cevap": "FAS (Free Alongside Ship - Gemi Yanına Teslim): Sadece deniz ve iç su taşımacılığında kullanılır. Satıcı, esyayi belirlenen yükeme limanında geminin yanına getirir. Risk, esya gemi yanına geldiğinde geçer. Alici yükleme maliyetini, deniz navlunu, sigortayi ve varış sonrası tüm masrafları üstlenir."
+    },
+    {
+      "id": 66,
+      "kategori": "modul_2_incoterms",
+      "anahtar_kelime": "cfr cost and freight maliyet navlun sigorta alici",
+      "soru": "CFR (Cost and Freight) ile CIF arasındaki tek fark sigorta midir?",
+      "cevap": "Evet, CFR (Cost and Freight - Maliyet ve Navlun) ile CIF arasındaki temel fark sigortadır. CFR'de satıcı esya bedeli + ana navlunu öder ancak sigorta yaptırmak zorunda değildir. CIF'ta ise satıcı ayrıca minimum deniz sigortası (%110 değerinde, Institute Cargo Clauses C) yapmak zorundadır. Her ikisinde de risk gemi bordasında geçer."
+    },
+    {
+      "id": 67,
+      "kategori": "modul_2_incoterms",
+      "anahtar_kelime": "incoterms siniflandirma grup kural 11 teslim sekli",
+      "soru": "INCOTERMS 2020'deki 11 teslim şekli hangi gruplara ayrılır?",
+      "cevap": "INCOTERMS 2020'de 11 teslim şekli 4 gruba ayrılır: 1) HERHANGİ BİR TAŞIMA MODU: EXW, FCA, CPT, CIP, DAP, DPU, DDP (7 kural). 2) DENİZ VE İÇ SU TAŞIMACILIĞI: FAS, FOB, CFR, CIF (4 kural). Herhangi bir taşıma modu kuralları, konteyner taşımacılığı da dahil olmak üzere tüm taşıma türlerinde kullanılabilir."
+    },
+    {
+      "id": 68,
+      "kategori": "modul_2_incoterms",
+      "anahtar_kelime": "incoterms risk sirali liste exw fob cif ddp alici satici",
+      "soru": "INCOTERMS teslim şekillerini satıcı yükümlülüğüne göre sıralayınız.",
+      "cevap": "Satıcı yükümlülüğü en düşükten en yükseğe sıralama: 1) EXW (Ex Works) - En az satıcı yükümlülük, 2) FCA, 3) FAS, 4) FOB, 5) CFR, 6) CIF, 7) CPT, 8) CIP, 9) DAP, 10) DPU, 11) DDP (Delivered Duty Paid) - En fazla satıcı yükümlülük. EXW'de alıcı en fazla risk üstlenir, DDP'de satıcı en fazla risk üstlenir."
+    },
+    {
+      "id": 69,
+      "kategori": "modul_2_incoterms",
+      "anahtar_kelime": "incoterms 2020 yenilik degisiklik cip sigorta fca bl",
+      "soru": "INCOTERMS 2020'de en önemli değişiklikler nelerdir?",
+      "cevap": "INCOTERMS 2020 en önemli değişiklikleri: 1) DAT yerine DPU getirildi (sadece terminal değil her yerde boşaltma), 2) FCA'da alıcı navlun ödüyorsa satıcı 'on board' konşimento alabilir, 3) CIP'te sigorta kapsamı Institute Cargo Clauses C'den A'ya yükseltildi (daha geniş kapsam), 4) CIF'te sigorta hala Clauses C ile sınırlı, 5) Güvenlik yükümlülükleri netleştirildi, 6) Taşıma yükümlülüğü kendi aracıyla taşıyanlar için açıklandı."
+    },
+    {
+      "id": 70,
+      "kategori": "modul_2_odeme",
+      "anahtar_kelime": "lc letter of credit akreditif banka garanti odeme",
+      "soru": "L/C (Letter of Credit / Akreditif) nedir ve nasıl çalışır?",
+      "cevap": "L/C (Letter of Credit - Akreditif): Alicinin bankasının satıcı lehine verdiği, belirli şartlar yerine getirildiğinde ödeme yapacağı garantisidir. Akreditif süreci: 1) Alici başvurur (başvuru formu), 2) Banka akreditifi açar, 3) Satıcıya bildirim, 4) Satıcı malı gönderip belgeleri sunar, 5) Banka belgeleri kontrol eder, 6) Uygunsa ödeme yapılır. En güvenli uluslararası ödeme yöntemidir."
+    },
+    {
+      "id": 71,
+      "kategori": "modul_2_odeme",
+      "anahtar_kelime": "dp documents against payment vesaik mukabili odeme belge",
+      "soru": "D/P (Documents Against Payment / Vesaik Mukabili Ödeme) nedir?",
+      "cevap": "D/P (Documents Against Payment - Vesaik Mukabili Ödeme): Satıcının bankası, alıcının belgeleri (konşimento, fatura, paket listesi vb.) ancak bedeli ödediğinde verdiği ödeme şeklidir. İşleyiş: 1) Satıcı malı gönderir, 2) Belgeleri kendi bankasına gönderir, 3) Alicinin bankası belgeleri tebliğ eder, 4) Alici ödeme yapar, 5) Belgeleri alır, 6) Malı teslim alır. Satıcı için D/A'dan daha güvenlidir."
+    },
+    {
+      "id": 72,
+      "kategori": "modul_2_odeme",
+      "anahtar_kelime": "da documents against acceptance vesaik mukabili kabul policesiz",
+      "soru": "D/A (Documents Against Acceptance / Vesaik Mukabili Kabul) nedir?",
+      "cevap": "D/A (Documents Against Acceptance - Vesaik Mukabili Kabul): Alici, belgeleri vadesinde ödemeyi kabul eden poliçeyi imzaladığında belgeleri alır. Farkı: D/P'de 'ödeme' yapılması gerekir, D/A'da sadece 'kabul' yeterli. Alici malı teslim alıp sattıktan sonra vadesinde ödeme yapar. Satıcı için D/P'den daha risklidir çünkü alıcı ödemeyebilir."
+    },
+    {
+      "id": 73,
+      "kategori": "modul_2_odeme",
+      "anahtar_kelime": "tt telegraphic transfer swift havale banka havalesi odeme",
+      "soru": "T/T (Telegraphic Transfer / Banka Havalesi) ödemesi nasıl yapılır?",
+      "cevap": "T/T (Telegraphic Transfer - Banka Havalesi): Swift sistemi üzerinden banka hesabından başka bir banka hesabına para transferidir. Türleri: 1) Peşin T/T (mal gönderilmeden önce), 2) Mal müşteride T/T (mal teslimattan sonra), 3) Kısmi T/T (peşinat + bakiye). SWIFT kodu, IBAN, alıcı bilgileri gereklidir. Maliyeti L/C'ye göre çok düşüktür ancak güvenliği daha azdır."
+    },
+    {
+      "id": 74,
+      "kategori": "modul_2_odeme",
+      "anahtar_kelime": "odeme sekilleri karsilastirma risk guvenlik alici satici lc dp da tt",
+      "soru": "L/C, D/P, D/A ve T/T ödeme şekillerini satıcı riskine göre karşılaştırınız.",
+      "cevap": "Satıcı riskine göre ödeme şekilleri (en güvenliden en riskliye): 1) PEŞIN ODEME (T/T peşin) - En güvenli, 2) L/C (Akreditif) - Banka garantisi var, 3) D/P (Vesaik Mukabili Ödeme) - Alici ödemeden belge alamaz, 4) D/A (Vesaik Mukabili Kabul) - Alici sadece kabul ederek belge alır, 5) ACIK HESAP (T/T vadeli / Open Account) - En riskli. Satıcı genellikle L/C ister, alıcı ise açık hesap veya D/A tercih eder."
+    },
+    {
+      "id": 75,
+      "kategori": "modul_2_odeme",
+      "anahtar_kelime": "acik hesap open account vadeli satis mal mukabili odeme",
+      "soru": "Açık Hesap (Open Account) ödemesi nedir ve kimin için risklidir?",
+      "cevap": "Açık Hesap (Open Account): Satıcı malı gönderir, alıcı belirlenen vadede ödeme yapar. Belgeler (fatura, konşimento) doğrudan alıcıya gönderilir. SATICI için en riskli ödeme şeklidir çünkü mal gitmiştir ve ödeme garantisi yoktur. Ancak rekabetçi pazarlarda alıcı bunu talep eder. T/T vadeli, D/A veya çek ile yapılabilir. Satıcı için risk sigortası (Türkiye İhracat Kredi Bankası - TİM sigorta) alınabilir."
+    },
+    {
+      "id": 76,
+      "kategori": "modul_2_odeme",
+      "anahtar_kelime": "akreditif turleri revocable irrevocable confirmed standby",
+      "soru": "Akreditif (L/C) türleri nelerdir?",
+      "cevap": "Akreditif türleri: 1) İptal Edilemez (Irrevocable) - En yaygın, tek taraflı iptal edilemez, 2) Teyitli (Confirmed) - Alici bankası + satıcı ülkesindeki banka çift garanti, 3) Gayri Teyitli (Unconfirmed) - Sadece açan banka garantisi, 4) Devredilebilir (Transferable) - Aracı firmalar için, 5) Stand-by L/C - Ödeme yapılmazsa devreye giren garanti, 6) Revolving (Dönen) - Tekrar kullanılabilir, 7) Red Clause (Kırmızı Şeritli) - Mal gönderilmeden kısmi ödeme."
+    },
+    {
+      "id": 77,
+      "kategori": "modul_2_incoterms",
+      "anahtar_kelime": "incoterms kullanim alani konteyner deniz kara hava kargo",
+      "soru": "Konteyner taşımacılığında hangi INCOTERMS kullanılmalıdır?",
+      "cevap": "Konteyner taşımacılığında kullanılabilecek INCOTERMS: FCA, CPT, CIP, DAP, DPU, DDP, EXW. FOB, CFR, CIF, FAS konteyner taşımacılığında kullanılmamalıdır çünkü bu kurallar 'gemi bordası' veya 'gemi yanı' ifadeleri içerir ve konteynerlerde risk geçiş noktası net değildir. Konteyner limanında yüklenir ve 'gemi bordası' noktası belirsizdir. Bu yüzden FCA, CPT, CIP gibi 'herhangi bir mod' kuralları tercih edilmelidir."
+    },
+    {
+      "id": 78,
+      "kategori": "modul_2_incoterms",
+      "anahtar_kelime": "exw fca fob fark risk alici navlun taşıma maliyet",
+      "soru": "EXW, FCA ve FOB arasındaki farklar nelerdir?",
+      "cevap": "EXW vs FCA vs FOB karşılaştırması: EXW: Satıcı fabrikada hazır eder, alıcı yüklemeyi de üstlenir. FCA: Satıcı yüklemeyi yapar ve taşıyıcıya teslim eder (herhangi bir mod). FOB: Satıcı gemi bordasına yükler (sadece deniz). EXW'de satıcı ihracat işlemlerini yapmaz, FCA ve FOB'ta satıcı ihracat gümrük işlemlerini yapar. Risk geçişi: EXW'de fabrikada, FCA'da taşıyıcıya teslimde, FOB'ta gemi bordasında."
+    },
+    {
+      "id": 79,
+      "kategori": "modul_2_odeme",
+      "anahtar_kelime": "avals avalize kabul kredi kambiyo senet poliçe banka",
+      "soru": "Avalize (Avalsiz) Kabul Kredi nedir ve nasıl çalışır?",
+      "cevap": "Avalize (Avalsiz) Kabul Kredi: Bankanın, müşterisi (alıcı) lehine düzenlenen poliçeyi aval (kefalet) ile teminat altına aldığı kredidir. İşleyiş: 1) Satıcı alıcıya malı gönderir, 2) Poliçeyi bankaya ibraz eder, 3) Banka poliçeyi aval eder (banka garantisi verir), 4) Vadede banka ödemeyi yapar. D/A işleminin banka garantili versiyonudur. Satıcı için güvenli, alıcı için vadeli ödeme imkanı sunar."
+    },
+    {
+      "id": 80,
+      "kategori": "modul_2_odeme",
+      "anahtar_kelime": "ödeme sekli secimi dis ticaret tavsiye hangi durumda",
+      "soru": "Uluslararası ticarette ödeme şekli nasıl seçilmelidir?",
+      "cevap": "Ödeme şekli seçimi faktörleri: 1) Tarafların tanışıklığı (yeni iş ortağında L/C, güvenilir ilişkide T/T), 2) Ülke riski (yüksek riskli ülkede teyitli L/C), 3) Malın niteliği (standart malda açık hesap, özel üretimde L/C), 4) Pazar rekabeti (rekabetçi pazarda alıcı lehine), 5) Finansman maliyeti (L/C maliyetli, T/T ucuz), 6) Hacim (düşük hacimli T/T, yüksek hacimli L/C). Genel kural: Peşin T/T > L/C > D/P > D/A > Açık Hesap."
+    },
+    {
+      "id": 81,
+      "kategori": "modul_2_incoterms",
+      "anahtar_kelime": "incoterms risk analizi alici satici yukumluluk tablo",
+      "soru": "INCOTERMS 2020'de satıcı ve alıcının yükümlülük dağılımı nasıldır?",
+      "cevap": "INCOTERMS 2020'de yükümlülük dağılımı: MALİYETLER: EXW - alıcı tüm navlunu öder, FOB - alıcı deniz navlunu, CIF - satıcı navlun+sigorta, DDP - satıcı tüm masraflar. GÜMRÜK: EXW/FCA/FOB/CIF/CFR - satıcı ihracat, alıcı ithalat; DDP - satıcı hem ithalat hem ihracat. RİSK: Tüm kurallarda risk malların fiziksel kontrolü geçtiğinde (çeşitli noktalarda) transfer olur. SİGORTA: CIF/CIP'te satıcı zorunlu, diğerlerinde isteğe bağlı."
+    },
+    {
+      "id": 82,
+      "kategori": "modul_2_incoterms",
+      "anahtar_kelime": "cfr cif fob risk geçis noktasi gemi bordasi deniz",
+      "soru": "FOB, CFR ve CIF teslim şekillerinde risk neden gemi bordasında geçer?",
+      "cevap": "FOB, CFR ve CIF'te risk gemi bordasında geçer çünkü bu kurallar geleneksel deniz taşımacılığından doğmuştur. Gemi bordası, malların fiziksel olarak gemiye yüklendiği andır. Gemiye düşme, hasar görme riski bu noktadan önce satıcıya, sonra alıcıya aittir. Önemli nokta: CIF ve CFR'de navlunu satıcı öder ancak risk hala gemi bordasında geçer. Bu 'masraf ve risk ayrımı' denir. Yani navlun ödenmiş olsa bile deniz yolculuğu sırasındaki risk alıcıya aittir."
+    },
+    {
+      "id": 83,
+      "kategori": "modul_2_odeme",
+      "anahtar_kelime": "red clause kirmizi seritli akreditif pesin avans odeme",
+      "soru": "Red Clause (Kırmızı Şeritli) Akreditif nedir ve ne işe yarar?",
+      "cevap": "Red Clause (Kırmızı Şeritli) Akreditif: Akreditif şartlarında satıcının, mal sevkiyatından önce akreditif bedelinin bir kısmını (genellikle %20-30) avans olarak çekebilmesine izin veren özel hükümdür. Kırmızı şeritli maddenin akreditife yazılması gerekir. Genellikle üretim maliyetlerini karşılamak için kullanılır. Alici için risklidir çünkü satıcı malı göndermeden para alır. Güvenilir, uzun süreli ilişkilerde kullanılır."
+    },
+    {
+      "id": 84,
+      "kategori": "modul_2_incoterms",
+      "anahtar_kelime": "ddp teslim gumruk vergisi odendi ithalat ihracat tam",
+      "soru": "DDP teslim şeklinde satıcı hangi gümrük işlemlerini yapmak zorundadır?",
+      "cevap": "DDP (Delivered Duty Paid - Gümrük Vergisi Ödenmiş Teslim): Satıcı hem ihracat (çıkış ülkesi) hem de ithalat (varış ülkesi) gümrük işlemlerini yapmak zorundadır. Tüm gümrük vergilerini, KDV'yi, ÖTV'yi ve diğer harçları öder. Satıcının hedef ülkede gümrük temsilcisi olması gerekir. Eğer satıcı ithalat ülkesinde gümrük temsilcisi değilse DDP kullanmamalıdır. DDP, satıcının yükümlülüğünün en üst seviyede olduğu tek teslim şeklidir."
+    },
+    {
+      "id": 85,
+      "kategori": "modul_2_incoterms",
+      "anahtar_kelime": "fca taşıyıcı belirleme yukleme alici satici navlun",
+      "soru": "FCA teslim şeklinde taşıyıcıyı kim belirler ve navlunu kim öder?",
+      "cevap": "FCA'de (Free Carrier) taşıyıcıyı ALICI belirler ve ana navlunu ALICI öder. Satıcının yükümlülükleri: 1) Esyayı belirlenen yerde hazır bulundurmak, 2) Alıcının belirlediği taşıyıcıya teslim etmek, 3) İhracat gümrük işlemlerini yapmak (varsa), 4) Yükleme masraflarını karşılamak (kendi yerinde teslimde). FCA 'belirlenen yerde taşıyıcıya teslim' anlamındadır. INCOTERMS 2020'de FCA'da alıcı navlun ödüyorsa, satıcı 'on board' konşimento talep edebilir."
     }
   ]
 }
