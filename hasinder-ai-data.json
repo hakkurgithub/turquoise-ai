@@ -1,0 +1,252 @@
+{
+  "version": "1.0",
+  "program": "Hasinder Akademi - Gumruk ve Dis Ticaret Uzmanlasma",
+  "toplam_soru": 35,
+  "sorular": [
+    {
+      "id": 1,
+      "kategori": "selamlama",
+      "anahtar_kelime": "merhaba selam naber nasilsin gunaydin iyi aksamlar",
+      "soru": "Merhaba",
+      "cevap": "Merhaba! Ben Hasinder Akademi AI Egitmen Asistaninizim. Gumruk ve Dis Ticaret Uzmanlasma Programi hakkinda size nasil yardimci olabilirim? Program, fiyatlar, mufredat veya kayit hakkinda soru sorabilirsiniz. WhatsApp: +90 533 371 55 77"
+    },
+    {
+      "id": 2,
+      "kategori": "genel_tanim",
+      "anahtar_kelime": "hasinder nedir ne ise yarar platform amaci",
+      "soru": "Hasinder nedir?",
+      "cevap": "Hasinder, Istanbul Hatay Sanayici ve Is Insanlari Dernegi (HASINDER) bunyedir. Profesyonel bir egitim platformudur. Temel amaci B2B ticaret, gumruk, dis ticaret, hukuk ve lojistik alanlarinda uzman yetistirmektir. Gumruk ve Dis Ticaret Uzmanlasma Programimiz 15 hafta surer."
+    },
+    {
+      "id": 3,
+      "kategori": "mufredat_genel",
+      "anahtar_kelime": "mufredat program konular dersler icerik hafta modul",
+      "soru": "Program mufredati nedir?",
+      "cevap": "Program 15 hafta, 3 asamadan olusur: A) TEMEL GUMRUK BILGISI (1-5. hafta): Mevzuat, INCOTERMS, Beyanname, Kargo/ETGB, AEO. B) REJIMLER VE UYGULAMALAR (6-10. hafta): Ihracat, Dahilde Isleme, Haricte Isleme, Gecici Ithalat, Transit. C) HUKUK, CEZALAR VE STRATEJI (11-15. hafta): Cezalar, Uzlasma, Kacakcilik, Tesvikler, Pazar Arastirmasi."
+    },
+    {
+      "id": 4,
+      "kategori": "modul_1",
+      "anahtar_kelime": "gumruk mevzuati kanun yonetmelik teblig 4458 1. modul birinci",
+      "soru": "1. modul ne anlatiyor?",
+      "cevap": "1. Modul: Tum Gumruk Mevzuati. Gumruk Kanunu 4458, yonetmelikler, tebligler ve AB gumruk birligi mevzuati ile uyum ele alinir. Gumruk mevzuatinin temel yapisi, Ticaret Bakanligi duzenlemeleri ve guncel degisiklikler incelenir."
+    },
+    {
+      "id": 5,
+      "kategori": "modul_2",
+      "anahtar_kelime": "incoterms teslim sekli odeme lc dp da tt exw fob cif 2. modul ikinci",
+      "soru": "INCOTERMS 2020 nedir?",
+      "cevap": "INCOTERMS 2020, Uluslararasi Ticaret Odasi tarafindan yayinlanan 11 adet uluslararasi teslim sekli kuralidir. EXW, FCA, CPT, CIP, DAP, DPU, DDP, FAS, FOB, CFR, CIF sekillerini icerir. Her bir teslim sekli satıcı ve alicinin yukumluluklerini, maliyetlerini ve risklerini belirler. 2. modulde tum sekiller uygulamali ogrenilir."
+    },
+    {
+      "id": 6,
+      "kategori": "modul_3",
+      "anahtar_kelime": "gumruk beyan muayene e-gumruk risk analizi kontrol 3. modul ucuncu",
+      "soru": "Gumruk beyannamesi nasil hazirlanir?",
+      "cevap": "3. Modul: Gumruk Beyan ve Muayene. E-Gumruk sistemi uzerinden beyanname girisi, kontrol seviyeleri (kirmizi/sari/yesil hat), muayene prosedurleri, risk analizi ve uygulamali ornekler ele alinir. Beyanname hazirlama adim adim ogretilir."
+    },
+    {
+      "id": 7,
+      "kategori": "modul_4",
+      "anahtar_kelime": "etgb hizli posta kargo de minimis e-ticaret 4. modul dorduncu",
+      "soru": "ETGB nedir?",
+      "cevap": "ETGB (Elektronik Ticaret Gumruk Beyannamesi), e-ticaret ile gelen kargo ve posta trafiginde kullanilan basitlestirilmis gumruk beyannamesidir. De Minimis kurali (kucuk degerli esya muafiyeti) ile 4. modulde ele alinir. Kargo gumruk islemleri ve hizli ticaret prosedurleri ogretilir."
+    },
+    {
+      "id": 8,
+      "kategori": "modul_5",
+      "anahtar_kelime": "aeo yetkilendirilmis yukumlu kolaylastirma basitlestirilmis 5. modul besinci",
+      "soru": "AEO belgesi nasil alinir?",
+      "cevap": "AEO (Yetkilendirilmis Yukumlu) belgesi almak icin: 1) En az 3 yil faaliyet, 2) Mali solventlik, 3) Guvenlik standartlari, 4) Ticari kayitlarin duzenli olmasi gerekir. Basvuru gumruk musavirligi veya Gumrukler Genel Mudurlugune yapilir. Avantajlari: hizli gecis, azaltilmis kontrol, oncelikli muamele. 5. modulde detayli anlatilir."
+    },
+    {
+      "id": 9,
+      "kategori": "modul_6",
+      "anahtar_kelime": "ihracat e-ihracat mikro ihracat ihracat rejimi 6. modul altinci",
+      "soru": "E-ihracat nasil yapilir?",
+      "cevap": "E-ihracat, internet uzerinden yapilan ihracattir. Mikro ihracat (7.500 Euro alti) basitlestirilmis prosedurden yararlanir. ETGB sistemi ile baslanir, hizli kargo sirketleri (DHL, FedEx, UPS) ile gonderim yapilir. 6. modulde e-ihracat, mikro ihracat, taahhutler ve ihracat destekleri detayli islenir."
+    },
+    {
+      "id": 10,
+      "kategori": "modul_7",
+      "anahtar_kelime": "dahilde isleme dii ihracat taahhudu hammadde 7. modul yedinci",
+      "soru": "Dahilde Isleme Rejimi nedir?",
+      "cevap": "Dahilde Isleme Rejimi (DII), ithal ettiginiz hammaddeyi isleyip ihrac ettiginizde gumruk vergisi odemeden calismanizi saglar. Ithalat-ihracat dengesi kurulmalidir. Diy, ihracat taahhutleri, fazla mal teslimi ve isleme izin belgesi surecleri 7. modulde islenir."
+    },
+    {
+      "id": 11,
+      "kategori": "modul_8",
+      "anahtar_kelime": "haricte isleme gecici ihracat serbest bolge tamir 8. modul sekizinci",
+      "soru": "Haricte Isleme Rejimi nedir?",
+      "cevap": "Haricte Isleme Rejimi, urunlerin yurtdisinda islenip tekrar Turkiye'ye dondurulmesidir. Gecici ihracat, serbest bolgeler, yurtdisi tamir ve bakim islemleri bu kapsamdadir. 8. modulde bu rejimin tum detaylari ogretilir."
+    },
+    {
+      "id": 12,
+      "kategori": "modul_9",
+      "anahtar_kelime": "gecici ithalat fuar sergi ata karnesi yolcu esyasi 9. modul dokuzuncu",
+      "soru": "ATA Karnesi nedir?",
+      "cevap": "ATA Karnesi, mallarin gecici olarak yurtdisina cikarilmasi icin kullanilan uluslararasi bir belgedir. Fuar ve sergilerde kullanilir. Gecici ithalat rejimi kapsaminda fuar, yolcu esyasi ve diger gecici girisler 9. modulde ele alinir."
+    },
+    {
+      "id": 13,
+      "kategori": "modul_10",
+      "anahtar_kelime": "transit t1 t2 ncts gumruk birligi tasima 10. modul onuncu",
+      "soru": "Transit rejim nedir?",
+      "cevap": "Transit rejim, mallarin gumruk vergisi odenmeden bir gumrukten digerine tasinmasidir. T1 (uluslararasi transit) ve T2 (AB ici transit) olmak uzere iki temel turu vardir. NCTS (New Computerised Transit System) elektronik sistem ile yurutulur. 10. modulde tum transit islemleri uygulamali ogrenilir."
+    },
+    {
+      "id": 14,
+      "kategori": "modul_11",
+      "anahtar_kelime": "gumruk cezasi idari para cezasi vergi ziyai 4458 11. modul on birinci",
+      "soru": "Gumruk cezalari nelerdir?",
+      "cevap": "Gumruk Kanunu 4458'e gore idari para cezasi ve vergi ziyai uygulanir. Ceza turleri, kesinlesme, itiraz haklari ve dava acma surecleri 11. modulde detayli olarak islenir. Ayrica cezalarin hesaplanmasi ve itiraz yollari ogretilir."
+    },
+    {
+      "id": 15,
+      "kategori": "modul_12",
+      "anahtar_kelime": "uzlasma 5326 idari para cezasi uzlasma komisyonu 12. modul on ikinci",
+      "soru": "Uzlasma nasil yapilir?",
+      "cevap": "5326 sayili Kanun kapsaminda idari para cezalarinda uzlasma yapilabilir. Uzlasma komisyonu, basvuru proseduru, uzlasma tutari ve odeme surecleri 12. modulde detayli anlatilir. Mali musavir araciligiyla da uzlasma basvurusu yapilabilir."
+    },
+    {
+      "id": 16,
+      "kategori": "modul_13",
+      "anahtar_kelime": "5607 kacakcilik sahtecilik ihbar koruma 13. modul on ucuncu",
+      "soru": "5607 sayili Kanun nedir?",
+      "cevap": "5607 sayili Kacakcilikla Mucadele Kanunu, gumruk kacakligini, kaçak esya tasimaciligini ve ticari sahteciligi duzenler. Suc unsurlari, ihbar sistemi, koruma tedbirleri ve cezai yaptirimlar 13. modulde detayli islenir."
+    },
+    {
+      "id": 17,
+      "kategori": "modul_14",
+      "anahtar_kelime": "tesvik destek kosgeb eximbank yatirim tesvik belgesi hibe 14. modul on dorduncu",
+      "soru": "Hangi tesviklerden yararlanabilirim?",
+      "cevap": "Dis ticarette birçok tesvik mevcuttur: KOSGEB egitim destekleri, Eximbank ihracat kredileri ve sigorta, Yatirim Tesvik Belgesi vergi indirimleri, TKDK hibeleri, dis ticaret sermaye sirketleri destekleri. 14. modulde tum tesviklerin basvuru surecleri ve sartlari detayli ogretilir."
+    },
+    {
+      "id": 18,
+      "kategori": "modul_15",
+      "anahtar_kelime": "pazar arastirma musteri bulma crm dijital pazarlama linkedin 15. modul on besinci",
+      "soru": "Yurtdisinda nasil musteri bulabilirim?",
+      "cevap": "15. modul: Yurtdisi Pazar Arastirmasi. LinkedIn, Alibaba, Amazon gibi platformlarda musteri edinme, CRM kullanimi, dijital pazarlama stratejileri, fuara katilim ve pazar giris stratejileri detayli olarak islenir."
+    },
+    {
+      "id": 19,
+      "kategori": "fiyatlandirma",
+      "anahtar_kelime": "fiyat ucret kac tl ne kadar paket bronz gumus altin platinum",
+      "soru": "Egitim fiyatlari ne kadar?",
+      "cevap": "Egitim paketlerimiz: Bronz Paket 5.900 TL (kisisel katilim), Gumus Paket 5.500 TL/kisi (kurumsal 2-5 kisi, %15 indirim), Altin Paket 4.750 TL/kisi (kurumsal 6+ kisi/uyeler, %27 indirim + 1 yil dernek uyeligi HEDIYE), Platinum Paket 22.000 TL (ozel sektor, max 8 kisi, kapali grup). Tum fiyatlara KDV eklenir."
+    },
+    {
+      "id": 20,
+      "kategori": "kayit",
+      "anahtar_kelime": "kayit basvuru kaydol nasil katilirim kayit ol",
+      "soru": "Nasil kayit olabilirim?",
+      "cevap": "Kayit icin 3 yontem: 1) Web sitemizdeki basvuru formunu doldurun, 2) WhatsApp hattimizdan +90 533 371 55 77 numaraya yazin, 3) E-posta gonderin: kurt.hakki@gmail.com. Kontenjan 25 kisi ile sinirlidir, erken kayit onemlidir. Erken kayit indirimlerinden yararlanabilirsiniz."
+    },
+    {
+      "id": 21,
+      "kategori": "sure",
+      "anahtar_kelime": "sure kac saat ne zaman tarih kac hafta",
+      "soru": "Egitim ne zaman basliyor?",
+      "cevap": "Egitim 15 hafta surer. Her hafta Cumartesi gunu 10:00-13:00 saatleri arasindadir. Toplam 45 saat egitim. Istanbul\'da yuz yuze + online (Hybrid) olarak yapilir. Sonraki donem baslangici icin erken kayit firsatlarini kacirmayin!"
+    },
+    {
+      "id": 22,
+      "kategori": "sertifika",
+      "anahtar_kelime": "sertifika belge diploma onay universite",
+      "soru": "Sertifika veriyor musunuz?",
+      "cevap": "Evet! Programi tamamlayan katilimcilara Universite onayli uluslararasi gecerli sertifika verilmektedir. Sertifikaniz hem Turkiye hem de yurtdisinda gecerlidir ve CV\'nizde onemli bir avantaj saglar. Altin Paket katilimcilarina ayrica 1 yil Hasinder dernek uyeligi HEDIYE!"
+    },
+    {
+      "id": 23,
+      "kategori": "kontenjan",
+      "anahtar_kelime": "kontenjan kac kisi sinif mevcudu",
+      "soru": "Kac kisi katilabilir?",
+      "cevap": "Sinirli kontenjan: 25 kisi. Kaliteli etkilesim ve birebir danismanlik icin ideal sinif boyutu. Erken kayit yapanlar kontenjan garantisi ve indirim firsatlarindan yararlanir."
+    },
+    {
+      "id": 24,
+      "kategori": "egitim_yeri",
+      "anahtar_kelime": "nerede istanbul ofis online uzaktan egitim yeri",
+      "soru": "Egitim nerede yapiliyor?",
+      "cevap": "Egitim Istanbul\'da Hasinder Merkez Ofis\'te yuz yuze yapilir. Ayrica online katilim da mumkundur (Hybrid sistem). Istediginiz yerden katilabilirsiniz."
+    },
+    {
+      "id": 25,
+      "kategori": "iletisim",
+      "anahtar_kelime": "telefon whatsapp email e-posta iletisim adres",
+      "soru": "Size nasil ulasabilirim?",
+      "cevap": "Bize su kanallardan ulasabilirsiniz: WhatsApp: +90 533 371 55 77, E-posta: kurt.hakki@gmail.com, Web: www.hasinder.com, Adres: Istanbul Merkez Ofis. 7/24 WhatsApp hattimizdan bize ulasabilirsiniz."
+    },
+    {
+      "id": 26,
+      "kategori": "gumruk_vergisi",
+      "anahtar_kelime": "gumruk vergisi ithalat vergi orani gtip",
+      "soru": "Gumruk vergisi nedir?",
+      "cevap": "Gumruk vergisi, mallarin ulke sinirlarindan gecerken odenen bir vergidir. Ithalatta %0-%20 arasi oranlarda uygulanir. Ayrica OTV ve KDV de hesaplanir. Her urun icin farkli GTIP (Gumruk Tarife Istatistik Pozisyonu) kodu ve vergi orani vardir. 1. modulde detayli ogreniyorsunuz."
+    },
+    {
+      "id": 27,
+      "kategori": "kdv_otv",
+      "anahtar_kelime": "kdv otv katma deger ozel tuketim vergisi",
+      "soru": "KDV ve OTV nedir?",
+      "cevap": "KDV (Katma Deger Vergisi) genellikle %20 olarak uygulanir. OTV (Ozel Tuketim Vergisi) ise urun grubuna gore degisir (ornegin luks urunlerde yuksek, temel gida dusuk). Ithalatta Gumruk Vergisi + OTV + KDV seklinde hesaplanir. Bu konular 1. modulde islenir."
+    },
+    {
+      "id": 28,
+      "kategori": "ozel_ogretmen",
+      "anahtar_kelime": "yapay zeka ai asistan bot egitmen kim",
+      "soru": "Sen kimsin?",
+      "cevap": "Ben Hasinder Akademi\'nin yapay zeka egitmen asistaniyim. Gumruk ve Dis Ticaret Uzmanlasma Programi hakkinda 7/24 sorularinizi yanitliyorum. Tum 15 modulu kapsayan bilgiye sahibim. Mufredat, fiyatlar, kayit ve gumruk mevzuati hakkinda soru sorabilirsiniz."
+    },
+    {
+      "id": 29,
+      "kategori": "ekstra_deger",
+      "anahtar_kelime": "networking mentorluk vaka calisma sektor bulusma",
+      "soru": "Programda baska neler var?",
+      "cevap": "Programa dahil ekstra degerler: Sektör bulusmalari (her modul sonrasi networking), vaka calismalari (gercek gumruk olaylari uzerinden simulasyon), mentorluk programi (deneyimli gumruk uzmani eslestirme, 6 aylik danismanlik), akredite sertifika, Hasinder is agina katilim, yillik mevzuat guncelleme seminerleri."
+    },
+    {
+      "id": 30,
+      "kategori": "hedef_kitle",
+      "anahtar_kelime": "kimler katilabilir hedef kitle kim icin sanayici ihracatci",
+      "soru": "Kimler katilabilir?",
+      "cevap": "Program tum sanayiciler, ihracatcilar, gumruk musavirleri, lojistik firmalari ve dis ticaret profesyonelleri icin uygundur. Ayrica bu alanlarda kariyer yapmak isteyen ogrenciler ve yeni mezunlar da katilabilir."
+    },
+    {
+      "id": 31,
+      "kategori": "kapanis",
+      "anahtar_kelime": "tesekkur sagol tesekkur ederim",
+      "soru": "Tesekkurler",
+      "cevap": "Rica ederim! Yardimci olabildiysem ne mutlu. Baska bir sorunuz olursa her zaman buradayim. Iyi calismalar dilerim! Hasinder Akademi\'de gorusmek uzere."
+    },
+    {
+      "id": 32,
+      "kategori": "kapanis",
+      "anahtar_kelime": "gule gule hoscakal bay bay iyi gunler",
+      "soru": "Gule gule",
+      "cevap": "Gule gule! Hasinder Akademi\'de gorusmek uzere. Bize WhatsApp\'tan +90 533 371 55 77 numaradan ulasabilirsiniz. Iyi gunler!"
+    },
+    {
+      "id": 33,
+      "kategori": "platinum",
+      "anahtar_kelime": "platinum ozel sektor kapali grup firma ici egitim",
+      "soru": "Platinum paket nedir?",
+      "cevap": "Platinum Paket (22.000 TL): Ozel sektor egitimidir. Max 8 kisi, kapali grup. Firmanizin ofisinde egitim verilir. Ozellestirilmis mufredat, 1 yil danismanlik, ozel vaka analizleri ve gizlilik garantisi icerir."
+    },
+    {
+      "id": 34,
+      "kategori": "odeme",
+      "anahtar_kelime": "odeme taksit pesin kredi karti havale",
+      "soru": "Odeme secenekleri neler?",
+      "cevap": "Odeme seceneklerimiz: Pesin odemede indirim, 3 taksit (Bronz paket), kurumsal paketlerde esnek odeme plani. Kredi karti, havale ve EFT ile odeme yapabilirsiniz. Detayli bilgi icin WhatsApp: +90 533 371 55 77"
+    },
+    {
+      "id": 35,
+      "kategori": "varsayilan",
+      "anahtar_kelime": "",
+      "soru": "Varsayilan",
+      "cevap": "Bu konuda size yardimci olmak isterdim. Gumruk mevzuati, ihracat rejimleri, INCOTERMS, tesvikler veya kayit hakkinda soru sorabilirsiniz. Programimizin 15 haftalik mufredati bu konularin tumunu kapsiyor. Detayli bilgi icin WhatsApp: +90 533 371 55 77 veya e-posta: kurt.hakki@gmail.com"
+    }
+  ]
+}
