@@ -1,7 +1,7 @@
 {
   "version": "2.0",
   "program": "Hasinder Akademi - Gumruk ve Dis Ticaret Uzmanlasma Sinav Hazirlik",
-  "toplam_soru": 85,
+  "toplam_soru": 135,
   "sorular": [
     {
       "id": 1,
@@ -597,6 +597,356 @@
       "anahtar_kelime": "fca taşıyıcı belirleme yukleme alici satici navlun",
       "soru": "FCA teslim şeklinde taşıyıcıyı kim belirler ve navlunu kim öder?",
       "cevap": "FCA'de (Free Carrier) taşıyıcıyı ALICI belirler ve ana navlunu ALICI öder. Satıcının yükümlülükleri: 1) Esyayı belirlenen yerde hazır bulundurmak, 2) Alıcının belirlediği taşıyıcıya teslim etmek, 3) İhracat gümrük işlemlerini yapmak (varsa), 4) Yükleme masraflarını karşılamak (kendi yerinde teslimde). FCA 'belirlenen yerde taşıyıcıya teslim' anlamındadır. INCOTERMS 2020'de FCA'da alıcı navlun ödüyorsa, satıcı 'on board' konşimento talep edebilir."
+    },
+    {
+      "id": 86,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "e-gumruk sistem giris beyanname tescil elektronik",
+      "soru": "E-Gümrük sistemine nasıl girilir ve beyanname nasıl tescil edilir?",
+      "cevap": "E-Gümrük sistemine giriş: 1) Ticaret Sicil No ve şifre ile E-Gümrük portalına giris, 2) 'Yeni Beyanname' secimi, 3) Beyan turu (ithalat/ihracat/transit) secimi, 4) GTIP kodu ve esya bilgileri girisi, 5) Gumruk islemi ve rejim secimi, 6) Tasima araci ve ulke bilgileri, 7) Belgelerin sisteme yuklenmesi, 8) Elektronik imza ile onay, 9) Tescil numarasi alinir. Tescil edilen beyanname risk analiz sistemine (TAREKS) duser."
+    },
+    {
+      "id": 87,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "yesil hat otomatik onay gumruk kontrol seviye",
+      "soru": "Yesil hat kontrolunde neler yapilir?",
+      "cevap": "Yesil Hat (Otomatik Onay): Risk analiz sistemi (TAREKS) tarafindan dusuk riskli olarak degerlendirilen beyannameler otomatik olarak onaylanir. Esya fiziki muayeneye ugratilmaz, belgeler otomatik kontrol edilir. Gumruk idaresi onayi aninda verilir ve esya serbest dolasima girer veya ihracat icin trafige cikis izni alir. Islem suresi ortalama 5-15 dakikadir."
+    },
+    {
+      "id": 88,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "sari hat belge kontrol gumruk inceleme beyan",
+      "soru": "Sari hat kontrolunde hangi islemler gerceklesir?",
+      "cevap": "Sari Hat (Belge Kontrolu): Beyanname ve eklerindeki belgeler gumruk memuru tarafindan incelenir. Belgelerin uygunlugu, gecerliligi ve tutarliligi kontrol edilir. Esyanin fiziki muayenesi yapilmaz. Belgelerde eksiklik veya uyumsuzluk varsa beyanname reddedilir ve duzeltme talep edilir. Belgeler uygunsa onay verilir. Ortalama islem suresi: 2-6 saat."
+    },
+    {
+      "id": 89,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "kirmizi hat fiziki muayene gumruk kontrol esya acma",
+      "soru": "Kirmizi hat kontrolunde fiziki muayene nasil yapilir?",
+      "cevap": "Kirmizi Hat (Fiziki Muayene): Esyanin fiziki olarak acilip incelenmesidir. Gumruk memuru esyanin GTIP kodu, miktari, niteligi, menşei ve degerini dogrulamak icin muayene yapar. Muayene sekilleri: Tam muayene (tum esya), Kismi muayene (orneklem), Temsilci muayene (belirli mallar), X-ray tarama, K9 kopek ile arama. Muayene raporu doldurulur, uygunsa onay, degilse islem baslatilir."
+    },
+    {
+      "id": 90,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "tareks risk analiz sistemi gumruk profil degerlendirme",
+      "soru": "TAREKS (Tac Risk Analiz ve Eslestirme Sistemi) nedir ve nasil calisir?",
+      "cevap": "TAREKS: Gumruk beyannamelerinin otomatik risk analizini yapan elektronik sistemdir. Calisma prensibi: 1) Beyanname tescil edilir, 2) Sistem beyannameyi GTIP, deger, menşe, tedarikci gibi 200+ kriterle analiz eder, 3) Risk skoru hesaplanir, 4) Yesil/Sari/Kirmizi hat atanir, 5) Risk profiline gore kontrol seviyesi belirlenir. TAREKS ayrica vergi kaybi riski, kaçakcilik sulphesi ve sahtecilik tespiti de yapar."
+    },
+    {
+      "id": 91,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "beyanname turleri ithalat ihracat transit beyan turu",
+      "soru": "Gumruk beyannamesi turleri nelerdir?",
+      "cevap": "Gumruk beyannamesi turleri: A) ITHALAT BEYANNAMESI: Serbest dolasim, Antrepo giris, Gecici ithalat, Dahilde isleme, Transit. B) IHRACAT BEYANNAMESI: Tam ihracat, Gecici ihracat, Serbest bolge giris. C) TRANSIT BEYANNAMESI: T1 (uluslararasi), T2 (AB ici). D) OZEL BEYANNAMELER: Basitlestirilmis usul beyani, Mikro ihracat (ETGB), Yolcu esyasi beyani, Posta esyasi beyani. Her beyan turu farkli rejim ve prosedur gerektirir."
+    },
+    {
+      "id": 92,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "beyanname hazirlama adimlari doldurma zorunlu alanlar",
+      "soru": "Gumruk beyannamesi hazirlanirken doldurulmasi zorunlu alanlar nelerdir?",
+      "cevap": "Beyanname zorunlu alanlari: 1) Beyan sahibi bilgileri (TC No/Vergi No), 2) Gumruk idaresi kodu, 3) Beyan turu, 4) Gumruk rejimi, 5) Tedarikci/Üretici bilgileri, 6) Alici bilgileri, 7) Menşe ulkesi, 8) Cikis ulkesi, 9) GTIP kodu, 10) Esya tanimi, 11) Miktar/birim, 12) Brut/agirlik net agirlik, 13) Fatura degeri ve para birimi, 14) Tasima sekli (kara/deniz/hava), 15) Tasima araci plaka/konteyner no, 16) Belge referanslari, 17) Gumruk musaviri bilgisi (varsa)."
+    },
+    {
+      "id": 93,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "elektronik imza e-imza gumruk beyan onay yukleme",
+      "soru": "Gumruk beyannamesi elektronik imza ile nasil onaylanir?",
+      "cevap": "Elektronik imza (E-imza) ile beyanname onayi: 1) E-imza karti (akilli kart) bilgisayara takilir, 2) Kart sifresi girilir, 3) E-Gumruk sisteminde beyanname son kontrol edilir, 4) 'Imzala ve Tescil Et' butonuna basilir, 5) E-imza uygulamasi acilir, 6) Pin kodu girilerek imza atilir, 7) Sistem beyannamayi tescil eder ve takip numarasi verir. E-imza olmayanlar E-Gumruk'te 'sifre ile tescil' opsiyonunu da kullanabilir (sinirli islemler)."
+    },
+    {
+      "id": 94,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "gumruk musavir yetki belgesi arabulucu beyanname duzenleme",
+      "soru": "Gumruk musaviri ne ise yarar ve beyanname duzenleme yetkisi nasil alinir?",
+      "cevap": "Gumruk musaviri: Gumruk islemlerinde musteri adina beyanname duzenleyen, gumruk mevzuatina uygunlugu saglayan ve gumruk idaresi karsisinda musteriyi temsil eden uzmandir. Yetki belgesi almak icin: 1) Gumruk musavirligi sinavini gecmek, 2) 1 yil staj yapmak, 3) Ticaret Bakanligindan yetki belgesi almak, 4) Gumruk Musavirleri Dernegine kaydolmak. Gumruk musaviri beyannameyi imzalayarak hukuki sorumluluk ustlenir."
+    },
+    {
+      "id": 95,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "gecici depolama antrepo gumruk sahasi bekleme sure",
+      "soru": "Gecici depolama nedir ve maximum sure ne kadardir?",
+      "cevap": "Gecici depolama: Esyanin gumruk islemleri tamamlanana kadar gumruk sahasinda (liman, havalimani, antrepo) bekletilmesidir. Max sureler: Gecici depolama yerinde (acik alan): 45 gun, Kapali antrepoda: 2 yil (uzatilabilir). Surenin dolmasi durumunda: 1) Beyanname tescil edilmezse 'terkin' islemi, 2) Gumruk idaresi tarafindan 'satis' yoluyla tasfiye, 3) Sahibine iade yapilabilir. Esya gecici depolama alaninda gumruk denetimine tabidir."
+    },
+    {
+      "id": 96,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "serbest dolasima giris gumruk vergisi odenmis trafige cikis",
+      "soru": "Serbest dolasima giris islemi nasil gerceklesir?",
+      "cevap": "Serbest dolasima giris: Esyanin Turkiye Gumruk Bolgesine girmesi, gumruk islemlerinin tamamlanmasi ve gumruk vergilerinin odenerek serbestce ticaretinin yapilabilmesidir. Adimlar: 1) Beyanname tescili, 2) Risk analizi (TAREKS), 3) Kontrol (yesil/sari/kirmizi hat), 4) Vergi tahakkuku, 5) Vergi odemesi, 6) Onay (serbest dolasim izni), 7) Esyanin gumruk sahasindan cekilmesi. Bu asamadan sonra esya uzerinde gumruk denetimi kalmaz (4458 sayili Kanun Madde 63)."
+    },
+    {
+      "id": 97,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "gumruk rejimleri ithalat ihracat transit isleme serbest bolge",
+      "soru": "Gumruk rejimleri nelerdir ve beyanname hangi rejime gore duzenlenir?",
+      "cevap": "Gumruk rejimleri: A) ITHALAT REJIMLERI: 1) Serbest dolasim (5100), 2) Tam muafiyet (5101), 3) Kismi muafiyet (5102), 4) Transit (5103), 5) Antrepo (5104), 6) Gecici ithalat (5105), 7) Dahilde isleme (5106), 8) Haricte isleme (5107), 9) Ihracat (5108), 10) Serbest bolge (5109). B) REJIM BELIRLEME: Ithalat beyannamesinde GTIP ve kullanim amacina gore uygun rejim kodu secilir. Her rejim farkli vergi muafiyeti, teminat ve prosedur icerir."
+    },
+    {
+      "id": 98,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "ozet beyan on beyan onceden bilgi gumruk tescil",
+      "soru": "Ozet beyan (on beyan) nedir ve nasil duzenlenir?",
+      "cevap": "Ozet beyan (Onceden bilgi beyani): Esya gumruk sahasina gelmeden once beyanname bilgilerinin onceden sisteme girilmesidir. Avantajlari: 1) Esya gelir gelmez hizli gecis, 2) Risk analizi onceden yapilir, 3) Gumruk kuyrugu azalir, 4) Lojistik maliyetleri duser. Ozet beyan esyanin gelisiyle birlestirilerek (merge) resmi beyanname olusturulur. Liman ve havalimanlarinda yogun trafigi olan firmalar icin zorunlu hale gelmistir."
+    },
+    {
+      "id": 99,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "teminat gumruk borc garanti nakit mektup banka",
+      "soru": "Gumruk islemlerinde teminat nasil verilir?",
+      "cevap": "Gumruk teminati: Gumruk vergilerinin ve yukumluluklerin garanti altina alinmasidir. Teminat turleri: 1) NAKIT: Gumruk idaresine para yatirma (TL veya doviz), 2) BANKA TEMINAT MEKTUBU: Bankadan alinan garanti mektubu, 3) SIGORTA: Teminat sigortasi policesi, 4) HAZINE TAHSILAT: Diger gumruk borclarina mahsuben, 5) MENKUL KIYMET: Hazine bonosu/devlet tahvili. Teminat muafiyeti: AEO belgeli firmalar, yatirim tesvik belgeli firmalar ve bazi ozel durumlarda teminat muafiyeti saglanabilir."
+    },
+    {
+      "id": 100,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "ithalat beyannamesi bolumlari alan kodlari tescil numarasi",
+      "soru": "Ithalat beyannamesi hangi bolumlerden olusur?",
+      "cevap": "Ithalat beyannamesi bolumleri: Bolum 1: Beyan sahibi ve temsilci bilgileri, Bolum 2: Tedarikci/Üretici, Bolum 3: Ulke bilgileri (menşe, cikis, ihracat), Bolum 4: Esya bilgileri (GTIP, tanim, miktar), Bolum 5: Isleme bilgileri (rejim, antrepo), Bolum 6: Tasima bilgileri (arac, konteyner, parsa), Bolum 7: Finansal bilgiler (fatura degeri, navlun, sigorta, CIF deger), Bolum 8: Gumruk vergileri hesaplama (GV, OTV, KDV), Bolum 9: Belge ekleri (fatura, konşimento, menşe), Bolum 10: Beyan sahibi/musavir beyani ve imza."
+    },
+    {
+      "id": 101,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "cif deger hesaplama gumruk vergi matrah ithalat deger",
+      "soru": "Ithalatta CIF degeri nasil hesaplanir?",
+      "cevap": "CIF (Cost Insurance Freight) Deger = Esyanin bedeli + Navlun (tasima ucreti) + Sigorta primi. Ornek: Fatura degeri 10.000 EUR + Navlun 500 EUR + Sigorta 100 EUR = CIF 10.600 EUR. Gumruk vergileri CIF uzerinden hesaplanir: 1) CIF x Gumruk Vergisi orani = Gumruk Vergisi, 2) (CIF + GV) x OTV orani = OTV, 3) (CIF + GV + OTV) x KDV orani (%20) = KDV. CIF deger ithalat vergi matrahi olarak kullanilir."
+    },
+    {
+      "id": 102,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "fatura esya degeri gumruk deger beyani dusuk yuksek uyumsuzluk",
+      "soru": "Gumruk idaresi esya degerini nasil kontrol eder?",
+      "cevap": "Gumruk deger kontrolu: 1) BILGI SISTEMI KONTROLU: Daha once ayni/es benzeri esyalarin giris degerleri karsilastirilir, 2) PAZAR ARASTIRMASI: Uluslararasi fiyat veritabanlari (ABD, AB, Cin fiyatlari), 3) FIYAT LISTELERI: Üretici fiyat listeleri, kataloglar, 4) DOVIZ KURU: Fatura tarihindeki T.C. Merkez Bankasi doviz alis kuru, 5) Uyumsuzluk tespiti: Deger dusuk veya yuksek beyan edilirse 'Deger Beyani' talep edilir, gerekirse uzman degerlemesi yapilir. Deger kacakciligi suphesi varsa cezai islem baslatilir."
+    },
+    {
+      "id": 103,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "basitlestirilmis usul beyan orneklem muayene gumruk",
+      "soru": "Basitlestirilmis usul nedir ve hangi sartlarda uygulanir?",
+      "cevap": "Basitlestirilmis usul: Standart gumruk islemlerinin basitlestirildigi ozel prosedurdur. Türleri: 1) GUMRUKTEN ONCE ISLEMLER: Beyanname verilmeden once gumruk islemleri baslatilir, 2) BEYAN VERME YERI: Beyanname esyanin bulundugu yerde verilir, 3) BEYAN VERME ZAMANI: Esya gelmeden once beyan verilebilir, 4) ORNEKLEM MUAYENE: Tum esya yerine orneklem alinarak muayene, 5) MUAYENE YERI: Esyanin bulundugu yerde muayene. AEO belgeli, yatirim tesvik belgeli ve ozel izinli firmalar yararlanabilir."
+    },
+    {
+      "id": 104,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "ek beyanname duzeltme iptal gecersiz yeni tescil",
+      "soru": "Beyanname duzeltme (ek beyanname) nasil yapilir?",
+      "cevap": "Beyanname duzeltme: Tescil edilmis beyannamede hata varsa ek beyanname ile duzeltilir. Sartlar: 1) Onay alinmamis beyanname icin duzeltme serbest, 2) Onay alinmissa sadece izin verilen alanlar duzeltilir (miktar, deger, GTIP - siki kontrol), 3) Vergi artisi varsa gecikme zammi odenebilir, 4) Vergi azalisi varsa iade talep edilebilir. Islemler: E-Gumruk'ten 'Ek Beyanname' secenegi ile duzeltme yapilir, gerekirse teminat tamamlanir. Eksik beyanin kasitli olmasi durumunda ceza uygulanir."
+    },
+    {
+      "id": 105,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "beyanname iptal geri cekme kapatma sartlari gumruk",
+      "soru": "Beyanname ne zaman ve nasil iptal edilir?",
+      "cevap": "Beyanname iptali: 1) ONAY ONCESI IPTAL: Beyan sahibi istedigi zaman iptal edebilir (E-Gumruk'ten), 2) ONAY SONRASI IPTAL: Gumruk idaresinin izni gerekir, gecerli sebep gosterilmelidir (esyanin satilmamasi, siparis iptali, hatali sevkiyat vb.), 3) KAPATMA (Kapatma beyani): Ithalat beyannamesi icin esya gumruk sahasindan cekildikten sonra kapatma islemi yapilir, 4) TERKIN: Transit beyannamesi icin hedef gumrukte kapatma. Iptal gumruk idaresinin onayina baglidir."
+    },
+    {
+      "id": 106,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "gumruk kapilari sinir liman havalimani kara yolu deniz",
+      "soru": "Turkiye'deki gumruk kapilari hangi turlerdedir?",
+      "cevap": "Gumruk kapisi turleri: A) DENIZ LIMANLARI: Istanbul Ambarli, Mersin, Izmir Alsancak, Gemlik, Iskenderun, Samsun, Trabzon, Bandirma. B) HAVALIMANLARI: Istanbul Havalimani (IST/SAW), Ankara Esenboga, Izmir Adnan Menderes, Antalya. C) KARA YOLU: Kapikule, Habur, Pazarkule, Ipsala, Dilucu, Sarp. D) DEMIR YOLU: Kapikule, Dogu Ekspres hatti. E) POSTA: PTT uluslararasi posta isleme merkezleri. F) DIGER: Serbest bolgeler, antrepolar, gecici depolama yerleri."
+    },
+    {
+      "id": 107,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "x-ray tarama konteyner muayene fiziki teknik cihaz",
+      "soru": "Gumruk muayenesinde teknik cihazlar (X-ray, tarayici) nasil kullanilir?",
+      "cevap": "Gumruk teknik muayene cihazlari: 1) X-RAY TARAMA SISTEMLERI: Konteyner icerigini goruntuleyen buyuk boyutlu tarayicilar, riskli yukleri tespit eder, ortalama 2-5 dk/konteyner. 2) MOBIL X-RAY: TIR'lari hareket etmeden tarama, 3) K9 KOPEKLERI: Uyusturucu, para, patlayici tespiti, 4) IYON TARAMA: Radyoaktif madde tespiti, 5) GAMATAY TARAMA: Yüksek teknolojili risk analizi. Bu cihazlar kirmizi hat oncesi tarama olarak kullanilir, sulpheli durumlarda detayli fiziki muayeneye gecilir."
+    },
+    {
+      "id": 108,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "numune alma laboratuvar analiz gumruk muayene test",
+      "soru": "Gumruk muayenesinde numune alma ve laboratuvar analizi nasil yapilir?",
+      "cevap": "Numune alma ve laboratuvar analizi: 1) NUMUNE ALMA: Gumruk memuru esyadan orneklem alir (TSE/ISO standartlarina uygun), 2) NUMUNE TESLIM: Laboratuvara teslim edilir, 3) ANALIZ TURLERI: Kimyasal analiz, mikrobiyolojik test, agir metal tespiti, radyoaktivite olcumu, gida guvenligi testi, teknik ozellik kontrolu, 4) ANALIZ SURESI: 3-15 gun, 5) RAPOR: Laboratuvar raporu gumruk idaresine gonderilir, 6) SONUC: Standartlara uygunsa onay, uygun degilse reddetme/gericevirme/imha. Analiz ucreti esya sahibinden tahsil edilir."
+    },
+    {
+      "id": 109,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "gumruk vergi odeme tahsilat banka kart e-gumruk",
+      "soru": "Gumruk vergileri nasil odenir?",
+      "cevap": "Gumruk vergisi odeme yontemleri: 1) E-GUMRUK KREDI KARTI: VISA/MasterCard ile online odeme, 2) BANKA ODEMESI: Gumruk idaresi hesabina havale/EFT, 3) NAKIT ODEME: Gumruk veznesinden odeme (sinirli sayida idarede), 4) TEMINATTAN MAHSUP: Daha once yatirilan teminattan dusulme, 5) GECIKMELI ODEME: Teminat karsiligi 15-30 gun vadeli odeme, 6) SERBEST GECIS OZELLIGI: Yesil hat onayinda otomatik odeme. Odemenin ardindan 'tahsilat makbuzu' alinir ve esya cikisina izin verilir."
+    },
+    {
+      "id": 110,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "beyan sahibi gumruk yukumlu sorumlu tanim yetki",
+      "soru": "Beyan sahibi kimdir ve sorumluluklari nelerdir?",
+      "cevap": "Beyan sahibi: Gumruk beyannamesini veren, esya uzerinde tasarruf yetkisine sahip gercek/tuzel kisidir. Sorumluluklari: 1) Esyanin beyan edilen nitelikte oldugunu teyit, 2) Beyannamedeki bilgilerin dogrulugunu garanti, 3) Gumruk vergilerini odeme, 4) Gumruk idaresinin taleplerine uyma, 5) Esyayi muayeneye hazir bulundurma, 6) Belgeleri ibraz etme, 7) Beyannameyi imzalama. Beyan sahibi gercek kisi ise kendisi, tuzel kisi ise yetkili temsilcisi beyannameyi imzalar."
+    },
+    {
+      "id": 111,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "ithalat vergi hesaplama ornek gumruk kdv otv",
+      "soru": "Ithalatta gumruk vergileri hesaplamasi nasil yapilir? Ornek verir misin?",
+      "cevap": "Ornek: CIF Degeri 50.000 TL, Gumruk Vergisi orani %10, OTV orani %20, KDV orani %20. Hesaplama: 1) Gumruk Vergisi = 50.000 x %10 = 5.000 TL, 2) OTV matrahi = 50.000 + 5.000 = 55.000 TL, OTV = 55.000 x %20 = 11.000 TL, 3) KDV matrahi = 50.000 + 5.000 + 11.000 = 66.000 TL, KDV = 66.000 x %20 = 13.200 TL, 4) TOPLAM VERGI = 5.000 + 11.000 + 13.200 = 29.200 TL. Esyanin toplam maliyeti: 50.000 + 29.200 = 79.200 TL."
+    },
+    {
+      "id": 112,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "konteyner gumruk muayene tip tipi full partial less",
+      "soru": "Konteyner yuklemelerinde gumruk muayene tipleri nelerdir?",
+      "cevap": "Konteyner muayene tipleri: 1) FCL (Full Container Load): Tam konteyner yuklemesi - konteynerin tamami acilip incelenir, 2) LCL (Less Container Load): Kismi yukleme - sadece ilgili parsa acilip incelenir, 3) 20'LIK/40'LIK konteyner farki, 4) SOGUK HAVA KONTEYNERI (Reefer): Sicaklik kontrollu acma, 5) TEHLIKELI MADDE (IMDG): Ozel guvenlik proseduru, 6) BOS KONTEYNER KONTROLU: Bos konteynerlerde temizlik ve gizli bolum kontrolu, 7) KONTeyner plomb kontrolu: Plomb numarasi beyanname ile karsilastirilir."
+    },
+    {
+      "id": 113,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "takip numarasi beyan referans tescil gumruk takip",
+      "soru": "Gumruk beyannamesi takip numarasi nedir ve nasil takip edilir?",
+      "cevap": "Beyanname takip numarasi: Tescil edilen her beyannameye sistem tarafindan verilen benzersiz numaradir. Ornek: TR000000123456789. Takip: 1) E-Gumruk 'Beyanname Sorgulama' ekranindan, 2) Gumruk idaresi web sitesinden, 3) Mobil uygulama ile. Durumlar: 'Tescil edildi' -> 'Risk analizinde' -> 'Kontrolde' -> 'Vergi tahakkuku' -> 'Odeme bekleniyor' -> 'Onaylandi' -> 'Kapandi'. Her durum degisikliginde SMS/e-posta bildirimi alinabilir."
+    },
+    {
+      "id": 114,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "ihracat beyannamesi doldurma fob deger gumruk cikis",
+      "soru": "Ihracat beyannamesi ithalat beyannamesinden farklari nelerdir?",
+      "cevap": "Ihracat beyannamesi farklari: 1) DEGER: Ihracatta FOB degeri kullanilir (navlun/sigorta haric), 2) VERGI: Ihracatta gumruk vergisi yoktur (KDV istisnasi), 3) MENŞE: Ihracatta menşe ulkesi Türkiye'dir, 4) REJIM: 5108 kodlu ihracat rejimi, 5) BELGELER: ATR Dolasim Belgesi, Menşe Sertifikasi, ihracat izni, 6) KONTROL: Ihracat kontrolleri (boyunduruklu mallar, yasak mallar), 7) TAHLIYE: Esyanin gumruk sahasindan cikisi, 8) KAPAMA: Ihracat beyannamesi cikis gumrugunde kapatilir."
+    },
+    {
+      "id": 115,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "aeo yetkilendirilmis yukumlu beyanname kolaylastirma azaltilmis kontrol",
+      "soru": "AEO belgeli firmalar beyanname islemlerinde hangi avantajlara sahiptir?",
+      "cevap": "AEO belgeli firma avantajlari (beyanname islemleri): 1) AZALTILMIS KONTROL: Daha dusuk kontrol orani, 2) ONCELIGI MUAMELE: Hizli gecis, 3) MUAYENE YERI SECIMI: Kendi tesislerinde muayene, 4) BASITLESTIRILMIS USUL: Orneklem muayene, 5) TEMINAT MUAFIYETI: Bazi rejimlerde teminat kalkar, 6) OZET BEYAN: Onceden bilgi girisi avantaji, 7) KIRMIZI HAT KORUMASI: Daha az kirmizi hata dusme, 8) IHRACAT OZELLIGI: Ihracat beyannamesinde hizli islem. AEO-O (gumruk) ve AEO-S (guvenlik) olmak uzere iki turu vardir."
+    },
+    {
+      "id": 116,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "ncts transit elektronik sistem t1 t2 beyan kapatma",
+      "soru": "NCTS sistemi uzerinden transit beyannamesi nasil duzenlenir?",
+      "cevap": "NCTS transit beyannamesi: 1) NCTS sistemine giris, 2) 'Yeni Beyan' secimi, 3) Transit turu (T1/T2) secimi, 4) Baslangic gumruk idaresi, 5) Hedef gumruk idaresi, 6) Esya bilgileri (GTIP, miktar, deger), 7) Esyanin bulundugu yer, 8) Tasima araci ve plaka, 9) Teminat bilgileri, 10) Elektronik imza ile tescil. Tescil sonrasi: Baslangic gumrugunde kontrol ve kapatma, yolda GPS takip, hedef gumrugunde kapatma islemi."
+    },
+    {
+      "id": 117,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "gumruk mevzuat 4458 madde beyan gecersizlik hukuki sonuc",
+      "soru": "Gecersiz beyanname ne demektir ve hukuki sonuclari nelerdir?",
+      "cevap": "Gecersiz beyanname: Mevzuata aykiri bilgi iceren veya eksik beyan edilen beyannamedir. Hukuki sonuclari: 1) RED: Gumruk idaresi tarafindan reddedilir, duzeltme istenir, 2) VERGI ZIYAI: Eksik vergi beyani durumunda ziyai cezasi, 3) IDARI PARA CEZASI: 4458 sayili Kanun Madde 241'e gore ceza, 4) ESYA TEDBIRI: Esyanin el konulmasi veya geri gonderilmesi, 5) ADLI ISLEM: Kastli yanlis beyan durumunda 5607 sayili Kanun kapsaminda dava. Gecersiz beyan kasitli ise gumruk kacakciligi suphesi dogar."
+    },
+    {
+      "id": 118,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "esya cikis tahliye gumruk sahasi izin belge onay",
+      "soru": "Gumruk onayindan sonra esya nasil gumruk sahasindan cekilir?",
+      "cevap": "Esya cekilisi (Tahliye): 1) ONAY ALMA: Beyanname gumruk idaresince onaylanir, 2) VERGI ODEME: Tum vergiler odenir, 3) TAHLIYE IZNI: E-Gumruk'te 'Tahliye Izni' cikis belgesi alinir, 4) CIKIS KAPISI: Gumruk sahasi cikis kapisinda plaka ve konteyner kontrolu, 5) CIKIS KAYDI: Sistemde esyanin ciktigi kaydedilir, 6) KAPAMA: Beyanname kapatilir. Hatali cikis durumunda 'yanlis cikis' tespit edilir ve ceza uygulanabilir."
+    },
+    {
+      "id": 119,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "belgeler fatura konşimento paket listesi menşe sigorta",
+      "soru": "Ithalat beyannamesinde ibraz edilmesi gereken belgeler nelerdir?",
+      "cevap": "Ithalat beyannamesi belgeleri: ZORUNLU: 1) Ticari fatura (Invoice), 2) Konşimento/AWB/CMR (tasima belgesi), 3) Paket listesi (Packing List), 4) Menşe Sertifikasi (Certificate of Origin). GEREKTIGINDE: 5) Sigorta policesi, 6) Kontrol belgeleri (TSE, Tarim Bakanligi, Saglik Bakanligi), 7) Ithalat izni (boyunduruklu mallar icin), 8) Etiket/ambalaj onay belgeleri, 9) Deger beyani (dusuk/yuksek deger suphesi), 10) Banka odeme belgeleri (L/C, D/P). Her beyan turune gore farkli belge seti gerekebilir."
+    },
+    {
+      "id": 120,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "risk profil dusuk yuksek gumruk tareks kriter analiz",
+      "soru": "Gumruk risk profili nasil belirlenir ve hangi kriterlere gore?",
+      "cevap": "Risk profil belirleme kriterleri: 1) TACIR RISKI: Firmanin gecmis kayitlari (ceza, eksik beyan), 2) GTIP RISKI: Mallarin risk kategorisi (sulpheli/duzenli), 3) MENŞE RISKI: Yüksek riskli ulkelerden ithalat, 4) DEGER RISKI: Dusuk/yuksek beyan edilen degerler, 5) TEDARIKCI RISKI: Bilinmeyen/sulpheli tedarikciler, 6) ULKE RISKI: Kaçakcilik riski yuksek ulkeler, 7) MEVSIMSEL RISKI: Yilbasi/ramazan gibi donemler, 8) ISTATISTIKSEL RISKI: Deger birim fiyat analizleri. Bu kriterler TAREKS'te algoritmik olarak degerlendirilir ve toplam risk skoru hesaplanir."
+    },
+    {
+      "id": 121,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "antrepo beyani ozel genel depolama gumruk rejim",
+      "soru": "Antrepo beyannamesi nasil duzenlenir ve hangi rejim uygulanir?",
+      "cevap": "Antrepo beyannamesi: 5104 kodlu gumruk rejimidir. Turleri: 1) GENEL ANTREPO (I. Tip): Herkesin esyasini depolayabilir, 2) OZEL ANTREPO (II. Tip): Sadece isleticinin kendi esyasi. Beyanname: Ithalat beyannamesi gibi doldurulur, rejim kodu 5104 olarak secilir, antrepo isletme izin numarasi girilir. Esya antrepoya yerlestirilir, gumruk gozetiminde depolanir. Max sure: 2 yil. Cikista yeni beyanname duzenlenir (serbest dolasim, ihracat, transit vb.)."
+    },
+    {
+      "id": 122,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "ithalat yasak kisitli izne tabi mallar boyunduruk kontrol",
+      "soru": "Ithalati yasak veya izne tabi mallar nelerdir?",
+      "cevap": "Ithalat kontrolleri: YASAKLI: Uyusturucu, silah (ozel izin haric), obezite teskil eden gida katkilari, asbest, bazi pestisitler, CFC gazlari, pornografik malzeme. KISITLI: Tarim ürünleri (Tarim Bakanligi izni), ilac (Saglik Bakanligi), gida (Tarim ve Gida), kimyasallar (Cevre Bakanligi), silah ve mühimmat (Icisleri Bakanligi), canli hayvan (veteriner sertifikasi), bitki (fitosaniter). Izin belgeleri ithalat beyannamesine eklenir."
+    },
+    {
+      "id": 123,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "muafiyet istisna gumruk vergi kesin ithalat haric tutma",
+      "soru": "Ithalatta tam muafiyet ve istisna arasindaki fark nedir?",
+      "cevap": "Muafiyet vs Istisna: TAM MUAFIYET: Gumruk vergisi, KDV ve OTV'nin tamaminin alinmadigi durumdur. Ornek: Diplomatik muafiyet, yolcu beraberi esya, gecici ithalat, yardim amacli esya. KISMI MUAFIYET (ISTISNA): Sadece belirli vergi turlerinin veya belirli bir kisminin muaf tutuldugu durumdur. Ornek: Yatirim tesvik belgesi (GV muafiyeti, KDV var), Dahilde isleme (GV muafiyeti, teminat karsiligi). Muafiyet beyannamesinde rejim kodu 5101/5102 kullanilir."
+    },
+    {
+      "id": 124,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "yolcu beraberi esya gumruk muafiyet limit 430 euro dolar",
+      "soru": "Yolcu beraberi esyada gumruk muafiyeti limitleri ne kadardir?",
+      "cevap": "Yolcu beraberi esya muafiyeti (4458 sayili Kanun gecici 8. madde): KARA YOLU: 300 Euro, DENIZ YOLU: 430 Euro, HAVA YOLU: 430 Euro, 18 yas alti: Yaris limit. Sartlar: 1) Esya yolcuyla birlikte gelmeli, 2) Kisisel/ticari olmayan kullanim, 3) 30 gun icinde ithal edilmis olmali. Limit asimi: Asan kisim icin gumruk vergisi + KDV alinir. Mesleki aletler muafiyet kapsaminda degildir. Yolcu gumruk girisinde 'kirmizi hat' gecerse beyanname duzenlenir."
+    },
+    {
+      "id": 125,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "gumruk idaresi gorev yetki bolge gumruk mudurlugu",
+      "soru": "Gumruk idarelerinin gorev ve yetkileri nelerdir?",
+      "cevap": "Gumruk idaresi gorevleri: 1) BEYANNAME KONTROLU: Beyannamelerin mevzuata uygunlugunu denetleme, 2) MUAYENE: Esyanin fiziki/belgesel kontrolu, 3) VERGI TAHAKKUKU: Gumruk vergilerinin hesaplanmasi, 4) TAHSILAT: Vergilerin tahsil edilmesi, 5) KACAKCILIK ILE MUCADELE: Gumruk kacakciligi suphelilerinin sorusturulmasi, 6) TEMINAT YONETIMI: Teminat verilme ve iadesi, 7) IZIN VERME: Basitlestirilmis usul, AEO, antrepo izinleri, 8) CEZA UYGULAMA: 4458 ve 5607 sayili kanunlara gore ceza. Gumruk idaresi Bakanlik merkez (Gumrukler GM) ve bolge mudurluklerinden olusur."
+    },
+    {
+      "id": 126,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "tarti olcum esya agirlik brut net kontrol gumruk",
+      "soru": "Gumruk muayenesinde esyanin tartisi ve olcumu nasil yapilir?",
+      "cevap": "Tarti ve olcum: 1) BRUT AGIRLIK: Ambalaj dahil toplam agirlik (beyannameye yazilan), 2) NET AGIRLIK: Ambalaj haric esya agirligi, 3) TARTI CIHAZLARI: Tartibeli (kalibreli) kantarlar, 4) KONTEYNER TARTISI: TIR kantarindan tartim, 5) FARK TESPITI: Beyan edilen agirlik ile gercek agirlik arasinda %5'den fazla fark varsa inceleme baslatilir, 6) HACIM OLCUMU: Sivi, tane gibi mallarda litre/metrekupe gecis, 7) ADET SAYIMI: Parca sayisi kontrolu. Fark durumunda deger tespiti ve vergi farki tahakkuku yapilabilir."
+    },
+    {
+      "id": 127,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "yasakli mallar ithalat ihracat gumruk kontrol suclu ceza",
+      "soru": "Gumruk yasakli mallari listesi ve cezalari nelerdir?",
+      "cevap": "Gumruk yasakli mallar: 1) UYUSTURUCU VE HAM MADDELERI: Koka, haşiş, eroin vb. - 20 yila kadar hapis, 2) SILAH VE PATLAYICI MADDELER: Izinsiz silah, cephane - 3-8 yil hapis, 3) COCUK PORNOGRAFISI: Dijital/basili materyal - 5-10 yil hapis, 4) SAHTE MALI: Taklit ürünler - 1-4 yil hapis + para cezasi, 5) TEHLIKELI ATIK: Cevreye zararli atiklar - 2-5 yil hapis, 6) KORUMA ALTINDAKI HAYVAN: Nesli tükenmekte olan türler - 1-3 yil hapis. Tespitinde esya musadere edilir, cezai kovusturma baslatilir."
+    },
+    {
+      "id": 128,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "serbest bolge beyani rejim 5109 esya giris cikis gumruk",
+      "soru": "Serbest bolge beyannamesi nasil duzenlenir?",
+      "cevap": "Serbest bolge beyannamesi (Rejim 5109): Serbest bolgeye giren/cikan esya icin duzenlenir. Adimlar: 1) Serbest Bolge Gumruk Mudurlugune basvuru, 2) Beyan turu: Giris (Turkiye'den bolgeye) veya Cikis (bolgeden Turkiye'ye), 3) GTIP, miktar, deger bilgileri, 4) Serbest bolge isleticisi onayi, 5) Tescil ve risk analizi, 6) Kontrol (serbest bolgelerde basitlestirilmis), 7) Onay. Serbest bolgede esya gumruk vergilerinden muaftir, cikista (Turkiye'ye giris) vergi uygulanir."
+    },
+    {
+      "id": 129,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "ithalat ihraç kaydi yoklama belgesi kontrol zorunlu",
+      "soru": "Ithalatta ihraç kaydi yoklama belgesi ne zaman gereklidir?",
+      "cevap": "Ihraç kaydi yoklama belgesi (Certificate of Inspection): Bazi mallarin ithalatinda menşe ülkesinde kalite kontrolunun yapildigini gosteren zorunlu belgedir. Uygulanan mallar: 1) Tekstil (ozellikle Cin menşeli), 2) Oyuncak ve cocuk urunleri, 3) Elektrikli ev aletleri, 4) Jant ve oto lastigi, 5) PVC pencere profili, 6) Bazi insaat malzemeleri. Kontrol: Belgede firma adi, urun tanimi, miktari, test sonuclari ve akredite kurum bilgisi yer alir. Belgeli muayeneye tabidir."
+    },
+    {
+      "id": 130,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "gumruk borcu zamanasimi dava itiraz kesinlesme odeme suresi",
+      "soru": "Gumruk borcunun zamanasimi suresi ne kadardir ve nasil kesinlesir?",
+      "cevap": "Gumruk borcu zamanasimi: 5 yil (4458 sayili Kanun Madde 178). Kesinlesme: 1) Tahakkuk tarihinden baslar, 2) Tahsilat yapilmazsa 5 yil icinde tahsil edilebilir, 3) Takip islemi (haciz, ihtiyati haciz) baslatilabilir, 4) Borclu odemezse vergi dairesine devredilir. ITIRAZ: Tahakkuka itiraz icin 30 gun icinde dava acilabilir. Kesinlesme yolları: Odeme, zamanaşımı, dava acilmamasi, davanin reddi, uzlasma."
+    },
+    {
+      "id": 131,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "ozet beyan elektronik bilgi yukleme lojistik hizli gecis",
+      "soru": "Ozet beyan (Summary Declaration) avantajlari ve doldurma adimlari nelerdir?",
+      "cevap": "Ozet beyan avantajlari: 1) HIZLI GECIS: Esya gelmeden once beyan hazir, 2) KUYRUK AZALMASI: Liman/terminalde bekleme suresi kisalir, 3) MALIYET DUSUSU: Antrepo/gc depolama ucreti azalir, 4) PLANLAMA: Tedarik zinciri yonetimi kolaylasir. Doldurma: 1) Esya sevkiyat bilgileri (BL/AWB no, konteyner, esya ozeti), 2) Menşe ve varis bilgileri, 3) Tedarikci bilgileri, 4) Tahmini varis zamani, 5) Esya gelince 'merge' ile birlestirme. E-Gumruk'te veya Gumruk Musaviri araciligiyla verilir."
+    },
+    {
+      "id": 132,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "gumruk birligi ab turkiye ticaret tercihli menşe a.tr",
+      "soru": "AB-Turkiye Gumruk Birligi cercevesinde gumruk islemleri nasil yapilir?",
+      "cevap": "AB Gumruk Birligi: 1) SERBEST TICARET: Gumruk vergisi %0 (sanayi urunleri), 2) A.TR DOLASIM BELGESI: Gumruk Birligi icinde mal dolasimini gosterir, 3) TERCİHLİ MENŞE: ATR belgesi ile tercihli gumruk vergisi uygulanir, 4) KONTROL: Gumruk Birligi ulkeleri arasinda basitlestirilmis kontrol, 5) STANDARTLAR: CE isareti, AB teknik mevzuatina uygunluk, 6) TARIM URUNLERI: Gumruk Birligi kapsaminda sinirli, ek kontroller vardir. Beyanname: Menşe ulkesi AB olan mallarda ATR belgesi beyana eklenir."
+    },
+    {
+      "id": 133,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "esya iade geri gonderme reddetme gumruk hukuki islem",
+      "soru": "Gumruk idaresi esyayi hangi durumlarda geri gonderir veya reddeder?",
+      "cevap": "Esya reddetme/geri gonderme halleri: 1) ITHALATI YASAK: Esyanin ithalati yasak ise (uyusturucu, silah vb.), 2) IZIN YOK: Gerekli izin belgesi yoksa (Tarim, Saglik vb.), 3) SAHTECILIK: Menşe sahtekarligi, deger sahtekarligi, 4) KORUNMA ONLEMI: Anti-damping, koruma onlemi uygulanan mallar, 5) EMBARGO: Ulke ambargosu uygulanan mallar, 6) KAMU DUZENI: Kamu sagligi/duzeni icin tehlikeli. Islem: 1) Esya geri gonderilir (iade), 2) Imha edilir, 3) Musadere edilir, 4) Gumruk idaresine terk edilir. Mal sahibine masraf cikabilir."
+    },
+    {
+      "id": 134,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "postalama kargo hizli kargo de minimis kucuk degerli esya",
+      "soru": "Posta ve hizli kargo yoluyla gelen esyada gumruk islemleri nasildir?",
+      "cevap": "Posta/kargo gumruk islemleri: KUCUK DEGERLI ESYA (De Minimis): 30 Euro'yu asmiyorsa gumruk vergisi muaf (hediye/kisisel kullanim). BEYAN: 30-1500 Euro arasi basitlestirilmis gumruk beyannamesi (ETGB). KONTROL: Dusuk riskli esya otomatik gecis, yuksek riskli acma/kontrol. KARGO FIRMALARI: DHL, FedEx, UPS gumruk musaviri yetkisiyle hizli gecis saglar. ZORUNLU: 1500 Euro uzeri normal ithalat beyannamesi. YOLCU esyasi kurallari kargo icin gecerli degildir."
+    },
+    {
+      "id": 135,
+      "kategori": "modul_3_beyanname",
+      "anahtar_kelime": "mikro ihracat beyani etgb elektronik ticaret gumruk",
+      "soru": "Mikro ihracat beyannamesi (ETGB) nasil duzenlenir?",
+      "cevap": "ETGB (Elektronik Ticaret Gumruk Beyannamesi): 7.500 Euro'yu asmiyan e-ihracat islemleri icin kullanilir. Doldurma: 1) Kargo firmasi veya gumruk musaviri araciligiyla, 2) Esya tanimi, miktar, deger, 3) Alici bilgileri (yurtdisi musteri), 4) Menşe ulkesi (Türkiye), 5) E-satis platformu bilgisi (Amazon, eBay vb.), 6) Kargo takip numarasi. Avantajlari: Gumruk musavirine gerek yok, hizli gecis (yesil hat), dusuk maliyet. e-ihracat platformlari entegre calisir."
     }
   ]
 }
