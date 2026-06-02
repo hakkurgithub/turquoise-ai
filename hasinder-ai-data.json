@@ -1,7 +1,7 @@
 {
   "version": "2.0",
   "program": "Hasinder Akademi - Gumruk ve Dis Ticaret Uzmanlasma Sinav Hazirlik",
-  "toplam_soru": 135,
+  "toplam_soru": 185,
   "sorular": [
     {
       "id": 1,
@@ -947,6 +947,356 @@
       "anahtar_kelime": "mikro ihracat beyani etgb elektronik ticaret gumruk",
       "soru": "Mikro ihracat beyannamesi (ETGB) nasil duzenlenir?",
       "cevap": "ETGB (Elektronik Ticaret Gumruk Beyannamesi): 7.500 Euro'yu asmiyan e-ihracat islemleri icin kullanilir. Doldurma: 1) Kargo firmasi veya gumruk musaviri araciligiyla, 2) Esya tanimi, miktar, deger, 3) Alici bilgileri (yurtdisi musteri), 4) Menşe ulkesi (Türkiye), 5) E-satis platformu bilgisi (Amazon, eBay vb.), 6) Kargo takip numarasi. Avantajlari: Gumruk musavirine gerek yok, hizli gecis (yesil hat), dusuk maliyet. e-ihracat platformlari entegre calisir."
+    },
+    {
+      "id": 136,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "etgb elektronik ticaret gumruk beyannamesi tanim amac",
+      "soru": "ETGB (Elektronik Ticaret Gumruk Beyannamesi) nedir ve ne amacla kullanilir?",
+      "cevap": "ETGB (Elektronik Ticaret Gumruk Beyannamesi): E-ticaret yoluyla yapilan kucuk olcekli ithalat ve ihracat islemleri icin kullanilan basitlestirilmis gumruk beyannamesidir. Amaci: Standart gumruk beyannamesine gore daha hizli ve dusuk maliyetli islem saglamaktir. E-ticaret platformlari (Amazon, eBay, Alibaba, Trendyol) uzerinden yapilan satislarda kullanilir. Gumruk musaviri araciligiyla veya yetkili kargo firmalari tarafindan duzenlenir."
+    },
+    {
+      "id": 137,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "etgb limit esik deger miktar ustu normal beyan",
+      "soru": "ETGB uygulanan esik deger (limit) ne kadardir?",
+      "cevap": "ETGB esik degerleri: ITHALATTA: 1.500 Euro'ya kadar basitlestirilmis usul ETGB uygulanir. IHRACATTA (Mikro ihracat): 7.500 Euro'ya kadar ETGB kullanilir. Bu limitler esyanin bir seferde gonderilen toplam degeridir. Limit ustu islemlerde normal gumruk beyannamesi (standard declaration) duzenlenmesi zorunludur. 30 Euro alti ithalatta gumruk vergisi tam muafiyet uygulanir (De Minimis)."
+    },
+    {
+      "id": 138,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "etgb duzenleme yetki kargo firma gumruk musavir",
+      "soru": "ETGB'yi kimler duzenleyebilir?",
+      "cevap": "ETGB duzenleme yetkisi olanlar: 1) YETKILI KARGO FIRMALARI: DHL, FedEx, UPS, TNT, Aras Kargo, Yurtici Kargo (yetki belgeli), 2) GUMRUK MUSAVIRLERI: Gumruk musavirligi yetki belgesine sahip olanlar, 3) POSTA IDARESI: PTT uluslararasi posta islemleri, 4) E-TICARET PLATFORMlari: Bazi platformlarin kendi sistemleri uzerinden (entegre ETGB). Kargo firmalari musteriden aldiklari bilgilerle ETGB'yi sistemden otomatik olusturur."
+    },
+    {
+      "id": 139,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "etgb avantaj hizli dusuk maliyet basitlestirilmis",
+      "soru": "ETGB'nin avantajlari nelerdir?",
+      "cevap": "ETGB avantajlari: 1) HIZ: Standart beyannamye gore cok daha hizli islem (yesil hat otomatik onay), 2) DUSUK MALIYET: Gumruk musavirligi ucreti dusuk veya yok, 3) BASITLESTIRILMIS: Daha az belge, daha az formalite, 4) ONLINE TAKIP: Kargo takip numarasi ile entegre izleme, 5) KUCUK ISLEMLER: Bireysel ve KOBİ e-ticareti icin ideal, 6) ENTegrasyon: E-ticaret platformlariyla API entegrasyonu, 7) OZEL MUAFIYET: 30 Euro alti tam muafiyet, 8) HIZLI TESLIMAT: Gumruk islemleri 1-2 gun icinde tamamlanir."
+    },
+    {
+      "id": 140,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "de minimis kucuk degerli esya gumruk vergi muafiyet limit",
+      "soru": "De Minimis (Kucuk Degerli Esya) kurali nedir ve limitleri ne kadardir?",
+      "cevap": "De Minimis: Kucuk degerli esyanin gumruk vergisinden muaf tutulmasidir. TURKIYE LIMITLERI: 30 Euro'ya kadar gumruk vergisi, KDV ve OTV tam muafiyet (hediye ve kisisel kullanim amacli). SARTLAR: 1) Esya kisisel kullanim veya hediye olmali, 2) Ticari amacli olmamali, 3) Gunde 5 adete sinirli (yolcu basina), 4) E-ticaret alisverisinde yilda 30.000 Euro'yu asmamali. 30-1500 Euro arasi ETGB ile basitlestirilmis usul uygulanir."
+    },
+    {
+      "id": 141,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "de minimis kisisel kullanim hediye ticari amac ayrim",
+      "soru": "De Minimis muafiyetinde kisisel kullanim ile ticari amac nasil ayirt edilir?",
+      "cevap": "Kisisel kullanim vs Ticari amac ayirt edilmesi: KIŞISEL KULLANIM: Tek bir urun veya kucuk miktarda (ornegin 1 telefon, 2 kitap, 3 kozmetik urunu), kisisel ihtiyac icin uygun miktarda. TICARI AMAÇ: Ayni urunden cok sayida (ornegin 50 telefon kılıfı), toptan satis amacli, pazarlamada kullanilacak numune (yuksek miktar), perakende satis icin stok. Gumruk memuru esyanin miktari, niteligi, ambalaji ve beyan edilen amaca gore karar verir."
+    },
+    {
+      "id": 142,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "etgb ithalat surec adim kargo gumruk teslimat",
+      "soru": "ETGB ile ithalat sureci nasil isler? Adim adim anlatin.",
+      "cevap": "ETGB ithalat sureci: 1) SIPARIS: Alici e-ticaret sitesinden urun satin alir, 2) GONDERIM: Satici kargo firmasiyla Turkiye'ye gonderir, 3) GIRIS: Kargo gumruk sahasina girer, 4) ETGB DUZENLEME: Kargo firmasi sistemden ETGB olusturur (alici bilgileri, urun tanimi, deger), 5) TESCIL: E-Gumruk'te tescil edilir, 6) KONTROL: Yesil hat (otomatik) veya sari hat (belge kontrolu), 7) VERGI: 30 Euro alti muaf, ustunde vergi tahakkuku, 8) ODEME: Alici vergiyi kargo firmasina oder (kapida odeme), 9) TESLIMAT: Kargo teslimat adresine getirir."
+    },
+    {
+      "id": 143,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "etgb ihracat mikro e-ihracat surec kargo platform",
+      "soru": "ETGB ile e-ihracat (mikro ihracat) sureci nasil isler?",
+      "cevap": "ETGB e-ihracat sureci: 1) SIPARIS: Yurtdisi musteri platformdan (Amazon, Etsy vb.) siparis verir, 2) PAKETLEME: Satıcı urunu hazirlar, fatura ve paket listesi ekler, 3) KARGO TESLIM: Yetkili kargo firmasina teslim edilir, 4) ETGB DUZENLEME: Kargo firmasi veya gumruk musaviri ETGB olusturur, 5) GUMRUK CIKIS: E-Gumruk'te cikis beyannamesi tescil edilir, 6) MUAYENE: Hizli gecis (yesil hat), 7) UCUS/TASIMA: Kargo ile yurtdisina gonderilir, 8) TESLIMAT: Musteriye ulasir. 7.500 Euro altinda ETGB, ustunde normal ihracat beyannamesi."
+    },
+    {
+      "id": 144,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "hizli kargo gumruk islem dhl fedex ups yetki",
+      "soru": "Hizli kargo firmalari (DHL, FedEx, UPS) gumruk islemlerini nasil yurutur?",
+      "cevap": "Hizli kargo gumruk islemleri: 1) OZEL YETKI: Kargo firmalarinin Gumrukler Genel Mudurlugunden 'Yetkili Gumruk Temsilcisi' belgesi olmalidir, 2) ONCI BILGI: Esya gelmeden once elektronik olarak bilgi girisi (EORI/TC no, urun bilgisi), 3) ETGB DUZENLEME: Kendi sistemlerinden otomatik ETGB olusturma, 4) TEMINAT: Firma genel teminati kapsaminda islem, 5) VERGI TAHSILATI: Aliciden kapida vergi tahsilati, 6) TESLIMAT: Gumruk islemi tamamlaninca hizli teslimat. Avantaj: Gumruk musaviri aramaya gerek yok, kargo firmani halleder."
+    },
+    {
+      "id": 145,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "posta esyasi ptt uluslararasi mektup kargo gumruk",
+      "soru": "Uluslararasi posta yoluyla gelen esyada gumruk islemleri nasildir?",
+      "cevap": "Uluslararasi posta gumruk islemleri: 1) GIRIS: PTT Uluslararasi Posta Islem Merkezine (PIM) gelir, 2) X-RAY TARAMA: Tum postalar taranir, 3) RISK ANALIZI: Supheli postalar ayrilir, 4) 30 EURO ALTI: Gumruk vergisi muaf, dogrudan dagitima cikar, 5) 30-1500 EURO: Gumruk beyannamesi (ETGB) duzenlenir, vergi tahsil edilir, 6) 1500 EURO USTU: Normal ithalat beyannamesi (musavir gerekli), 7) YASAKLI: Uyusturucu, silah vb. zabita/MEM'e bildirilir. PTT musteriye tebligat yapirir, vergi odendikten sonra teslim."
+    },
+    {
+      "id": 146,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "posta kargo esya acma muayene ptt gumruk memur",
+      "soru": "Posta ve kargo esyasinin acilip muayene edilmesi hangi sartlarda yapilir?",
+      "cevap": "Posta/kargo acma muayenesi: X-RAY TARAMA sonucu sulpheli bulunan postalar acilir. ACMA SEBEPLERI: 1) X-ray goruntusunde anormal sekil/yogunluk, 2) Beyan edilen icerikle uyumsuzluk, 3) Yasakli/kisitli madde sulphesi, 4) Değer sulphesi (cok dusuk beyan), 5) Menşe sulphesi, 6) K9 kopek reaksiyonu (uyusturucu). YETKI: Gumruk memuru ve PTT yetkilisi huzurunda acilir. Tutanak tutulur, esya sahibine bildirilir. Muayene sonucunda yasakli madde bulunursa suc duyurusu yapilir."
+    },
+    {
+      "id": 147,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "e-ticaret platform amazon ebay etsy alibaba trendyol gumruk",
+      "soru": "E-ticaret platformlarindan yapilan ithalatta gumruk islemleri farkli midir?",
+      "cevap": "E-ticaret platformlarindan ithalatta gumruk islemleri: PLATFORMA GORE FARK: Amazon, eBay, Etsy, Alibaba gibi platformlardan alinan urunlerde gumruk islemi AYNIDIR, farki kargo firmasinin platformla entegrasyonudur. AMAZON GLOBAL: Gumruk islem ucreti (Import Fees Deposit) onden tahsil edilir, gumruk islemini Amazon'un lojistik ortagi halleder. ALIBABA: AliExpress'ten alimlarda kargo firmasi (Cainiao, standart kargo) gumruk islemini yapar. TRENDYOL YURTDISI: Trendyol'un kendi sistemi ETGB entegrasyonu saglar. Tumunde 30 Euro alti muafiyet gecerlidir."
+    },
+    {
+      "id": 148,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "e-ihracat platform satis amazon fba lojistik gumruk",
+      "soru": "Amazon FBA (Fulfillment by Amazon) ile e-ihracatta gumruk islemleri nasil yapilir?",
+      "cevap": "Amazon FBA e-ihracat gumruk islemleri: 1) STOK GONDERIM: Satıcı urunlerini Amazon'un yurtdisi deposuna (FBA warehouse) gonderir, 2) GUMRUK CIKIS: Turkiye'den normal ihracat beyannamesi veya ETGB (7.500 Euro alti ise), 3) NAVLUN: Satıcı veya Amazon navlunu ayarlar, 4) VARIS ULKESI GUMRUGU: Amazon'un lojistik ortagi gumruk islemini halleder (DDP/Incoterms kullanilir), 5) AMAZON DEPOSU: Gumruk islemi tamamlaninca Amazon deposuna yerlestirilir, 6) SATIS: Musteri siparis verince Amazon kargolar. Gumruk vergileri DDP kullanildiginda satıcı tarafindan onceden odenir."
+    },
+    {
+      "id": 149,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "e-ihracat vergi muafiyet istisna katma deger kdv",
+      "soru": "E-ihracatta vergi muafiyeti ve istisnalari nelerdir?",
+      "cevap": "E-ihracat vergi avantajlari: 1) KDV ISTISNASI: E-ihracat islemlerinde KDV hesaplanmaz (%0), 2) GUMRUK VERGISI: Ihracatta gumruk vergisi yoktur, 3) OTV ISTISNASI: OTV'ye tabi mallarda ihracat OTV'si yoktur, 4) NAKIT TAHsilat: Yurtdisindan gelen doviz kazanci, 5) E-FATURA: E-ihracat faturalarinda KDV %0 olarak duzenlenir, 6) KDV IADESI: E-ihracat icin alinan hammadde/maldeki KDV iade edilebilir, 7) EXIMBANK DESTEGI: E-ihracat yapan KOBİ'lere kredi destegi. E-ihracat yapan firmanin e-Fatura, e-Defter ve E-Gumruk sistemine kayitli olmasi gerekir."
+    },
+    {
+      "id": 150,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "etgb kargo vergi odeme kapida tahsilat alici",
+      "soru": "ETGB ile gelen ithalatta vergi odemesi nasil yapilir?",
+      "cevap": "ETGB vergi odemesi: 30 EURO ALTI: Gumruk vergisi, KDV ve OTV tamamen muaf (De Minimis). 30-1500 EURO: Gumruk vergisi (GTIP'e gore oran) + KDV (%20) + varsa OTV hesaplanir. ODEME YONTEMLERI: 1) KAPIDA ODEME: Kargo teslimati sirasinda kuryeye nakit veya kredi karti ile odeme, 2) ONLINE ODEME: Kargo firmasinin web sitesi uzerinden odeme (DHL, FedEx online odeme linki), 3) TEMINAT MAHSUBU: Kargo firmasi onceden yatirilan teminattan dusum yapar, 4) KREDI KARTI: Telefonla kargo sirketine verilen kredi karti bilgisi ile. Odeme yapilmazsa esya gumrukte bekletilir/gonderilmez."
+    },
+    {
+      "id": 151,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "mikro ihracat tanim 7500 euro limit e-ihracat kobi",
+      "soru": "Mikro ihracat nedir ve kimler yapabilir?",
+      "cevap": "Mikro ihracat: 7.500 Euro'yu asmiyan, basitlestirilmis gumruk islemleriyle yapilan kucuk olcekli ihracattir. KIMLER YAPABILIR: 1) BIREYSEL: Serbest meslek makbuzu karsiliginda (fatura kesmek sart degil), 2) KOBİ: Kucuk ve orta olcekli isletmeler, 3) E-TICARET SATICILARI: Amazon, eBay, Etsy satıcilari, 4) EV HANIMLARI: Evden uretim yapan kisiler. SARTLAR: E-Gumruk kaydi (TC no ile), e-Fatura/e-Arsiv kaydi, yurtdisi alici. Gumruk musavirine gerek yoktur. 7.500 Euro ustu normal ihracat usulune tabidir."
+    },
+    {
+      "id": 152,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "mikro ihracat gerekli belge e-fatura e-arşiv gumruk",
+      "soru": "Mikro ihracat icin hangi belgeler gereklidir?",
+      "cevap": "Mikro ihracat belgeleri: 1) E-FATURA veya E-ARŞIV FATURA: Yurtdisi musteriye kesilen fatura, 2) PAKET LISTESI: Icerik, miktar, agirlik, 3) PROFORMA FATURA: On odeme durumunda, 4) KARGO SÖZLEŞMESI: Kargo firmasinin sevkiyat dokumani, 5) MÜŞTERI BILGILERI: Yurtdisi alicinin ad, adres, vergi no (varsa). GEREKMEYENLER: Gumruk musavirligi anlasmasi, ihracat izni, standart ihracat beyannamesi (ETGB yeterli), Döviz Ticaret Belgesi. E-Fatura uzerinde KDV %0 olarak gosterilir."
+    },
+    {
+      "id": 153,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "mikro ihracat vergi muafiyet kdv istisna fatura düzenleme",
+      "soru": "Mikro ihracat KDV istisnasi nasil uygulanir ve fatura nasil duzenlenir?",
+      "cevap": "Mikro ihracat KDV istisnasi: E-ihracat ve mikro ihracatta KDV %0 olarak uygulanir. FATURA DUZENLEME: 1) Fatura turu: e-Fatura veya e-Arsiv Fatura, 2) KDV orani: %0 (E-ihracat istisnasi), 3) Istisna kodu: 701 (Uluslararasi tasimacilik ve e-ihracat istisnasi), 4) Doviz cinsi: USD, EUR, GBP gibi yabanci para biriminde, 5) Alici bilgisi: Yurtdisi musterinin ad ve tam adresi, 6) Gumruk bilgisi: ETGB numarasi (varsa) fatura notu olarak eklenebilir. KDV istisnasi icin yurtdisi musteriye fatura kesmek ve odemenin yurtdisindan gelmesi sarttir."
+    },
+    {
+      "id": 154,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "e-ticaret yasal duzenleme kanun yonetmelik gumruk",
+      "soru": "E-ticaret gumruk islemlerinde hangi mevzuat uygulanir?",
+      "cevap": "E-ticaret gumruk mevzuati: 1) 4458 SAYILI GUMRUK KANUNU: Gumruk islemlerinin temel kanunu, 2) E-TICARET GUMRUK GENEL TEBLIGI: ETGB duzenlenmesi, limitler, muafiyetler, 3) E-TICARET KANUNU (6563): Elektronik ticaretin duzenlenmesi, 4) GUMRUK YONETMELIGI: Beyanname, muayene, kontrol prosedurleri, 5) KDV KANUNU: E-ihracat istisnasi (KDV %0), 6) TICARET BAKANLIGI TEBLIGLERI: E-ticaret platformlarina ozel duzenlemeler, 7) KAMU DUZENI: Takipli kisilerin e-ticaret yasagi, 8) KISISEL VERILER: KVKK kapsaminda musteri bilgilerinin korunmasi. Mevzuat yillik guncellenir."
+    },
+    {
+      "id": 155,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "e-ticaret guvenlik sahtecilik dolandiricilik korunma",
+      "soru": "E-ticarette guvenlik ve sahtecilik riskleri nelerdir?",
+      "cevap": "E-ticaret guvenlik riskleri: 1) SAHTE URUN: Taklit/korsan urun gonderimi, 2) DEGER SAHTEKARLIGI: Dusuk deger beyani (vergi kacirma), 3) MENŞE SAHTEKARLIGI: Gercek uretici ulkesi farkli, 4) TIBBI URUN: Lisanssiz ilac/takviye gibi, 5) PIL/BATARYA: Lityum pil iceren urunlerin hava tasimaciliginda yasagi, 6) TEHLIKELI MADDE: Kimyasal, aerosol gibi yasakli icerik. KORUNMA YOLLARI: Guvenilir satici, yorumlari okuma, sertifika kontrolu, kargo firmasinin bilgilendirmesi. Gumruk tespit ederse esya geri gonderilir veya imha edilir."
+    },
+    {
+      "id": 156,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "e-ticaret yasakli urun gumruk ithalat kontrol liste",
+      "soru": "E-ticaret yoluyla ithalati yasak olan urunler nelerdir?",
+      "cevap": "E-ticarette ithalati yasak olan urunler: 1) UYUSTURUCU VE HAM MADDELERI: Kenevir tohumu (bazi turler), esrar yagi, 2) SILAH VE PARCALARI: Hava tufegi, tabanca parcasi, mermi, 3) PATLAYICI MADDE: Havai fisek (izinsiz), 4) TEHLIKELI KIMYASAL: Asit, zehirli maddeler, 5) TAKLIT URUN: Saat, canta, ayakkabi (taklit marka), 6) CEP TELEFONU TAKIP: Dinleme cihazi, GPS izleyici (yasakli), 7) KUMANDALI ARAC: Drone (yasakli modeller), 8) KULTUR VARLIGI: Tarihi eser, 9) TEHLIKELI OYUNCAK: Kursun atan, keskin oyuncak. Bu urunler gumrukte yakalanirsa musadere edilir ve cezai islem uygulanir."
+    },
+    {
+      "id": 157,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "lityum pil batarya hava kargo yasak taşıma kargo kisit",
+      "soru": "Lityum pil iceren urunlerin uluslararasi kargo ile tasinmasinda hangi kurallar uygulanir?",
+      "cevap": "Lityum pil kargo kurallari (IATA DGR): 1) PI967 (Pil icine monteli): Dizustu bilgisayar, telefon - 100Wh alti serbest, 100-160Wh icin izin, 2) PI966 (Pil ayri): Yedek pil - kisi basi 2 adet sinir, 3) HAVA YASAGI: 160Wh ustu lityum piller HAVA kargosu ile TASINAMAZ, 4) ETIKET: 'Lithium Ion Battery' etiketi zorunlu, 5) PAKETLEME: Kisa devre korumasi, ayri ambalaj. Kargo firmasi pili tespit ederse kabul etmeyebilir veya ozel tasima ucreti alir. Elektrikli scooter, hoverboard gibi urunler cok ulkede yasaklidir."
+    },
+    {
+      "id": 158,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "taklit sahte urun gumruk marka ihlal korsan ceza",
+      "soru": "E-ticaretten gelen taklit urun gumrukte yakalanirsa ne olur?",
+      "cevap": "Taklit urun gumruk sonuclari: 1) MUSADERE: Esya gumruk idaresine el konulur, 2) IMHA: Taklit urunler imha edilir (sahibine iade edilmez), 3) VERGI CEZASI: Eksik vergi beyani varsa vergi ziyai cezasi, 4) MARKA IHLAL CEZASI: 6769 sayili Sınai Mülkiyet Kanunu kapsaminda 1-3 yil hapis veya adli para cezasi, 5) TICARI HACIM: Ticari miktarda (50+ adet) yakalanirsa ceza agirlasir, 6) KARA LISTE: Tekrarlayan ihlallerde gumrukte 'takip listesi'ne alinma. Kisisel kullanim amacli 1-2 adet taklit urunde genellikle musadere ve imha yeterli olur."
+    },
+    {
+      "id": 159,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "e-ticaret iade geri gonderme return gumruk islem",
+      "soru": "E-ticaretten alinan urunun iadesi (return) gumruk islemleri nasil yapilir?",
+      "cevap": "E-ticaret iade gumruk islemleri: 1) IADE NEDENI: Bozuk/defolu urun, yanlis urun, memnuniyetsizlik, 2) SATICI ILE ILETISIM: Iade onayi ve iade adresi alma (RA - Return Authorization), 3) KARGO: Iade kargo etiketi (satıcı tarafindan gonderilirse kolay), 4) GUMRUK CIKISI: Eksport/Re-ihracat beyannamesi (ETGB veya normal), 5) GUMRUK VERGI IADESI: Ithalatta odenen gumruk vergileri iade edilebilir (6 ay icinde), 6) KDV IADESI: Iade edilen urun icin KDV iadesi talep edilebilir. Iade icin orijinal gumruk beyannamesi ve iade belgesi gereklidir."
+    },
+    {
+      "id": 160,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "e-ticaret gumruk vergi iade talep surec belge",
+      "soru": "E-ticaret ithalatinda odenen gumruk vergileri nasil iade alinir?",
+      "cevap": "E-ticaret vergi iadesi: IADE HAKKI: Urun iade edilirse, yanlis vergi tahsil edilirse, muafiyete tabi oldugu halde vergi alinmissa. SUREC: 1) IADE TALEP FORMU: Gumruk mudurlugune yazili basvuru (6 ay icinde), 2) BELGELER: Orijinal beyanname, fatura, iade kargo dokumu, 3) INCELEME: Gumruk idaresi iade talebini inceler, 4) ONAY: Hakli bulunursa vergi iadesi onaylanir, 5) ODEME: Iade, musterinin banka hesabina yapilir (30-90 gun). Mikro ihracat KDV istisnasi otomatik uygulanir, iade gerektirmez."
+    },
+    {
+      "id": 161,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "hediye gonderi esya gumruk kural muafiyet limit kisi",
+      "soru": "Yurtdisindan hediye gelen esyada gumruk kurallari nasildir?",
+      "cevap": "Yurtdisindan hediye gumruk kurallari: MUAFIYET: 30 Euro'ya kadar gumruk vergisi, KDV ve OTV muaf (kisisel hediye). SARTLAR: 1) Gercekten hediye olmali (tanimis kisi tarafindan), 2) Ticari amacli olmamali, 3) Gunde max 5 adet (yolcu/posta), 4) Yilda 30.000 Euro'yu asmamali (bireysel). LIMIT ASIMI: 30-1500 Euro arasi ETGB ile %10-20 gumruk vergisi + %20 KDV. YASAKLI HEDIYELER: Alkol (limitli), tütün (limitli), silah, uyusturucu, tehlikeli madde. Hediye oldugunu gosteren not/fatura eklenebilir."
+    },
+    {
+      "id": 162,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "numune ornek gonderi gumruk deger muafiyet ticari amac",
+      "soru": "Yurtdisindan numune (ornek) urun gelmesinde gumruk islemleri nasildir?",
+      "cevap": "Numune urun gumruk islemleri: DEGERI DUSUK (30 Euro alti): De Minimis muafiyet uygulanir. TICARI NUMUNE: 1) Numune oldugunu gosteren fatura/proforma, 2) 'Numune - Satislik Degil' ibaresi, 3) Degeri dusuk beyan edilir (maliyet bedeli), 4) ETGB veya normal beyanname. KISITLAR: 1 numune serbest, 2-5 adet numune kabul edilebilir, 10+ adet 'toptan numune' sulphesiyle gumruk incelemesine tabi. Gida, kozmetik, ilac numuneleri ozel izne tabi olabilir."
+    },
+    {
+      "id": 163,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "kargo takip no beyan esleme gumruk sistem sorgulama",
+      "soru": "Kargo takip numarasi ile gumruk beyanname durumu nasil sorgulanir?",
+      "cevap": "Kargo takip/gumruk sorgulama: 1) KARGO FIRMASI: DHL, FedEx, UPS web sitesi uzerinden takip numarasi ile 'Customs Status' gorulebilir, 2) E-GUMRUK: 'Beyanname Sorgulama' ekranindan ETGB numarasi ile, 3) PTT: PTT kargo takip ekranindan gumruk durumu, 4) DURUMLAR: 'In Transit' -> 'Customs Processing' -> 'Cleared' -> 'Out for Delivery', 5) GECIKME: 'Held in Customs' durumunda kargo firmasini arayip vergi odemesi yapilmasi gerekir. Gumruk memurlarinin el yazisi notlari veya ekleme kodlari da sistemde gorunur."
+    },
+    {
+      "id": 164,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "yurtdisi alisveris limit yillik toplam gumruk vergi",
+      "soru": "Bireysel yurtdisi alisveriste yillik limit ve vergi hesaplamasi nasildir?",
+      "cevap": "Bireysel yurtdisi alisveris limitleri: DE MINIMIS (Tek seferlik): 30 Euro'ya kadar gumruk vergisi + KDV + OTV muaf. YILLIK LIMIT: 2025 yili itibariyle bireysel e-ticaret alisverisinde 30.000 Euro yillik limit uygulanir. Bu limiti asan kisilerin sonraki alisverislerinde normal gumruk vergileri uygulanir (muafiyet yok). VERGI HESAPLAMA (30 Euro ustu): CIF degeri x Gumruk vergisi orani + (CIF + GV) x KDV %20. Ornegin 100 Euro degerinde giyim esyasi: GV %12 + KDV %20 = yaklasik 25-30 Euro vergi."
+    },
+    {
+      "id": 165,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "e-ticaret gumruk sorun gecikme cozum itiraz danisma",
+      "soru": "E-ticaret kargosu gumrukte takilirsa ne yapilmali?",
+      "cevap": "Gumrukte takilan kargo cozum adimlari: 1) KARGO FIRMASI ILETISIM: Takip numarasi ile kargo sirketini arayin, gumruk durumunu ogrenin, 2) VERGI BORCU: Var ise online veya kapida odeme yapin, 3) EK BELGE: Gumruk istenen belgeyi (fatura, odeme kanyi) kargo firmasina iletin, 4) E-GUMRUK DANISMA: Alo 189 (Gumruk Danisma Hatti), 5) GUMRUK MUSAVIRI: Karmasik durumlarda profesyonel yardim, 6) ITIRAZ: Gumruk kararina itiraz (15 gun icinde), 7) IADE: Urunu geri gonderme (kargo firmasi araciligiyla). Genellikle %80 sorun vergi odemesi ile cozulur."
+    },
+    {
+      "id": 166,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "etgb ihracat belge sözleşme platform kargo anlaşma",
+      "soru": "ETGB ile ihracatta hangi belgeler ve sozlesmeler gereklidir?",
+      "cevap": "ETGB ihracat belgeleri: 1) E-FATURA/E-ARSIV: Yurtdisi musteriye kesilen KDV %0 fatura, 2) PAKET LISTESI: Icerik, adet, agirlik, boyut, 3) KARGO SEVKIYAT FORMU: Kargo firmasinin doldurdugu form, 4) PROFORMA FATURA: On odeme alindiysa, 5) ALICI BEYANI: Bazi ulkelerde musteri beyani, 6) IHRACAT SOZLESMESI: Platform (Amazon, eBay) uzerinden yapilan satis sozlesmesi, 7) ODEME KANITI: PayPal, Stripe odeme dokumu, 8) MENŞE BEYANI: Gerekirse ATR veya menşe sertifikasi. ETGB duzenlenirken bu belgeler kargo firmasina verilir."
+    },
+    {
+      "id": 167,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "e-ihracat destek tesvik hibe eximbank kosgeb devlet",
+      "soru": "E-ihracat yapanlara devlet destekleri ve tesvikleri nelerdir?",
+      "cevap": "E-ihracat devlet destekleri: 1) EXIMBANK E-IHRACAT KREDISI: Dusuk faizli ihracat finansmani, 2) KOSGEB E-TICARET DESTEGI: KOBİ'lere e-ihracat egitimi ve danismanlik destegi, 3) TICARET BAKANLIGI Pazar Destegi: Yeni pazarlara giris destegi (fuara katilim, pazar arastirmasi), 4) UR-GE (Uluslararasi Rekabetci Yetkinlik): E-ihracat projelerine hibe, 5) VERGI ISTISNALARI: KDV %0, gumruk vergisi muafiyeti, 6) DOVIZ KAZANDIRICI HIZMET: Dijital hizmet ihracati tesvikleri, 7) E-TICARET PLATFORM KOMISYON DESTEGI: Bazi platformlara giris destegi. Basvuru: Ticaret Il Mudurlugu, KOSGEB, Eximbank."
+    },
+    {
+      "id": 168,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "cross-border e-ticaret sinir otesi gumruk fark ulke",
+      "soru": "Cross-border (sınır ötesi) e-ticarette gumruk farklılıkları nelerdir?",
+      "cevap": "Cross-border gumruk farkliliklari: 1) ULKE VERGI ORANLARI: Her ulkenin gumruk vergisi ve KDV orani farkli (AB'de KDV %19-27 arasi), 2) LIMITLER: De Minimis limitleri ulkeye gore degisir (AB 150 Euro, ABD 800 USD, UK 135 GBP), 3) YASAKLI URUN: Bazi ulkelerde yasak olan digerinde serbest (ornegin kozmetik bilesenleri), 4) ETGB/ESIN: Her ulkenin kendine ozel elektronik gumruk sistemi, 5) TASIMA KISITLARI: Lityum pil kurallari her ulkede farkli, 6) DDP/DAP: Bazi ulkelerde DDP zorunlu (musteri vergi odemesin diye), 7) CE ISARETI: AB'ye satista CE zorunlu. Ulkeye ozel gumruk arastirmasi yapilmalidir."
+    },
+    {
+      "id": 169,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "amazon fbm fba lojistik karsilastirma gumruk satici",
+      "soru": "Amazon FBM (Fulfillment by Merchant) ile FBA arasindaki gumruk farki nedir?",
+      "cevap": "Amazon FBM vs FBA gumruk farki: FBM: 1) Satıcı kendi adina gumruk islemini halleder, 2) Kargo aliciya gider, gumruk vergisini alici oder (DAP), 3) Gumruk musaviri veya kargo firmasi araciligiyla, 4) Daha dusuk gumruk maliyeti (DDP yok). FBA: 1) Satıcı stoku Amazon deposuna gonderir, 2) Gumruk cikisi Turkiye'den ETGB/normal beyanname, 3) Varis ulkesinde Amazon'un lojistik ortagi gumruk islemini yapar (DDP), 4) Gumruk vergileri satıcı tarafindan onceden odenir, 5) Musteri gumruk vergisi odemez. FBA gumruk maliyeti yuksek ama musteri deneyimi ustun."
+    },
+    {
+      "id": 170,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "e-ticaret gumruk vergisi hesaplama ornek hesaplayici",
+      "soru": "E-ticaretten alinan bir urunun gumruk vergisi hesaplamasi nasil yapilir? Ornek verin.",
+      "cevap": "Ornek: 200 Euro degerinde giyim esyasi (GTIP: 6109.10), Gumruk vergisi %12, KDV %20, OTV yok. Hesaplama: 1) CIF = 200 Euro, 2) Gumruk Vergisi = 200 x %12 = 24 Euro, 3) OTV = 0, 4) KDV Matrahi = 200 + 24 = 224 Euro, 5) KDV = 224 x %20 = 44.80 Euro, 6) TOPLAM VERGI = 24 + 44.80 = 68.80 Euro. Esyanin toplam maliyeti: 200 + 68.80 = 268.80 Euro. Kargo firmasi bu tutari kapida tahsil eder. 30 Euro alti olsaydi vergi 0 olurdu."
+    },
+    {
+      "id": 171,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "e-ticaret kargo sigorta hasar kayip tazmin talep",
+      "soru": "E-ticaret kargosunda hasar veya kayip durumunda ne yapilmali?",
+      "cevap": "E-ticaret kargo hasar/kayip: 1) TESLIMAT ANINDA: Kargoyu acmadan hasarli gorunuyorsa 'Hasarli Teslimat' tutanagi isteyin, 2) HASARLI URUN: Fotoğraf cekin, satıcıya ve kargo firmasina bildirin, 3) KAYIP: Takip numarasi ile kargo firmasina kayip bildirimi, 4) SIGORTA: Degerli urunlerde kargo sigortasi yaptirin (CIF degerinin %110'u), 5) TAZMINAT: Kargo firmasi sorumlulugunu kabul ederse tazminat oder (deger beyanina gore), 6) IADE: Satıcı yeni urun gonderir veya para iadesi yapar, 7) GUMRUK HASARI: Gumruk muayenesi sirasinda hasar olursa gumruk tutanagi tutulur. Sure: Kayip 30 gun, hasar 7 gun icinde bildirilmeli."
+    },
+    {
+      "id": 172,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "e-ticaret gumruk istatistik veri analiz pazar trend",
+      "soru": "E-ticaret gumruk istatistikleri nasil takip edilir ve pazar analizi yapilir?",
+      "cevap": "E-ticaret gumruk istatistikleri: 1) TUIK: Turkiye Istatistik Kurumu aylik dis ticaret istatistikleri (GTIP bazli), 2) TICARET BAKANLIGI: E-ticaret raporlari ve sektor analizleri, 3) E-GUMRUK: Firmanizin kendi ithalat/ihracat istatistikleri, 4) PATFORM VERILERI: Amazon Best Sellers, eBay Trending, Google Trends, 5) KARGO FIRMALARI: Aylik sevkiyat raporlari ve en cok gonderilen ulkeler, 6) GUMRUK VERGI GELIRLERI: Maliye Bakanligi yillik raporlar. Pazar analizi: Hangi urunler cok ithal ediliyor, hangi ulkelere cok ihrac ediliyor, mevsimsel trendler, vergi oranlari degisiklikleri."
+    },
+    {
+      "id": 173,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "e-ticaret mali kayit defter belge saklama yukumluluk",
+      "soru": "E-ticaret yapanlarin mali kayit ve belge saklama yukumlulukleri nelerdir?",
+      "cevap": "E-ticaret mali yukumlulukler: 1) E-DEFTER: Bilanço esasina gore kayit tutanlar icin e-Defter zorunlu, 2) E-FATURA/E-ARSIV: Yurtdisi satislarda e-Fatura (KDV %0), yurtici satislarda e-Arsiv, 3) BELGE SAKLAMA: Gumruk beyannameleri, faturalar, kargo dokumleri 5 yil saklanmali, 4) KDV BEYANNAMESI: Aylik/KDV beyannamesi ile e-ihracat bildirimi, 5) GELIR VERGISI: E-ihracat geliri gelir vergisine tabi, 6) DAMGA VERGISI: E-ihracat muaf, 7) DOVIZ BILDIRIMI: Yurtdisi gelirler Merkez Bankasina bildirilir. Serbest meslek makbuzu kesenler basit usulde kayit tutabilir."
+    },
+    {
+      "id": 174,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "gumruk birligi ab e-ticaret otv kdv vergi ozel",
+      "soru": "AB Gumruk Birligi ulkelerine e-ihracatta ozel vergi durumu nedir?",
+      "cevap": "AB Gumruk Birligi e-ihracat: 1) GUMRUK VERGISI: AB'ye ihracatta gumruk vergisi %0 ( Gumruk Birligi anlasmasi), 2) KDV: Ihracat KDV'si %0, 3) AB KDV'SI: Alici ulkesinde KDV odenir (ornegin Almanya %19), 4) OTV: OTV'ye tabi urunlerde OTV %0 ihracatta, 5) KONTROL: Standart gumruk kontrolu ama Gumruk Birligi basitlestirmesi, 6) BELGE: A.TR Dolasim Belgesi veya EUR.1 Menşe Sertifikasi, 7) CE ISARETI: AB mevzuatina uygunluk zorunlu. Amazon.de, Amazon.fr gibi AB platformlarinda DDP kullanildiginda AB gumruk vergileri satıcı tarafindan odenir."
+    },
+    {
+      "id": 175,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "e-ticaret guvenli odeme paypal stripe kredi karti",
+      "soru": "E-ticarette guvenli odeme yontemleri ve gumruk iliskisi nedir?",
+      "cevap": "E-ticaret odeme ve gumruk iliskisi: ODEME YONTEMLERI: 1) PayPal: En yaygin, alici korumasi var, 2) Stripe: Kredi karti islemleri, 3) Wise (TransferWise): Dusuk kur farki ile para transferi, 4) Payoneer: E-ticaret odeme platformu, 5) Kredi Karti: VISA/MasterCard ile direkt odeme. GUMRUK ILISKISI: Odeme kanyi (receipt) gumrukte deger ispati olarak kullanilabilir, gumruk deger sulphesi varsa PayPal/Stripe ekstresi istenebilir. Kargo firmasi gumruk vergisini genellikle kapida (COD) tahsil eder, odeme yontemi farkli olsa bile."
+    },
+    {
+      "id": 176,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "e-ticaret musteri hizmetleri iade sikayet cozum destek",
+      "soru": "E-ticaret musteri hizmetlerinde gumruk konusunda musteriye nasil destek verilir?",
+      "cevap": "E-ticaret gumruk musteri destegi: 1) ON BILGILENDIRME: Urun sayfasinda 'Gumruk vergisi aliciya aittir' ibaresi, 2) VERGI HESAPLAYICI: Web sitesine gumruk vergi tahmini hesaplayici koyma, 3) KARGO SECENEKLERI: DDP (vergisi dahil) ve DAP (vergisi haric) secenekleri sunma, 4) IADE POLITIKASI: Gumruk vergisi odemis musterinin iadesinde vergi iadesi proseduru, 5) DESTEK HATTI: Gumruk sorulari icin ozel destek hatti veya SSS (SSS) bolumu, 6) BEYAN DESTEGI: Kargo firmasina musteri bilgilerini otomatik iletme, 7) SIGORTA: Hasar/kayip durumunda sigorta secenegi. Seffaf iletisim musteri memnuniyetini artirir."
+    },
+    {
+      "id": 177,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "e-ticaret yazilim entegrasyon api gumruk otomasyon",
+      "soru": "E-ticaret yazilimlarinin gumruk sistemleriyle entegrasyonu nasil saglanir?",
+      "cevap": "E-ticaret gumruk entegrasyonu: 1) KARGO API: DHL, FedEx API ile otomatik gumruk belgesi olusturma, 2) ETGB API: E-Gumruk sistemine XML/JSON formatinda entegrasyon, 3) MUHASEBE ENTegrasyonu: SAP, Logo, Netsis ile gumruk vergi kaydi otomatik aktarimi, 4) PLATFORM API: Amazon MWS, eBay API ile siparis-gumruk eslestirme, 5) OZEL YAZILIM: Gumruk musaviri yazilimlari ile otomasyon (Tetrix, OFT gibi), 6) RPA (Robotik): Tekrarlayan gumruk islemlerini otomatiklestirme. Entegrasyon avantajlari: Hata azalmasi, hizli islem, maliyet dususu, musteri takibi kolayligi."
+    },
+    {
+      "id": 178,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "e-ticaret etik ambalaj cevre geri donusum gumruk",
+      "soru": "E-ticarette cevre ve ambalaj duzenlemeleri gumrukten gecerken nasil uygulanir?",
+      "cevap": "E-ticaret cevre duzenlemeleri: 1) AMBALAJ ATIGI: Turkiye'de 'Sifir Atik' yonetmeligi kapsaminda ambalajli urunlerin geri donusumu, 2) ELEKTRONIK ATIK (AEEE): Elektronik urunler icin geri alim sorumlulugu, 3) PILLI ATIK: Lityum pil iceren urunlerin ozel ambalajlanmasi, 4) PLASTIK AMBALAJ: Bazi ulkelerde plastik ambalaj vergisi (UK Plastik Ambalaj Vergisi), 5) GERI DONUSUM ETiKETI: Ambalaj uzerinde geri donusum sembolu zorunlu (AB), 6) GUMRUK KONTROLU: Yasakli ambalaj maddeleri (asbest, CFC) tespit edilirse esya geri gonderilir. Cevre dostu ambalaj hem gumruk hem mustteri memnuniyeti icin onemlidir."
+    },
+    {
+      "id": 179,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "e-ticaret yasal sorumluluk satici alici tuketici hakki",
+      "soru": "E-ticarette tuketicinin yasal haklari ve gumruk sorumluluklari nelerdir?",
+      "cevap": "E-ticaret tuketici haklari (6502 sayili TUKETICI KANUNU): 1) CAYMA HAKKI: 14 gun icinde sebep gostermeden iade (distance selling), 2) GUMRUK VERGISI: Cayma hakki kullanilirsa gumruk vergisi iadesi talep edilebilir, 3) AYIPLI MAL: Urun ayipli/defolu ise iade+geri odeme+hak, 4) GIZLI AYIP: 2 yil icinde ortaya cikan gizli ayiplarda satici sorumlu, 5) GUMRUK CEZASI: Satıcinin yanlis beyani yuzunden aliciya gumruk cezasi gelirse satıci sorumlu olabilir, 6) BILGILENDIRME: Satıcinin gumruk vergisi, kargo suresi, iade politikasi hakkinda dogru bilgi verme yukumlulugu. Gumruk vergisi genellikle aliciya aittir (DAP)."
+    },
+    {
+      "id": 180,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "e-ticaret vergi denetim risk inceleme maliye sorgu",
+      "soru": "E-ticaret yapanlar vergi denetimine nasil hazirlanmali?",
+      "cevap": "E-ticaret vergi denetimi hazirligi: 1) E-DEFTER/E-FATURA: Tum kayitlarin eksiksiz ve duzenli tutulmasi, 2) GUMRUK BEYANNAMELERI: Tum ETGB ve beyannamelerin arsivlenmesi, 3) BANKA EKSTRELERI: Yurtdisi odemelerin kaydi (PayPal, Stripe, Wise), 4) KARGO DOKUMLERI: Tum sevkiyatlarin takip numarasi ve gumruk dokumu, 5) PLATFORM RAPORLARI: Amazon, eBay aylik satis raporlari, 6) GIDER FATURALARI: Kargo, platform komisyonu, ambalaj giderleri, 7) MENŞE BELGELERI: Gerekli durumlarda urun menşeinin ispatı. Denetimde Gumruk, Maliye ve Ticaret Bakanligi yetkilileri inceleme yapabilir."
+    },
+    {
+      "id": 181,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "e-ticaret gelecek trend yapay zeka blockchain gumruk",
+      "soru": "E-ticaret gumruk islemlerinde gelecek trendleri nelerdir?",
+      "cevap": "E-ticaret gumruk gelecek trendleri: 1) YAPAY ZEKA: Gumruk risk analizinde AI kullanimi, otomatik siniflandirma, 2) BLOCKCHAIN: Gumruk belgelerinin blockchain uzerinde dogrulanmasi, sahtecilik onleme, 3) OTONOM GUMRUK: Robotik gumruk kapilari, otomatik tarama ve onay, 4) DRONE TESLIMAT: Hava araclariyla gumruk islemleri, 5) DIJITAL GUMRUK: Tum gumruk sureclerinin dijitallesmesi, kagitsiz islem, 6) KIŞISELLESSIRILMIS VERGI: Kisisel alisveris vergilendirmesi, 7) CEVRE VERGISI: Karbon ayak izi vergisi, plastik ambalaj vergisi, 8) CROSS-BORDER OTOMASYON: Ulke-oturak gumruk otomasyonu. Turkiye'de E-Gumruk sistemi bu trendlere uygun gelistirilmektedir."
+    },
+    {
+      "id": 182,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "e-ticaret kayit olusturma baslangic adim rehber",
+      "soru": "E-ticaret ile ihracata baslamak icin hangi adimlar izlenmeli?",
+      "cevap": "E-ihracat baslangic rehberi: 1) SIRKET KURULUMU: Sirket veya serbest meslek kaydi, 2) VERGI KAYDI: Vergi dairesine kayit, 3) E-GUMRUK KAYDI: TC No ile E-Gumruk sistemine kayit, 4) E-FATURA/E-ARSIV: GIB uzerinden e-Fatura musavirlik kaydi, 5) BANKA HESABI: Doviz hesabi acilmasi, 6) PLATFORM KAYDI: Amazon, eBay, Etsy hesabi olusturma, 7) KARGO ANLASMASI: DHL, FedEx ile anlasma ve tarife alma, 8) GUMRUK DANISMANI: Gumruk musaviri veya kargo firmasinin gumruk departmaniyla gorusme, 9) ILK SEVKIYAT: Test sevkiyati ile sistemi ogrenme."
+    },
+    {
+      "id": 183,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "gumruk beyan turkce ingilizce ceviri tercume yeminli",
+      "soru": "E-ticaret gumruk belgelerinde yabanci dildeki belgeler nasil kullanilir?",
+      "cevap": "Gumruk belge tercume: 1) INGILIZCE BELGELER: Gumruk idaresi genellikle Ingilizce fatura ve belgeleri kabul eder (uluslararasi ticaret dili), 2) TURKCE TERCUME: Diger dillerdeki (Cince, Arapca vb.) belgeler icin yeminli tercuman cevirisi gerekir, 3) BEYANNAME DILI: Gumruk beyannamesi Turkce doldurulur, 4) PLATFORM CIKTILARI: Amazon faturalari Ingilizcedir, gumrukta kullanilabilir, 5) MENŞE SERTIFIKASI: Genellikle Ingilizce veya ulke dilinde olur, yeminli cevirisi gerekebilir, 6) PROFORMA FATURA: Her dilde duzenlenebilir, gumruk kabul eder. Noter onayli/yeminli cevirisi gereken belgeler: Kimlik, imza sirkuleri, vekaletname."
+    },
+    {
+      "id": 184,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "e-ticaret urun siniflandirma gtip kodu bulma hesap",
+      "soru": "E-ticaret urunlerinin GTIP kodu nasil bulunur ve beyannameye nasil yazilir?",
+      "cevap": "E-ticaret GTIP bulma: 1) TICARET BAKANLIGI: GTP.org.tr uzerinden urun arama, 2) GUMRUK TARIFE CETVELI: HS kodu (6 hane) + ulke ek haneleri = GTIP (8-10 hane), 3) KARGO FIRMASI: Kargo firmasi GTIP tespiti yapabilir, 4) GUMRUK MUSAVIRI: Profesyonel siniflandirma, 5) PLATFORM BILGISI: Amazon urun detayinda GTIP/HS kodu olabilir. BEYANNAMEYE YAZMA: GTIP 8-10 hane olarak girilir (ornegin 8517.12.00.00.11 - Akilli telefon). Yanlis GTIP = yanlis vergi orani = ceza riski."
+    },
+    {
+      "id": 185,
+      "kategori": "modul_4_etgb",
+      "anahtar_kelime": "e-ticaret ozel urun gida kozmetik ilac elektronik gumruk",
+      "soru": "E-ticaretten ozel urun grubu (gida, kozmetik, ilac, elektronik) ithalatinda gumruk kuralari nelerdir?",
+      "cevap": "Ozel urun gumruk kurallari: GIDA: Tarim Bakanligi izni, son kullanma tarihi kontrolu, ithalat izni (bazi gidalarda). KOZMETIK: Saglik Bakanligi bildirimi, icerik kontrolu, Turkce etiket zorunlu. ILAC: Ecza mudurlugu izni, recete gerekebilir, kisisel kullanim limiti (3 aylik doz). ELEKTRONIK: CE/FCC isareti, lityum pil kurallari, AEEE kaydi. TEKSTIL: Menşe etiketi, alev almazlik sertifikasi (bazi ulkelerde). OYUNCAK: CE isareti, yas grubu etiketi, EN 71 standardi. Her urun grubu farkli izin ve kontrole tabidir."
     }
   ]
 }
