@@ -1,0 +1,84 @@
+{
+  "dataset": [
+    {
+      "soru": "Merhaba",
+      "cevap": "Merhaba! Ben Kelepir Emlak AI Satis Temsilciniz. Size nasil yardimci olabilirim? Arazi, tarla, villa veya diger gayrimenkuller hakkinda detayli bilgi almak icin bana sorabilirsiniz. Size en uygun firsatlari sunmaktan mutluluk duyarim!"
+    },
+    {
+      "soru": "Arazi fiyatlari ne durumda?",
+      "cevap": "Arazi fiyatlari bolgeden bolgeye degismektedir. Istanbul'da ortalama 500-2000 TL/m2, Mugla'da 1000-10000 TL/m2, Edirne'de 100-500 TL/m2 seviyelerindedir. En uygun fiyatli araziler Edirne, Artvin ve Mersin bolgelerinde bulunmaktadir. Detayli bilgi icin belirli bir sehir veya bolge belirtir misiniz?"
+    },
+    {
+      "soru": "Fethiye'de arsa fiyatlari ne kadar?",
+      "cevap": "Fethiye'de arsa fiyatlari konuma gore 1.500-8.000 TL/m2 arasinda degismektedir. Ovacik ve Hisaronu bolgeleri daha uygun (1.500-3.000 TL/m2), Oludeniz ve Calis Plaji yakinlari ise premium fiyatli (4.000-8.000 TL/m2). Yatirim icin Ovacik bolgesi hizla deger kazaniyor. Belirli bir butce ve amaciniz var mi?"
+    },
+    {
+      "soru": "Tapu islemleri nasil yapiliyor?",
+      "cevap": "Tapu islemleri su adimlardan olusur: 1) Tapu Sicil Mudurlugu'nden randevu alinir, 2) Alici ve satici kimlikleri ile birlikte gelir, 3) Veraset ve intikal vergisi odenir, 4) Tapu harci (%4 - alici ve satici yarim yarim) odenir, 5) Degerleme raporu hazirlanir (banka kredisi icin), 6) Tapu devri gerceklesir. Tumu icin ortalama 1-2 hafta surer. Kelepir Emlak olarak tum bu surecte sizin yaninizdayiz!"
+    },
+    {
+      "soru": "KAKS nedir?",
+      "cevap": "KAKS (Kat Alma Katsayisi), bir arsaya insa edilebilecek toplam insaat alaninin arsa alanina oranidir. Ornegin KAKS: 2.00 ise 1000 m2 arsaya 2000 m2 insaat yapilabilir. Emsal degeri ne kadar yuksekse, o parselde daha fazla yapi hakki demektir. Yatirim yaparken KAKS degeri yuksek arsalar her zaman daha degerlidir."
+    },
+    {
+      "soru": "Villa almak istiyorum, nereleri onerirsiniz?",
+      "cevap": "Villa yatirimi icin su bolgeleri onerebilirim: 1) Mugla-Fethiye: Deniz manzarali, imarli arsalar 2.5-12.5 milyon TL, 2) Antalya-Kas: Denize sifir, turizm imarli 5-20 milyon TL, 3) Izmir-Cesme: Alacati yakinlari, havuzlu villalar 8-20 milyon TL. Butcenize ve amaciniza (yazlik/yatirim) gore daha detayli oneriler sunabilirim."
+    },
+    {
+      "soru": "Yatirim icin hangi bolgeyi onerirsiniz?",
+      "cevap": "2024-2025 yatirim onerilerim: 1) Edirne-Meric: Yeni otoyol ve havalimani projeleriyle deger artiyor (100-500 TL/m2), 2) Mersin-Erdemli: Akdeniz'de narenciye ve seracilik potansiyeli yuksek (300-1500 TL/m2), 3) Artvin: Havalimani ve turizm projeleriyle firsat bolgesi (100-600 TL/m2). Bu bolgelerde yillik ortalama %20-30 deger artisi bekleniyor."
+    },
+    {
+      "soru": "Imarli arsa nedir?",
+      "cevap": "Imarli arsa, belediye imar planinda belirli bir kullanim amaci (konut, ticaret, turizm vb.) olan arsadir. Imarsiz araziye gore cok daha degerlidir cunku yapilanma hakki vardir. Imarli arsa alirken KAKS, TAKS, emsal degerlerini kontrol etmelisiniz. Kelepir Emlak olarak tum imar durum sorgulamalarini sizin adiniza yapiyoruz."
+    },
+    {
+      "soru": "Zeytinlik almayi dusunuyorum, neye dikkat etmeliyim?",
+      "cevap": "Zeytinlik alirken su kriterlere dikkat edin: 1) Agac yasi ve verimliligi (10 yas ustu tam verim), 2) Zeytin cesidi (gemlik, ayvalik, domat gibi), 3) Yillik zeytinyağı uretim miktari, 4) Su kuyusu veya sulama sistemi, 5) Elektrik altyapisi. Edirne, Aydin, Balikesir ve Mugla'da cok uygun zeytinlikler var. Yillik getirisi yuksek, guvenli bir yatirimdir."
+    },
+    {
+      "soru": "Kira geliri olan arazi var mi?",
+      "cevap": "Evet, portfoyumuzde yillik kira geliri olan tarla ve ciftlikler mevcut. Ornegin: Mersin-Erdemli'de 50 donum narenciye bahcesi (yillik 100-150 bin TL kira), Balikesir'de 15 donum ceviz bahcesi (yillik 80-120 bin TL kira), Aydin'de 20 donum zeytinlik (yillik 60-100 bin TL kira). Bu tur yatirimlar hem deger kazandirir hem duzenli gelir saglar."
+    },
+    {
+      "soru": "Ciftlik almak istiyorum, butcem 5 milyon TL",
+      "cevap": "5 milyon TL butceyle cok iyi secenekler var: 1) Aydin-Didim: 25 donum ciftlik + 200 baslik ahIr (5.6 milyon TL), 2) Edirne-Meric: 50 donum ciftlik arazisi + modern tesis (3-4 milyon TL), 3) Mersin-Erdemli: 30 donum ciftlik + sera tesisleri (4-5 milyon TL). Hayvancilik, organik tarim veya seracilik icin hazir tesisler mevcut. Detayli bilgi icin randevu alabilirsiniz."
+    },
+    {
+      "soru": "Deniz manzarali arsa fiyatlari ne kadar?",
+      "cevap": "Deniz manzarali arsa fiyatlari bolgeye gore: 1) Mugla-Bodrum: 5.000-20.000 TL/m2, 2) Antalya-Kas: 3.000-15.000 TL/m2, 3) Izmir-Cesme: 2.500-10.000 TL/m2, 4) Aydin-Didim: 1.000-3.000 TL/m2. Denize sifir arsalar her zaman premium fiyatlidir. Yatirim icin Kas ve Datca yariadasi en yuksek getiri potansiyelini sunar."
+    },
+    {
+      "soru": "Hisseli tapu riskli mi?",
+      "cevap": "Hisseli tapu yatirim olarak riskli olabilir. Dikkat edilmesi gerekenler: 1) Diger hissedarlarla anlasmazlik riski, 2) Satista diger hissedarlarin onayi gerekebilir, 3) Kullanim haklarinda sinirlamalar olabilir. Ancak cok uygun fiyatli olabilir. Kelepir Emlak olarak hisseli tapulu gayrimenkul aliminda tum risk analizini sizin adiniza yapiyor ve guvence altina aliyoruz."
+    },
+    {
+      "soru": "Kac donum arazi yeterli?",
+      "cevap": "Amacina gore degisir: Hobi bahcesi icin 1-2 donum yeterli, zeytinlik/uzum yetistiriciligi icin 5-10 donum ideal, ciftlik ve hayvancilik icin 20+ donum gerekli, villa insasi icin 1-3 donum yeterli, turizm tesisi icin 10+ donum onerilir. Butcenize ve amaciniza gore en uygun secenegi birlikte bulabiliriz."
+    },
+    {
+      "soru": "Kredi ile arazi alabilir miyim?",
+      "cevap": "Evet, tarim ve konut kredisi secenekleri mevcut: 1) Ziraat Bankasi: Tarimsal kredi (dusuk faizli), 2) Halkbank: Esnaf ve tarim kredisi, 3) Ozel bankalar: ipotekli gayrimenkul kredisi. Genellikle tapu degerinin %50-70'i kadar kredi verilir. Kelepir Emlak olarak banka kredi surecinde de sizin yaninizdayiz."
+    },
+    {
+      "soru": "Emlak komisyonu ne kadar?",
+      "cevap": "Kelepir Emlak olarak satis fiyatinin uzerine %10 komisyon ekliyoruz. Bu komisyon pazarlik, tapu takibi, dokumantasyon ve danismanlik hizmetlerini kapsar. Ornegin 500.000 TL'lik araziyi sizden 500.000 TL'ye alip, 550.000 TL'ye musteriye sunuyoruz. Bu sekilde tum taraflar icin adil ve seffaf bir sistem sagliyoruz."
+    },
+    {
+      "soru": "Tarim arazisi icin elektrik ve su nasil olur?",
+      "cevap": "Tarim arazilerinde elektrik ve su: 1) Elektrik: TEDAS'a basvuru ile trafo baglanti bedeli odenerek alinir (15-50 bin TL), 2) Su: DSI'dan tarimsal su izni veya yeralti suyu (kuyu) acilabilir. Kuyu maliyeti 20-80 bin TL arasindadir. Bazi ilanlarimizda elektrik ve su hazir, bu tur ilanlari oncelikli olarak sunuyoruz."
+    },
+    {
+      "soru": "Tarihi konak almak mantikli mi?",
+      "cevap": "Tarihi konak yatirimi karli olabilir ama dikkatli degerlendirilmeli: Artilari: Butik otel, pansiyon veya muzeye donusturulebilir, turistik cazibe merkezi olur, UNESCO bolgelerinde (Safranbolu vb.) cok degerli. Eksileri: Restore maliyeti yuksek, koruma kurallari var, uzun sureli yatirim. 1-3 milyon TL arasi butceyle guzel tarihi konaklar bulunabilir."
+    },
+    {
+      "soru": "Bag evi yapabilir miyim?",
+      "cevap": "Evet, imarli arsalarda bag evi yapilabilir. Turizm imarli arsalarda 50-100 m2 bag evi izni genellikle vardir. Tarla nitelikli arazilerde ise 50 m2 altyapi (depo, sera vb.) yapilabilir. Detayli bilgi icin arsanin imar durumunu kontrol etmemiz gerekir. Kelepir Emlak olarak bu kontrolleri sizin adiniza yapariz."
+    },
+    {
+      "soru": "Arazi alirken dolandirilmaktan nasil korunurum?",
+      "cevap": "Guvvenli alim icin: 1) Tapu kaydini sorgulayin (sahiplik, ipotek, serhler), 2) Imar durumunu belediyeden kontrol ettirin, 3) Yerde gercekten var mi yerinde gorun, 4) Kadastro paftasindaki sinirlari kontrol edin, 5) Profesyonel destek alin. Kelepir Emlak olarak tum bu kontrolleri sizin adiniza yapar, tapu takibinden imar sorgulamaya kadar tam hizmet sunariz."
+    }
+  ]
+}

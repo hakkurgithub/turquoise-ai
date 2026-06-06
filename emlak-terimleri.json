@@ -1,0 +1,128 @@
+{
+  "terimler": [
+    {
+      "terim": "Tapu",
+      "aciklama": "Gayrimenkul uzerindeki mulkiyet hakkinin resmi belgesi. Tapu ve Kadastro Genel Mudurlugu (TKGM) tarafindan duzenlenir.",
+      "kategori": "Hukuki"
+    },
+    {
+      "terim": "Imar Durumu",
+      "aciklama": "Bir parselin hangi amacla kullanilabilecegini gosteren belediye plani. Konut, ticaret, sanayi, tarim gibi kategorilerden birine aittir.",
+      "kategori": "Hukuki"
+    },
+    {
+      "terim": "KAKS (Kat Alma Katsayisi)",n      "aciklama": "Bir arsaya insa edilebilecek toplam insaat alaninin, arsa alanina orani. Ornegin KAKS: 2.00 ise 1000 m2 arsaya 2000 m2 insaat yapilabilir.",
+      "kategori": "Teknik"
+    },
+    {
+      "terim": "Emsal",
+      "aciklama": "Imar planinda bir parsel icin belirlenen yapilasma hakkini gosteren katsayi. Emsal degeri ne kadar yuksekse, o parselde daha fazla yapi yapilabilir.",
+      "kategori": "Teknik"
+    },
+    {
+      "terim": "TAKS (Taban Alan Katsayisi)",
+      "aciklama": "Bir arsanin yuzde kacina yapi yapilabilecegini gosteren katsayi. TAKS: 0.20 ise 1000 m2 arsanin sadece 200 m2'sine bina yapilabilir.",
+      "kategori": "Teknik"
+    },
+    {
+      "terim": "Hisseli Tapu",
+      "aciklama": "Bir gayrimenkulun birden fazla kisi tarafindan ortaklasaya sahip olundugu tapu turu. Hisse oranlari tapuda belirtilir.",
+      "kategori": "Hukuki"
+    },
+    {
+      "terim": "Kat Irtifaki",
+      "aciklama": "Bina insaat tamamlanmadan once, arsa uzerindeki katlarin sahipligini gosteren gecici tapu turu. Kat mulkiyetine donusturulur.",
+      "kategori": "Hukuki"
+    },
+    {
+      "terim": "Kat Mulkiyeti",
+      "aciklama": "Bina tamamlandiktan sonra, her bir bagimsiz bolumun (daire, dukkan vb.) kendi tapusunun olmasi durumu.",
+      "kategori": "Hukuki"
+    },
+    {
+      "terim": "Cins Degisikligi",
+      "aciklama": "Bir gayrimenkulun tapudaki kullanim amacinin degistirilmesi islemi. Ornegin tarla vasifli arsanin arsa vasifli hale getirilmesi.",
+      "kategori": "Hukuki"
+    },
+    {
+      "terim": "Rayic Deger",
+      "aciklama": "Belediyelerin belirledigi, bir bolgedeki gayrimenkullerin metrekare birim fiyati. Vergi hesaplamalarinda kullanilir.",
+      "kategori": "Finansal"
+    },
+    {
+      "terim": "Deniz Manzarali",
+      "aciklama": "Gayrimenkulden denizin gorulebildigi konum. Tam manzara, yan manzara veya kismi manzara seklinde siniflandirilir.",
+      "kategori": "Ozellik"
+    },
+    {
+      "terim": "Yola Cepheli",
+      "aciklama": "Gayrimenkulun bir veya birden fazla kenarinin yola baktigi durum. Yola cepheli arsalar daha degerlidir.",
+      "kategori": "Ozellik"
+    },
+    {
+      "terim": "Zeytinlik",
+      "aciklama": "Zeytin agaclarinin yetistirildigi arazi. Tarla niteliginde olup, zeytin agaci sayisi ve verim yasi onemlidir.",
+      "kategori": "Tur"
+    },
+    {
+      "terim": "Bag",
+      "aciklama": "Uzum yetistiriciligi yapilan arazi. Saraplik veya sofralik uzum uretimi icin kullanilir.",
+      "kategori": "Tur"
+    },
+    {
+      "terim": "Ciftlik",
+      "aciklama": "Hayvan yetistiriciligi veya bitkisel uretim yapilan, genellikle barinak ve depolama yapilarini da iceren buyuk arazi.",
+      "kategori": "Tur"
+    },
+    {
+      "terim": "Hobi Bahcesi",
+      "aciklama": "Kucuk olcekli sebze, meyve ve cicek yetistiriciligi icin kullanilan, genellikle kent yakinlarinda bulunan kucuk araziler.",
+      "kategori": "Tur"
+    },
+    {
+      "terim": "Seracilik",
+      "aciklama": "Cam veya plastik ortamda kontrollu kosullarda bitki yetistiriciligi. Ozellikle domates, salatalik, biber gibi sebzeler icin uygundur.",
+      "kategori": "Tur"
+    },
+    {
+      "terim": "Konut Imarli",
+      "aciklama": "Imar planinda konut yapilasmasina izin veren arsa. Ev, villa, apartman insasi icin uygundur.",
+      "kategori": "Imar"
+    },
+    {
+      "terim": "Ticaret Imarli",
+      "aciklama": "Imar planinda ticari yapilasmasina (magaza, ofis, otel vb.) izin veren arsa.",
+      "kategori": "Imar"
+    },
+    {
+      "terim": "Turizm Imarli",
+      "aciklama": "Imar planinda turizm tesislerine (otel, motel, pansiyon vb.) izin veren arsa. Genellikle kiyi bolgelerinde bulunur.",
+      "kategori": "Imar"
+    },
+    {
+      "terim": "Kelepir",
+      "aciklama": "Piyasa degerinin altinda fiyatla satilan gayrimenkul. Genellikle acil satilik veya sahibinden direkt satis durumlarinda ortaya cikar.",
+      "kategori": "Genel"
+    },
+    {
+      "terim": "Pej Peyinverme",
+      "aciklama": "Gayrimenkulun kiralamada, kiralayanin kiraya verene onceden belirlenen miktarda para vermesi. Genellikle 1 yillik kira bedeli seklinde uygulanir.",
+      "kategori": "Finansal"
+    },
+    {
+      "terim": "Irtifak HakkI",
+      "aciklama": "Bir gayrimenkul uzerinde, baska bir kisinin belirli bir amacla kullanim hakkina sahip olmasi. Ornegin yol gecme hakki, su borusu gecme hakki.",
+      "kategori": "Hukuki"
+    },
+    {
+      "terim": "Sera",
+      "aciklama": "Cam veya plastik kapli, ic sicakligi kontrol edilebilen tarimsal uretim yapisi. Yil boyu uretim imkani saglar.",
+      "kategori": "Tur"
+    },
+    {
+      "terim": "Sulama Sistemi",
+      "aciklama": "Tarlalarda bitkilerin su ihtiyacini karsilamak icin kullanilan sistem. Damlama, yagmurlama, pivot gibi turleri vardir.",
+      "kategori": "Teknik"
+    }
+  ]
+}

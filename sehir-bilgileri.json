@@ -1,0 +1,100 @@
+{
+  "sehirler": [
+    {
+      "sehir": "Istanbul",
+      "ilceler": ["Arnavutkoy", "Sile", "Silivri", "Catalca", "Tuzla", "Pendik", "Buyukcekmece"],
+      "populerBolgeler": ["Arnavutkoy", "Sile", "Silivri"],
+      "araziOrtalamaFiyat": "500-2000 TL/m2",
+      "notlar": "Metropol alan disinda genis arazi ve tarla imkanlari. Arnavutkoy yeni havalimaniyla deger kazandi."
+    },
+    {
+      "sehir": "Izmir",
+      "ilceler": ["Cesme", "Urla", "Seferihisar", "Menderes", "Torbali", "Bergama", "Dikili"],
+      "populerBolgeler": ["Cesme-Alacati", "Urla", "Seferihisar"],
+      "araziOrtalamaFiyat": "800-5000 TL/m2",
+      "notlar": "Ege'nin incisi, tarim ve turizm emlakti cok degerli. Zeytinlik ve baglar populer."
+    },
+    {
+      "sehir": "Mugla",
+      "ilceler": ["Bodrum", "Fethiye", "Marmaris", "Datca", "Milas", "Dalaman", "Ortaca", "Koycegiz"],
+      "populerBolgeler": ["Bodrum", "Fethiye", "Marmaris", "Datca"],
+      "araziOrtalamaFiyat": "1000-10000 TL/m2",
+      "notlar": "Turizm cenneti. Bodrum ve Fethiye'de arsa ve arazi fiyatlari cok yuksek. Yatirim icin Dalaman, Ortaca, Koycegiz daha uygun."
+    },
+    {
+      "sehir": "Antalya",
+      "ilceler": ["Alanya", "Kas", "Kalkan", "Serik", "Kemer", "Manavgat", "Kumluca"],
+      "populerBolgeler": ["Alanya", "Kas-Kalkan", "Serik-Belek"],
+      "araziOrtalamaFiyat": "800-8000 TL/m2",
+      "notlar": "Turizm ve tarim sehri. Kas-Kalkan arasi deniz manzarali arsalar premium. Serik'te tarim arazileri uygun."
+    },
+    {
+      "sehir": "Aydin",
+      "ilceler": ["Didim", "Kusadasi", "Soke", "Nazilli"],
+      "populerBolgeler": ["Didim", "Kusadasi"],
+      "araziOrtalamaFiyat": "600-3000 TL/m2",
+      "notlar": "Ege'de tarim bolgesi. Zeytinlik, incirlik ve tarla arazileri populer. Didim ve Kusadasi'nda turizm imarli arsalar degerli."
+    },
+    {
+      "sehir": "Balikesir",
+      "ilceler": ["Ayvalik", "Edremit", "Bandirma", "Gonen"],
+      "populerBolgeler": ["Ayvalik-Alibey Adasi", "Edremit-Akçay"],
+      "araziOrtalamaFiyat": "400-2000 TL/m2",
+      "notlar": "Ege denizi kiyisinda degerli arazi ve tarlalar. Zeytinlikler cok populer."
+    },
+    {
+      "sehir": "Edirne",
+      "ilceler": ["Meric", "Lalapasa", "Uzunkopru", "Kesan"],
+      "populerBolgeler": ["Meric", "Lalapasa"],
+      "araziOrtalamaFiyat": "100-500 TL/m2",
+      "notlar": "Trakya bolgesinde uygun fiyatli tarim arazileri. Ciftlik ve tarla icin ideal. Yeni projeler deger kazandiriyor."
+    },
+    {
+      "sehir": "Mersin",
+      "ilceler": ["Erdemli", "Silifke", "Anamur", "Tarsus"],
+      "populerBolgeler": ["Erdemli", "Silifke"],
+      "araziOrtalamaFiyat": "300-1500 TL/m2",
+      "notlar": "Akdeniz'de tarim cenneti. Narenciye, muz, seracilik icin ideal. Erdemli'de yatirimlik arsalar populer."
+    },
+    {
+      "sehir": "Trabzon",
+      "ilceler": ["Of", "Arakli", "Akcaabat", "Vakfikebir"],
+      "populerBolgeler": ["Of", "Arakli"],
+      "araziOrtalamaFiyat": "200-1000 TL/m2",
+      "notlar": "Karadeniz'de dogal guzellikler. Cay bahceleri, fidanlik ve tarim arazileri populer. Yemyeşil doga."
+    },
+    {
+      "sehir": "Rize",
+      "ilceler": ["Cayeli", "Fındıklı", "Pazar", "Ardesen"],
+      "populerBolgeler": ["Cayeli", "Pazar"],
+      "araziOrtalamaFiyat": "150-800 TL/m2",
+      "notlar": "Cay cenneti. Cay bahceleri ve fındıkliklar cok degerli. Yesil vadi manzarali araziler."
+    },
+    {
+      "sehir": "Artvin",
+      "ilceler": ["Hopa", "Borcka", "Savsat", "Arhavi"],
+      "populerBolgeler": ["Borcka", "Savsat"],
+      "araziOrtalamaFiyat": "100-600 TL/m2",
+      "notlar": "Karadeniz'in doga harikasi. Yaylalar, ormanlik araziler, ciftlikler icin ideal."
+    },
+    {
+      "sehir": "Nevsehir",
+      "ilceler": ["Urgup", "Uchisar", "Avanos"],
+      "populerBolgeler": ["Urgup", "Uchisar"],
+      "araziOrtalamaFiyat": "500-3000 TL/m2",
+      "notlar": "Kapadokya bolgesi. Butik otel ve pansiyon yapimi icin tarihi evler populer. Peri bacalari manzarali arsalar premium."
+    },
+    {
+      "sehir": "Karabuk",
+      "ilceler": ["Safranbolu", "Eflani", "Eskipazar"],
+      "populerBolgeler": ["Safranbolu"],
+      "araziOrtalamaFiyat": "200-1000 TL/m2",
+      "notlar": "UNESCO mirasi Safranbolu. Tarihi konaklar ve butik otel yatirimlari populer."
+    }
+  ],
+  "genelNotlar": {
+    "enPahaliSehirler": ["Mugla-Bodrum", "Istanbul", "Izmir-Cesme", "Antalya-Kas"],
+    "enUygunSehirler": ["Edirne", "Artvin", "Mersin", "Balikesir"],
+    "yatirimOnerileri": "2024-2025 icin Edirne, Mersin ve Artvin en hizli deger kazanan bolgeler. Yeni havalimani ve otoyol projeleri fiyatlari artiriyor."
+  }
+}
