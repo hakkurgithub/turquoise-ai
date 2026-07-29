@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kelepir Emlak AI - Satis Asistani</title>
+  <meta name="description" content="Kelepir Emlak AI Satis Temsilcisi - Arazi, tarla, villa ve gayrimenkul danismanliginiz">
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='45' fill='%230d9488'/><text x='50' y='68' font-size='50' text-anchor='middle' fill='white'>E</text></svg>">
+</head>
+<body>
+  <div class="app">
+    <!-- Ust cubuk -->
+    <header class="header">
+      <div class="logo">
+        <div class="logo-icon">E</div>
+        <div class="logo-text">
+          <h1>Kelepir Emlak AI</h1>
+          <span class="subtitle">Satis Temsilciniz</span>
+        </div>
+      </div>
+      <div class="header-actions">
+        <span id="durum" class="durum">Yukleniyor...</span>
+        <button id="ayarlarBtn" class="btn-icon" title="Ayarlar" aria-label="Ayarlar">&#9881;</button>
+      </div>
+    </header>
+
+    <!-- Ayarlar paneli -->
+    <div id="ayarlarPanel" class="ayarlar-panel gizli">
+      <h2>Ayarlar</h2>
+      <p class="aciklama">
+        Hibrit mod: Asistan once yerel veri setinde arar, bulamazsa sirasiyla yerel Ollama'ya (kuruluysa,
+        %100 bagimsiz ve sinirsiz) ve Groq bulut LLM'e sorar.
+        Ollama icin <a href="https://ollama.com" target="_blank" rel="noopener">ollama.com</a> adresinden kurup
+        <code>ollama pull llama3.1</code> calistirin. Groq icin
+        <a href="https://console.groq.com/keys" target="_blank" rel="noopener">console.groq.com</a> adresinden
+        ucretsiz anahtar alin. Anahtarlar yalnizca tarayicinizda saklanir.
+      </p>
+      <label for="ollamaUrl">Ollama Adresi (yerel, oncelikli)</label>
+      <input type="text" id="ollamaUrl" placeholder="http://localhost:11434" autocomplete="off">
+      <label for="ollamaModel">Ollama Modeli</label>
+      <input type="text" id="ollamaModel" placeholder="llama3.1" autocomplete="off">
+      <label for="apiKey">Groq API Anahtari (yedek, opsiyonel)</label>
+      <input type="password" id="apiKey" placeholder="gsk_..." autocomplete="off">
+      <label for="modelAdi">Groq Modeli</label>
+      <input type="text" id="modelAdi" placeholder="llama-3.1-8b-instant" autocomplete="off">
+      <div class="ayarlar-butonlar">
+        <button id="ayarlarKaydet" class="btn btn-birincil">Kaydet</button>
+        <button id="ayarlarKapat" class="btn">Kapat</button>
+      </div>
+    </div>
+
+    <!-- Mesaj alani -->
+    <main id="mesajlar" class="mesajlar" aria-live="polite"></main>
+
+    <!-- Ornek sorular -->
+    <div id="oneriler" class="oneriler"></div>
+
+    <!-- Giris alani -->
+    <footer class="giris-alani">
+      <input type="text" id="soruInput" placeholder="Sorunuzu yazin... (orn: Fethiye'de arsa fiyatlari)" autocomplete="off" maxlength="500">
+      <button id="gonderBtn" class="btn btn-birincil">Gonder</button>
+    </footer>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

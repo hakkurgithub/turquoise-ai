@@ -1,0 +1,22 @@
+# API anahtarlari ve gizli bilgiler - ASLA yukleme!
+.env
+*.key
+api-key.txt
+secrets.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+
+# Isletim sistemi
+Thumbs.db
+.DS_Store
+
+# Editor
+.vscode/
+.idea/

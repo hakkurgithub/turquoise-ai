@@ -1,0 +1,249 @@
+{
+  "terimler": [
+    {
+      "terim": "Tapu",
+      "aciklama": "Gayrimenkul uzerindeki mulkiyet hakkinin resmi belgesi. Tapu ve Kadastro Genel Mudurlugu (TKGM) tarafindan duzenlenir.",
+      "kategori": "Hukuki"
+    },
+    {
+      "terim": "Imar Durumu",
+      "aciklama": "Bir parselin hangi amacla kullanilabilecegini gosteren belediye plani. Konut, ticaret, sanayi, tarim gibi kategorilerden birine aittir.",
+      "kategori": "Hukuki"
+    },
+    {
+      "terim": "KAKS (Kat Alma Katsayisi)",
+      "aciklama": "Bir arsaya insa edilebilecek toplam insaat alaninin, arsa alanina orani. Ornegin KAKS: 2.00 ise 1000 m2 arsaya 2000 m2 insaat yapilabilir.",
+      "kategori": "Teknik"
+    },
+    {
+      "terim": "Emsal",
+      "aciklama": "Imar planinda bir parsel icin belirlenen yapilasma hakkini gosteren katsayi. Emsal degeri ne kadar yuksekse, o parselde daha fazla yapi yapilabilir.",
+      "kategori": "Teknik"
+    },
+    {
+      "terim": "TAKS (Taban Alan Katsayisi)",
+      "aciklama": "Bir arsanin yuzde kacina yapi yapilabilecegini gosteren katsayi. TAKS: 0.20 ise 1000 m2 arsanin sadece 200 m2'sine bina yapilabilir.",
+      "kategori": "Teknik"
+    },
+    {
+      "terim": "Hisseli Tapu",
+      "aciklama": "Bir gayrimenkulun birden fazla kisi tarafindan ortaklasaya sahip olundugu tapu turu. Hisse oranlari tapuda belirtilir.",
+      "kategori": "Hukuki"
+    },
+    {
+      "terim": "Kat Irtifaki",
+      "aciklama": "Bina insaat tamamlanmadan once, arsa uzerindeki katlarin sahipligini gosteren gecici tapu turu. Kat mulkiyetine donusturulur.",
+      "kategori": "Hukuki"
+    },
+    {
+      "terim": "Kat Mulkiyeti",
+      "aciklama": "Bina tamamlandiktan sonra, her bir bagimsiz bolumun (daire, dukkan vb.) kendi tapusunun olmasi durumu.",
+      "kategori": "Hukuki"
+    },
+    {
+      "terim": "Cins Degisikligi",
+      "aciklama": "Bir gayrimenkulun tapudaki kullanim amacinin degistirilmesi islemi. Ornegin tarla vasifli arsanin arsa vasifli hale getirilmesi.",
+      "kategori": "Hukuki"
+    },
+    {
+      "terim": "Rayic Deger",
+      "aciklama": "Belediyelerin belirledigi, bir bolgedeki gayrimenkullerin metrekare birim fiyati. Vergi hesaplamalarinda kullanilir.",
+      "kategori": "Finansal"
+    },
+    {
+      "terim": "Deniz Manzarali",
+      "aciklama": "Gayrimenkulden denizin gorulebildigi konum. Tam manzara, yan manzara veya kismi manzara seklinde siniflandirilir.",
+      "kategori": "Ozellik"
+    },
+    {
+      "terim": "Yola Cepheli",
+      "aciklama": "Gayrimenkulun bir veya birden fazla kenarinin yola baktigi durum. Yola cepheli arsalar daha degerlidir.",
+      "kategori": "Ozellik"
+    },
+    {
+      "terim": "Zeytinlik",
+      "aciklama": "Zeytin agaclarinin yetistirildigi arazi. Tarla niteliginde olup, zeytin agaci sayisi ve verim yasi onemlidir.",
+      "kategori": "Tur"
+    },
+    {
+      "terim": "Bag",
+      "aciklama": "Uzum yetistiriciligi yapilan arazi. Saraplik veya sofralik uzum uretimi icin kullanilir.",
+      "kategori": "Tur"
+    },
+    {
+      "terim": "Ciftlik",
+      "aciklama": "Hayvan yetistiriciligi veya bitkisel uretim yapilan, genellikle barinak ve depolama yapilarini da iceren buyuk arazi.",
+      "kategori": "Tur"
+    },
+    {
+      "terim": "Hobi Bahcesi",
+      "aciklama": "Kucuk olcekli sebze, meyve ve cicek yetistiriciligi icin kullanilan, genellikle kent yakinlarinda bulunan kucuk araziler.",
+      "kategori": "Tur"
+    },
+    {
+      "terim": "Seracilik",
+      "aciklama": "Cam veya plastik ortamda kontrollu kosullarda bitki yetistiriciligi. Ozellikle domates, salatalik, biber gibi sebzeler icin uygundur.",
+      "kategori": "Tur"
+    },
+    {
+      "terim": "Konut Imarli",
+      "aciklama": "Imar planinda konut yapilasmasina izin veren arsa. Ev, villa, apartman insasi icin uygundur.",
+      "kategori": "Imar"
+    },
+    {
+      "terim": "Ticaret Imarli",
+      "aciklama": "Imar planinda ticari yapilasmasina (magaza, ofis, otel vb.) izin veren arsa.",
+      "kategori": "Imar"
+    },
+    {
+      "terim": "Turizm Imarli",
+      "aciklama": "Imar planinda turizm tesislerine (otel, motel, pansiyon vb.) izin veren arsa. Genellikle kiyi bolgelerinde bulunur.",
+      "kategori": "Imar"
+    },
+    {
+      "terim": "Kelepir",
+      "aciklama": "Piyasa degerinin altinda fiyatla satilan gayrimenkul. Genellikle acil satilik veya sahibinden direkt satis durumlarinda ortaya cikar.",
+      "kategori": "Genel"
+    },
+    {
+      "terim": "Pej Peyinverme",
+      "aciklama": "Gayrimenkulun kiralamada, kiralayanin kiraya verene onceden belirlenen miktarda para vermesi. Genellikle 1 yillik kira bedeli seklinde uygulanir.",
+      "kategori": "Finansal"
+    },
+    {
+      "terim": "Irtifak HakkI",
+      "aciklama": "Bir gayrimenkul uzerinde, baska bir kisinin belirli bir amacla kullanim hakkina sahip olmasi. Ornegin yol gecme hakki, su borusu gecme hakki.",
+      "kategori": "Hukuki"
+    },
+    {
+      "terim": "Sera",
+      "aciklama": "Cam veya plastik kapli, ic sicakligi kontrol edilebilen tarimsal uretim yapisi. Yil boyu uretim imkani saglar.",
+      "kategori": "Tur"
+    },
+    {
+      "terim": "Sulama Sistemi",
+      "aciklama": "Tarlalarda bitkilerin su ihtiyacini karsilamak icin kullanilan sistem. Damlama, yagmurlama, pivot gibi turleri vardir.",
+      "kategori": "Teknik"
+    },
+    {
+      "terim": "Mustakil Tapu",
+      "aciklama": "Gayrimenkulun tamamina tek kisinin sahip oldugu tapu turu. Satis ve kullanim kararlari tamamen sahibine aittir, en guvenli tapu turudur.",
+      "kategori": "Hukuki"
+    },
+    {
+      "terim": "Iskan (Yapi Kullanma Izin Belgesi)",
+      "aciklama": "Belediyenin binanin projesine uygun tamamlandigini onayladigi belge. Iskansiz binada kredi kullanilamaz, kat mulkiyeti alinmaz.",
+      "kategori": "Hukuki"
+    },
+    {
+      "terim": "Tapu Harci",
+      "aciklama": "Gayrimenkul alim-satiminda satis bedelinin %4'u oraninda odenen vergi. Yasal olarak alici ve satici yarim yarim oder.",
+      "kategori": "Finansal"
+    },
+    {
+      "terim": "Emlak Vergisi",
+      "aciklama": "Gayrimenkul sahiplerinin yillik odedigi vergi. Konut binde 1, isyeri binde 2, arsa binde 3, arazi binde 1 oraninda rayic bedel uzerinden hesaplanir.",
+      "kategori": "Finansal"
+    },
+    {
+      "terim": "Ekspertiz (Degerleme) Raporu",
+      "aciklama": "SPK lisansli uzmanlarin gayrimenkulun gercek piyasa degerini belirledigi resmi rapor. Banka kredilerinde zorunludur.",
+      "kategori": "Finansal"
+    },
+    {
+      "terim": "Takyidat",
+      "aciklama": "Gayrimenkul uzerindeki kisitlamalar: ipotek, haciz, intifa hakki, serhler. Alimdan once mutlaka sorgulanmalidir.",
+      "kategori": "Hukuki"
+    },
+    {
+      "terim": "Ipotek",
+      "aciklama": "Borcun odenecegine guvence olarak gayrimenkul uzerine konulan kayit. Borc odenmeden gayrimenkul satilamaz veya satista ipotek devreder.",
+      "kategori": "Hukuki"
+    },
+    {
+      "terim": "Intifa Hakki",
+      "aciklama": "Gayrimenkulun kullanim ve yararlanma hakkinin mulkiyet sahibinden baska birine ait olmasi durumu. Ornegin anne-babanin cocuklarina sattigi evde oturma hakki.",
+      "kategori": "Hukuki"
+    },
+    {
+      "terim": "Serh",
+      "aciklama": "Tapu kütüğune dusulen, gayrimenkul uzerindeki hak veya iddiayi gosteren not. Satisa engel olabilir veya aliciyi baglayabilir.",
+      "kategori": "Hukuki"
+    },
+    {
+      "terim": "Ada",
+      "aciklama": "Kadastroda, cevresi yol, dere veya sinirla cevrili parseller toplulugu. Her ada birden fazla parsel icerir.",
+      "kategori": "Teknik"
+    },
+    {
+      "terim": "Parsel",
+      "aciklama": "Kadastroda tek sahibi olan, bolunmez kabul edilen en kucuk arazi birimi. Ada-parsel numarasi ile tanimlanir.",
+      "kategori": "Teknik"
+    },
+    {
+      "terim": "Aplikasyon",
+      "aciklama": "Tapu kaydindaki sinirlarin arazi uzerinde olcumle belirlenmesi islemi. Lisansli harita burolari yapar, sinir ihtilaflarini onler.",
+      "kategori": "Teknik"
+    },
+    {
+      "terim": "Ifraz",
+      "aciklama": "Bir parselin yasal kosullara uygun olarak birden fazla parsele bolunmesi islemi. Tarlalarda minimum 5.000 m2 sinirlamasi vardir.",
+      "kategori": "Hukuki"
+    },
+    {
+      "terim": "Tevhid",
+      "aciklama": "Bitisik birden fazla parselin tek parsel haline getirilmesi islemi. Buyuk yapi projeleri oncesi uygulanir.",
+      "kategori": "Hukuki"
+    },
+    {
+      "terim": "Donum",
+      "aciklama": "Turkiye'de yaygin arazi olcu birimi. 1 donum = 1.000 m2. 1 hektar = 10 donumdur.",
+      "kategori": "Genel"
+    },
+    {
+      "terim": "Hektar",
+      "aciklama": "Metrik arazi olcu birimi. 1 hektar = 10.000 m2 = 10 donum.",
+      "kategori": "Genel"
+    },
+    {
+      "terim": "GES (Gunes Enerjisi Santrali)",
+      "aciklama": "Gunes panelleriyle elektrik uretimi yapilan tesis. Uygun araziler GES firmalarina 20-30 yilligina kiralanabilir.",
+      "kategori": "Yatirim"
+    },
+    {
+      "terim": "Narenciye",
+      "aciklama": "Portakal, mandalina, limon, greyfurt gibi turuncgiller grubu meyveler. Akdeniz bolgesinde (Mersin, Antalya) yogun yetistirilir.",
+      "kategori": "Tur"
+    },
+    {
+      "terim": "Rayic Bedel",
+      "aciklama": "Belediyenin her sokak/bolge icin belirledigi metrekare birim degeri. Emlak vergisi ve tapu harci hesaplamalarinda kullanilir, piyasa degerinden dusuktur.",
+      "kategori": "Finansal"
+    },
+    {
+      "terim": "Vefa Hakki (Onalim Hakki)",
+      "aciklama": "Gayrimenkul satildiginda, tapuda kayitli kisinin ayni kosullarla oncelikli satin alma hakki.",
+      "kategori": "Hukuki"
+    },
+    {
+      "terim": "Gabari",
+      "aciklama": "Imar planinda binaya izin verilen maksimum yukseklik. Kat adedi veya metre olarak belirtilir.",
+      "kategori": "Teknik"
+    },
+    {
+      "terim": "Cekme Mesafesi",
+      "aciklama": "Binanin yoldan ve komsu parsellerden ne kadar iceride yapilmasi gerektigini gosteren mesafe. Imar planinda belirtilir.",
+      "kategori": "Teknik"
+    },
+    {
+      "terim": "Kentsel Donusum",
+      "aciklama": "Riskli veya eski yapilarin yikilip yerine modern binalar yapilmasi sureci. 6306 sayili kanunla yurutulur, kira yardimi saglanir.",
+      "kategori": "Genel"
+    },
+    {
+      "terim": "Miras (Veraset) Intikali",
+      "aciklama": "Vefat eden kisinin gayrimenkulunun mirascilara gecmesi islemi. Veraset ilami ve vergi odemesi sonrasi tapu devri yapilir.",
+      "kategori": "Hukuki"
+    }
+  ]
+}
