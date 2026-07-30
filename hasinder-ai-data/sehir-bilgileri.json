@@ -2,240 +2,1230 @@
   "sehirler": [
     {
       "sehir": "Istanbul",
-      "ilceler": ["Arnavutkoy", "Sile", "Silivri", "Catalca", "Tuzla", "Pendik", "Buyukcekmece"],
-      "populerBolgeler": ["Arnavutkoy", "Sile", "Silivri"],
+      "ilceler": [
+        "Arnavutkoy",
+        "Sile",
+        "Silivri",
+        "Catalca",
+        "Tuzla",
+        "Pendik",
+        "Buyukcekmece"
+      ],
+      "populerBolgeler": [
+        "Arnavutkoy",
+        "Sile",
+        "Silivri"
+      ],
       "araziOrtalamaFiyat": "500-2000 TL/m2",
-      "notlar": "Metropol alan disinda genis arazi ve tarla imkanlari. Arnavutkoy yeni havalimaniyla deger kazandi."
+      "notlar": "Metropol alan disinda genis arazi ve tarla imkanlari. Arnavutkoy yeni havalimaniyla deger kazandi. Marmara bolgesinde yer alir."
     },
     {
       "sehir": "Izmir",
-      "ilceler": ["Cesme", "Urla", "Seferihisar", "Menderes", "Torbali", "Bergama", "Dikili"],
-      "populerBolgeler": ["Cesme-Alacati", "Urla", "Seferihisar"],
+      "ilceler": [
+        "Cesme",
+        "Urla",
+        "Seferihisar",
+        "Menderes",
+        "Torbali",
+        "Bergama",
+        "Dikili"
+      ],
+      "populerBolgeler": [
+        "Cesme-Alacati",
+        "Urla",
+        "Seferihisar"
+      ],
       "araziOrtalamaFiyat": "800-5000 TL/m2",
       "notlar": "Ege'nin incisi, tarim ve turizm emlakti cok degerli. Zeytinlik ve baglar populer."
     },
     {
       "sehir": "Mugla",
-      "ilceler": ["Bodrum", "Fethiye", "Marmaris", "Datca", "Milas", "Dalaman", "Ortaca", "Koycegiz"],
-      "populerBolgeler": ["Bodrum", "Fethiye", "Marmaris", "Datca"],
+      "ilceler": [
+        "Bodrum",
+        "Fethiye",
+        "Marmaris",
+        "Datca",
+        "Milas",
+        "Dalaman",
+        "Ortaca",
+        "Koycegiz"
+      ],
+      "populerBolgeler": [
+        "Bodrum",
+        "Fethiye",
+        "Marmaris",
+        "Datca"
+      ],
       "araziOrtalamaFiyat": "1000-10000 TL/m2",
-      "notlar": "Turizm cenneti. Bodrum ve Fethiye'de arsa ve arazi fiyatlari cok yuksek. Yatirim icin Dalaman, Ortaca, Koycegiz daha uygun."
+      "notlar": "Turizm cenneti. Bodrum ve Fethiye'de arsa ve arazi fiyatlari cok yuksek. Yatirim icin Dalaman, Ortaca, Koycegiz daha uygun. Ege bolgesinde yer alir."
     },
     {
       "sehir": "Antalya",
-      "ilceler": ["Alanya", "Kas", "Kalkan", "Serik", "Kemer", "Manavgat", "Kumluca"],
-      "populerBolgeler": ["Alanya", "Kas-Kalkan", "Serik-Belek"],
+      "ilceler": [
+        "Alanya",
+        "Kas",
+        "Kalkan",
+        "Serik",
+        "Kemer",
+        "Manavgat",
+        "Kumluca"
+      ],
+      "populerBolgeler": [
+        "Alanya",
+        "Kas-Kalkan",
+        "Serik-Belek"
+      ],
       "araziOrtalamaFiyat": "800-8000 TL/m2",
-      "notlar": "Turizm ve tarim sehri. Kas-Kalkan arasi deniz manzarali arsalar premium. Serik'te tarim arazileri uygun."
+      "notlar": "Turizm ve tarim sehri. Kas-Kalkan arasi deniz manzarali arsalar premium. Serik'te tarim arazileri uygun. Akdeniz bolgesinde yer alir."
     },
     {
       "sehir": "Aydin",
-      "ilceler": ["Didim", "Kusadasi", "Soke", "Nazilli"],
-      "populerBolgeler": ["Didim", "Kusadasi"],
+      "ilceler": [
+        "Didim",
+        "Kusadasi",
+        "Soke",
+        "Nazilli"
+      ],
+      "populerBolgeler": [
+        "Didim",
+        "Kusadasi"
+      ],
       "araziOrtalamaFiyat": "600-3000 TL/m2",
       "notlar": "Ege'de tarim bolgesi. Zeytinlik, incirlik ve tarla arazileri populer. Didim ve Kusadasi'nda turizm imarli arsalar degerli."
     },
     {
       "sehir": "Balikesir",
-      "ilceler": ["Ayvalik", "Edremit", "Bandirma", "Gonen"],
-      "populerBolgeler": ["Ayvalik-Alibey Adasi", "Edremit-Akçay"],
+      "ilceler": [
+        "Ayvalik",
+        "Edremit",
+        "Bandirma",
+        "Gonen"
+      ],
+      "populerBolgeler": [
+        "Ayvalik-Alibey Adasi",
+        "Edremit-Akçay"
+      ],
       "araziOrtalamaFiyat": "400-2000 TL/m2",
-      "notlar": "Ege denizi kiyisinda degerli arazi ve tarlalar. Zeytinlikler cok populer."
+      "notlar": "Ege denizi kiyisinda degerli arazi ve tarlalar. Zeytinlikler cok populer. Marmara bolgesinde yer alir."
     },
     {
       "sehir": "Edirne",
-      "ilceler": ["Meric", "Lalapasa", "Uzunkopru", "Kesan"],
-      "populerBolgeler": ["Meric", "Lalapasa"],
+      "ilceler": [
+        "Meric",
+        "Lalapasa",
+        "Uzunkopru",
+        "Kesan"
+      ],
+      "populerBolgeler": [
+        "Meric",
+        "Lalapasa"
+      ],
       "araziOrtalamaFiyat": "100-500 TL/m2",
-      "notlar": "Trakya bolgesinde uygun fiyatli tarim arazileri. Ciftlik ve tarla icin ideal. Yeni projeler deger kazandiriyor."
+      "notlar": "Trakya bolgesinde uygun fiyatli tarim arazileri. Ciftlik ve tarla icin ideal. Yeni projeler deger kazandiriyor. Marmara bolgesinde yer alir."
     },
     {
       "sehir": "Mersin",
-      "ilceler": ["Erdemli", "Silifke", "Anamur", "Tarsus"],
-      "populerBolgeler": ["Erdemli", "Silifke"],
+      "ilceler": [
+        "Erdemli",
+        "Silifke",
+        "Anamur",
+        "Tarsus"
+      ],
+      "populerBolgeler": [
+        "Erdemli",
+        "Silifke"
+      ],
       "araziOrtalamaFiyat": "300-1500 TL/m2",
       "notlar": "Akdeniz'de tarim cenneti. Narenciye, muz, seracilik icin ideal. Erdemli'de yatirimlik arsalar populer."
     },
     {
       "sehir": "Trabzon",
-      "ilceler": ["Of", "Arakli", "Akcaabat", "Vakfikebir"],
-      "populerBolgeler": ["Of", "Arakli"],
+      "ilceler": [
+        "Of",
+        "Arakli",
+        "Akcaabat",
+        "Vakfikebir"
+      ],
+      "populerBolgeler": [
+        "Of",
+        "Arakli"
+      ],
       "araziOrtalamaFiyat": "200-1000 TL/m2",
       "notlar": "Karadeniz'de dogal guzellikler. Cay bahceleri, fidanlik ve tarim arazileri populer. Yemyeşil doga."
     },
     {
       "sehir": "Rize",
-      "ilceler": ["Cayeli", "Fındıklı", "Pazar", "Ardesen"],
-      "populerBolgeler": ["Cayeli", "Pazar"],
+      "ilceler": [
+        "Cayeli",
+        "Fındıklı",
+        "Pazar",
+        "Ardesen"
+      ],
+      "populerBolgeler": [
+        "Cayeli",
+        "Pazar"
+      ],
       "araziOrtalamaFiyat": "150-800 TL/m2",
-      "notlar": "Cay cenneti. Cay bahceleri ve fındıkliklar cok degerli. Yesil vadi manzarali araziler."
+      "notlar": "Cay cenneti. Cay bahceleri ve fındıkliklar cok degerli. Yesil vadi manzarali araziler. Karadeniz bolgesinde yer alir."
     },
     {
       "sehir": "Artvin",
-      "ilceler": ["Hopa", "Borcka", "Savsat", "Arhavi"],
-      "populerBolgeler": ["Borcka", "Savsat"],
+      "ilceler": [
+        "Hopa",
+        "Borcka",
+        "Savsat",
+        "Arhavi"
+      ],
+      "populerBolgeler": [
+        "Borcka",
+        "Savsat"
+      ],
       "araziOrtalamaFiyat": "100-600 TL/m2",
       "notlar": "Karadeniz'in doga harikasi. Yaylalar, ormanlik araziler, ciftlikler icin ideal."
     },
     {
       "sehir": "Nevsehir",
-      "ilceler": ["Urgup", "Uchisar", "Avanos"],
-      "populerBolgeler": ["Urgup", "Uchisar"],
+      "ilceler": [
+        "Urgup",
+        "Uchisar",
+        "Avanos"
+      ],
+      "populerBolgeler": [
+        "Urgup",
+        "Uchisar"
+      ],
       "araziOrtalamaFiyat": "500-3000 TL/m2",
-      "notlar": "Kapadokya bolgesi. Butik otel ve pansiyon yapimi icin tarihi evler populer. Peri bacalari manzarali arsalar premium."
+      "notlar": "Kapadokya bolgesi. Butik otel ve pansiyon yapimi icin tarihi evler populer. Peri bacalari manzarali arsalar premium. IcAnadolu bolgesinde yer alir."
     },
     {
       "sehir": "Karabuk",
-      "ilceler": ["Safranbolu", "Eflani", "Eskipazar"],
-      "populerBolgeler": ["Safranbolu"],
+      "ilceler": [
+        "Safranbolu",
+        "Eflani",
+        "Eskipazar"
+      ],
+      "populerBolgeler": [
+        "Safranbolu"
+      ],
       "araziOrtalamaFiyat": "200-1000 TL/m2",
-      "notlar": "UNESCO mirasi Safranbolu. Tarihi konaklar ve butik otel yatirimlari populer."
+      "notlar": "UNESCO mirasi Safranbolu. Tarihi konaklar ve butik otel yatirimlari populer. Karadeniz bolgesinde yer alir."
     },
     {
       "sehir": "Bursa",
-      "ilceler": ["Mudanya", "Gemlik", "Iznik", "Orhangazi", "Karacabey"],
-      "populerBolgeler": ["Mudanya", "Iznik"],
+      "ilceler": [
+        "Mudanya",
+        "Gemlik",
+        "Iznik",
+        "Orhangazi",
+        "Karacabey"
+      ],
+      "populerBolgeler": [
+        "Mudanya",
+        "Iznik"
+      ],
       "araziOrtalamaFiyat": "400-2500 TL/m2",
       "notlar": "Marmara'nin tarim ve sanayi merkezi. Zeytinlikler (Gemlik cesidi) cok degerli. Iznik golu cevresi yatirimlik."
     },
     {
       "sehir": "Tekirdag",
-      "ilceler": ["Sarkoy", "Malkara", "Hayrabolu", "Murefte"],
-      "populerBolgeler": ["Sarkoy", "Murefte"],
+      "ilceler": [
+        "Sarkoy",
+        "Malkara",
+        "Hayrabolu",
+        "Murefte"
+      ],
+      "populerBolgeler": [
+        "Sarkoy",
+        "Murefte"
+      ],
       "araziOrtalamaFiyat": "300-1500 TL/m2",
-      "notlar": "Istanbul'a yakinligiyla deger kazaniyor. Bagcilik (Murefte saraplik uzum) ve bugday tarlalari populer. Hobi bahceleri yaygin."
+      "notlar": "Istanbul'a yakinligiyla deger kazaniyor. Bagcilik (Murefte saraplik uzum) ve bugday tarlalari populer. Hobi bahceleri yaygin. Marmara bolgesinde yer alir."
     },
     {
       "sehir": "Canakkale",
-      "ilceler": ["Ayvacik", "Ezine", "Biga", "Gokceada", "Bozcaada"],
-      "populerBolgeler": ["Ayvacik-Assos", "Bozcaada", "Gokceada"],
+      "ilceler": [
+        "Ayvacik",
+        "Ezine",
+        "Biga",
+        "Gokceada",
+        "Bozcaada"
+      ],
+      "populerBolgeler": [
+        "Ayvacik-Assos",
+        "Bozcaada",
+        "Gokceada"
+      ],
       "araziOrtalamaFiyat": "300-2000 TL/m2",
-      "notlar": "Ege'nin kuzeyi, zeytinlikler ve baglar on planda. Adalar turizm yatirimi icin ideal. Ezine peyniri meshur, hayvancilik yaygin."
+      "notlar": "Ege'nin kuzeyi, zeytinlikler ve baglar on planda. Adalar turizm yatirimi icin ideal. Ezine peyniri meshur, hayvancilik yaygin. Marmara bolgesinde yer alir."
     },
     {
       "sehir": "Konya",
-      "ilceler": ["Cumra", "Meram", "Karatay", "Eregli"],
-      "populerBolgeler": ["Cumra", "Eregli"],
+      "ilceler": [
+        "Cumra",
+        "Meram",
+        "Karatay",
+        "Eregli"
+      ],
+      "populerBolgeler": [
+        "Cumra",
+        "Eregli"
+      ],
       "araziOrtalamaFiyat": "150-800 TL/m2",
-      "notlar": "Turkiye'nin tahlik ambari. Genis duz araziler, hububat ve seker pancari. GES yatirimlari icin cok uygun."
+      "notlar": "Turkiye'nin tahlik ambari. Genis duz araziler, hububat ve seker pancari. GES yatirimlari icin cok uygun. IcAnadolu bolgesinde yer alir."
     },
     {
       "sehir": "Samsun",
-      "ilceler": ["Bafra", "Carsamba", "Terme", "Vezirkopru"],
-      "populerBolgeler": ["Bafra", "Carsamba"],
+      "ilceler": [
+        "Bafra",
+        "Carsamba",
+        "Terme",
+        "Vezirkopru"
+      ],
+      "populerBolgeler": [
+        "Bafra",
+        "Carsamba"
+      ],
       "araziOrtalamaFiyat": "250-1200 TL/m2",
-      "notlar": "Bafra ve Carsamba ovalari verimli tarim arazileri. Pirinç ve sebze uretimi on planda."
+      "notlar": "Bafra ve Carsamba ovalari verimli tarim arazileri. Pirinç ve sebze uretimi on planda. Karadeniz bolgesinde yer alir."
     },
     {
       "sehir": "Hatay",
-      "ilceler": ["Antakya", "Defne", "Arsuz", "Samandag", "Dortyol"],
-      "populerBolgeler": ["Arsuz", "Samandag"],
+      "ilceler": [
+        "Antakya",
+        "Defne",
+        "Arsuz",
+        "Samandag",
+        "Dortyol"
+      ],
+      "populerBolgeler": [
+        "Arsuz",
+        "Samandag"
+      ],
       "araziOrtalamaFiyat": "250-1500 TL/m2",
       "notlar": "Akdeniz'in dogusu, narenciye ve zeytin bolgesi. Dortyol'da ilk hasat erkenci urunler. Gastronomi sehri."
     },
     {
       "sehir": "Sakarya",
-      "ilceler": ["Sapanca", "Karasu", "Kaynarca", "Ferizli"],
-      "populerBolgeler": ["Sapanca", "Karasu"],
+      "ilceler": [
+        "Sapanca",
+        "Karasu",
+        "Kaynarca",
+        "Ferizli"
+      ],
+      "populerBolgeler": [
+        "Sapanca",
+        "Karasu"
+      ],
       "araziOrtalamaFiyat": "400-2000 TL/m2",
-      "notlar": "Istanbul'a 1.5 saat, doga turizmi. Sapanca golu cevresi villa arsalari degerli. Karasu'da fındık ve meyvecilik."
+      "notlar": "Istanbul'a 1.5 saat, doga turizmi. Sapanca golu cevresi villa arsalari degerli. Karasu'da fındık ve meyvecilik. Marmara bolgesinde yer alir."
     },
     {
       "sehir": "Usak",
-      "ilceler": ["Banaz", "Esme", "Sivasli", "Ulubey"],
-      "populerBolgeler": ["Banaz", "Esme"],
+      "ilceler": [
+        "Banaz",
+        "Esme",
+        "Sivasli",
+        "Ulubey"
+      ],
+      "populerBolgeler": [
+        "Banaz",
+        "Esme"
+      ],
       "araziOrtalamaFiyat": "100-500 TL/m2",
-      "notlar": "Uygun fiyatli tarim arazileri, bugday ve haşhaş. GES yatirimlari icin ideal, guneslenme suresi yuksek."
+      "notlar": "Uygun fiyatli tarim arazileri, bugday ve haşhaş. GES yatirimlari icin ideal, guneslenme suresi yuksek. Ege bolgesinde yer alir."
     },
     {
       "sehir": "Kirklareli",
-      "ilceler": ["Luleburgaz", "Babaeski", "Vize", "Pinarhisar"],
-      "populerBolgeler": ["Luleburgaz", "Vize"],
+      "ilceler": [
+        "Luleburgaz",
+        "Babaeski",
+        "Vize",
+        "Pinarhisar"
+      ],
+      "populerBolgeler": [
+        "Luleburgaz",
+        "Vize"
+      ],
       "araziOrtalamaFiyat": "250-1000 TL/m2",
-      "notlar": "Trakya'nin verimli ovasi, bugday ve ayçiçegi. Vize cevresi hayvancilik icin uygun. Istanbul'a yakin konum avantaji."
+      "notlar": "Trakya'nin verimli ovasi, bugday ve ayçiçegi. Vize cevresi hayvancilik icin uygun. Istanbul'a yakin konum avantaji. Marmara bolgesinde yer alir."
     },
     {
       "sehir": "Kutahya",
-      "ilceler": ["Simav", "Gediz", "Tavsanli"],
-      "populerBolgeler": ["Simav", "Gediz"],
+      "ilceler": [
+        "Simav",
+        "Gediz",
+        "Tavsanli"
+      ],
+      "populerBolgeler": [
+        "Simav",
+        "Gediz"
+      ],
       "araziOrtalamaFiyat": "100-600 TL/m2",
-      "notlar": "Simav kestanesi meshur, meyvecilik yaygin. Termal kaynaklar cevresi turizm potansiyeli. Uygun fiyatli ciftlikler."
+      "notlar": "Simav kestanesi meshur, meyvecilik yaygin. Termal kaynaklar cevresi turizm potansiyeli. Uygun fiyatli ciftlikler. Ege bolgesinde yer alir."
     },
     {
       "sehir": "Ankara",
-      "ilceler": ["Golbasi", "Polatli", "Beypazari", "Nallihan", "Elmadag", "Sereflikochisar"],
-      "populerBolgeler": ["Golbasi", "Beypazari", "Polatli"],
+      "ilceler": [
+        "Golbasi",
+        "Polatli",
+        "Beypazari",
+        "Nallihan",
+        "Elmadag",
+        "Sereflikochisar"
+      ],
+      "populerBolgeler": [
+        "Golbasi",
+        "Beypazari",
+        "Polatli"
+      ],
       "araziOrtalamaFiyat": "200-1500 TL/m2",
-      "notlar": "Baskent, genis arazi imkanlari. Golbasi cevresi hobi bahceleri ve hafta sonu evleri populer. Polatli'da tarim arazileri uygun fiyatli."
+      "notlar": "Baskent, genis arazi imkanlari. Golbasi cevresi hobi bahceleri ve hafta sonu evleri populer. Polatli'da tarim arazileri uygun fiyatli. IcAnadolu bolgesinde yer alir."
     },
     {
       "sehir": "Denizli",
-      "ilceler": ["Pamukkale", "Merkezefendi", "Serinhisar", "Bozkurt", "Civril"],
-      "populerBolgeler": ["Pamukkale", "Civril"],
+      "ilceler": [
+        "Pamukkale",
+        "Merkezefendi",
+        "Serinhisar",
+        "Bozkurt",
+        "Civril"
+      ],
+      "populerBolgeler": [
+        "Pamukkale",
+        "Civril"
+      ],
       "araziOrtalamaFiyat": "200-1200 TL/m2",
       "notlar": "Ege'nin yukselen sanayi ve tarim sehri. Pamukkale cevresi turizm imarli arsalar degerli. Civril'de tarim arazileri verimli."
     },
     {
       "sehir": "Manisa",
-      "ilceler": ["Salihli", "Turgutlu", "Alasehir", "Akhisar", "Sarigol", "Kula"],
-      "populerBolgeler": ["Salihli", "Akhisar", "Alasehir"],
+      "ilceler": [
+        "Salihli",
+        "Turgutlu",
+        "Alasehir",
+        "Akhisar",
+        "Sarigol",
+        "Kula"
+      ],
+      "populerBolgeler": [
+        "Salihli",
+        "Akhisar",
+        "Alasehir"
+      ],
       "araziOrtalamaFiyat": "200-1000 TL/m2",
       "notlar": "Ege'nin uzum ve zeytin bolgesi. Salihli'de baglar, Alasehir'de sultaniye cekirdeksiz uzum meshur. Akhisar zeytinlikleri populer."
     },
     {
       "sehir": "Adana",
-      "ilceler": ["Yuregir", "Cukurova", "Seyhan", "Kozan", "Imamoglu", "Karaisali"],
-      "populerBolgeler": ["Kozan", "Imamoglu", "Karaisali"],
+      "ilceler": [
+        "Yuregir",
+        "Cukurova",
+        "Seyhan",
+        "Kozan",
+        "Imamoglu",
+        "Karaisali"
+      ],
+      "populerBolgeler": [
+        "Kozan",
+        "Imamoglu",
+        "Karaisali"
+      ],
       "araziOrtalamaFiyat": "200-1200 TL/m2",
-      "notlar": "Cukurova'nin tarim merkezi. Tarla ve narenciye bahceleri cok verimli. Seyhan ve Ceyhan nehirleri cevresi sulu tarim icin ideal."
+      "notlar": "Cukurova'nin tarim merkezi. Tarla ve narenciye bahceleri cok verimli. Seyhan ve Ceyhan nehirleri cevresi sulu tarim icin ideal. Akdeniz bolgesinde yer alir."
     },
     {
       "sehir": "Gaziantep",
-      "ilceler": ["Nizip", "Oğuzeli", "Karkamis", "Islahiye", "Nurdagi"],
-      "populerBolgeler": ["Nizip", "Oğuzeli"],
+      "ilceler": [
+        "Nizip",
+        "Oğuzeli",
+        "Karkamis",
+        "Islahiye",
+        "Nurdagi"
+      ],
+      "populerBolgeler": [
+        "Nizip",
+        "Oğuzeli"
+      ],
       "araziOrtalamaFiyat": "150-800 TL/m2",
-      "notlar": "Guneydogu'nun sanayi, tarim ve gastronomi merkezi. Antep fistigi bahceleri ve zeytinlikler degerli. Nizip ovasi verimli tarim arazisi."
+      "notlar": "Guneydogu'nun sanayi, tarim ve gastronomi merkezi. Antep fistigi bahceleri ve zeytinlikler degerli. Nizip ovasi verimli tarim arazisi. GuneydoguAnadolu bolgesinde yer alir."
     },
     {
       "sehir": "Kocaeli",
-      "ilceler": ["Kandira", "Karamursel", "Golcuk", "Gebze", "Dilovasi"],
-      "populerBolgeler": ["Kandira", "Karamursel"],
+      "ilceler": [
+        "Kandira",
+        "Karamursel",
+        "Golcuk",
+        "Gebze",
+        "Dilovasi"
+      ],
+      "populerBolgeler": [
+        "Kandira",
+        "Karamursel"
+      ],
       "araziOrtalamaFiyat": "500-2500 TL/m2",
-      "notlar": "Istanbul'a yakin sanayi sehri. Kandira cevresi ormanlik arazi ve hobi bahceleri populer. Karamursel'de deniz manzarali arsalar degerli."
+      "notlar": "Istanbul'a yakin sanayi sehri. Kandira cevresi ormanlik arazi ve hobi bahceleri populer. Karamursel'de deniz manzarali arsalar degerli. Marmara bolgesinde yer alir."
     },
     {
       "sehir": "Yalova",
-      "ilceler": ["Armutlu", "Ciftlikkoy", "Termal", "Altinova"],
-      "populerBolgeler": ["Armutlu", "Termal", "Ciftlikkoy"],
+      "ilceler": [
+        "Armutlu",
+        "Ciftlikkoy",
+        "Termal",
+        "Altinova"
+      ],
+      "populerBolgeler": [
+        "Armutlu",
+        "Termal",
+        "Ciftlikkoy"
+      ],
       "araziOrtalamaFiyat": "600-3000 TL/m2",
-      "notlar": "Istanbul'a 1 saat mesafede doga harikasi. Termal cevresi kaplica ve gunluk kacis noktasi. Armutlu'da deniz manzarali arsalar."
+      "notlar": "Istanbul'a 1 saat mesafede doga harikasi. Termal cevresi kaplica ve gunluk kacis noktasi. Armutlu'da deniz manzarali arsalar. Marmara bolgesinde yer alir."
     },
     {
       "sehir": "Eskisehir",
-      "ilceler": ["Sivrihisar", "Cifteler", "Mihaliccik", "Odunpazari", "Tepebasi"],
-      "populerBolgeler": ["Sivrihisar", "Cifteler"],
+      "ilceler": [
+        "Sivrihisar",
+        "Cifteler",
+        "Mihaliccik",
+        "Odunpazari",
+        "Tepebasi"
+      ],
+      "populerBolgeler": [
+        "Sivrihisar",
+        "Cifteler"
+      ],
       "araziOrtalamaFiyat": "150-800 TL/m2",
-      "notlar": "Ogrenci sehri, yasam kalitesi yuksek. Sivrihisar cevresi uygun fiyatli tarim arazileri. Odunpazari tarihi evleri turistik."
+      "notlar": "Ogrenci sehri, yasam kalitesi yuksek. Sivrihisar cevresi uygun fiyatli tarim arazileri. Odunpazari tarihi evleri turistik. IcAnadolu bolgesinde yer alir."
     },
     {
       "sehir": "Ordu",
-      "ilceler": ["Fatsa", "Ulubey", "Gulyali", "Persembe", "Golkoy", "Camas"],
-      "populerBolgeler": ["Fatsa", "Persembe", "Ulubey"],
+      "ilceler": [
+        "Fatsa",
+        "Ulubey",
+        "Gulyali",
+        "Persembe",
+        "Golkoy",
+        "Camas"
+      ],
+      "populerBolgeler": [
+        "Fatsa",
+        "Persembe",
+        "Ulubey"
+      ],
       "araziOrtalamaFiyat": "150-700 TL/m2",
       "notlar": "Karadeniz'in findik baskenti. Findik bahceleri ve yaylalar populer. Persembe'de deniz manzarali arsalar degerli."
     },
     {
       "sehir": "Corum",
-      "ilceler": ["Alaca", "Sungurlu", "Osmancik", "Iskilip"],
-      "populerBolgeler": ["Osmancik", "Iskilip"],
+      "ilceler": [
+        "Alaca",
+        "Sungurlu",
+        "Osmancik",
+        "Iskilip"
+      ],
+      "populerBolgeler": [
+        "Osmancik",
+        "Iskilip"
+      ],
       "araziOrtalamaFiyat": "100-500 TL/m2",
-      "notlar": "Ic Anadolu'nun tarim sehri. Osmancik pirinci meshur. Iskilip'de leblebi ve tarihi konaklar. Uygun fiyatli tarim arazileri."
+      "notlar": "Ic Anadolu'nun tarim sehri. Osmancik pirinci meshur. Iskilip'de leblebi ve tarihi konaklar. Uygun fiyatli tarim arazileri. Karadeniz bolgesinde yer alir."
+    },
+    {
+      "sehir": "Bilecik",
+      "ilceler": [
+        "Merkez",
+        "Bozuyuk",
+        "Sogut"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Bozuyuk"
+      ],
+      "araziOrtalamaFiyat": "300-1500 TL/m2",
+      "notlar": "Marmara'nin kucuk ama sanayi sehri. Seramik ve cam sanayisi gelismis. Dogal guzellikleriyle hobi bahcesi ve hafta sonu evi icin uygun."
+    },
+    {
+      "sehir": "Afyonkarahisar",
+      "ilceler": [
+        "Merkez",
+        "Sandikli",
+        "Bolvadin"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Sandikli"
+      ],
+      "araziOrtalamaFiyat": "200-800 TL/m2",
+      "notlar": "Termal turizm ve mermer sehri. Sebze ve hayvancilik gelismis. Termal gayrimenkul yatirimlari populer. Ege bolgesinde yer alir."
+    },
+    {
+      "sehir": "Isparta",
+      "ilceler": [
+        "Merkez",
+        "Egirdir",
+        "Yalvac"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Egirdir"
+      ],
+      "araziOrtalamaFiyat": "200-1000 TL/m2",
+      "notlar": "Gul ve halicilik sehri. Gol cevresi tarim arazileri ve yayla evleri. Gulkent projeleriyle bilinir. Akdeniz bolgesinde yer alir."
+    },
+    {
+      "sehir": "Burdur",
+      "ilceler": [
+        "Merkez",
+        "Yesilova",
+        "Aglasun"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Yesilova"
+      ],
+      "araziOrtalamaFiyat": "150-700 TL/m2",
+      "notlar": "Salda Golu cevresi dogal guzellik. Kucuk olcekli tarim ve hayvancilik. Uygun fiyatli arazi. Akdeniz bolgesinde yer alir."
+    },
+    {
+      "sehir": "Osmaniye",
+      "ilceler": [
+        "Merkez",
+        "Kadirli",
+        "Duzici"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Kadirli"
+      ],
+      "araziOrtalamaFiyat": "200-1000 TL/m2",
+      "notlar": "Cukurova'da sanayi ve tarim. Kirmizi biber ve yer fistigi meshur. Sanayi gelisiyor. Akdeniz bolgesinde yer alir."
+    },
+    {
+      "sehir": "Kahramanmaras",
+      "ilceler": [
+        "Merkez",
+        "Elbistan",
+        "Turkoglu"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Elbistan"
+      ],
+      "araziOrtalamaFiyat": "200-1200 TL/m2",
+      "notlar": "Dondurma ve tekstil sehri. Sanayisi gelismis, organize sanayi bolgeleri buyuk. Tarim arazileri verimli. Akdeniz bolgesinde yer alir."
+    },
+    {
+      "sehir": "Kayseri",
+      "ilceler": [
+        "Merkez",
+        "Erciyes",
+        "Talas"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Erciyes"
+      ],
+      "araziOrtalamaFiyat": "300-2000 TL/m2",
+      "notlar": "Ic Anadolu'nun sanayi devi. Mobilya, tekstil, makine sanayisi. Erciyes cevresi kayak ve turizm. IcAnadolu bolgesinde yer alir."
+    },
+    {
+      "sehir": "Sivas",
+      "ilceler": [
+        "Merkez",
+        "Sarkisla",
+        "Divrigi"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Sarkisla"
+      ],
+      "araziOrtalamaFiyat": "100-500 TL/m2",
+      "notlar": "Sanayi ve tarim sehri. Kangal kopegi meshur. Termal kaynaklar ve Divrigi Ulu Camii turistik. IcAnadolu bolgesinde yer alir."
+    },
+    {
+      "sehir": "Yozgat",
+      "ilceler": [
+        "Merkez",
+        "Sorgun",
+        "Yerkoy"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Sorgun"
+      ],
+      "araziOrtalamaFiyat": "75-400 TL/m2",
+      "notlar": "Ic Anadolu'da tarim ve hayvancilik. Uygun fiyatli arazi ve tarlalar. Sorgun cevresi mesire alanlari. IcAnadolu bolgesinde yer alir."
+    },
+    {
+      "sehir": "Kirsehir",
+      "ilceler": [
+        "Merkez",
+        "Mucur",
+        "Kaman"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Mucur"
+      ],
+      "araziOrtalamaFiyat": "100-600 TL/m2",
+      "notlar": "Kirsehir ve neyzenler sehri. Tarim ve hayvancilik. Uygun fiyatli tarim arazileri. IcAnadolu bolgesinde yer alir."
+    },
+    {
+      "sehir": "Nigde",
+      "ilceler": [
+        "Merkez",
+        "Bor",
+        "Ulukisla"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Bor"
+      ],
+      "araziOrtalamaFiyat": "100-500 TL/m2",
+      "notlar": "Ic Anadolu'da tarim ve madencilik. Elma ve patates uretimi. Ciftlik yatirimlari icin uygun. IcAnadolu bolgesinde yer alir."
+    },
+    {
+      "sehir": "Aksaray",
+      "ilceler": [
+        "Merkez",
+        "Guzelyurt",
+        "Ortakoy"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Guzelyurt"
+      ],
+      "araziOrtalamaFiyat": "100-500 TL/m2",
+      "notlar": "Tuz Golu cevresi ve Hasan Dagi. Tarim ve hayvancilik. Uygun fiyatli arazi. IcAnadolu bolgesinde yer alir."
+    },
+    {
+      "sehir": "Kinkkale",
+      "ilceler": [
+        "Merkez",
+        "Keskin",
+        "Yahsihan"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Keskin"
+      ],
+      "araziOrtalamaFiyat": "200-800 TL/m2",
+      "notlar": "Silah sanayi ve MKE. Ankara'ya yakinligiyla avantajli. Sanayi ve tarim. IcAnadolu bolgesinde yer alir."
+    },
+    {
+      "sehir": "Karaman",
+      "ilceler": [
+        "Merkez",
+        "Ermenek",
+        "Ayranci"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Ermenek"
+      ],
+      "araziOrtalamaFiyat": "100-500 TL/m2",
+      "notlar": "Ic Anadolu'da tarim sehri. Bugday, sekerpancari ve meyvecilik. Uygun fiyatli tarim arazileri. IcAnadolu bolgesinde yer alir."
+    },
+    {
+      "sehir": "Cankiri",
+      "ilceler": [
+        "Merkez",
+        "Ilgaz",
+        "Kursunlu"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Ilgaz"
+      ],
+      "araziOrtalamaFiyat": "150-600 TL/m2",
+      "notlar": "Ic Anadolu'da dogal guzellikler ve termal. Tuz Maarasi ve Ilgaz Dagi turistik. IcAnadolu bolgesinde yer alir."
+    },
+    {
+      "sehir": "Giresun",
+      "ilceler": [
+        "Merkez",
+        "Tirebolu",
+        "Gorele"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Tirebolu"
+      ],
+      "araziOrtalamaFiyat": "200-800 TL/m2",
+      "notlar": "Karadeniz'de findik ve kiraz. Tirebolu ve Giresun Kalesi turistik. Findik bahceleri degerli."
+    },
+    {
+      "sehir": "Sinop",
+      "ilceler": [
+        "Merkez",
+        "Boyabat",
+        "Ayancik"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Boyabat"
+      ],
+      "araziOrtalamaFiyat": "200-1000 TL/m2",
+      "notlar": "Karadeniz'in en kuzey ucu. Tarihi cezaevi ve dogal guzellikler. Hobi bahcesi ve yazlik icin uygun."
+    },
+    {
+      "sehir": "Kastamonu",
+      "ilceler": [
+        "Merkez",
+        "Tosya",
+        "Inebolu"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Tosya"
+      ],
+      "araziOrtalamaFiyat": "150-700 TL/m2",
+      "notlar": "Karadeniz'in tarihi sehri. Sepetcioglu ve Ilgaz Dagi. Orman urunleri ve hayvancilik."
+    },
+    {
+      "sehir": "Bartin",
+      "ilceler": [
+        "Merkez",
+        "Amasra",
+        "Ulus"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Amasra"
+      ],
+      "araziOrtalamaFiyat": "200-800 TL/m2",
+      "notlar": "Karadeniz dogasi. Inkumu plaji. Orman icinde arazi ve hobi bahceleri."
+    },
+    {
+      "sehir": "Zonguldak",
+      "ilceler": [
+        "Merkez",
+        "Eregli",
+        "Devrek"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Eregli"
+      ],
+      "araziOrtalamaFiyat": "200-800 TL/m2",
+      "notlar": "Taskomuru ve liman sehri. Karadeniz kiyisinda sanayi. Kozlu ve Filyos cevresi."
+    },
+    {
+      "sehir": "Duzce",
+      "ilceler": [
+        "Merkez",
+        "Akcakoca",
+        "Kaynasli"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Akcakoca"
+      ],
+      "araziOrtalamaFiyat": "300-1500 TL/m2",
+      "notlar": "Istanbul'a yakinligiyla deger kazanan sehir. Mobilya ve tarim. Hobi bahceleri populer. Karadeniz bolgesinde yer alir."
+    },
+    {
+      "sehir": "Bolu",
+      "ilceler": [
+        "Merkez",
+        "Goynuk",
+        "Mudurnu"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Goynuk"
+      ],
+      "araziOrtalamaFiyat": "300-2000 TL/m2",
+      "notlar": "Doga ve termal turizmi. Golyaka ve Abant. Istanbul'a yakin hafta sonu evleri. Karadeniz bolgesinde yer alir."
+    },
+    {
+      "sehir": "Amasya",
+      "ilceler": [
+        "Merkez",
+        "Merzifon",
+        "Suluova"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Merzifon"
+      ],
+      "araziOrtalamaFiyat": "200-800 TL/m2",
+      "notlar": "Tarihi sehir. Ye ve yali boyu evleri. Elma ve sekerpancari meshur. Karadeniz bolgesinde yer alir."
+    },
+    {
+      "sehir": "Tokat",
+      "ilceler": [
+        "Merkez",
+        "Erbaa",
+        "Zile"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Erbaa"
+      ],
+      "araziOrtalamaFiyat": "150-700 TL/m2",
+      "notlar": "Karadeniz'de tarim sehri. Uzum, elma ve sebze. Tarihi konaklar ve turizm."
+    },
+    {
+      "sehir": "Gumushane",
+      "ilceler": [
+        "Merkez",
+        "Kurtun",
+        "Kelkit"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Kurtun"
+      ],
+      "araziOrtalamaFiyat": "100-500 TL/m2",
+      "notlar": "Karadeniz daglari arasinda. Kustul Manastiri ve Zigana. Tarim ve hayvancilik."
+    },
+    {
+      "sehir": "Bayburt",
+      "ilceler": [
+        "Merkez",
+        "Demirozu",
+        "Aydintepe"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Demirozu"
+      ],
+      "araziOrtalamaFiyat": "75-400 TL/m2",
+      "notlar": "Karadeniz'in dogusu. Siran daglari ve tarihi yapilar. Hayvancilik ve tarim."
+    },
+    {
+      "sehir": "Erzurum",
+      "ilceler": [
+        "Merkez",
+        "Palandoken",
+        "Oltu"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Palandoken"
+      ],
+      "araziOrtalamaFiyat": "100-600 TL/m2",
+      "notlar": "Dogu Anadolu'nun en buyuk sehri. Palandoken kayak, Ataturk Universitesi. Sanayi ve tarim. DoguAnadolu bolgesinde yer alir."
+    },
+    {
+      "sehir": "Erzincan",
+      "ilceler": [
+        "Merkez",
+        "Kemaliye",
+        "Ilic"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Kemaliye"
+      ],
+      "araziOrtalamaFiyat": "100-500 TL/m2",
+      "notlar": "Dogu Anadolu'da tarim sehri. Tulum peyniri ve usum. Deprem riski yuksek bolge. DoguAnadolu bolgesinde yer alir."
+    },
+    {
+      "sehir": "Agri",
+      "ilceler": [
+        "Merkez",
+        "Dogubayazit",
+        "Patnos"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Dogubayazit"
+      ],
+      "araziOrtalamaFiyat": "75-300 TL/m2",
+      "notlar": "Dogu Anadolu'nun dogusu. Agri Dagi ve meteor cobani. Hayvancilik ve tarim. DoguAnadolu bolgesinde yer alir."
+    },
+    {
+      "sehir": "Kars",
+      "ilceler": [
+        "Merkez",
+        "Sarikamis",
+        "Karakurt"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Sarikamis"
+      ],
+      "araziOrtalamaFiyat": "75-400 TL/m2",
+      "notlar": "Kafkaslar'in sehri. Kars gravyeri, kaz ve bal. Sarikamis kayak. Ciftlik hayvancilik. DoguAnadolu bolgesinde yer alir."
+    },
+    {
+      "sehir": "Igdir",
+      "ilceler": [
+        "Merkez",
+        "Tuzluca",
+        "Aralik"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Tuzluca"
+      ],
+      "araziOrtalamaFiyat": "100-500 TL/m2",
+      "notlar": "Igsu Ovasiv erimli tarim. Kayisi, elma ve sebze. Dogu'nun Akdenizi. DoguAnadolu bolgesinde yer alir."
+    },
+    {
+      "sehir": "Ardahan",
+      "ilceler": [
+        "Merkez",
+        "Cildir",
+        "Gole"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Cildir"
+      ],
+      "araziOrtalamaFiyat": "75-300 TL/m2",
+      "notlar": "Kafkaslar'in yuksek kesimi. Cildir Golu ve hayvancilik. Yayla turizmi. DoguAnadolu bolgesinde yer alir."
+    },
+    {
+      "sehir": "Van",
+      "ilceler": [
+        "Merkez",
+        "Edremit",
+        "Ercis"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Edremit"
+      ],
+      "araziOrtalamaFiyat": "100-600 TL/m2",
+      "notlar": "Van Golu ve kedisi. Tarim ve hayvancilik. Turizm potansiyeli yuksek. DoguAnadolu bolgesinde yer alir."
+    },
+    {
+      "sehir": "Bitlis",
+      "ilceler": [
+        "Merkez",
+        "Tatvan",
+        "Ahlat"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Tatvan"
+      ],
+      "araziOrtalamaFiyat": "75-400 TL/m2",
+      "notlar": "Nemrut Krater Golu ve tarihi yapilar. Tutun ve tarim. DoguAnadolu bolgesinde yer alir."
+    },
+    {
+      "sehir": "Mus",
+      "ilceler": [
+        "Merkez",
+        "Bulanik",
+        "Malazgirt"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Bulanik"
+      ],
+      "araziOrtalamaFiyat": "75-300 TL/m2",
+      "notlar": "Dogu Anadolu'da tarim. Bugday ve hayvancilik. Uygun fiyatli arazi. DoguAnadolu bolgesinde yer alir."
+    },
+    {
+      "sehir": "Bingol",
+      "ilceler": [
+        "Merkez",
+        "Genc",
+        "Solhan"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Genc"
+      ],
+      "araziOrtalamaFiyat": "75-400 TL/m2",
+      "notlar": "Bingol Dagi ve Karlıova. Hayvancilik ve tarim. Yayla turizmi. DoguAnadolu bolgesinde yer alir."
+    },
+    {
+      "sehir": "Elazig",
+      "ilceler": [
+        "Merkez",
+        "Keban",
+        "Baskil"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Keban"
+      ],
+      "araziOrtalamaFiyat": "150-800 TL/m2",
+      "notlar": "Firat Universitesi ve Keban. Sanayi ve tarim. Cevre illere gore gelismis. DoguAnadolu bolgesinde yer alir."
+    },
+    {
+      "sehir": "Malatya",
+      "ilceler": [
+        "Merkez",
+        "Battalgazi",
+        "Darende"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Battalgazi"
+      ],
+      "araziOrtalamaFiyat": "200-1000 TL/m2",
+      "notlar": "Kayisi baskenti. Sanayi ve tarim. Kayisi bahceleri cok degerli. DoguAnadolu bolgesinde yer alir."
+    },
+    {
+      "sehir": "Tunceli",
+      "ilceler": [
+        "Merkez",
+        "Pertek",
+        "Cemisgezek"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Pertek"
+      ],
+      "araziOrtalamaFiyat": "75-400 TL/m2",
+      "notlar": "Munzur Vadisi Milli Parki. Dogal guzellikler ve turizm. Tarim ve hayvancilik. DoguAnadolu bolgesinde yer alir."
+    },
+    {
+      "sehir": "Hakkari",
+      "ilceler": [
+        "Merkez",
+        "Yuksekova",
+        "Semdinli"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Yuksekova"
+      ],
+      "araziOrtalamaFiyat": "50-300 TL/m2",
+      "notlar": "Turkiye'nin en dogusu. Yuksekova ve dag turizmi. Hayvancilik. DoguAnadolu bolgesinde yer alir."
+    },
+    {
+      "sehir": "Kilis",
+      "ilceler": [
+        "Merkez",
+        "Elbeyli",
+        "Musabeyli"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Elbeyli"
+      ],
+      "araziOrtalamaFiyat": "100-500 TL/m2",
+      "notlar": "Guneydogu'da kucuk sehir. Zeytin ve uzum. Suriye sinirinda. GuneydoguAnadolu bolgesinde yer alir."
+    },
+    {
+      "sehir": "Sanliurfa",
+      "ilceler": [
+        "Merkez",
+        "Akçakale",
+        "Viransehir"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Akçakale"
+      ],
+      "araziOrtalamaFiyat": "150-800 TL/m2",
+      "notlar": "GAP sehri. Tarim ve tarih. Balikligol ve Harran. Verimli tarim arazileri. GuneydoguAnadolu bolgesinde yer alir."
+    },
+    {
+      "sehir": "Adiyaman",
+      "ilceler": [
+        "Merkez",
+        "Kahta",
+        "Besni"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Kahta"
+      ],
+      "araziOrtalamaFiyat": "100-500 TL/m2",
+      "notlar": "Nemrut Dagi. Tutun ve antepfistigi. Turizm ve tarim. GuneydoguAnadolu bolgesinde yer alir."
+    },
+    {
+      "sehir": "Diyarbakir",
+      "ilceler": [
+        "Merkez",
+        "Baglar",
+        "Kayapinar"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Baglar"
+      ],
+      "araziOrtalamaFiyat": "200-1000 TL/m2",
+      "notlar": "Guneydogu'nun en buyugu. Karacadag bazalti. Tarim ve sanayi. Surlar UNESCO. GuneydoguAnadolu bolgesinde yer alir."
+    },
+    {
+      "sehir": "Mardin",
+      "ilceler": [
+        "Merkez",
+        "Midyat",
+        "Kiziltepe"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Midyat"
+      ],
+      "araziOrtalamaFiyat": "200-800 TL/m2",
+      "notlar": "Tarihi tas evler ve Midyat. Turizm ve tarim. Sinir ticareti. GuneydoguAnadolu bolgesinde yer alir."
+    },
+    {
+      "sehir": "Batman",
+      "ilceler": [
+        "Merkez",
+        "Kozluk",
+        "Sason"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Kozluk"
+      ],
+      "araziOrtalamaFiyat": "150-600 TL/m2",
+      "notlar": "Petrol ve sanayi. Batman Cayi cevresi tarim. GuneydoguAnadolu bolgesinde yer alir."
+    },
+    {
+      "sehir": "Siirt",
+      "ilceler": [
+        "Merkez",
+        "Kurtalan",
+        "Pervari"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Kurtalan"
+      ],
+      "araziOrtalamaFiyat": "100-500 TL/m2",
+      "notlar": "Antepfistigi ve battaniye. Tarim ve hayvancilik. GuneydoguAnadolu bolgesinde yer alir."
+    },
+    {
+      "sehir": "Sirnak",
+      "ilceler": [
+        "Merkez",
+        "Cizre",
+        "Silopi"
+      ],
+      "populerBolgeler": [
+        "Merkez",
+        "Cizre"
+      ],
+      "araziOrtalamaFiyat": "100-500 TL/m2",
+      "notlar": "Cudi Dagi ve Habur Sinir Kapisi. Tarim ve sinir ticareti. GuneydoguAnadolu bolgesinde yer alir."
     }
   ],
   "genelNotlar": {
-    "enPahaliSehirler": ["Mugla-Bodrum", "Istanbul", "Izmir-Cesme", "Antalya-Kas", "Yalova-Termal"],
-    "enUygunSehirler": ["Edirne", "Artvin", "Mersin", "Corum", "Usak", "Gaziantep"],
+    "enPahaliSehirler": [
+      "Mugla-Bodrum",
+      "Istanbul",
+      "Izmir-Cesme",
+      "Antalya-Kas",
+      "Yalova-Termal",
+      "Kocaeli-Kandira"
+    ],
+    "enUygunSehirler": [
+      "Edirne",
+      "Artvin",
+      "Corum",
+      "Usak",
+      "Kirsehir",
+      "Yozgat",
+      "Kars",
+      "Mus",
+      "Agri",
+      "Sirnak"
+    ],
     "yatirimOnerileri": "2024-2025 icin Edirne, Mersin ve Artvin en hizli deger kazanan bolgeler. Yeni havalimani ve otoyol projeleri fiyatlari artiriyor. Hobi bahcesi icin Izmır, Balikesir ve Tekirdag cevresi populer. Tarim icin Cukurova (Adana), Konya ovasi ve Ege bolgesi onerilir.",
-    "akademi": "Has Ozel Akademi, hasinder.com adresinde 15 haftalik Gumruk ve Dis Ticaret Uzmanlasma Programi sunar. Dersler: A) Temel Gumruk Bilgisi (Mevzuat, Teslim/Odeme, Beyan/Muayene, Kargo, AEO), B) Rejimler ve Uygulamalar (Ihracat, Dahilde/Haricte Isleme, Gecici Ithalat, Transit), C) Hukuk, Cezalar ve Strateji (Cezalar, Uzlasma, Kacakcilik, Tesvikler, Pazar Arastirmasi)."
+    "akademi": "Has Ozel Akademi, hasinder.com adresinde 15 haftalik Gumruk ve Dis Ticaret Uzmanlasma Programi sunar.",
+    "hasinder": "Hasinder (Istanbul ve Hatay Sanayici ve Is Insanlari Platformu), B2B ticaretin profesyonel adresidir. 20 icra kurulu, TIB Borsa, akilli eslestirme ve 60+ sektor kategorisiyle hizmet verir. hasinder.com"
   }
 }

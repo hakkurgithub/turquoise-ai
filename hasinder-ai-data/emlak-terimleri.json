@@ -419,6 +419,56 @@
       "terim": "TIR Karnesi",
       "aciklama": "Transit ulasimda kullanilan uluslararasi belge. Esyanin gumruk islemi olmadan ulkeler arasi tasinmasini saglar.",
       "kategori": "Dis Ticaret"
+    },
+    {
+      "terim": "B2B (Business-to-Business)",
+      "aciklama": "Isletmeler arasi ticaret modeli. Sirketlerin birbirlerine urun/hizmet sattigi, B2C'den farkli olarak daha buyuk hacimli ve uzun vadeli is iliskilerine dayanir.",
+      "kategori": "Ticaret"
+    },
+    {
+      "terim": "TIB Borsa",
+      "aciklama": "Hasinder platformundaki otonom ticaret agi. Gercek zamanli fiyat endeksleri, piyasa verileri ve anlik islem firsatlari sunar.",
+      "kategori": "Ticaret"
+    },
+    {
+      "terim": "Akilli Eslestirme",
+      "aciklama": "Sektor, lokasyon ve is modeli bazli yapay zeka destekli alici-satici bulusturma sistemi. Hasinder platformu ozelligidir.",
+      "kategori": "Ticaret"
+    },
+    {
+      "terim": "Icra Kurulu",
+      "aciklama": "Hasinder B2B platformundaki profesyonel komisyon. Hukuk, mali musavirlik, gumruk, lojistik gibi alanlarda uzman destegi sunan kurullardir. 20 farkli icra kurulu vardir.",
+      "kategori": "Ticaret"
+    },
+    {
+      "terim": "KVKK",
+      "aciklama": "Kisisel Verilerin Korunmasi Kanunu (6698 sayili). Kisi verilerinin islenmesini ve korunmasini duzenleyen kanun.",
+      "kategori": "Hukuki"
+    },
+    {
+      "terim": "B2C (Business-to-Consumer)",
+      "aciklama": "Sirketten tuketiciye satis modeli. Perakende satis, e-ticaret siteleri bu modele ornektir. B2B'den farkli olarak bireysel tuketicilere satis yapilir.",
+      "kategori": "Ticaret"
+    },
+    {
+      "terim": "Has Insan Dernegi",
+      "aciklama": "Hasinder B2B Platformu'nun arkasindaki sivil toplum kurulusu. Sanayici ve is insanlari arasinda isbirligini tesvik eder, Hatay Yatirim Projesi'ni yurutur.",
+      "kategori": "Genel"
+    },
+    {
+      "terim": "Otonom Ticaret",
+      "aciklama": "Insan mudahalesi olmadan otomatik gerceklesen alim-satim islemleri. TIB Borsa uzerinden gercek zamanli ve dijital ortamda yapilir.",
+      "kategori": "Ticaret"
+    },
+    {
+      "terim": "Platform Ekonomisi",
+      "aciklama": "Dijital platformlar uzerinden tedarikci ile tuketiciyi bulusturan ekonomik model. Hasinder, Airbnb, Amazon gibi platformlar bu kategoriye girer.",
+      "kategori": "Ticaret"
+    },
+    {
+      "terim": "Isbirligi Platformu",
+      "aciklama": "Isletmelerin bir araya gelerek ticaret, yatirim ve isbirligi yaptigi dijital ortam. Istanbul ve Hatay Sanayici ve Is Insanlari Platformu buna ornektir.",
+      "kategori": "Ticaret"
     }
   ]
 }
