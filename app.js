@@ -365,8 +365,8 @@ async function soruGonder(soru) {
 /* ---------- Oneriler ---------- */
 const ORNEK_SORULAR = [
   'Merhaba', 'Fethiye\'de arsa fiyatlari ne kadar?', 'KAKS nedir?',
-  'Tapu islemleri nasil yapiliyor?', 'Yatirim icin hangi bolgeyi onerirsiniz?',
-  'Emlak komisyonu ne kadar?'
+  'INCOTERMS 2020 nedir?', 'Dahilde isleme rejimi nedir?',
+  'Tapu islemleri nasil yapiliyor?', 'Gumruk cezalari nelerdir?'
 ];
 
 function onerileriGoster() {
@@ -419,7 +419,7 @@ veriYukle()
   .then(() => {
     durumGuncelle();
     onerileriGoster();
-    mesajEkle('Merhaba! Ben Kelepir Emlak AI Satis Temsilciniz. Arazi, tarla, villa ve gayrimenkul konularinda size yardimci olabilirim. Asagidaki ornek sorularla baslayabilirsiniz.', 'asistan', 'Sistem');
+    mesajEkle('Merhaba! Ben Goodbuy Real Estate AI Satis Temsilciniz ve Has Ozel Akademi Egitim Asistaniniz. Gayrimenkul, yatirim, emlak hukuku, gümrük, dis ticaret ve akademi dersleri hakkinda her konuda yardimci olabilirim. Asagidaki ornek sorularla baslayabilirsiniz.', 'asistan', 'Sistem');
   })
   .catch(e => {
     durumEl.textContent = 'Veri yuklenemedi';

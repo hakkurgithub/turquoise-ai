@@ -101,8 +101,8 @@
       "kategori": "Imar"
     },
     {
-      "terim": "Kelepir",
-      "aciklama": "Piyasa degerinin altinda fiyatla satilan gayrimenkul. Genellikle acil satilik veya sahibinden direkt satis durumlarinda ortaya cikar.",
+      "terim": "Acil Satilik",
+      "aciklama": "Piyasa degerinin altinda fiyatla satilan gayrimenkul. Genellikle acil nakit ihtiyaci veya sahibinden direkt satis durumlarinda ortaya cikar.",
       "kategori": "Genel"
     },
     {
@@ -244,6 +244,181 @@
       "terim": "Miras (Veraset) Intikali",
       "aciklama": "Vefat eden kisinin gayrimenkulunun mirascilara gecmesi islemi. Veraset ilami ve vergi odemesi sonrasi tapu devri yapilir.",
       "kategori": "Hukuki"
+    },
+    {
+      "terim": "INCOTERMS 2020",
+      "aciklama": "Uluslararasi ticarette teslim sekillerini belirleyen 11 kural. EXW, FCA, FAS, FOB, CFR, CIF, CPT, CIP, DAP, DPU, DDP kurallarindan olusur. Alici-satici arasinda risk ve masraf dagilimini belirler.",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "terim": "Akreditif (L/C)",
+      "aciklama": "Letter of Credit. Bankanin alici adina saticiya belirli sartlarla odeme yapmayi garanti ettigi odeme yontemi. En guvenli uluslararasi odeme yontemi.",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "terim": "D/P (Belge Karsiligi Odeme)",
+      "aciklama": "Documents against Payment. Ihracatcinin bankaya gonderdigi belgelerin, ithalatci tarafindan odenmesi karsiligi teslim edildigi odeme yontemi.",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "terim": "D/A (Belge Karsiligi Kabul)",
+      "aciklama": "Documents against Acceptance. Belgelerin kabul karsiligi teslim edildigi odeme yontemi. Kabul kredisi olarak da bilinir.",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "terim": "T/T (Havale)",
+      "aciklama": "Tele Transfer. Banka havale yoluyla yapilan odeme. En hizli ama en riskli uluslararasi odeme yontemidir.",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "terim": "Gumruk Beyannamesi",
+      "aciklama": "Esyanin gumruk rejimine girmesi icin gumruk idaresine verilen resmi beyan belgesi. BILGE sistemi uzerinden elektronik olarak duzenlenir.",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "terim": "ETGB",
+      "aciklama": "Elektronik Ticaret Gumruk Beyannamesi. 1500 Euro'ya kadar e-ticaret gonderileri icin kullanilan basitlestirilmis gumruk beyannamesi.",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "terim": "De Minimis",
+      "aciklama": "Dusuk degerli gonderilerin gumruk vergisinden muaf tutulmasini saglayan kural. 2024'te 30 Euro'ya kadar olan gonderiler muaftir.",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "terim": "AEO (Yetkilendirilmis Yukumlu)",
+      "aciklama": "Authorized Economic Operator. Ticaret Bakanligi tarafindan verilen, guvenilir firmalara gumruk islemlerinde kolaylik saglayan ozel statu.",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "terim": "Dahilde Isleme Rejimi",
+      "aciklama": "DIR. Ithal edilen girdilerin Turkiye'de islenip yeniden ihrac edilmesinde vergi avantaji saglayan rejim. Girdiler vergisiz ithal edilir.",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "terim": "Haricte Isleme Rejimi",
+      "aciklama": "HIR. Turkiye menseli esyanin yurtdisinda islenip geri ithal edilmesi. Sadece katma deger uzerinden vergi alinir.",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "terim": "Gecici Ithalat",
+      "aciklama": "Esyanin belirli amacla (fuar, sergi, numune) gecici olarak yurda getirilip geri ihrac edilmesi sartiyla vergi muafiyeti saglayan rejim.",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "terim": "ATA Karnesi",
+      "aciklama": "Gecici ithalat/ihracat icin kullanilan uluslararasi gumruk belgesi. 1 yil gecerli, tek belgeyle sinir gecisi saglar.",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "terim": "Transit Rejimi",
+      "aciklama": "Esyanin bir gumruk idaresinden digerine vergi odenmeden tasinmasi. T1, T2, TIR ve ATA Karnesi ile yapilir. NCTS sistemi ile elektronik yurutulur.",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "terim": "T1 Belgesi",
+      "aciklama": "Turkiye menseli olmayan esyanin transit tasinmasinda kullanilan belge. Gumruk vergisi teminata baglanarak esya hareket eder.",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "terim": "T2 Belgesi",
+      "aciklama": "Gumruk Birligi esyasi icin transit belgesi. AB uyesi ulkeler arasi ticarette gumruk islemi gerektirmez.",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "terim": "NCTS",
+      "aciklama": "New Computerized Transit System. Transit rejiminin elektronik ortamda yurutulmesini saglayan bilgisayar sistemi. BILGE ile entegre calisir.",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "terim": "Gumruk Birligi",
+      "aciklama": "Turkiye ile AB arasinda sanayi urunlerinde gumruk vergilerinin kaldirildigi ve ortak gumruk tarifesinin uygulandigi anlasma (1995).",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "terim": "GTIP",
+      "aciklama": "Gumruk Tarife Istatistik Pozisyonu. Esyalarin siniflandirilmasinda kullanilan 12 haneli uluslararasi kod. Ilk 6 hane WCO sistemi.",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "terim": "Mense (Origin)",
+      "aciklama": "Bir esyanin ekonomik olarak tamamen uretildigi veya son esasli islemin yapildigi ulke. Tercihli ticarette vergi avantaji saglar.",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "terim": "Serbest Bolge",
+      "aciklama": "Gumruk hatti disinda sayilan, ticari faaliyetler icin tesviklerin uygulandigi ozel alan. Turkiye'de 20'ye yakin serbest bolge vardir.",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "terim": "Vergi Ziyai",
+      "aciklama": "Gumruk vergisinin eksik odenmesi veya odenmemesi durumu. Uc kat cezali olarak tahsil edilir. Uzlasma ile indirim mumkundur.",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "terim": "5607 Sayili Kanun",
+      "aciklama": "Kacakcilikla Mucadele Kanunu. Gumruk mevzuatina aykiri esya hareketini suc sayar. Hapis ve para cezasi ongorur.",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "terim": "KOSGEB",
+      "aciklama": "Kucuk ve Orta Olcekli Isletmeleri Destekleme Idaresi Baskanligi. KOBI'lere hibe ve faizsiz kredi destegi saglar.",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "terim": "DASK",
+      "aciklama": "Dogal Afet Sigortalari Kurumu. Deprem sigortasi. Kat mulkiyetli bagimsiz bolumler icin ZORUNLUDUR. 2024 teminat: 640.000 TL.",
+      "kategori": "Sigorta"
+    },
+    {
+      "terim": "EKB (Enerji Kimlik Belgesi)",
+      "aciklama": "Binanin enerji performansini A-G arasi siniflandiran belge. Yeni binalar ve satilik/kiralik mevcut binalar icin zorunludur. 10 yil gecerli.",
+      "kategori": "Teknik"
+    },
+    {
+      "terim": "Kentsel Donusum",
+      "aciklama": "Riskli yapilarin yikilip modern binalar yapilmasi. 6306 sayili Kanun kapsaminda kamu destekli donusum projesi.",
+      "kategori": "Hukuki"
+    },
+    {
+      "terim": "Rezerv Alan",
+      "aciklama": "Kentsel donusum kapsaminda yeni yerlesim alani olarak belirlenen bolge. Devlet tarafindan kamulastirilabilir ve planlanir.",
+      "kategori": "Hukuki"
+    },
+    {
+      "terim": "Sit Alani",
+      "aciklama": "Tarihi, kulturel veya dogal degerler nedeniyle korunan bolge. Arkeolojik, kentsel, dogal ve tarihi sit olarak dort turu vardir.",
+      "kategori": "Hukuki"
+    },
+    {
+      "terim": "Jeolojik Etut (Zemin Etudu)",
+      "aciklama": "Insat oncesi zemin ozelliklerini belirleyen bilimsel calisma. Deprem riski, tasima kapasitesi, yeralti suyu bilgilerini icerir.",
+      "kategori": "Teknik"
+    },
+    {
+      "terim": "GYO",
+      "aciklama": "Gayrimenkul Yatirim Ortakligi. Gayrimenkul portfoyu olan halka acik sirket. Borsada islem gorur, kurumlar vergisinden muaftir.",
+      "kategori": "Finansal"
+    },
+    {
+      "terim": "TOKI",
+      "aciklama": "Toplu Konut Idaresi Baskanligi. Uygun fiyatli konut ureten kamu kurulusu. Sosyal konut projeleriyle dar gelirliye konut saglar.",
+      "kategori": "Genel"
+    },
+    {
+      "terim": "E-ihracat (Mikro Ihracat)",
+      "aciklama": "Dijital platformlar uzerinden yapilan ihracat. 300-150.000 Euro arasi. ETGB ile basitlestirilmis beyan kullanilir.",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "terim": "Eximbank Kredisi",
+      "aciklama": "Turkiye Ihracat Kredi Bankasi tarafindan ihracatcilara dusuk faizli kredi. Kisa ve uzun vadeli ihracat kredileri mevcuttur.",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "terim": "TIR Karnesi",
+      "aciklama": "Transit ulasimda kullanilan uluslararasi belge. Esyanin gumruk islemi olmadan ulkeler arasi tasinmasini saglar.",
+      "kategori": "Dis Ticaret"
     }
   ]
 }

@@ -316,7 +316,7 @@ async function main() {
     rl.prompt();
   }
 
-  console.log('\nGorusmek uzere! - Kelepir Emlak');
+  console.log('\nGorusmek uzere! - Goodbuy Real Estate AI');
   rl.close();
 }
 

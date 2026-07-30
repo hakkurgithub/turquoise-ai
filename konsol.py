@@ -310,7 +310,7 @@ def main():
         try:
             girdi = input('Siz: ').strip()
         except (EOFError, KeyboardInterrupt):
-            print('\nGorusmek uzere! - Kelepir Emlak')
+            print('\nGorusmek uzere! - Goodbuy Real Estate AI')
             break
         if not girdi:
             continue
@@ -318,7 +318,7 @@ def main():
         norm = normalize(girdi)
         komut = girdi.lower()
         if norm in ('cikis', 'exit', 'quit'):
-            print('Gorusmek uzere! - Kelepir Emlak')
+            print('Gorusmek uzere! - Goodbuy Real Estate AI')
             break
         elif komut == '/yardim':
             print(YARDIM)

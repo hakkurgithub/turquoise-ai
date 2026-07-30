@@ -160,11 +160,82 @@
       "populerBolgeler": ["Simav", "Gediz"],
       "araziOrtalamaFiyat": "100-600 TL/m2",
       "notlar": "Simav kestanesi meshur, meyvecilik yaygin. Termal kaynaklar cevresi turizm potansiyeli. Uygun fiyatli ciftlikler."
+    },
+    {
+      "sehir": "Ankara",
+      "ilceler": ["Golbasi", "Polatli", "Beypazari", "Nallihan", "Elmadag", "Sereflikochisar"],
+      "populerBolgeler": ["Golbasi", "Beypazari", "Polatli"],
+      "araziOrtalamaFiyat": "200-1500 TL/m2",
+      "notlar": "Baskent, genis arazi imkanlari. Golbasi cevresi hobi bahceleri ve hafta sonu evleri populer. Polatli'da tarim arazileri uygun fiyatli."
+    },
+    {
+      "sehir": "Denizli",
+      "ilceler": ["Pamukkale", "Merkezefendi", "Serinhisar", "Bozkurt", "Civril"],
+      "populerBolgeler": ["Pamukkale", "Civril"],
+      "araziOrtalamaFiyat": "200-1200 TL/m2",
+      "notlar": "Ege'nin yukselen sanayi ve tarim sehri. Pamukkale cevresi turizm imarli arsalar degerli. Civril'de tarim arazileri verimli."
+    },
+    {
+      "sehir": "Manisa",
+      "ilceler": ["Salihli", "Turgutlu", "Alasehir", "Akhisar", "Sarigol", "Kula"],
+      "populerBolgeler": ["Salihli", "Akhisar", "Alasehir"],
+      "araziOrtalamaFiyat": "200-1000 TL/m2",
+      "notlar": "Ege'nin uzum ve zeytin bolgesi. Salihli'de baglar, Alasehir'de sultaniye cekirdeksiz uzum meshur. Akhisar zeytinlikleri populer."
+    },
+    {
+      "sehir": "Adana",
+      "ilceler": ["Yuregir", "Cukurova", "Seyhan", "Kozan", "Imamoglu", "Karaisali"],
+      "populerBolgeler": ["Kozan", "Imamoglu", "Karaisali"],
+      "araziOrtalamaFiyat": "200-1200 TL/m2",
+      "notlar": "Cukurova'nin tarim merkezi. Tarla ve narenciye bahceleri cok verimli. Seyhan ve Ceyhan nehirleri cevresi sulu tarim icin ideal."
+    },
+    {
+      "sehir": "Gaziantep",
+      "ilceler": ["Nizip", "Oğuzeli", "Karkamis", "Islahiye", "Nurdagi"],
+      "populerBolgeler": ["Nizip", "Oğuzeli"],
+      "araziOrtalamaFiyat": "150-800 TL/m2",
+      "notlar": "Guneydogu'nun sanayi, tarim ve gastronomi merkezi. Antep fistigi bahceleri ve zeytinlikler degerli. Nizip ovasi verimli tarim arazisi."
+    },
+    {
+      "sehir": "Kocaeli",
+      "ilceler": ["Kandira", "Karamursel", "Golcuk", "Gebze", "Dilovasi"],
+      "populerBolgeler": ["Kandira", "Karamursel"],
+      "araziOrtalamaFiyat": "500-2500 TL/m2",
+      "notlar": "Istanbul'a yakin sanayi sehri. Kandira cevresi ormanlik arazi ve hobi bahceleri populer. Karamursel'de deniz manzarali arsalar degerli."
+    },
+    {
+      "sehir": "Yalova",
+      "ilceler": ["Armutlu", "Ciftlikkoy", "Termal", "Altinova"],
+      "populerBolgeler": ["Armutlu", "Termal", "Ciftlikkoy"],
+      "araziOrtalamaFiyat": "600-3000 TL/m2",
+      "notlar": "Istanbul'a 1 saat mesafede doga harikasi. Termal cevresi kaplica ve gunluk kacis noktasi. Armutlu'da deniz manzarali arsalar."
+    },
+    {
+      "sehir": "Eskisehir",
+      "ilceler": ["Sivrihisar", "Cifteler", "Mihaliccik", "Odunpazari", "Tepebasi"],
+      "populerBolgeler": ["Sivrihisar", "Cifteler"],
+      "araziOrtalamaFiyat": "150-800 TL/m2",
+      "notlar": "Ogrenci sehri, yasam kalitesi yuksek. Sivrihisar cevresi uygun fiyatli tarim arazileri. Odunpazari tarihi evleri turistik."
+    },
+    {
+      "sehir": "Ordu",
+      "ilceler": ["Fatsa", "Ulubey", "Gulyali", "Persembe", "Golkoy", "Camas"],
+      "populerBolgeler": ["Fatsa", "Persembe", "Ulubey"],
+      "araziOrtalamaFiyat": "150-700 TL/m2",
+      "notlar": "Karadeniz'in findik baskenti. Findik bahceleri ve yaylalar populer. Persembe'de deniz manzarali arsalar degerli."
+    },
+    {
+      "sehir": "Corum",
+      "ilceler": ["Alaca", "Sungurlu", "Osmancik", "Iskilip"],
+      "populerBolgeler": ["Osmancik", "Iskilip"],
+      "araziOrtalamaFiyat": "100-500 TL/m2",
+      "notlar": "Ic Anadolu'nun tarim sehri. Osmancik pirinci meshur. Iskilip'de leblebi ve tarihi konaklar. Uygun fiyatli tarim arazileri."
     }
   ],
   "genelNotlar": {
-    "enPahaliSehirler": ["Mugla-Bodrum", "Istanbul", "Izmir-Cesme", "Antalya-Kas"],
-    "enUygunSehirler": ["Edirne", "Artvin", "Mersin", "Balikesir"],
-    "yatirimOnerileri": "2024-2025 icin Edirne, Mersin ve Artvin en hizli deger kazanan bolgeler. Yeni havalimani ve otoyol projeleri fiyatlari artiriyor."
+    "enPahaliSehirler": ["Mugla-Bodrum", "Istanbul", "Izmir-Cesme", "Antalya-Kas", "Yalova-Termal"],
+    "enUygunSehirler": ["Edirne", "Artvin", "Mersin", "Corum", "Usak", "Gaziantep"],
+    "yatirimOnerileri": "2024-2025 icin Edirne, Mersin ve Artvin en hizli deger kazanan bolgeler. Yeni havalimani ve otoyol projeleri fiyatlari artiriyor. Hobi bahcesi icin Izmır, Balikesir ve Tekirdag cevresi populer. Tarim icin Cukurova (Adana), Konya ovasi ve Ege bolgesi onerilir.",
+    "akademi": "Has Ozel Akademi, hasinder.com adresinde 15 haftalik Gumruk ve Dis Ticaret Uzmanlasma Programi sunar. Dersler: A) Temel Gumruk Bilgisi (Mevzuat, Teslim/Odeme, Beyan/Muayene, Kargo, AEO), B) Rejimler ve Uygulamalar (Ihracat, Dahilde/Haricte Isleme, Gecici Ithalat, Transit), C) Hukuk, Cezalar ve Strateji (Cezalar, Uzlasma, Kacakcilik, Tesvikler, Pazar Arastirmasi)."
   }
 }
