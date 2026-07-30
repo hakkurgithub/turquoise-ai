@@ -1,8 +1,9 @@
 'use strict';
 /* ============================================================
- * KELEPIR EMLAK AI - Hibrit Beyin (Web Surumu)
+ * Turquoise AI - Genel Yapay Zeka (Web Surumu)
  * 1. Once yerel veri setinde akilli eslestirme yapar (ucretsiz, cevrimdisi)
  * 2. Bulamazsa Groq uzerinden acik kaynak LLM'e sorar (Llama 3.1)
+ * 3. Cevap bulamazsa WhatsApp yonlendirmesi yapar
  * Veriler: hasinder-ai-data/ klasorundeki acik kaynak JSON dosyalari
  * ============================================================ */
 
@@ -16,6 +17,7 @@ const VERI = {
 
 const GECMIS = []; // LLM icin sohbet gecmisi
 const ESLESME_ESIGI = 0.45;
+const WHATSAPP_NUMARA = '905333715577'; // WhatsApp uzman numarasi (uluslararasi format, +90 basinda yok)
 
 /* ---------- Metin Normalizasyonu (Turkce) ---------- */
 const TR_HARF = { 'ı': 'i', 'ş': 's', 'ğ': 'g', 'ü': 'u', 'ö': 'o', 'ç': 'c', 'â': 'a', 'î': 'i', 'û': 'u' };
@@ -127,7 +129,7 @@ function sehirCevabi(s) {
     ``,
     s.notlar,
     ``,
-    `Bu bolgedeki guncel ilanlarimiz icin butce ve gayrimenkul turunuzu belirtir misiniz?`
+    `Detayli bilgi icin sorunuzu daha spesifik sorabilirsiniz.`
   ].join('\n');
 }
 
@@ -279,19 +281,15 @@ async function cevapUret(girdi) {
       const cevap = await llmSor(girdi);
       return { metin: cevap, kaynak: 'Bulut LLM (Groq)' };
     } catch (e) {
-      return { metin: 'LLM servisine ulasilamadi: ' + e.message + '\n\nYerel veri setinden cevap veremedim. Sorunuzu emlak, arazi, fiyat, tapu gibi konularla ilgili sorabilir misiniz?', kaynak: 'Hata', hata: true };
+      return { metin: 'LLM servisine ulasilamadi: ' + e.message + '\n\nSorunuzu WhatsApp uzerinden uzmanimize iletebilirim:', kaynak: 'Hata', hata: true, whatsapp: true };
     }
   }
 
-  // 6) LLM yoksa dusme mesaji
+  // 6) Cevap bulunamadi - WhatsApp yonlendirmesi
   return {
-    metin: 'Bu soruya veri setimde net bir cevap bulamadim. Sunlari sorabilirsiniz:\n' +
-      '- Arazi/arsa/villa fiyatlari (orn: "Fethiye\'de arsa fiyatlari ne kadar?")\n' +
-      '- Emlak terimleri (orn: "KAKS nedir?", "Hisseli tapu riskli mi?")\n' +
-      '- Sehir bilgileri (orn: "Mugla\'da yatirim")\n' +
-      '- Tapu ve imar islemleri\n\n' +
-      'Sinirsiz ve bagimsiz cevaplar icin bilgisayariniza Ollama kurun (ollama.com) veya ayarlardan Groq API anahtari ekleyin.',
-    kaynak: 'Yardim'
+    metin: 'Bu soruya su an net bir cevap bulamadim. Uzmanimiza WhatsApp uzerinden iletecegim.',
+    kaynak: 'WhatsApp',
+    whatsapp: true
   };
 }
 
@@ -353,7 +351,12 @@ async function soruGonder(soru) {
   try {
     const cevap = await cevapUret(soru);
     yaziyor.remove();
-    mesajEkle(cevap.metin, 'asistan', cevap.kaynak);
+    if (cevap.whatsapp) {
+      const whatsappLink = 'https://wa.me/' + WHATSAPP_NUMARA + '?text=' + encodeURIComponent('Merhaba, su soruma cevap bulamadim: ' + soru);
+      mesajEkle(cevap.metin + '\n\n<a href="' + whatsappLink + '" target="_blank" rel="noopener" class="whatsapp-btn">\u{1F4AC} WhatsApp\'tan Soru Gonder</a>', 'asistan', cevap.kaynak);
+    } else {
+      mesajEkle(cevap.metin, 'asistan', cevap.kaynak);
+    }
   } catch (e) {
     yaziyor.remove();
     mesajEkle('Bir hata olustu: ' + e.message, 'asistan', 'Hata');
@@ -365,8 +368,8 @@ async function soruGonder(soru) {
 /* ---------- Oneriler ---------- */
 const ORNEK_SORULAR = [
   'Merhaba', 'Fethiye\'de arsa fiyatlari ne kadar?', 'KAKS nedir?',
-  'INCOTERMS 2020 nedir?', 'Dahilde isleme rejimi nedir?',
-  'Tapu islemleri nasil yapiliyor?', 'Gumruk cezalari nelerdir?'
+  'INCOTERMS 2020 nedir?', 'B2B ticaret nedir?',
+  'Tapu islemleri nasil yapiliyor?', 'Istanbul\'da yatirim nereye?'
 ];
 
 function onerileriGoster() {
@@ -419,7 +422,7 @@ veriYukle()
   .then(() => {
     durumGuncelle();
     onerileriGoster();
-    mesajEkle('Merhaba! Ben Goodbuy Real Estate AI Satis Temsilciniz ve Has Ozel Akademi Egitim Asistaniniz. Gayrimenkul, yatirim, emlak hukuku, gümrük, dis ticaret ve akademi dersleri hakkinda her konuda yardimci olabilirim. Asagidaki ornek sorularla baslayabilirsiniz.', 'asistan', 'Sistem');
+    mesajEkle('Merhaba! Ben Turquoise AI, genel yapay zeka asistaniniz. Gayrimenkul, dis ticaret, B2B ticaret, sehir bilgileri ve daha bir cok konuda sorulariniza cevap verebilirim. Bilmedigim bir sey olursa uzmanimiza WhatsApp uzerinden iletirim. Asagidaki ornek sorularla baslayabilirsiniz.', 'asistan', 'Sistem');
   })
   .catch(e => {
     durumEl.textContent = 'Veri yuklenemedi';

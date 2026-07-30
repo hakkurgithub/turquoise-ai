@@ -1,9 +1,10 @@
 #!/usr/bin/env node
 'use strict';
 /* ============================================================
- * KELEPIR EMLAK AI - Konsol Surumu (Node.js, Hibrit)
+ * Turquoise AI - Konsol Surumu (Node.js, Hibrit)
  * 1. Once yerel veri setinde akilli eslestirme yapar
  * 2. Bulamazsa Groq uzerinden acik kaynak LLM'e sorar (Llama 3.1)
+ * 3. Cevap bulamazsa WhatsApp yonlendirmesi
  *
  * Kurulum: Node.js 18+ (ek paket GEREKMEZ)
  * Calistirma: node konsol.js
@@ -120,7 +121,7 @@ function sehirCevabi(s) {
     `- Ortalama arazi fiyati: ${s.araziOrtalamaFiyat}\n` +
     `- Ilceler: ${(s.ilceler || []).join(', ')}\n\n` +
     `${s.notlar}\n\n` +
-    `Bu bolgedeki guncel ilanlarimiz icin butce ve gayrimenkul turunuzu belirtir misiniz?`;
+    `Detayli bilgi icin sorunuzu daha spesifik sorabilirsiniz.`;
 }
 
 /* ---------- Groq LLM API ---------- */
@@ -226,18 +227,13 @@ async function cevapUret(veri, gecmis, apiKey, model, girdi) {
     try {
       return { metin: await llmSor(veri, gecmis, apiKey, model, girdi), kaynak: 'Bulut LLM (Groq)' };
     } catch (e) {
-      return { metin: `LLM servisine ulasilamadi: ${e.message}\nSorunuzu emlak, arazi, fiyat, tapu gibi konularla ilgili sorar misiniz?`, kaynak: 'Hata' };
+      return { metin: `LLM servisine ulasilamadi: ${e.message}\nSorunuzu WhatsApp uzerinden uzmanimize iletebilirim: https://wa.me/905333715577?text=${encodeURIComponent('Merhaba, su soruma cevap bulamadim: ' + girdi)}`, kaynak: 'Hata' };
     }
   }
 
   return {
-    metin: 'Bu soruya veri setimde net bir cevap bulamadim. Sunlari sorabilirsiniz:\n' +
-      '- Arazi/arsa/villa fiyatlari (orn: "Fethiye\'de arsa fiyatlari ne kadar?")\n' +
-      '- Emlak terimleri (orn: "KAKS nedir?", "Hisseli tapu riskli mi?")\n' +
-      '- Sehir bilgileri (orn: "Mugla\'da yatirim")\n' +
-      '- Tapu ve imar islemleri\n\n' +
-      'Sinirsiz ve bagimsiz cevaplar icin Ollama kurun (ollama.com) veya /key ile Groq anahtari ekleyin.',
-    kaynak: 'Yardim'
+    metin: 'Bu soruya su an net bir cevap bulamadim. Uzmanimiza suradan WhatsApp uzerinden iletebilirsiniz:\nhttps://wa.me/905333715577?text=' + encodeURIComponent('Merhaba, su soruma cevap bulamadim: ' + girdi),
+    kaynak: 'WhatsApp'
   };
 }
 
@@ -257,7 +253,7 @@ Ollama (oncelikli, sinirsiz, bagimsiz):
 
 async function main() {
   console.log('='.repeat(60));
-  console.log('  KELEPIR EMLAK AI - Satis Temsilciniz (Konsol Surumu)');
+  console.log('  Turquoise AI - Genel Yapay Zeka Asistani (Konsol)');
   console.log('='.repeat(60));
 
   let veri;
@@ -316,7 +312,7 @@ async function main() {
     rl.prompt();
   }
 
-  console.log('\nGorusmek uzere! - Goodbuy Real Estate AI');
+  console.log('\nGorusmek uzere!');
   rl.close();
 }
 

@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-KELEPIR EMLAK AI - Konsol Surumu (Hibrit)
+Turquoise AI - Konsol Surumu (Hibrit)
 1. Once yerel veri setinde akilli eslestirme yapar (ucretsiz, cevrimdisi)
 2. Bulamazsa Groq uzerinden acik kaynak LLM'e sorar (Llama 3.1)
+3. Cevap bulamazsa WhatsApp yonlendirmesi
 
 Kurulum: Python 3.8+ (ek paket GEREKMEZ, sadece standart kutuphane)
 Calistirma: python konsol.py
@@ -133,7 +134,7 @@ def sehir_cevabi(s):
         f"- Ortalama arazi fiyati: {s.get('araziOrtalamaFiyat', '-')}\n"
         f"- Ilceler: {', '.join(s.get('ilceler', []))}\n\n"
         f"{s.get('notlar', '')}\n\n"
-        f"Bu bolgedeki guncel ilanlarimiz icin butce ve gayrimenkul turunuzu belirtir misiniz?"
+        f"Detayli bilgi icin sorunuzu daha spesifik sorabilirsiniz."
     )
 
 
@@ -250,15 +251,14 @@ def cevap_uret(veri, gecmis, api_key, model, girdi):
         try:
             return llm_sor(veri, gecmis, api_key, model, girdi), 'Bulut LLM (Groq)'
         except Exception as e:
+            import urllib.parse
+            whatsapp_link = 'https://wa.me/905333715577?text=' + urllib.parse.quote('Merhaba, su soruma cevap bulamadim: ' + girdi)
             return (f'LLM servisine ulasilamadi: {e}\n'
-                    'Sorunuzu emlak, arazi, fiyat, tapu gibi konularla ilgili sorar misiniz?', 'Hata')
+                    f'Sorunuzu WhatsApp uzerinden uzmanimize iletebilirim: {whatsapp_link}', 'Hata')
 
-    return ('Bu soruya veri setimde net bir cevap bulamadim. Sunlari sorabilirsiniz:\n'
-            '- Arazi/arsa/villa fiyatlari (orn: "Fethiye\'de arsa fiyatlari ne kadar?")\n'
-            '- Emlak terimleri (orn: "KAKS nedir?", "Hisseli tapu riskli mi?")\n'
-            '- Sehir bilgileri (orn: "Mugla\'da yatirim")\n'
-            '- Tapu ve imar islemleri\n\n'
-            'Sinirsiz ve bagimsiz cevaplar icin Ollama kurun (ollama.com) veya /key ile Groq anahtari ekleyin.', 'Yardim')
+    import urllib.parse
+    whatsapp_link = 'https://wa.me/905333715577?text=' + urllib.parse.quote('Merhaba, su soruma cevap bulamadim: ' + girdi)
+    return (f'Bu soruya su an net bir cevap bulamadim. Uzmanimiza WhatsApp uzerinden iletebilirsiniz:\n{whatsapp_link}', 'WhatsApp')
 
 
 # ---------- Konsol Dongusu ----------
@@ -278,7 +278,7 @@ Ollama (oncelikli, sinirsiz, bagimsiz):
 
 def main():
     print('=' * 60)
-    print('  KELEPIR EMLAK AI - Satis Temsilciniz (Konsol Surumu)')
+    print('  Turquoise AI - Genel Yapay Zeka Asistani (Konsol)')
     print('=' * 60)
 
     try:
@@ -310,7 +310,7 @@ def main():
         try:
             girdi = input('Siz: ').strip()
         except (EOFError, KeyboardInterrupt):
-            print('\nGorusmek uzere! - Goodbuy Real Estate AI')
+            print('\nGorusmek uzere!')
             break
         if not girdi:
             continue
@@ -318,7 +318,7 @@ def main():
         norm = normalize(girdi)
         komut = girdi.lower()
         if norm in ('cikis', 'exit', 'quit'):
-            print('Gorusmek uzere! - Goodbuy Real Estate AI')
+            print('Gorusmek uzere!')
             break
         elif komut == '/yardim':
             print(YARDIM)
