@@ -88,7 +88,7 @@ def veri_yukle():
         'qa': qa,
         'terimler': json.loads(oku('emlak-terimleri.json'))['terimler'],
         'sehirler': json.loads(oku('sehir-bilgileri.json'))['sehirler'],
-        'prompt': oku('kelepir-emlak-prompt.md')
+        'prompt': oku('goodbuy-real-estate-prompt.md')
     }
 
 

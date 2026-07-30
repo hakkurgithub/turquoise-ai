@@ -77,7 +77,7 @@ function veriYukle() {
     qa,
     terimler: JSON.parse(oku('emlak-terimleri.json')).terimler,
     sehirler: JSON.parse(oku('sehir-bilgileri.json')).sehirler,
-    prompt: oku('kelepir-emlak-prompt.md')
+    prompt: oku('goodbuy-real-estate-prompt.md')
   };
 }
 

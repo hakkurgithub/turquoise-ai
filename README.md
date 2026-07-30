@@ -1,6 +1,6 @@
-# Kelepir Emlak AI - Hibrit Satis Asistani
+# Goodbuy Real Estate AI - Hibrit Satis Asistani
 
-Turkiye'nin kelepir emlak platformu icin hibrit yapay zeka satis temsilcisi.
+Turkiye'nin gayrimenkul platformu icin hibrit yapay zeka satis temsilcisi.
 Arazi, tarla, villa, arsa, zeytinlik, ciftlik ve diger gayrimenkuller hakkinda
 musterilere yardimci olur.
 
@@ -26,7 +26,7 @@ musterilere yardimci olur.
 ├── konsol.py                   # Python konsol surumu (Python 3.8+, ek paket gerekmez)
 ├── konsol.js                   # Node.js konsol surumu (Node 18+, ek paket gerekmez)
 └── hasinder-ai-data/           # Bilgi bankasi (acik kaynak veriler)
-    ├── kelepir-emlak-prompt.md # AI kimligi ve kurallari (sistem promptu)
+    ├── goodbuy-real-estate-prompt.md # AI kimligi ve kurallari (sistem promptu)
     ├── soru-cevap-dataset.json # Soru-cevap veri seti
     ├── emlak-terimleri.json    # Emlak terimleri sozlugu
     └── sehir-bilgileri.json    # Sehir ve bolge bilgileri
@@ -102,7 +102,7 @@ node konsol.js
 ```bash
 git init
 git add .
-git commit -m "Kelepir Emlak AI - ilk surum"
+git commit -m "Goodbuy Real Estate AI - ilk surum"
 git branch -M main
 git remote add origin https://github.com/KULLANICI_ADINIZ/DEPO_ADI.git
 git push -u origin main
@@ -125,7 +125,7 @@ Kod degistirmeden asistanin bilgisini artirabilirsiniz:
 - **Yeni terim:** `emlak-terimleri.json` icindeki `terimler` dizisine
   `{"terim": "...", "aciklama": "...", "kategori": "..."}` ekleyin.
 - **Yeni sehir:** `sehir-bilgileri.json` icindeki `sehirler` dizisine ekleyin.
-- **Kisilik/kurallar:** `kelepir-emlak-prompt.md` dosyasini duzenleyin.
+- **Kisilik/kurallar:** `goodbuy-real-estate-prompt.md` dosyasini duzenleyin.
 
 ## Lisans
 

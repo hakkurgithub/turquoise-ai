@@ -73,7 +73,7 @@ async function veriYukle() {
     fetch(taban + 'soru-cevap-dataset.json').then(r => r.json()),
     fetch(taban + 'emlak-terimleri.json').then(r => r.json()),
     fetch(taban + 'sehir-bilgileri.json').then(r => r.json()),
-    fetch(taban + 'kelepir-emlak-prompt.md').then(r => r.text())
+    fetch(taban + 'goodbuy-real-estate-prompt.md').then(r => r.text())
   ]);
   VERI.qa = qa.dataset.map(o => ({ ...o, kelimeler: icerikKelimeleri(o.soru) }));
   VERI.terimler = terim.terimler;

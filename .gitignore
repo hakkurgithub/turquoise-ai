@@ -13,6 +13,9 @@ venv/
 # Node
 node_modules/
 
+# Kaynak veri arsivi (icerigi cikarildi)
+*.zip
+
 # Isletim sistemi
 Thumbs.db
 .DS_Store
