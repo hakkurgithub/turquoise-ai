@@ -1,0 +1,184 @@
+{
+  "dataset": [
+    {
+      "soru": "Lojistik sureci nasil planlanir?",
+      "cevap": "Lojistik planlama: 1) Esya turu ve miktarinin belirlenmesi, 2) Tasima modu secimi (deniz, hava, kara, demiryolu, multimodal), 3) Nakliyeci/ekspeditor secimi, 4) Rota ve gecis sureleri, 5) Ambalaj ve yukleme, 6) Sigorta ve gumruk belgeleri, 7) Depolama ve dagitim, 8) Takip ve maliyet kontrolu. Her modun maliyet, sure ve risk dengesi farklidir.",
+      "kategori": "Lojistik"
+    },
+    {
+      "soru": "Deniz tasimaciligi avantajlari nelerdir?",
+      "cevap": "Deniz tasimaciligi en dusuk birim maliyetli ve en buyuk kapasiteli tasima modudur. Konteyner tasimaciligi standartlasmistir (20/40 ft). Dezavantajlar: Yavas (uzun transit suresi), hava durumu riski, belirli liman ve hatlara bagimlilik. Buyuk hacimli ve sure hassasiyeti dusuk urunler icin idealdir.",
+      "kategori": "Lojistik"
+    },
+    {
+      "soru": "Hava tasimaciligi avantajlari nelerdir?",
+      "cevap": "Hava tasimaciligi en hizli tasima modudur (uluslararasi 1-5 gun). Yüksek degerli, kisa omurlu (farma, gida) ve acil urunler icin idealdir. Dezavantajlar: En yuksek birim maliyet, agirlik/hacim kisitlari, tehlikeli madde sinirlamalari.",
+      "kategori": "Lojistik"
+    },
+    {
+      "soru": "Karayolu tasimaciligi (TIR) nasil calisir?",
+      "cevap": "Karayolu tasimaciligi, ozellikle Avrupa ve Orta Dogu rotalarinda esneklik ve kapi-kapi teslimat saglar. TIR sisteminde gecilen ulkelerde depozito olmadan tasima yapilir. Transit sureler kisadir ancak sinir kuyruklari, yakıt ve kira farklari maliyeti etkiler.",
+      "kategori": "Lojistik"
+    },
+    {
+      "soru": "Demiryolu tasimaciligi avantajlari nelerdir?",
+      "cevap": "Demiryolu tasimaciligi, karayolundan daha dusuk maliyet ve daha buyuk kapasite sunar. Ozellikle CIn-Orta Koridor (BTK hatti) ve Avrupa rotaLarinda gelisen bir moddur. Cevre dostu (karbon dusuk), guvenli ve konteyner tasimaya uygundur. Liman ve istasyon baglantilari onemlidir.",
+      "kategori": "Lojistik"
+    },
+    {
+      "soru": "Multimodal tasima nedir?",
+      "cevap": "Multimodal tasima, esyanin tek bir sozlesme ve tasima belgesiyle birden fazla mod kullanilarak tasinmasidir (ornegin tren+gemı+karayolu). Orta Koridor hatti multimodal uygulamadir. Avantaj: Tek sorumlu, optimize rota ve maliyet.",
+      "kategori": "Lojistik"
+    },
+    {
+      "soru": "Ekspeditor (freight forwarder) ne is yapar?",
+      "cevap": "Ekspeditor, sirketler adina uluslararasi tasimacilik ve lojistik hizmetlerini organize eden aracidir: Navlun pazarligi, gumruk islemleri, belgeler, sigorta, depolama ve takip. Tek noktadan cozum sunar, tasiyicilarla calisir. Dis ticaretteki en onemli is ortaklarindan biridir.",
+      "kategori": "Lojistik"
+    },
+    {
+      "soru": "Navlun nedir?",
+      "cevap": "Navlun, esyanin tasinmasi icin tasiyiciya veya ekspeditore odenen ucrettir. Denizde konteyner basina veya ton basina, havada kg (hacimsel veya gercek) bazinda hesaplanir. Navlun; rota, sezon, yakıt fiyatlari ve piyasa arz-talep dengesine gore degisir.",
+      "kategori": "Lojistik"
+    },
+    {
+      "soru": "Demuraj (demurrage) nedir?",
+      "cevap": "Demuraj, konteyner veya geminin belirlenen serbest sureden fazla bekletilmesi durumunda odenen gecikme ucretidir. Serbest sureler (free time) tasiyici sozlesmelerinde belirlenir. Iade gecikmelerinde konteyner basina gunluk ucret islenir. Planli yukleme/bosaltma ile demuraj onlenir.",
+      "kategori": "Lojistik"
+    },
+    {
+      "soru": "Laycan (laycan) nedir?",
+      "cevap": "Laycan, geminin yukleme limanina varmasi ve yuklenmesi icin sozlesmede belirlenen tarih araligidır. Ornegin '10-20 Mayis laycan' demek, yuklemenin bu tarihler arasinda yapilacagini ifade eder. Laycan disinda kalan gecikmelerde demuraj veya iptal hakki dogar.",
+      "kategori": "Lojistik"
+    },
+    {
+      "soru": "Konteyner ic malzemesi ve sartlari nedir?",
+      "cevap": "Konteyner yuklemesinde: 1) Yukun agirligi (max yukleme limitleri), 2) Yuk sabitleme (lashing) ve destekleme, 3) Nem ve havalandirma, 4) Tehlikeli madde siniflandirmasi (IMDG), 5) Kapilarin ve contalarin kontrolu. Yanlis yukleme tasima sirasinda hasara ve guvenlik riskine yol acar.",
+      "kategori": "Lojistik"
+    },
+    {
+      "soru": "Soguk zinzir (cold chain) nedir?",
+      "cevap": "Soguk zinzir, sicakliga duyarli urunlerin (gida, farma) uretimden tüketiciye kadar sabit sicaklıkta tasinip depolanmasidir. Reefer (sogutuculu) konteynerler ve termal araclar kullanilir. Sicaklik kayitlari (data logger) takip edilir. Zincirin kopmasi urun kaybina yol acar.",
+      "kategori": "Lojistik"
+    },
+    {
+      "soru": "Tehlikeli madde tasimaciligi kurallari nelerdir?",
+      "cevap": "Tehlikeli madde (dangerous goods) tasimaciligi uluslararasi kurallara tabidir: Denizde IMDG Code, havada IATA DGR, karayolunda ADR, demiryolunda RID. Urunler UN numarasi ve sınıflandirmayla tanimlanir. Dogru paketleme, etiketleme ve belgeler (DGD) zorunludur.",
+      "kategori": "Lojistik"
+    },
+    {
+      "soru": "Ro-Ro tasima nedir?",
+      "cevap": "Ro-Ro (Roll-on/Roll-off), aracların (tir, otomobil, makine) kendi tekerleğiyle gemiye yuklenip inmesine dayanan tasima sekildir. Yeni araç ihracati ve TIR tasimaciliginda yaygin. Yukleme hizli ve hasarsızdır. Gemide surucu konaklamasi gerekebilir.",
+      "kategori": "Lojistik"
+    },
+    {
+      "soru": "Depolama hizmetleri nelerdir?",
+      "cevap": "Depolama hizmetleri: Genel depo (kuru), soguk depo (frigorifik), antrepo (gumruklu), tehlikeli madde deposu, raf/coğrafi depolama, kucuk ve buyuk olcekli lojistik parklar. Hasinder Lojistik Icra Kurulu, uyelerin depolama ve nakliye sureçlerini optimize eder.",
+      "kategori": "Lojistik"
+    },
+    {
+      "soru": "Antrepo nedir?",
+      "cevap": "Antrepo, gumruk vergileri odenmeden esyanin belirli sure saklanabildigi depo tesisidir. Gumruklu antrepolarda esya depolanabilir, islenebilir ve yeniden ihrac edilebilir. Nakit akisini rahatlatir ve ithalatı erteletir. Genel ve ozel antrepo turleri vardir.",
+      "kategori": "Lojistik"
+    },
+    {
+      "soru": "Lojistik sigortasi (kargo sigortasi) nedir?",
+      "cevap": "Kargo sigortasi, esyanin tasima sirasinda ugrayabilecegi zararlari karsilar. Denizde Institute Cargo Clauses (A, B, C) kapsamları; havada hava kargo poliçeleri. A kapsami en genis teminat. Sigorta degeri CIF + %10 karsiligi olmalidir.",
+      "kategori": "Lojistik"
+    },
+    {
+      "soru": "INCOTERMS'te sigorta yukumlulugu kimde?",
+      "cevap": "CIF ve CIP kurallarinda satici sigorta yaptirmakla yukumludur. CIF'te asgari kapsam (Institute Cargo Clauses C), CIP'te genis kapsam (Institute Cargo Clauses A) önerilir. Diger kurallarda (FOB, EXW, DAP, DDP) sigorta alici veya saticinin iradesine baglidir ama genelde aliciya onerilir.",
+      "kategori": "Lojistik"
+    },
+    {
+      "soru": "FOB ile CIF arasindaki fark nedir?",
+      "cevap": "FOB ile CIF'in temel farki: FOB'da satici esyayi gemiye yuklenene kadar sorumludur, navlun ve sigorta aliciya aittir. CIF'te ise satici navlunu (tasima ucreti) ve sigortayi da odemekle yukumludur. Her ikisinde de risk gemiye yukleme aninda aliciya gecer. CIF, satici tarafindan yonetilen komple bir teslim sunar ve fiyata navlun ile sigorta dahildir.",
+      "kategori": "Lojistik"
+    },
+    {
+      "soru": "Gumruklu tasima (transit) belgeleri nelerdir?",
+      "cevap": "Transit tasimada kullanilan belgeler: TIR Karnesi, T1/T2 (NCTS), ATA Karnesi, CMR (karayolu tasima belgesi), Bill of Lading (deniz), Air Waybill (hava), CIM (demiryolu). Her modun kendi tasima belgesi ve transit prosedürleri vardir.",
+      "kategori": "Lojistik"
+    },
+    {
+      "soru": "CMR nedir?",
+      "cevap": "CMR (Convention on the Contract for the International Carriage of Goods by Road), uluslararasi karayolu tasimasinda kullanilan tasima belgesidir. Yuk, gonderen, alici ve tasimaci bilgilerini icerir. Teslimatta esyanin teslim alindigini belgeler ve sozlesmenin kanitidir.",
+      "kategori": "Lojistik"
+    },
+    {
+      "soru": "Bill of Lading (B/L) nedir?",
+      "cevap": "Bill of Lading (konismento), deniz tasimaciliginda esyanin yuklendigini ve tasiyici tarafindan teslim alindigini belgeleyen tasima ve sozlesme belgesidir. 3 temel islevi: 1) Malın alindigini belge, 2) Tasima sozlesmesi, 3) Hak seneti (kymetli evrak - nakit eşdeğeri).",
+      "kategori": "Lojistik"
+    },
+    {
+      "soru": "Air Waybill (AWB) nedir?",
+      "cevap": "Air Waybill (hava yuk irsaliyesi), hava tasimaciliginda kullanilan tasima belgesidir. Esyanin tasima sartlarini ve gonderinin takip numarasini gosterir. Konismentodan farkli olarak kymetli evrak (hak seneti) degildir; alicinin kimligi ile teslim edilir.",
+      "kategori": "Lojistik"
+    },
+    {
+      "soru": "Packing list (koli listesi) nedir?",
+      "cevap": "Packing list (paketleme listesi), her kolinin/paketin icerigini, agirligini ve boyutlarini gosteren belgedir. Gumruk beyani, sigorta ve hasar takibi icin zorunludur. Fatura ve konismento ile tutarli olmali, miktar ve marka bilgileri uyusmalidir.",
+      "kategori": "Lojistik"
+    },
+    {
+      "soru": "Liman ve gumruk islemleri nasil yurutulur?",
+      "cevap": "Liman islemleri: 1) Gemi veya konteyner planlama (booking), 2) Yukleme/bosaltma, 3) Gumruk beyannamesi ve muayene, 4) Terminal ve depolama ucretleri, 5) Yuk teslim ve cikis islemleri. Gumruk ve liman sureleri, demuraj ve depolama maliyetlerini etkiler.",
+      "kategori": "Lojistik"
+    },
+    {
+      "soru": "Booking (rezervasyon) nedir?",
+      "cevap": "Booking, tasimacı veya ekspeditor ile yuk yerinin (slot) rezervasyonudur. Gemi/ucus, konteyner tipi, tarih ve rota bilgilerini icerir. Onaylanan booking ile yuk teslim planı yapilir. Gec yukleme durumunda iptal veya kayma (rolled) maliyetleri dogar.",
+      "kategori": "Lojistik"
+    },
+    {
+      "soru": "Last mile teslimat nedir?",
+      "cevap": "Last mile (son mil), depo veya dagitim merkezinden son tüketiciye yapilan son teslimattir. E-ticaretin buyumesiyle kritik onem kazanmistir. Hizli, planli ve dijital takip gerektirir. Maliyetin onemli bir kismi son mil odagındadir.",
+      "kategori": "Lojistik"
+    },
+    {
+      "soru": "Envanter yonetimi nasil yapilir?",
+      "cevap": "Envanter yonetimi: Stok seviyeleri, tedarik suresi (lead time) ve talep tahmini bazli yapilir. Yontemler: EOQ (ekonomik siparis miktarı), ABC analizi (onerilen urun gruplaması), JIT (tam zamanında) ve guvenlik stokları. Dijital envanter sistemleriyle takip edilir.",
+      "kategori": "Lojistik"
+    },
+    {
+      "soru": "Kacakci veya yasakli mal tasima riski nasil onlenir?",
+      "cevap": "Tasima ve dis ticarette yasakli/kacak mal riskine karsi: 1) Tedarikci dogrulama (due diligence), 2) Urun ve belge kontrolu, 3) Yukleme oncesi fiziki kontrol, 4) Yaptirimsiz yuk kabul politikasi, 5) Sigorta ve yasal danismanlik, 6) Gumruk ve emniyet ile koordinasyon. Bilmeden tasima dahi sorumluluk dogurur.",
+      "kategori": "Lojistik"
+    },
+    {
+      "soru": "Yakıt surchargu (BAF/CAF) nedir?",
+      "cevap": "BAF (Bunker Adjustment Factor), yakıt fiyatlarindaki degisimi navluna yansitan ek ucrettir. CAF (Currency Adjustment Factor) ise doviz kurundaki degisimlerden kaynaklanan ektir. Tasimacilar piyasa kosullarindan dolayi bu ekleri uygular; sozlesmelerde takip edilmelidir.",
+      "kategori": "Lojistik"
+    },
+    {
+      "soru": "Terminal handling charge (THC) nedir?",
+      "cevap": "THC (Terminal Handling Charge), limanda konteynerin elleçlenmesi icin tahsil edilen terminal ucretidir. Yukleme, bosaltma, istif ve guvenlik hizmetlerini kapsar. Limanlara ve tasimacilara gore degisir; dis ticaret maliyetinde onemli bir kalemdir.",
+      "kategori": "Lojistik"
+    },
+    {
+      "soru": "Orta Koridor hatti nedir?",
+      "cevap": "Orta Koridor (Middle Corridor), Cin-Avrupa demiryolu ve multimodal rotasidir. Turkiye, Hazar Denizi, Gurcistan uzerinden ulasir; BTK (Baku-Tiflis-Kars) demiryolu bu hattin omurgasidir. Kuzey (Rusya) rotasina alternatif, daha kisa ve guvenli bir koridordur.",
+      "kategori": "Lojistik"
+    },
+    {
+      "soru": "Lojistik icin hangi belgeler hazirlanmalidir?",
+      "cevap": "Dis ticaret lojistiginde belgeler: Ticari fatura, packing list, tasima belgesi (B/L, AWB, CMR), gumruk beyannamesi, mense sertifikasi (C/O), sigorta poliçesi, gerekiyorsa ozel izinler (fito, saglik, TSE/CE), akreditif belgeleri. Belgelerin tutarliligi odemeyi ve gecisi belirler.",
+      "kategori": "Lojistik"
+    },
+    {
+      "soru": "Satici ve alici arasinda lojistik maliyeti nasil paylasilir?",
+      "cevap": "Lojistik maliyet dagilimi INCOTERMS ile belirlenir: EXW'de alici tum maliyeti ustenir, FOB'da ihracat tarafi saticida, DDP'de aliciya teslim dahil tum maliyet saticida. CIF/CIP'te navlun ve sigorta saticida. Kural secimi maliyet ve risk paylasimini netleştirir.",
+      "kategori": "Lojistik"
+    },
+    {
+      "soru": "Kargo takibi nasil yapilir?",
+      "cevap": "Kargo takibi, tasima belgesi numarasi (B/L, AWB, takip no) ile tasimacı veya ekspeditor sistemlerinden yapilir. Online portal ve API entegrasyonlariyla konteyner/gemi/ucus lokasyonu anlik izlenir. Hasinder uyeleri icin lojistik koordinasyonu Lojistik Icra Kurulu destekler.",
+      "kategori": "Lojistik"
+    },
+    {
+      "soru": "Uluslararasi tasimacilikta yuklerin sigortalanmasi sart mi?",
+      "cevap": "Kargo sigortasi yasal olarak zorunlu degildir ancak kuvvetle onerilir. CIF/CIP kapsaminda satici sigorta yapmak zorundadir. Sigortasiz tasima, tasima risklerinin tamamini isletmeye birakir. Dis ticarette alacak ve kur riski ile birlikte onemli bir risk yonetimi aracidir.",
+      "kategori": "Lojistik"
+    }
+  ]
+}

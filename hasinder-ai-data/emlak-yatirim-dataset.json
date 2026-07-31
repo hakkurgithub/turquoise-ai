@@ -1,0 +1,134 @@
+{
+  "dataset": [
+    {
+      "soru": "Gayrimenkul yatirimi nasil yapilir?",
+      "cevap": "Gayrimenkul yatirimi su adimlarla yapilir: 1) Butce ve kredi hesaplama, 2) Konum ve bolge analizi, 3) Emlak danismani ve hukuki on inceleme, 4) Tapu ve giderler (tapu harcı, damga vergisi), 5) Kira getirisi ve deger artisi potansiyeli, 6) Portfoy cesitlendirmesi. Yatirim icin kira verimi ve lokasyon en kritik unsurdur.",
+      "kategori": "Emlak Yatirim"
+    },
+    {
+      "soru": "Kira getirisi nasil hesaplanir?",
+      "cevap": "Kira getirisi (verim) yillik kira gelirinin gayrimenkul degerine bolunmesidir. Ornek: 1 milyon TL'lik ev yillik 60.000 TL kira getiriyorsa verim %6'dir. Turkiye'de genelde %4-7 arasi verim normal kabul edilir. Brüt verim, gider ve vergiler dusulmeden hesaplanir.",
+      "kategori": "Emlak Yatirim"
+    },
+    {
+      "soru": "Gayrimenkulde deger artisi (capital appreciation) nedir?",
+      "cevap": "Deger artisi, gayrimenkulun zaman icinde alis fiyatindan daha yuksek degerlenmesidir. Lokasyon gelisimi, altyapi yatirimlari, nufus artisi ve arz yetersizligi deger artisini tetikler. Kira geliri ve deger artisi birlikte toplam getiriyi olusturur.",
+      "kategori": "Emlak Yatirim"
+    },
+    {
+      "soru": "GYO (Gayrimenkul Yatirim Ortakligi) nedir?",
+      "cevap": "GYO, gayrimenkul portfoylerine yatirim yapan, hisseleri Borsa Istanbul'da islem goren anonim sirketlerdir. Yatirimci, dogrudan mülk almak yerine GYO hissesi alir; portfoy yonetimi profesyoneldir ve likidite yuksektir. GYO'lar bazi vergi avantajlarindan yararlanir.",
+      "kategori": "Emlak Yatirim"
+    },
+    {
+      "soru": "Gayrimenkul Yatirim Fonu (GYF) nedir?",
+      "cevap": "GYF, gayrimenkul ve gayrimenkul sermayelerine yatirim yapan, portfoy yonetim sirketleri tarafindan yonetilen kolektif yatirim aracidir. Yatirimcilar fon payi alir. GYO'ya gore daha kucuk tutarlarla ve portfoy cesitlendirmesiyle yatirim imkani sunar.",
+      "kategori": "Emlak Yatirim"
+    },
+    {
+      "soru": "Iyi bir yatirimlik konut nasil secilir?",
+      "cevap": "Yatirimlik konut secerken: 1) Kira verimi en az %5 olmali, 2) Talep olan lokasyon (metro, okul, isyeri yakinlari), 3) Deprem riski ve yapi kalitesi, 4) Yeni veya planli altyapi yatirimlari, 5) Kredili alimda negatif nakit akisi olmamasi, 6) Tapu, kat mulkiyeti ve imar durumu temiz olmali.",
+      "kategori": "Emlak Yatirim"
+    },
+    {
+      "soru": "Kiraci seciminde nelere dikkat edilir?",
+      "cevap": "Kiraci seciminde: 1) Gelir ve kimlik dogrulama, 2) Onceki ev sahibi referansi, 3) Kefil veya depozito, 4) Yazili kira sozlesmesi ve teminat, 5) Kiraci adina kayit yoklama. Iyi kiraci secimi, kira aksama ve tahliye maliyetlerini azaltir.",
+      "kategori": "Emlak Yatirim"
+    },
+    {
+      "soru": "Konut kredisi faiz oranlari nasil secilir?",
+      "cevap": "Konut kredisi faizi bankadan bankaya ve vadeye gore degisir. Degerlendirilirken: 1) Uzun vade (10-15 yil) ve dusuk faiz tercih edilir, 2) Dosya, ekspertiz ve sigorta masraflari toplam maliyete dahil edilmeli, 3) Sabit mi degisken mi oldugu, 4) Erken odeme ve yapilandirma kosullari incelenmeli.",
+      "kategori": "Emlak Yatirim"
+    },
+    {
+      "soru": "Konut kredisi icin neler gerekir?",
+      "cevap": "Konut kredisi icin: 1) Gelir belgesi (maas bordrosu, son 3 ay), 2) Kredi skoru ve kredi kaydi, 3) Ekspertiz raporu (bankanin yetkili degerleme sirketinden), 4) Tapu ve sigorta islemleri, 5) Odeme plani uygunlugu (aylik odeme gelirin %35-50'sini gecmemeli).",
+      "kategori": "Emlak Yatirim"
+    },
+    {
+      "soru": "Emlak vergisi nasil hesaplanir?",
+      "cevap": "Emlak vergisi, gayrimenkulun belediye rayic degeri uzerinden yillik oranlarla alinir: Konutta binde 1, isyerinde binde 2, buyuksehirlerde iki kat (binde 2 / binde 4). Vergi, her yil iki taksit (Mart, Kasim) halinde odenir.",
+      "kategori": "Emlak Yatirim"
+    },
+    {
+      "soru": "Tapu harcı ne kadar?",
+      "cevap": "Tapu harcı, alim-satim isleminde genellikle satis bedelinin %2'sidir (tapuda gosterilen beyan degeri uzerinden) ve yari yariya alici-satici paylasilir. Buyuksehirlerde bu oran ayni kalir. Degerleme ve resmi rayic uzerinden hesaplanir.",
+      "kategori": "Emlak Yatirim"
+    },
+    {
+      "soru": "Gayrimenkul satisinda damga vergisi var mi?",
+      "cevap": "Gayrimenkul satisinda tapuda ayni zamanda %0.2 oraninda damga vergisi alinir (2024: %0.2; bazi guncellemelerle degisebilir). Ayrica satis sozlesmeleri de damga vergisine tabidir. Tapu harcı ve damga vergisi ayri kalemlerdir.",
+      "kategori": "Emlak Yatirim"
+    },
+    {
+      "soru": "Gayrimenkul satis kazanci vergilendirilir mi?",
+      "cevap": "Gayrimenkulun elde edildigi tarihten itibaren 5 yil icinde satilmasinda dogan kazanc deger artis kazanci olarak gelir vergisine tabidir. 2024'te istisna 150.000 TL'dir (enflasyonla guncellenir). 5 yil dolduktan sonra satis kazanci vergiye tabi degildir.",
+      "kategori": "Emlak Yatirim"
+    },
+    {
+      "soru": "Kira gelirinde beyanname ne zaman verilir?",
+      "cevap": "Konut kira gelirleri, istisnayi asiyorsa her yil 1-25 Mart arasinda hazir beyan sistemiyle beyan edilir. Isyeri kira gelirinde ise odeme yapilirken stopaj yapilmis oldugundan belirli kosullarda beyan gerekmez. Gider yontemi secimi sonradan degistirilemez.",
+      "kategori": "Emlak Yatirim"
+    },
+    {
+      "soru": "Deprem sigortasi (DASK) zorunlu mu?",
+      "cevap": "DASK (Dogal Afet Sigortalari Kurumu) deprem sigortasi, konutlar icin zorunludur. Krediyle alinan evlerde ve isyeri ruhsatlarinda zorunlu tutulur. DASK, deprem sonucu yapida olusan hasari sigorta teminatina gore karsilar.",
+      "kategori": "Emlak Yatirim"
+    },
+    {
+      "soru": "Kira sartlarinda yillik artis orani nasil belirlenir?",
+      "cevap": "Konut kira artislarinda yillik uygulanan sinir: Son 12 ay ortalamasi olan TÜFE oranidir (2024 yili icin %25 siniri vardi; daha sonra TÜFE bazli duzenlemeye gecilerek ortalama TÜFE uygulandi). Kira artislari taraflarin anlasmasiyla da belirlenebilir.",
+      "kategori": "Emlak Yatirim"
+    },
+    {
+      "soru": "Ipotek nedir ve nasil kaldirilir?",
+      "cevap": "Ipotek, borcun guvencesi olarak gayrimenkulun teminat gosterilmesidir. Konut kredisi ve diger borclarda banka ipotek alir. Borc odenince ipotek fek (kaldirma) dilekcesiyle tapudan silinir. Ipotek varken satis ancak banka izni veya fek ile yapilir.",
+      "kategori": "Emlak Yatirim"
+    },
+    {
+      "soru": "Iskan belgesi nedir?",
+      "cevap": "Iskan belgesi (yapi kullanim izni), binanin belediye tarafindan güvenli ve imara uygun olarak kullanilabilir oldugunu gosterir. Iskani olmayan binada elektrik, su, dogalgaz ve tapu islemleri kismen engellenir. Yatirimdan once iskan durumu mutlaka sorgulanmali.",
+      "kategori": "Emlak Yatirim"
+    },
+    {
+      "soru": "Yurtdisinda gayrimenkul yatirimi yapilir mi?",
+      "cevap": "Yurtdisinda gayrimenkul yatirimi, yabanci hukuk kurallarina ve vergilendirmeye tabidir. Dikkat edilmesi gerekenler: 1) Yabanci mülk edinme hakkı, 2) Yerel vergiler ve devir maliyetleri, 3) Kur riski, 4) Yerel yasal danismanlik, 5) Kira ve deger artis vergileri. Emlak veya kira getirisi disinda kazanc yerel vergiye tabi olabilir.",
+      "kategori": "Emlak Yatirim"
+    },
+    {
+      "soru": "Emlak komisyonculugu nasil calisir?",
+      "cevap": "Emlak komisyoncusu, alici ve satici arasinda anlasmaya aracilik yapar. Komisyon genelde satis bedelinin %2-4'u arasinda olup taraflar arasinda paylasilabilir. Yetki belgesi (liste sözlesmesi) ile calsir. Yasal duzenlemelerle emlak islemlerinde yetki belgesi zorunludur.",
+      "kategori": "Emlak Yatirim"
+    },
+    {
+      "soru": "Kentsel donusum ve yatirim iliskisi nedir?",
+      "cevap": "Kentsel donusum, deprem riskli yapilari yenileme programidir. Donusum alanlarinda gayrimenkul degeri artar ve insaat talebi olusur. Yatirimcilar riskli bolgelerde dusuk fiyatla alip yeni projeyle deger artisi hedefler; ancak surec ve riskler iyi analiz edilmelidir.",
+      "kategori": "Emlak Yatirim"
+    },
+    {
+      "soru": "Konut yatiriminda negatif nakit akisi nedir?",
+      "cevap": "Negatif nakit akisi, kira gelirinin aylik kredi taksiti ve giderlerden az olmasi durumudur. Ornek: Kira 15.000 TL, kredi taksiti 20.000 TL ise ayda -5.000 TL nakit cikisi olur. Yatirimci bu durumda aradaki farki kendi butcesinden karsilar; bu uzun vadede risklidir.",
+      "kategori": "Emlak Yatirim"
+    },
+    {
+      "soru": "Yabanciya gayrimenkul satisi kurallari nelerdir?",
+      "cevap": "Yabanci gercek kisiler, karsilikli olma sarti ve belirli sinirlarla Turkiye'de gayrimenkul alabilir. Uzun donemde Tapu ve Kadastro Genel Mudurlugu'nun kontrolu ve Bakanlar Kurulu onayi gerekebilir. Konut aliminda yabanciya ulke nufusunun %10'undan fazlasini gecmemek ve askeri bolge kisitlamalari vardir.",
+      "kategori": "Emlak Yatirim"
+    },
+    {
+      "soru": "Tapu mudurlugu islemleri nasil yapilir?",
+      "cevap": "Tapu islemleri gunumuzde elektronik randevu sistemiyle (Tapu ve Kadastro Bilgi Sistemi) yapilir: 1) Randevu alinir, 2) Kimlikler ve tapu getirilir, 3) Satis bedeli beyan edilir, 4) Harc ve vergiler odanir, 5) Islem tamamlanir ve yeni tapu duzenlenir. Vekaleten islemlerde noter vekaletname zorunludur.",
+      "kategori": "Emlak Yatirim"
+    },
+    {
+      "soru": "Emlak alirken hangi hukuki kontroller yapilmali?",
+      "cevap": "Emlak aliminda hukuki kontrol listesi: 1) Tapu kaydi ve ipotek/serh kontrolu, 2) Belediye borcu (vergi, cevre) sorgulama, 3) Iskan belgesi varligi, 4) Kat mulkiyeti/kirli icra sorgusu, 5) Saticinin yetkisi ve vekalet, 6) Konum ve imar durumu, 7) Enerji kimlik belgesi. Tüm belgeler satista saticiya aittir.",
+      "kategori": "Emlak Yatirim"
+    },
+    {
+      "soru": "Gayrimenkul yatiriminda vergilendirme nasildir?",
+      "cevap": "Gayrimenkul yatiriminda vergiler: Kira gelirinde gelir vergisi (istisna + gider yontemi), satista 5 yil icinde deger artis kazanci vergisi, tapu harcı (%2), damga vergisi (%0.2), emlak vergisi (bindelik) ve DASK. Portfoy yonetimi ve kayitlilik ciddi maliyetleri azaltir.",
+      "kategori": "Emlak Yatirim"
+    }
+  ]
+}

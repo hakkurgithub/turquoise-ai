@@ -15,7 +15,7 @@ sorulan sorulara cevap verir. Bilmedigi sorulari WhatsApp uzerinden uzmana ileti
 - **Konsol arayuzu:** Python veya Node.js ile terminalde calisir.
 - **Acik kaynak veri:** Tum bilgi bankasi `hasinder-ai-data/` klasorundeki
   acik JSON/Markdown dosyalarindan gelir - kolayca genisletilebilir.
-- **Genisletilmis bilgi bankasi:** 250 soru-cevap, 112 terim, 81 sehir bilgisi.
+- **Genisletilmis bilgi bankasi:** 442 soru-cevap, 112 terim, 81 sehir bilgisi.
 - **WhatsApp yonlendirme:** Cevap bulunamayan sorular WhatsApp uzerinden
   uzmana iletilir (wa.me/905333715577).
 
@@ -34,6 +34,12 @@ sorulan sorulara cevap verir. Bilmedigi sorulari WhatsApp uzerinden uzmana ileti
     ├── hasinder-platform-dataset.json # Hasinder/Goodbuy/Akademi platform verisi
     ├── gumruk-dis-ticaret-dataset.json # Gumruk ve dis ticaret mevzuati
     ├── gayrimenkul-hukuk-dataset.json # Tapu, imar ve gayrimenkul hukuku
+    ├── b2b-ticaret-dataset.json # B2B ticaret, tedarik zinciri, sozlesmeler
+    ├── lojistik-tasimacilik-dataset.json # Lojistik ve tasimacilik
+    ├── finans-vergi-dataset.json # Finans ve vergi mevzuati
+    ├── sirket-is-hukuku-dataset.json # Sirket kurulusu ve is hukuku
+    ├── turkiye-ekonomi-dataset.json # Turkiye ekonomi ve makro gostergeler
+    ├── emlak-yatirim-dataset.json # Gayrimenkul yatirimi ve krediler
     ├── emlak-terimleri.json    # Terimler sozlugu
     └── sehir-bilgileri.json    # 81 il sehir ve bolge bilgileri
 ```
@@ -47,6 +53,12 @@ sorulan sorulara cevap verir. Bilmedigi sorulari WhatsApp uzerinden uzmana ileti
 | Akademi | 15 derslik Gumruk ve Dis Ticaret uzmanlasma programi |
 | Gumruk | 4458 sayili Kanun, beyanname, muayene, rejimler, cezalar |
 | Dis Ticaret | INCOTERMS 2020, odeme sekilleri, tesvikler, lojistik |
+| B2B Ticaret | Pazar yerleri, pazarlik, sozlesmeler, acente/distributor |
+| Lojistik | Tasima modlari, depolama, sigorta, belgeler |
+| Finans/Vergi | KDV, kurumlar vergisi, Eximbank, kur riski, krediler |
+| Sirket/Is Hukuku | Kurulus sureci, kidem/ihbar tazminati, ISG |
+| Turkiye Ekonomisi | Ihracat/ithalat, enflasyon, faiz, GSYH |
+| Emlak Yatirim | Kira verimi, GYO/GYF, konut kredisi, tapu masraflari |
 | Tapu/Imar/Hukuk | Tapu islemleri, ipotek, imar, kentsel donusum, kira hukuku |
 | Sehirler | 81 il, populer bolgeler, arazi fiyatlari |
 

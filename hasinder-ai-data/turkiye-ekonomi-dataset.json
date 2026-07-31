@@ -1,0 +1,144 @@
+{
+  "dataset": [
+    {
+      "soru": "Turkiye ekonomisi hakkinda genel bilgi nedir?",
+      "cevap": "Turkiye, G20 uyesi, NATO ve OECD uyesi bir ulkedir. GSMH yaklasik 1 trilyon dolar duzeyindedir. Ithalat yogunluklu enerji ve ara malina bagimli bir ihracat ekonomisi vardir. Otomotiv, makine, tekstil, gida ve kimyasallar baslica sektorlerdir. Ihracat pazarinda en buyuk partner AB ulkeleridir.",
+      "kategori": "Ekonomi"
+    },
+    {
+      "soru": "Turkiye'nin en buyuk ihracat kalemleri nelerdir?",
+      "cevap": "Turkiye'nin en buyuk ihracat kalemleri: 1) Otomotiv ve yedek parca, 2) Makine ve ekipman, 3) Kimyasallar ve plastik, 4) Tekstil ve hazir giyim, 5) Elektrik-elektronik, 6) Hububat ve gida (un, makarna, bakliyat), 7) Demir-celik. Almanya, ABD, Irak ve Italya baslica pazarlardir.",
+      "kategori": "Ekonomi"
+    },
+    {
+      "soru": "Turkiye en cok ne ihrac eder?",
+      "cevap": "Turkiye'nin en buyuk ihracat kalemleri: 1) Otomotiv ve yedek parca, 2) Makine ve ekipman, 3) Kimyasallar ve plastik, 4) Tekstil ve hazir giyim, 5) Elektrik-elektronik, 6) Hububat ve gida, 7) Demir-celik. Almanya, ABD, Irak ve Italya baslica pazarlardir.",
+      "kategori": "Ekonomi"
+    },
+    {
+      "soru": "Turkiye'nin en buyuk ithalat kalemleri nelerdir?",
+      "cevap": "Turkiye'nin en buyuk ithalat kalemleri: 1) Enerji (dogalgaz, petrol, komur), 2) Makine ve ekipman, 3) Kimyasallar, 4) Otomotiv parcalari, 5) Elektronik ve cihazlar, 6) Demir ve demir disi metaller. Enerji ithalati dis ticaret aciginin en buyuk kaynagidir.",
+      "kategori": "Ekonomi"
+    },
+    {
+      "soru": "Dis ticaret acigi nedir?",
+      "cevap": "Dis ticaret acigi, bir ulkenin ithalatinin ihracatindan buyuk olmasidir (Ihracat - Ithalat < 0). Turkiye'de enerji ithalati ve hammadde bagimliligi nedeniyle surekli dis ticaret acigi verilmektedir. Acik, cari denge uzerinden finansal piyasaları etkiler.",
+      "kategori": "Ekonomi"
+    },
+    {
+      "soru": "Turkiye'de enflasyon neden yuksek?",
+      "cevap": "Turkiye'de enflasyonu artiran nedenler: 1) Kur hareketlerinin maliyetlere yansimasi, 2) Enerji ve gida ithalat fiyatlari, 3) Ucret ve fiyat beklentileri (fiyat ayarlamalari), 4) Para ve kredi genislemeleri, 5) Arz kaynakli kisisel sorunlar. Merkez Bankasi faiz politikasiyla enflasyonla mudele eder.",
+      "kategori": "Ekonomi"
+    },
+    {
+      "soru": "TCMB faiz kararlari ekonomiyi nasil etkiler?",
+      "cevap": "Merkez Bankasi politika faizini artirdiginda kredi maliyeti yukselir, tuketim ve yatirim yavaslar, enflasyon baskisi azalir, TL deger kazanabilir. Faiz dusuruldugunde ise kredi genisler, buyume ve enflasyon artabilir. Faiz kararlari kur, borsa ve tahvil piyasasini dogrudan etkiler.",
+      "kategori": "Ekonomi"
+    },
+    {
+      "soru": "TCMB politika faizi nedir?",
+      "cevap": "Politika faizi (1 haftalik repo), Merkez Bankasi'nin para politikasini yonettigi ana faizdir. Bu faiz, bankalar arasi parayi ve kredi maliyetlerini etkiler. TCMB her ay (veya genelde yilda 8) PPK toplantisinda politika faizini belirler.",
+      "kategori": "Ekonomi"
+    },
+    {
+      "soru": "Turkiye'de buyume orani nedir?",
+      "cevap": "Turkiye ekonomisi genellikle yillik %3-7 arasi buyur. 2023'te %4.5, 2024'te %3 civari buyume kaydedildi. Buyume hizini tuketim, yatirim, kamu harcamalari ve ihracat belirler. Buyume orani GSYH'nin yillik degisimiyle olculur.",
+      "kategori": "Ekonomi"
+    },
+    {
+      "soru": "GSYH nedir?",
+      "cevap": "GSYH (Gayri Safi Yurt Ici Hasila), bir ulkede belirli donemde uretilen tum mal ve hizmetlerin parasal degeridir. Uretim, gelir ve harcama yontemleriyle olculur. Kisi basi GSYH, ulkenin refah duzeyini gosterir. Turkiye'nin kisi basi geliri ~13.000 USD civarindadir.",
+      "kategori": "Ekonomi"
+    },
+    {
+      "soru": "Isgucu piyasasi ve issizlik orani nedir?",
+      "cevap": "Turkiye'de issizlik orani yaklasik %9-10 civarinda seyreder (2024). Genel issizlik, calisma cagindaki nufus icinde is arayanlarin oranidir. Kayit disi istihdam, genc issizlik ve kadin istihdam orani dusuklugu onemli yapisal sorunlardir.",
+      "kategori": "Ekonomi"
+    },
+    {
+      "soru": "Kur politikasi nedir?",
+      "cevap": "Kur politikasi, merkez bankasinin doviz kurunu yonettigi politikalardir: 1) Serbest dalgalanma (piyasa belirler), 2) Yonetilen dalgalanma (araya girme), 3) Sabit kur (hedef). Turkiye genel olarak yonetilen dalgalanma uygular; TCMB doviz piyasasinda denge icin mudahale edebilir.",
+      "kategori": "Ekonomi"
+    },
+    {
+      "soru": "Kamu borcu ve butce acigi ne demektir?",
+      "cevap": "Butce acigi, devletin gelirlerinin (vergi vb.) harcamalarindan az olmasidir. Kamu borcu, devletin ic ve dis piyasalardan aldigi borc toplamidir. Acik, borclanmayla finanse edilir. Yuksek acik ve borc, enflasyon ve faiz uzerinde baskı kurar.",
+      "kategori": "Ekonomi"
+    },
+    {
+      "soru": "Dogrudan yabanci yatirim (DYY) nedir?",
+      "cevap": "Dogrudan yabanci yatirim, bir ulkedeki sirketin baska ulkedeki tesise uzun vadeli yatirim yapmasidir (fabrika, sube, ortaklik). Turkiye'ye DYY, cari acigin finansmaninda ve teknoloji transferinde onemlidir. En cok AB ulkeleri yatirim yapar.",
+      "kategori": "Ekonomi"
+    },
+    {
+      "soru": "Turkiye'nin cari acik kaynaklari nelerdir?",
+      "cevap": "Cari acigin ana kaynaklari: 1) Enerji ithalati, 2) Ara mal (hammadde) ithalati, 3) Hurda ve yuksek teknoloji urun ithalati, 4) Ithalata bagli uretim yapisi. Cari acik, doviz ihtiyacini artirir ve kurlari baskilar. Turizm gelirleri ve hizmet ihracati kismen dengeler.",
+      "kategori": "Ekonomi"
+    },
+    {
+      "soru": "Turkiye'de istihdam tesvikleri nelerdir?",
+      "cevap": "Devlet isverenlere istihdam tesvikleri sunar: 1) Yeni istihdamda SGK prim destegi, 2) Ilave istihdam tesvigi, 3) Kadin ve genc istihdam tesvigi, 4) Asgari ucret destegi, 5) Bolgesel ve sektor bazli tesvikler. Tesvikler belirli sure ve kosullarda uygulanir.",
+      "kategori": "Ekonomi"
+    },
+    {
+      "soru": "Asgari ucret ne kadar ve nasil belirlenir?",
+      "cevap": "Asgari ucret, her yil Asgari Ucret Tespit Komisyonu (calisan, isveren ve devlet temsilcileri) tarafindan belirlenir. 2024 yili icin net 17.002 TL olarak uygulandi. Asgari ucret hem ozel hem kamu sektorunu kapsar ve vergi istisnasi uygulanir.",
+      "kategori": "Ekonomi"
+    },
+    {
+      "soru": "Turkiye'nin yatirim ortami nasildir?",
+      "cevap": "Turkiye, genis ic pazar, genc nufus, girisimci ekosistem ve ihracat olanaklari sunar. Avantajlar: Konum (Avrupa, Ortadogu, Asya kesişimi), altyapi yatirimlari, serbest bolgeler ve tesvikler. Zorluklar: Yargi ve burokrasi, enflasyon, kur dalgalanmalari ve finanse erisim.",
+      "kategori": "Ekonomi"
+    },
+    {
+      "soru": "Turkiye'de tuketici guven endeksi nedir?",
+      "cevap": "Tuketici guven endeksi, hanehalkinin ekonomi, istihdam ve tuketim beklentilerini olcen endekstir (100 bazli). Endeks 100 ustunde olumlu, altinda olumsuz beklentiyi gosterir. Yatirim, uretim ve tuketim kararlarinda sinyal olarak kullanilir.",
+      "kategori": "Ekonomi"
+    },
+    {
+      "soru": "Tedarik zinciri ve gida fiyatlari neden artiyor?",
+      "cevap": "Gida fiyatlarindaki artisin nedenleri: 1) Kura bagli ithal girdi maliyeti, 2) Uretim ve lojistik maliyetleri, 3) Iklime bagli uretim kayiplari, 4) Aracilar ve stokculuk, 5) Uluslararasi gida fiyatlari. Gida enflasyonu tuketici fiyat endeksini gecici olarak artirir.",
+      "kategori": "Ekonomi"
+    },
+    {
+      "soru": "Turizm gelirleri Turkiye ekonomisini nasil etkiler?",
+      "cevap": "Turizm, Turkiye'nin en buyuk hizmet gelir kaynagidir (yillik ~50 milyar dolar). Turizm gelirleri cari dengeyi destekler, doviz saglar, istihdam yaratir. Istikrarli turizm, kur ve odenler dengesinde onemli rol oynar.",
+      "kategori": "Ekonomi"
+    },
+    {
+      "soru": "Dis ticarette serbest bolge nedir?",
+      "cevap": "Serbest bolge, ithalat ve ihracatin gumruk ve vergi istisnalariyla yapildigi ozel alanlardir. Bu bolgelerde uretim, depolama ve ticaret yapilabilir. Avantajlar: Gumruk vergisi muafiyeti, kurumsal yatirim tesviki ve lojistik kolaylik. Turkiye'de ~19 serbest bolge vardir.",
+      "kategori": "Ekonomi"
+    },
+    {
+      "soru": "Merkez Bankasi rezervleri nedir?",
+      "cevap": "Merkez Bankasi rezervleri, TCMB'nin doviz ve altin varliklaridir. Rezervler ulkenin dis odemelerini destekler ve kriz aninda doviz saglar. Rezervlerin artması piyasa guvenini artirir; azalmasi ise kur uzerinde baskı kurar.",
+      "kategori": "Ekonomi"
+    },
+    {
+      "soru": "Turkiye'de ekonomik kriz olur mu?",
+      "cevap": "Turkiye, 1994, 2001 ve 2018 krizlerini yasamis bir ekonomidir. Krizler genellikle cari acik, doviz ihtiyaci ve kamu maliyesi dengesizliklerinden kaynaklanir. Iyi yonetim, guclu rezerv ve denetim kriz riskini azaltir. Gelecekte kriz olup olmayacagi politikalara baglidir.",
+      "kategori": "Ekonomi"
+    },
+    {
+      "soru": "IMF ve Dunya Bankasi nedir?",
+      "cevap": "IMF (Uluslararasi Para Fonu), ulkelerin odenler dengesi krizlerinde destek veren kurulustur. Dunya Bankasi ise gelismekte olan ulkelere kalkinma kredileri ve danismanlik sunar. Turkiye her ikisine de uyedir; gerektiginde kaynak kullanir.",
+      "kategori": "Ekonomi"
+    },
+    {
+      "soru": "Kredi notu nedir ve Turkiye'nin kredi notu ne?",
+      "cevap": "Kredi notu, derecelendirme kuruluslarinin (S&P, Moody's, Fitch) bir ulkenin veya sirketin borc odeme kabiliyetine verdigi puandir. Turkiye'nin notu genellikle 'BB-' ile 'B' arasinda (yatirim yapilamaz, spekülatif) seviyededir. Not, dis yatirim kararlarini etkiler.",
+      "kategori": "Ekonomi"
+    },
+    {
+      "soru": "TCMB faiz indirimi ne zaman olur?",
+      "cevap": "TCMB faiz indirimi, enflasyonun dusme egilimine girdigi ve beklentilerin iyilestigi durumlarda yapilir. Faiz kararlari PPK toplantilarinda verilir. 2024 sonlarindan itibaren enflasyon dusus sureci baslamis; faiz politikalari bu surece gore belirlenmistir.",
+      "kategori": "Ekonomi"
+    },
+    {
+      "soru": "Turkiye'nin AB ile gumruk birligi iliskisi nedir?",
+      "cevap": "Turkiye, 1995'ten beri AB ile Gumruk Birligi icindedir. Bu, sanayi mallarinda gumruksuz ticareti ve ortak dis tarifeyi kapsar. Avantaj: AB pazarina kolay erisim. Kisitlar: Tarim ve hizmet ticareti kapsam disinda, AB kararlari gecisli etki eder. Uyelik muraddati surer.",
+      "kategori": "Ekonomi"
+    }
+  ]
+}

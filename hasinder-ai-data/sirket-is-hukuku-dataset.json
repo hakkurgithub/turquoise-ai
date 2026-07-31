@@ -1,0 +1,154 @@
+{
+  "dataset": [
+    {
+      "soru": "Anonim sirket (AS) nedir?",
+      "cevap": "Anonim sirket (AŞ), sermayesi paylara bolunmus ve ortaklarin sorumlulugu paylariyla sinirli sirket turudur. En az 250.000 TL sermaye ile kurulur (2024). Yonetim kurulu tarafindan yonetilir, hisse devri serbesttir, halka arza uygundur. Buyuk ve kurumsal isler icin tercih edilir.",
+      "kategori": "Sirket"
+    },
+    {
+      "soru": "Limited sirket (Ltd) nedir?",
+      "cevap": "Limited sirket, en az 1 ortakla kurulabilen ve sermayesi en az 50.000 TL olan sirket turudur. Ortaklar sadece koyduklari sermaye kadar sorumludur. Mudurler tarafindan yonetilir; ortak sayisi 50'ye kadar olabilir. Kucuk ve orta olcekli isletmeler icin en yaygin turdür.",
+      "kategori": "Sirket"
+    },
+    {
+      "soru": "Sirket kurulus sureci nasil isler?",
+      "cevap": "Sirket kurulusu MERSIS uzerinden yapilir: 1) MERSIS'te on basvuru ve sirket adi on kontrolu, 2) Esas sozlesmenin hazirlanmasi (imza sirklüleri), 3) Bankada sermaye hesabi acilmasi, 4) Noter tasdiki ve ticaret odasi kaydi, 5) Ticaret siciline tescil ve ilan, 6) Vergi dairesi ve KDV islemleri, 7) Calisan ise SSK (e-SGK) kaydi.",
+      "kategori": "Sirket"
+    },
+    {
+      "soru": "Sahis isletmesi nedir?",
+      "cevap": "Sahis isletmesi, tek bir gercek kisinin ticari faaliyeti uzerine kurulu isletme turudur. Sirket kurma zorunlulugu yoktur; esnaf/tacir olarak vergi dairesine kayit yeterlidir. Sahis isletmesinde isletmenin borclarindan sahibi sinirsiz sorumludur.",
+      "kategori": "Sirket"
+    },
+    {
+      "soru": "Kooperatif nedir?",
+      "cevap": "Kooperatif, ortaklarin karsilikli yardim ve dayanismasini saglayan, gelir paylasimini sinirli tutan bir ortaklik turudur. Cesitleri: Tarim satis kooperatifleri, tuketim, konut, uretim ve kredi kooperatifleri. Ortak sayisina gore kurulur; sosyal amac onceliklidir.",
+      "kategori": "Sirket"
+    },
+    {
+      "soru": "Imza sirkuleri nedir?",
+      "cevap": "Imza sirkuleri, sirket yetkililerinin (mudur, yonetim kurulu uyesi) sirketi temsil yetkilerini ve imza orneklerini gosteren noter tasdikli belgedir. Banka, kamu ve sozlesme islemlerinde zorunludur. Sirketin kimin imzasiyla baglanabilecegini gosterir.",
+      "kategori": "Sirket"
+    },
+    {
+      "soru": "Is sozlesmesi nedir?",
+      "cevap": "Is sozlesmesi, isci ile isveren arasindaki calisma iliskisini duzenleyen sozlesmedir. Sureli (belirli sure) veya sureli olmayan (belirsiz sure) olabilir. Calisma saatleri, ucret, izin, gorev tanimi ve fesih kosullarini icerir. Yazili yapilmasi ispat kolayligi saglar.",
+      "kategori": "Is Hukuku"
+    },
+    {
+      "soru": "Deneme suresi nedir?",
+      "cevap": "Deneme suresi, is sozlesmelerinde genellikle en fazla 2 ay uygulanir (taraf anlasmasıyla belirlenir). Deneme suresi icinde taraflar tazminat olmadan sozlesmeyi feshedebilir. Deneme suresi iscilik haklarini ortadan kaldirmaz.",
+      "kategori": "Is Hukuku"
+    },
+    {
+      "soru": "Kidem tazminati nasil hesaplanir?",
+      "cevap": "Kidem tazminati, en az 1 yil calismis ve is sozlesmesi isveren tarafindan veya hakli nedenle sona eren isciye, calisilan her yil icin 30 gunluk ucret tutarinda odenir. Tavan her yil belirlenir. Calisma suresi ve son brüt ucret esas alinir.",
+      "kategori": "Is Hukuku"
+    },
+    {
+      "soru": "Ihbar suresi nedir?",
+      "cevap": "Ihbar suresi, is sozlesmesinin feshi oncesinde taraflarin bildirim yapmasi gereken suredir: 6 aydan az calismada 2 hafta, 6 ay-1.5 yil arasinda 4 hafta, 1.5-3 yil arasinda 6 hafta, 3 yil ustunde 8 hafta. Ihbar suresine uymayan taraf ihbar tazminati oder.",
+      "kategori": "Is Hukuku"
+    },
+    {
+      "soru": "Yillik ucretli izin hakki nedir?",
+      "cevap": "Yillik ucretli izin haklari: 1-5 yil calisan 14 gun, 5-15 yil calisan 20 gun, 15 yil ustunde calisan 26 gun. Izin haklari yillik olarak hak edilir. Bazi islerde (agir isler) izin sureleri artar. Izin kullaniminin engellenmesi iscinin hakli fesih nedenidir.",
+      "kategori": "Is Hukuku"
+    },
+    {
+      "soru": "Fazla mesai ucreti nasil hesaplanir?",
+      "cevap": "Fazla calisma (mesai), haftalik 45 saatin uzerindeki calismadir. Her fazla calisma saati icin normal ucretin %50 fazlasi odenir. Tatil gunlerinde calisma %100 zamlıdır. Isci, gunde en fazla 3 saat ve yilda 270 saat fazla calistirilabilir.",
+      "kategori": "Is Hukuku"
+    },
+    {
+      "soru": "Isci hangi durumlarda hakli fesih yapabilir?",
+      "cevap": "Isci hakli fesih nedenleri: 1) Ucretlerin zamaninda odenmemesi, 2) Isverenin isciye kotu davranmasi (siddet, mobbing), 3) Calisma sartlarinin uygulanmamasi, 4) Isverenin isyerini degistirmesi, 5) Agir nitelikli is sartlarinin varligi. Hakli fesihte isci kidem tazminatina hak kazanir.",
+      "kategori": "Is Hukuku"
+    },
+    {
+      "soru": "Isveren hangi durumlarda hakli fesih yapabilir?",
+      "cevap": "Isveren hakli fesih nedenleri: 1) Isciinin sagligini bozan haller, 2) Isciinin gorevini yapmamasi veya hirsizlik/yaniltma, 3) Isciinin devamsizligi (genelgeye ragmen 2 gun, ayda 3 gun, yilda 5 gun), 4) Isyerinde is kanunlara aykiri davranis. Hakli fesihte ihbar ve kidem tazminati odenmez.",
+      "kategori": "Is Hukuku"
+    },
+    {
+      "soru": "SGK primi isveren ve isci paylari nelerdir?",
+      "cevap": "SGK prim oranlari (2024): Isci payi %15 (uzun vadeli %9, kisa vadeli %2, genel saglik %5 - dahil) ve isveren payi yaklasik %22.5 (uzun vadeli %11, kisa vadeli %2, genel saglik %7.5, issizlik %2). Gecici issizlik ve kisa calisma odemeleri de vardir.",
+      "kategori": "Is Hukuku"
+    },
+    {
+      "soru": "Is sagligi ve guvenligi (ISG) yukumlulukleri nelerdir?",
+      "cevap": "Isveren, iscilerin sagligini ve guvenligini korumakla yukumludur: Risk degerlendirmesi yapilmali, ISG uzmani ve isyeri hekimi gorevlendirilmeli (tehlike sinifina gore), ekipman ve egitim verilmeli, kaza bildirimi yapilmalidir. OSGB (ortak saglik guvenlik birimi) hizmeti alinabilir.",
+      "kategori": "Is Hukuku"
+    },
+    {
+      "soru": "Tehlike siniflari nelerdir?",
+      "cevap": "Isler tehlike siniflarina ayrilir: Az tehlikeli, tehlikeli ve cok tehlikeli. Sinif, isverenin ISG uzmanı ve isyeri hekimi gorevlendirme yukumlulugunu ve egitim surelerini belirler. Siniflandirma Calisma ve Sosyal Guvenlik Bakanligi'nin listesine gore yapilir.",
+      "kategori": "Is Hukuku"
+    },
+    {
+      "soru": "Is kazasi halinde isverenin sorumlulugu nedir?",
+      "cevap": "Is kazasinda isveren; SGK'ya bildirim, tedavi, tazminat ve iscinin maddi/manevi kayiplarindan sorumludur. Kazanın onlenebilir olmasi durumunda cezai ve hukuki sorumluluk dogar. ISG onlemleri alinmis ve kaza kacinilmaz ise sorumluluk sinirlanabilir.",
+      "kategori": "Is Hukuku"
+    },
+    {
+      "soru": "Is yeri kurarken ruhsat gerekir mi?",
+      "cevap": "Evet. Is yeri acmak icin belediyeden isyeri acma ve calisma ruhsati alinmalidir. Ayrintilar: Fiziki uygunluk (yangin, ISG), imar ve cevre sartlari, odasi kayitlari. Bazi isler icin ek izinler (gida saglik izni, cevre izni) gerekebilir.",
+      "kategori": "Sirket"
+    },
+    {
+      "soru": "E-imza ve mobil imza nedir?",
+      "cevap": "E-imza (nitelikli elektronik imza), dijital belgeleri hukuki gecerliligi olan sekilde imzalamayi saglar. e-fatura, e-defter, e-sozlesme ve kamu islemlerinde kullanilir. Mobil imza, GSM operatörleri uzerinden telefondan kullanilir. Isletmeler icin zorunlu olabilir.",
+      "kategori": "Sirket"
+    },
+    {
+      "soru": "MERSIS nedir?",
+      "cevap": "MERSIS (Merkezi Sicil Kayit Sistemi), sirketlerin kurulus, tescil ve bilgi guncelleme islemlerinin elektronik yapildigi Ticaret Bakanligi sistemidir. Sirket kurulusunda on basvuru, ad kontrolu ve tescil sureci MERSIS uzerinden yurutilir.",
+      "kategori": "Sirket"
+    },
+    {
+      "soru": "Ticari unvan nedir?",
+      "cevap": "Ticari unvan, isletmeyi ticaret hayatinda tanitan ve tescil edilen isimdir. Sirket turunu (AŞ, Ltd.) icerir ve ayirt edici ozellik tasir. Unvan degisikligi veya kullanim ihlali hukuki sonuclar dogurur. Ticaret siciline tescil edilir.",
+      "kategori": "Sirket"
+    },
+    {
+      "soru": "Yonetim kurulu gorevleri nelerdir?",
+      "cevap": "Anonim sirkette yonetim kurulu; sirketi yonetir ve temsil eder, strateji ve butceyi belirler, mali tablolari onaylar, genel kurulu toplar, karar defterini tutar. Yonetim kurulu uyeleri hukuki ve cezai sorumluluk tasir.",
+      "kategori": "Sirket"
+    },
+    {
+      "soru": "Genel kurul toplantisi nedir?",
+      "cevap": "Genel kurul, ortaklarin sirket yonetimini denetledigi ve onemli kararlari aldigi toplantidir: Sermaye artirimi, kar dagitimi, yonetim secimi, sozlesme degisiklikleri. Yillik olagan genel kurul, kanun ve esas sozlesmeye uygun sekilde yapilir.",
+      "kategori": "Sirket"
+    },
+    {
+      "soru": "Tacir kimdir?",
+      "cevap": "Tacir, ticari isletmesi geregi ticaret yapan gercek veya tucel kisidir (esnaf sinirini asan isletmeler). Tacirin haklari ve borclari: Ticaret odasına kayit, ticari defter tutma, ticari unvan kullanma, iflasa tabi olma. Esnaf ve tacir siniri yillik belirlenir.",
+      "kategori": "Sirket"
+    },
+    {
+      "soru": "Ticaret hukukunda haksiz rekabet nedir?",
+      "cevap": "Haksiz rekabet, rakip isletmeleri yaniltan, kandiran veya haksiz avantaj saglayan davranislardir: Yanlis reklam, taklit urun, karalama, sirket bilgilerini calma. Haksiz rekabet yasaktir; tazminat ve men talep edilebilir.",
+      "kategori": "Sirket"
+    },
+    {
+      "soru": "Isyeri kirasinda tahliye taahhudu nedir?",
+      "cevap": "Tahliye taahhudu, kiracinin kira sozlesmesi sonunda veya belirlenen tarihte isyerini bosaltmayi noter onayli taahhut etmesidir. Noter tasdikli olmasi sarttir. Taahhude uyulmazsa icra yoluyla tahliye istenebilir.",
+      "kategori": "Is Hukuku"
+    },
+    {
+      "soru": "Cek karsiliksiz cikarsa ne yapilir?",
+      "cevap": "Karsiliksiz cek icin: 1) Bankaya ibraz ve karsiliksiz belgesi (ciranta) alinir, 2) Noter veya banka uzerinden protesto cekilir, 3) Icraya basvurulur, 4) Cek hamili hukuki takip yapar. 2024 duzenlemeleriyle ceza mahkemesi kaldirilip idari yaptirimlar getirilmistir.",
+      "kategori": "Sirket"
+    },
+    {
+      "soru": "Iflas nedir ve nasil ilan edilir?",
+      "cevap": "Iflas, borclarini odeyemeyen tacirin mallarinin mahkeme karariyla satilip alacaklilariarasında dagitildigi hukuki surectir. Iflas davasi, borclunun veya alacaklinin talebiyle acilir. Iflas ilan edildikten sonra malvarligi yonetimi icra iflas mudurlugune gecer.",
+      "kategori": "Sirket"
+    },
+    {
+      "soru": "Bireysel is ve serbest meslek farki nedir?",
+      "cevap": "Bireysel is (ticari isletme), kar amacli ve sistemli sekilde mal/hizmet uretip satan isletmedir. Serbest meslek ise kisisel bilgi ve uzmanliga dayali (avukat, doktor, mali musavir) calismadir. Serbest meslek kazancinda stopaj ve daha farkli vergilendirme uygulanir.",
+      "kategori": "Sirket"
+    }
+  ]
+}

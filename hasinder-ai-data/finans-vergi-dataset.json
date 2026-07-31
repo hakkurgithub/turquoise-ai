@@ -1,0 +1,144 @@
+{
+  "dataset": [
+    {
+      "soru": "KDV nedir ve dis ticarette nasil uygulanir?",
+      "cevap": "KDV (Katma Deger Vergisi), mal ve hizmetlerin her asamasinda yaratilan katma deger uzerinden alinan dolayli vergidir. Ihracatta KDV istisnasi vardir (0 KDV). Ithalatta KDV gumrukte tahsil edilir. KDV oranlari: %1 (temel gida), %10 (bazi mallar), %20 (standart).",
+      "kategori": "Vergi"
+    },
+    {
+      "soru": "Kurumlar vergisi nedir?",
+      "cevap": "Kurumlar vergisi, sirketlerin (anonim, limited, AŞ) kurum kazanci uzerinden odedigi vergidir. 2024 itibariyle oran %25'tir; bazi sektorlerde (finans, bankacilik) %30 uygulanir. Kurum kazanci, gelir ve giderlerin farkidir; indirim ve istisnalar uygulanabilir.",
+      "kategori": "Vergi"
+    },
+    {
+      "soru": "Gelir vergisi dilimleri nasil isler?",
+      "cevap": "Gelir vergisi, gercek kisi gelirleri uzerinden artan oranli dilimlerle alinir. 2024 yili icin dilimler: 110.000 TL'ye kadar %15, 230.000 TL'ye kadar %20, 580.000 TL'ye kadar %27, 3.000.000 TL'ye kadar %35, ustu %40. Dilimler her yil yeniden belirlenir.",
+      "kategori": "Vergi"
+    },
+    {
+      "soru": "Ihracatta KDV iadesi nasil alinir?",
+      "cevap": "Ihracatcilar, ihrac etikleri esyanin imalatinda yuklenilen KDV'yi iade alabilir. Islemler: 1) Ihracat faturasi ve gumruk beyannamesi, 2) KDV beyannamesinde iade kalemi, 3) Iade sureci (dogrudan veya teminatli iade), 4) Belgelerle talebin dogrulanmasi. İade, nakit veya mahsuben yapilir.",
+      "kategori": "Vergi"
+    },
+    {
+      "soru": "Defter tutma zorunlulugu nedir?",
+      "cevap": "Tacirler, ticari faaliyetlerini izlemek icin defter tutmak zorundadir: Yevmiye defteri ve kebir defteri (buyuk defter). Defterler notere tasdik ettirilir ve vergi donemlerinde elektronik (e-defter) veya kagit olarak tutulur. Tutulmayan defterler icin ceza uygulanir.",
+      "kategori": "Vergi"
+    },
+    {
+      "soru": "e-Defter ve e-Fatura nedir?",
+      "cevap": "e-Fatura, elektronik ortamda duzenlenen ve GIB (Gelir Idaresi Baskanligi) sistemine iletilen faturaldir. e-Defter, defterlerin elektronik ortamda tutulmasidir. Belirli ciro ustu isletmeler icin zorunludur. Dijitalizasyon, islem hizini ve takibi kolaylastirir.",
+      "kategori": "Vergi"
+    },
+    {
+      "soru": "Eximbank hangi kredileri verir?",
+      "cevap": "Eximbank, ihracatcilara: 1) Kisa vadeli ihracat kredileri (ticari kredi), 2) Orta-uzun vadeli makine ve teçhizat ihracati kredileri, 3) Ihracat kredi sigortasi, 4) Alacak sigortasi ve garanti programlari sunar. Krediler dusuk faizli ve ihracat bedeliyle ilişkilidir.",
+      "kategori": "Finans"
+    },
+    {
+      "soru": "Dis ticaret finansmani yontemleri nelerdir?",
+      "cevap": "Dis ticaret finansmani: 1) Peşin odeme (on payment), 2) Akreditif (L/C) finansmani, 3) Ihracat alacaklarinin factoring/forfaiting'i, 4) Banka kredileri (Eximbank, ticari kredi), 5) Ciro ve senet iskonto, 6) Reeskont. Her yontem; maliyet, risk ve nakit akisi dengesine gore secilir.",
+      "kategori": "Finans"
+    },
+    {
+      "soru": "Kur riski nedir ve nasil yonetilir?",
+      "cevap": "Kur riski, doviz kurlarindaki degisimlerden dogan kayip veya belirsizliktir. Yonetim yontemleri: 1) Hedging (forward, swap, opsiyon sözlesmeleri), 2) Faturalamayi doviz bazinda yapmak, 3) Kur hesaplarinda doviz tutmak, 4) Pesin/vadeli dengesini ayarlamak, 5) Coklu doviz cesitlendirmesi.",
+      "kategori": "Finans"
+    },
+    {
+      "soru": "Forward sozlesmesi nedir?",
+      "cevap": "Forward sozlesmesi, belirli bir doviz tutarini belirli bir tarihte, bugun anlasilan kurdan alma/satma vaadidir. Banka ile yapilir ve kuru sabitler, kur riskini kapatir. Kurumsal firmalar dovizli ticarette forward ile belirsizligi yonetir.",
+      "kategori": "Finans"
+    },
+    {
+      "soru": "Vergi avantajli yatirim araclari nelerdir?",
+      "cevap": "Vergi avantajli yatirimlar: Devlet tahvili ve Hazine bonosu (bazi getiriler stopaj avantajlı), BES (Bireysel Emeklilik Sistemi - %30 devlet katkisi ve vergi avantaji), yatirim tesvik belgesi kapsaminda KDV istisnasi ve vergi indirimi, GYO/GYF'lerin bazi vergi avantajlari. Risk ve vade dengesine gore secilir.",
+      "kategori": "Finans"
+    },
+    {
+      "soru": "Nakit akisi yonetimi nedir?",
+      "cevap": "Nakit akisi yonetimi, sirketin gelen ve giden nakitini planlayarak likiditeyi korumaktir: Tahsilat ve odeme takvimi, alacak/vadesi yonetimi, kisa vadeli finansman, nakit butcesi. Dis ticarette tahsilat gecikmeleri ve kur dalgalanmalari nakit akisini tehdit eder.",
+      "kategori": "Finans"
+    },
+    {
+      "soru": "Bilanco nedir?",
+      "cevap": "Bilanco, sirketin belirli bir tarihteki varliklarini (aktif), borclarini (pasif) ve ozkaynaklarini gosteren mali tablodur. Temel denklik: Varliklar = Borclar + Ozkaynaklar. Finansal saglik, likidite ve borcluluk bilanco uzerinden analiz edilir.",
+      "kategori": "Finans"
+    },
+    {
+      "soru": "Finansal oranlar nelerdir?",
+      "cevap": "Onemli finansal oranlar: 1) Cari oran (dönen varlik/kisa vadeli borc - 1.5+ iyi), 2) Asit-test orani (nakit odaklı likidite), 3) Borc/ozkaynak orani (kaldırac), 4) Kar marji (net kar/ciro), 5) ROE (ozkaynak getirisi), 6) Envanter devir hizi. Oranlar firma ve sektor kiyaslamasiyla yorumlanir.",
+      "kategori": "Finans"
+    },
+    {
+      "soru": "Tedarik finansmani nedir?",
+      "cevap": "Tedarik finansmani, tedarik zincirindeki odemeleri destekleyen kisa vadeli cozumlerdir: Tedarikci finansmani (reverse factoring), stok finansmani, teminatli krediler, cek iskonto. Amac, tedarikcinin nakdini ve sirketin calisma sermayesini optimize etmektir.",
+      "kategori": "Finans"
+    },
+    {
+      "soru": "KDV beyannamesi nasil verilir?",
+      "cevap": "KDV beyannamesi, her ayin 1-26'si arasinda Gelir Idaresi (GIB) e-beyanname sistemi uzerinden verilir. Sonraki ayin beyani, onceki ayin islemlerini (satis KDV, alis KDV, ihracat istisnasi) icerir. Indirim ve iade hesaplamalari dikkatli yapilmalidir.",
+      "kategori": "Vergi"
+    },
+    {
+      "soru": "Stopaj nedir?",
+      "cevap": "Stopaj (kaynakta kesinti), odeme yapilirken verginin kaynagında kesilerek devlete odenmesidir. Ornekler: Isyeri kira odemeleri, ucretler, yurt disina yapilan odemeler. Kesinti oranlari gelir cesidine gore degisir.",
+      "kategori": "Vergi"
+    },
+    {
+      "soru": "Kira geliri vergisinde istisna ve giderler nasil uygulanir?",
+      "cevap": "Konut kira gelirinde yillik istisna tutari vardir; ustu beyan edilir. Gider yontemleri: 1) Gercek gider yontemi (amortisman, bakim, sigorta vb. belgeli giderler), 2) Goturulen gider yontemi (%15). Beyanname mart ayinda hazir beyan sistemiyle verilir.",
+      "kategori": "Vergi"
+    },
+    {
+      "soru": "Sirket kredisi icin hangi belgeler istenir?",
+      "cevap": "Sirket kredisi icin bankalar ister: 1) Ticaret sicil ve imza sirkuleri, 2) Finansal tablolar (bilanco, gelir tablosu) son 2-3 yil, 3) Vergi beyannameleri ve tahakkuk fisi, 4) Ciro ve alacak bilgileri, 5) Teminat (ipotek, kefalet, cek), 6) Is plani (yatirim kredisinde), 7) Kredi skoru.",
+      "kategori": "Finans"
+    },
+    {
+      "soru": "Banka kredisi turleri nelerdir?",
+      "cevap": "Banka kredileri: Ihtiyac/kredisi (tuketici), konut kredisi, tasit kredisi, isletme (firma) kredileri, yatirim kredisi, isletme sermayesi kredisi, dis ticaret kredileri (ithalat/ihracat), kredili mevduat hesabi (KMH). Teminata ve vadeye gore maliyetler degisir.",
+      "kategori": "Finans"
+    },
+    {
+      "soru": "Yatirim tesvik belgesi nedir?",
+      "cevap": "Yatirim tesvik belgesi, belirli olcek ve sektördeki yatirimlara saglanan avantajlari belgeler: KDV istisnasi, gumruk vergisi istisnasi, vergi indirimi, sigorta primi destegi, faiz destegi. Basvuru Sanayi ve Teknoloji Bakanligi'na yapilir; bolgesel ve stratejik tesvik kategorileri vardir.",
+      "kategori": "Finans"
+    },
+    {
+      "soru": "Girisim sermayesi (venture capital) nedir?",
+      "cevap": "Girisim sermayesi, yuksek buyume potansiyelli erken asama sirketlere ortaklik karsiliginda yapilan yatirimdir. Yatirimci (VC) hisse karsiliginda sermaye saglar; exit (satis/halka arz) ile getiri elde eder. Ar-Ge yogun ve olceklenebilir is modelleri icin uygundur.",
+      "kategori": "Finans"
+    },
+    {
+      "soru": "Melek yatirimci nedir?",
+      "cevap": "Melek yatirimci, kendi birikimiyle erken asama girisimlere ortaklik karsiliginda yatirim yapan gercek kisidir. Genellikle girisimcinin sektor bilgisini de katar. Kucuk tutarlar ve ilk asama icin uygundur. Turkiye'de melek yatirimci tesvikleri (gelir vergisi istisnasi) vardir.",
+      "kategori": "Finans"
+    },
+    {
+      "soru": "Borsa Istanbul'da sirket nasil halka arz olur?",
+      "cevap": "Halka arz sureci: 1) SPK'ya basvuru ve aydinlatma belgeleri, 2) Aracilik sirketi secimi, 3) Değerleme ve fiyat belirleme, 4) SPK onayi, 5) Talep toplama, 6) BIST'te islem gorme. Halka arz, sirkete sermaye saglar ve likidite yaratir.",
+      "kategori": "Finans"
+    },
+    {
+      "soru": "Cari acik nedir?",
+      "cevap": "Cari acik, bir ulkenin mal ve hizmet ihracatiyla ithalati arasindaki farkin negatif olmasidir (ithalat > ihracat + turizm gelirleri gibi islemler). Dis ticaret acigi ve enerji ithalati cari acigin ana kaynaklaridir. Cari acik kur ve finansal istikrar uzerinde etkilidir.",
+      "kategori": "Finans"
+    },
+    {
+      "soru": "Enflasyon muhasebesi nedir?",
+      "cevap": "Enflasyon muhasebesi, yuksek enflasyon donemlerinde finansal tablolarin guncel alim gucune gore duzeltilmesidir. Turkiye'de 2023'ten itibaren enflasyon duzeltmesi uygulanmaktadir. Duzeltme, tarihi maliyetlerin guncel degerlerle ifade edilmesini saglar.",
+      "kategori": "Finans"
+    },
+    {
+      "soru": "Beyanname turleri nelerdir?",
+      "cevap": "Beyanname turleri: Kurumlar vergisi beyannamesi (Nisan ayi), gelir vergisi beyannamesi (Mart), KDV beyannamesi (aylik), muhtasar ve prim hizmet beyannamesi (aylik ucret/stopaj), geçici vergi beyannameleri (uc ayda bir). Hepsi GIB e-beyanname sisteminden verilir.",
+      "kategori": "Vergi"
+    },
+    {
+      "soru": "Sirket kurarken is kurulus maliyetleri nelerdir?",
+      "cevap": "Sirket kurulus maliyetleri: Noter (esas sozlesme tasdiki), ticaret odasi kaydi, ticaret sicil tescil, barkod/KDV islemleri, e-imza veya mali musavirlik ucretleri, gerekiyorsa yillik ruhsat. Elektronik kurulus (MERSIS) ile sure kisa ve maliyet dusuktur.",
+      "kategori": "Finans"
+    }
+  ]
+}

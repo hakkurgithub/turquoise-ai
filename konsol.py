@@ -83,7 +83,10 @@ def veri_yukle():
             return f.read()
 
     dosyalar = ['soru-cevap-dataset.json', 'hasinder-platform-dataset.json',
-                'gumruk-dis-ticaret-dataset.json', 'gayrimenkul-hukuk-dataset.json']
+                'gumruk-dis-ticaret-dataset.json', 'gayrimenkul-hukuk-dataset.json',
+                'b2b-ticaret-dataset.json', 'lojistik-tasimacilik-dataset.json',
+                'finans-vergi-dataset.json', 'sirket-is-hukuku-dataset.json',
+                'turkiye-ekonomi-dataset.json', 'emlak-yatirim-dataset.json']
     qa = []
     for dosya in dosyalar:
         qa.extend(json.loads(oku(dosya)).get('dataset', []))

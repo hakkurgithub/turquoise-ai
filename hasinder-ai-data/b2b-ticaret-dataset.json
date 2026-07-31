@@ -1,0 +1,224 @@
+{
+  "dataset": [
+    {
+      "soru": "B2B ticaret nasil yapilir?",
+      "cevap": "B2B ticaret adimlari: 1) Hedef pazar ve sektor secimi, 2) Tedarikci veya alici arastirmasi (fuarlar, pazaryerleri, B2B platformlar), 3) Urun ve fiyat teklifi (proforma fatura), 4) Sozlesme ve INCOTERMS belirleme, 5) Odeme sekli secimi (L/C, T/T), 6) Lojistik ve gumruk islemleri, 7) Tahsilat ve musteri iliskisi yonetimi. Hasinder B2B platformu alici-saticiyi akilli eslestirmeyle bulusturur.",
+      "kategori": "B2B"
+    },
+    {
+      "soru": "B2B pazarlik (nefiyat) teknikleri nelerdir?",
+      "cevap": "B2B pazarlikta: 1) Fiyat yerine deger odakli konusun (hizmet, garanti, teslimat), 2) Toplu alimlarda olcek indirimi sunun, 3) Uzun vadeli anlasma karsiliginda fiyat esnekligi yapin, 4) Odeme vadesi pazarlik konusu olsun (30/60/90 gun), 5) Rekabetci teklifleri arastirarak hazirlikli gidin, 6) Ilk teklifi siz vermeyin, karsinin limitini olcmeye calisin.",
+      "kategori": "B2B"
+    },
+    {
+      "soru": "B2B pazar yeri komisyonu nedir?",
+      "cevap": "B2B pazaryerlerinde (Alibaba, Hasinder, Kompass vb.) platform, alici-saticiyi bulusturma, odeme guvencesi ve gorunurluk karsiliginda genellikle satis bedeli uzerinden komisyon alir. Komisyon oranlari sektore ve urune gore %1-10 arasinda degisir. Hasinder B2B platformunda uyelik ucretsizdir; gelir, icra kurullarinin komisyon hizmetleri ve ilan/promosyon hizmetlerinden elde edilir.",
+      "kategori": "B2B"
+    },
+    {
+      "soru": "Tedarik zinciri yonetimi nedir?",
+      "cevap": "Tedarik zinciri yonetimi (SCM), hammadde temininden nihai musteriye kadar tum sureclerin yonetimidir: Tedarik, uretim, depolama, envanter, dagitim ve talep tahmini. Verimli SCM maliyet dusurur ve teslimat surelerini kisaltir. Tedarikci degerlendirme ve cift tedarik (dual sourcing) riski azaltir.",
+      "kategori": "B2B"
+    },
+    {
+      "soru": "Tedarikci degerlendirme nasil yapilir?",
+      "cevap": "Tedarikci degerlendirmede: 1) Finansal saglik (bilanco, likidite), 2) Uretim kapasitesi ve kalite belgeleri (ISO), 3) Teslimat performansi ve gecmis referanslar, 4) Fiyat rekabetciligi, 5) Iletisim ve yanit suresi, 6) Ureticilik ve inovasyon. Puanlama sistemiyle (skor kart) tedarikci secimi ve periyodik degerlendirme yapilir.",
+      "kategori": "B2B"
+    },
+    {
+      "soru": "Ihale yonetimi nedir?",
+      "cevap": "Ihale, belirli bir mal/hizmetin en uygun fiyatla temini icin birden fazla tedarikciden teklif alma surecidir. Asamalar: Ihale ilani, teklif toplama, degerlendirme (fiyat + teknik + teslim), sozlesme ve teslim takibi. Acik ihale, kapali ihale ve pazarlik usulu olmak uzere uc turu vardir.",
+      "kategori": "B2B"
+    },
+    {
+      "soru": "Acente ve distributor farki nedir?",
+      "cevap": "Acente, satici adina musteri bulup islemleri yuruten ama mali olarak saticiya bagli olmayan aracidir. Distributor ise urunu kendi adina satin alip kendi marjiyla satan toptancidir. Acente komisyon alir, distributor kâr/marj yapar. Acente saticiyi, distributor urunu temsil eder.",
+      "kategori": "B2B"
+    },
+    {
+      "soru": "Franchising nedir?",
+      "cevap": "Franchising, marka sahibi (franchisor) ile girisimci (franchisee) arasinda yapilan is modeli anlasmasidir. Franchisee, marka, is modeli ve egitim karsiliginda girisim ve royalti odar. Marka bilinirliginden yararlanarak is kurar. Sozlesme sure, bolge ve yukumlulukleri detayli belirler.",
+      "kategori": "B2B"
+    },
+    {
+      "soru": "Konsinye satis nedir?",
+      "cevap": "Konsinye satis, satilanmayan urunun saticiya iade edilebilmesi sartiyla urunun musteriye (konsinyatere) teslim edilmesidir. Konsinyatör urun satilana kadar odeme yapmaz. Stok maliyeti saticida kalir; konsinye genelde yeni musteri veya pazar testlerinde kullanilir.",
+      "kategori": "B2B"
+    },
+    {
+      "soru": "Ortak girisim (joint venture) nedir?",
+      "cevap": "Ortak girisim (JV), iki veya daha fazla sirketin belirli bir proje veya is icin guclerini birlestirdigi yapidir. Kaynak, teknoloji ve pazar paylasilir; kar/zarar anlasmayla belirlenen oranda paylasilir. Ayri bir sirket kurulabilir (equity JV) veya sozlesmeye dayali olabilir (contractual JV).",
+      "kategori": "B2B"
+    },
+    {
+      "soru": "Banka teminat mektubu nedir?",
+      "cevap": "Banka teminat mektubu (L/G), bankanin bir yukumlulugun yerine getirilmemesi durumunda lehdara odeme yapmayi garanti ettigi belgedir. Cesitleri: Kesin teminat (ihale/tasimahut), avans teminat, gecici teminat. Dis ticarette ve kamu ihalelerinde yaygin kullanilir.",
+      "kategori": "B2B"
+    },
+    {
+      "soru": "Cek ve senet farki nedir?",
+      "cevap": "Cek, banka uzerinden yazilan ve ibrazinda odenmesi gereken odeme aracidir (vadesi yoktur, belirli surede tahsil edilir). Senet (bono), borclunun belirli bir vadede odeme taahhududur. Senet vadeye baglidir ve icra yoluyla takip edilebilir. B2B'de senet daha yaygin.",
+      "kategori": "B2B"
+    },
+    {
+      "soru": "Proforma fatura nedir?",
+      "cevap": "Proforma fatura, satis oncesinde fiyat, miktar ve kosullari gosteren on faturadır. Kesin fatura degildir; teklif ve siparis onayi amacli duzenlenir. Dis ticarette gümrük ve akreditif islemlerinde on belge olarak kullanilir.",
+      "kategori": "B2B"
+    },
+    {
+      "soru": "Ticari fatura nasil duzenlenir?",
+      "cevap": "Ticari fatura; satici/alici bilgileri, fatura tarihi ve numarasi, urun aciklamasi, GTIP, miktar, birim fiyat, toplam tutar, KDV ve odeme kosullarini icerir. Dis ticarette ticari fatura (commercial invoice) gumruk beyannamesi ve akreditifin temel belgesidir.",
+      "kategori": "B2B"
+    },
+    {
+      "soru": "NAFTA, serbest ticaret anlasmalari Turkiye'yi nasil etkiler?",
+      "cevap": "Turkiye'nin cok sayida serbest ticaret anlasmasi (STA) vardir. STA'lar bazi urunlerde tercihli (indirimli) gumruk vergisi uygulanmasini saglar. Mense kuru sinirlari vardir ve mense sertifikasi gerekir. STA kapsaminda ithalat/ihracat yapan firmalar mense kurallarina dikkat etmelidir.",
+      "kategori": "B2B"
+    },
+    {
+      "soru": "Turkiye'nin serbest ticaret anlasmasi imzaladigi ulkeler hangileri?",
+      "cevap": "Turkiye'nin STA imzaladigi ulkeler: EFTA ulkeleri, Karadeniz Ekonomik Isbirligi uyeleri, Makedonya, Bosna-Hersek, Suriye, Tunus, Fas, Mısır, Israil, Filistin, Libya, Urdun, Gurcistan, Sili, Uruguay, Kosova, Malezya, Kore Cumhuriyeti, Singapur ve bircok Afrika/Asya ulkesi. Anlasma listesi Ticaret Bakanligi'nda guncellenir.",
+      "kategori": "B2B"
+    },
+    {
+      "soru": "CE belgesi nedir?",
+      "cevap": "CE isareti, urunun AB mevzuatina (saglik, guvenlik, cevre) uygun oldugunu gosterir. AB'ye ihrac edilen pek cok urun icin zorunludur. Test ve uygunluk degerlendirmesi sonrasi uretici uygunluk beyani duzenler. CE olmayan urunler AB pazarina giremez.",
+      "kategori": "B2B"
+    },
+    {
+      "soru": "Halal ve helal belgesi nedir?",
+      "cevap": "Helal belgesi, urunlerin Islami kurallara uygun uretildigini belgeler. Gida, kozmetik ve temizlik urunlerinde talep edilir. Helal sertifikasyon kuruluslari denetim yapar. Musluman nufusun yogun oldugu pazarlara ihracatta buyuk avantaj saglar.",
+      "kategori": "B2B"
+    },
+    {
+      "soru": "Ekofrais ve yesil lojistik nedir?",
+      "cevap": "Yesil lojistik, tasimacilik ve depolamada karbon ayak izini azaltmayi hedefleyen uygulamalardir: Demiryolu ve denizyolu oncelikli rotalar, yakıt verimli araclar, optimize yukleme, ambalaj azaltma. AB karbon vergisi (CBAM) nedeniyle ihracatcilar icin onem kazanmistir.",
+      "kategori": "B2B"
+    },
+    {
+      "soru": "CBAM nedir?",
+      "cevap": "CBAM (Carbon Border Adjustment Mechanism - Sinirda Karbon Duzenleme Mekanizmasi), AB'nin karbon yogun urun ithalatina uygulamaya basladigi duzenlemedir. Demir-celik, cimento, aluminyum, gubre ve elektrik gibi sektorleri kapsar. Ihracatcilarin karbon emisyonunu beyan etmesi gerekir.",
+      "kategori": "B2B"
+    },
+    {
+      "soru": "Marka tescili nasil yapilir?",
+      "cevap": "Marka tescili TURKPATENT'e basvuru ile yapilir. Basvuru sonrasi inceleme ve itiraz sureciyle marka tescil edilir (10 yil gecerli, yenilenebilir). Uluslararasi tescil icin Madrid Protokolu kullanilir. Tescil, markayi taklit ve izinsiz kullanimdan korur.",
+      "kategori": "B2B"
+    },
+    {
+      "soru": "Patent nasil alinir?",
+      "cevap": "Patent, bulusun belirli sure (20 yil) korunmasini saglar. TURKPATENT'e basvuru ile alinir: Basvuru, arastirma raporu, inceleme ve tescil asamalari vardir. Patentli bulus izinsiz kullanilamaz. Teknoloji sirketleri ve Ar-Ge firmalari icin kritik.",
+      "kategori": "B2B"
+    },
+    {
+      "soru": "Isbirligi anlasmasi (MOA) nedir?",
+      "cevap": "Isbirligi anlasmasi (Memorandum of Agreement), iki sirketin ortak amaclar, kaynak paylasimi, roller ve surelerini belirleyen sozlesmedir. Uyusmazlik cozumu, gizlilik ve fesih kosullarini icerir. B2B isbirliklerinde yol haritasidir.",
+      "kategori": "B2B"
+    },
+    {
+      "soru": "Gizlilik sozlesmesi (NDA) nedir?",
+      "cevap": "NDA (Non-Disclosure Agreement - Gizlilik Sozlesmesi), taraflarin birbirinden aldigi bilgileri ucuncu kisilere aciklamamasini guvence altina alan sozlesmedir. Ihtiyaclar, teknik bilgiler ve musteri listeleri icin kullanilir. Ihlalde tazminat ve yaptirim ongorur.",
+      "kategori": "B2B"
+    },
+    {
+      "soru": "Alim-satim sozlesmesi hazirlarken nelere dikkat edilir?",
+      "cevap": "Alim-satim sozlesmesinde: Taraflarin kimligi, urun/hizmet aciklamasi ve miktar, fiyat ve odeme kosullari, teslimat ve INCOTERMS, kalite/kabul kriterleri, garanti, ceza kosullari, gizlilik, uyusmazlik cozumu ve fesih maddeleri net olmalidir. Bosluklar uyusmazlik yaratir.",
+      "kategori": "B2B"
+    },
+    {
+      "soru": "Toplu alim (pazarlık) avantajlari nelerdir?",
+      "cevap": "Toplu alim: Birim fiyatta indirim, nakliye ve gumruk maliyetlerinde olcek ekonomisi, tedarik guvenligi, onegecme (lead time) azalimi ve pazarlik gucu saglar. Ancak stok maliyeti ve riski artar; talep tahmini dogru yapilmali, mevsimsel dalgalanmalar izlenmelidir.",
+      "kategori": "B2B"
+    },
+    {
+      "soru": "B2B satista musteri bulma yontemleri nelerdir?",
+      "cevap": "B2B musteri bulma: 1) B2B pazaryerleri (Alibaba, Kompass, Hasinder), 2) Ticari fuarlar ve networking, 3) Sektor dernekleri ve kooperatifler, 4) Ticaret musavirlikleri ve yurtdisi heyetler, 5) Linkedin ve hedefli dijital pazarlama, 6) Referans ve onceki musteriler, 7) Soguk arama (cold call) ve e-posta kampanyalari.",
+      "kategori": "B2B"
+    },
+    {
+      "soru": "Ticaret odasi uyeligi zorunlu mu?",
+      "cevap": "Turkiye'de tacirler ve sirketler, bulunduklari ilin Ticaret ve/veya Sanayi Odasina kayit olmak zorundadir. Kayit, sirket kurulusunda zorunludur. Oda uyeligi; tesvik, fuar, heyet ve ticaret danismanligi avantajlari sunar.",
+      "kategori": "B2B"
+    },
+    {
+      "soru": "Kambiyo mevzuati dis ticarette nasil uygulanir?",
+      "cevap": "Dis ticarette doviz islemleri Merkez Bankasi Kambiyo mevzuatina tabidir. Ihracat bedellerinin belirli surede yurda getirilmesi (genelde 180 gun) zorunludur. Ithalat bedelleri banka araciligiyla transfer edilir. Doviz islemleri bankalarin beyan sistemleri uzerinden takip edilir.",
+      "kategori": "B2B"
+    },
+    {
+      "soru": "Incoterms seciminde nelere dikkat edilir?",
+      "cevap": "INCOTERMS seciminde: 1) Tasima sekli (deniz, hava, kara, demiryolu), 2) Risk transfer noktasi (kim hangi riski tasir), 3) Maliyet paylasimi (navlun, sigorta, yukleme/bosaltma), 4) Sigorta sorumlulugu, 5) Gumruk islemleri (ihracat/ithalat). Dogru secim sozlesmenin risk ve maliyet dengesini belirler.",
+      "kategori": "B2B"
+    },
+    {
+      "soru": "Hasinder'de B2B ilan verirken nelere dikkat edilir?",
+      "cevap": "Hasinder B2B ilaninda: 1) Dogru kategori secimi (70+ kategori), 2) Urun/hizmet aciklamasinda GTIP ve teknik ozellikler, 3) Fiyat bilgisi ve birim, 4) Fotograflar ve uretim bilgileri, 5) Iletisim bilgileri guncel, 6) Lokasyon. Akilli eslestirme, profil ve sektor bazli en uygun eslesmeleri sunar.",
+      "kategori": "B2B"
+    },
+    {
+      "soru": "B2B ticarette guvenli odeme nasil yapilir?",
+      "cevap": "B2B'de guvenli odeme icin: 1) Yeni musterilerde L/C (akreditif) veya avans/peşin odeme, 2) Orta riskli islerde D/P (belge karsiligi), 3) Yerlesik musterilerde vadeli T/T, 4) Islem limitli ekspres banka havalesi. Hasinder, guvenli ticaret icin KVKK uyumlu ve SSL guvenlikli altyapi sunar.",
+      "kategori": "B2B"
+    },
+    {
+      "soru": "Alacak takibi nasil yapilir?",
+      "cevap": "Alacak takibi: 1) Vade geciminde once nazik hatirlatma, 2) Yazili ihtarname, 3) Noter ihtarnamesi, 4) Icra takibi (icra dairesi), 5) Dava. Alacak riskini azaltmak icin: Sozlesme, on odeme/peşin vade, senet/cek ve sigorta (ticari alacak sigortası).",
+      "kategori": "B2B"
+    },
+    {
+      "soru": "Factoring nedir?",
+      "cevap": "Factoring, sirketin vadeli satislardan dogan alacaklarini bir factoring sirketine devrederek aninda nakde cevirmesidir. Islem yonetimi, tahsilat ve bazi durumlarda alacak sigortasi da icerir. Kucuk ve orta isletmelerin nakit akisini hizlandirir.",
+      "kategori": "B2B"
+    },
+    {
+      "soru": "Forfaiting nedir?",
+      "cevap": "Forfaiting, genellikle buyuk olcekli ve uzun vadeli (ortalama 6 ay-5 yil) ihracat alacaklarinin poliçe veya senet karsiliginda forfaiter'a satilmasidir. Factoring'den farkli olarak tek islem bazli, buyuk tutarli ve garanti belgeleriyle (aval) yapilir.",
+      "kategori": "B2B"
+    },
+    {
+      "soru": "B2B pazarlamada dijital kanallar nelerdir?",
+      "cevap": "B2B dijital pazarlama kanallari: Linkedin (hedef kitle), SEO ve icerik pazarlama (blog, teknik makale), e-posta kampanyalari, webinarlar, B2B pazaryerleri, Google Ads ve reklam aglari, sosyal medya (X, Facebook gruplari), fuar tanitimlari ve influencer/cozum ortaklari isbirlikleri.",
+      "kategori": "B2B"
+    },
+    {
+      "soru": "B2B satis dongusu ne kadardir?",
+      "cevap": "B2B satis dongusu urun ve pazar karmasikligina gore degisir: Basit tuketim urunlerinde 1-3 ay, makine ve ekipmanda 3-6 ay, buyuk olcekli projelerde 6-18 ay. Karmaşık satislarda coklu karar verici, deneme (sample), referans ve uzun müzakere sureci vardir.",
+      "kategori": "B2B"
+    },
+    {
+      "soru": "B2B'de kayip musteri analizi neden onemli?",
+      "cevap": "Kayip musteri analizi, satin almayan veya rakiplere gecen musterilerin nedenini anlamayi saglar. Nedenler: Fiyat, teslimat suresi, kalite, iletisim eksikligi, lojistik sorunlari. Analizle fiyatlandirma, hizmet ve proses iyilestirmeleri yapilir; CRM'de kayip nedenleri kaydedilir.",
+      "kategori": "B2B"
+    },
+    {
+      "soru": "B2B'de referans ve vaka calismalari nasil kullanilir?",
+      "cevap": "Referanslar B2B satisinin en guclu kanitidir: 1) Basarili proje vaka calismalari yayinlayin, 2) Musteri memnuniyeti testleri (case study) kullanin, 3) Referans musterilerle gorusme ayarlayin, 4) Sanayi etkinliklerinde konusmacılık yapın. Referanslar risk algisini dusurur ve guven olusturur.",
+      "kategori": "B2B"
+    },
+    {
+      "soru": "B2B ticarette kulturel farkliliklar neden onemli?",
+      "cevap": "Her ulkenin is yapma kulture farklidir: Pazarlik tarzlari, iliskiler (guanxi, wasta), zaman algisi, hediye ve selamlama kurallari, dil ve dokuman duzenleri. Kulturel bilgi, yanlis anlasilmayi onler ve guveni hizla kurar. Hedef pazari arastirmadan uluslararasi satisa girmeyin.",
+      "kategori": "B2B"
+    },
+    {
+      "soru": "B2B'de fiyat teklifi (quotation) nasil hazirlanir?",
+      "cevap": "Fiyat teklifi su bilgileri icerir: Satici ve alici bilgileri, urun/hizmet aciklamasi, miktar ve birim fiyat, toplam tutar, teslim suresi, INCOTERMS/odeme kosullari, gecerlilik suresi (orn. 30 gun), vergi/KDV durumu. Net ve kosullu teklif musteri kararini hizlandirir.",
+      "kategori": "B2B"
+    },
+    {
+      "soru": "B2B satici ve alici nasil birbirine guvenir?",
+      "cevap": "B2B'de guven; ticari sicil ve referans kontrolu, sozlesme ve teminatlar, deneme urunleri (sample), kalite belgeleri, test ve onay surecleri, guvenli odeme (L/C) ve duzenli iletisimle kurulur. Hasinder gibi platformlar akilli eslestirme ve profesyonel icra kurullariyla guveni destekler.",
+      "kategori": "B2B"
+    },
+    {
+      "soru": "Hasinder akilli eslestirme nasil calisir?",
+      "cevap": "Hasinder akilli eslestirme; uyelerin profil bilgileri, sektor, lokasyon ve is modelini analiz ederek alici-satici ve isveren-aday eslesmesi yapar. Sektör ve profil bazli skorlama ile en uygun is ortagi onerileri sunar.",
+      "kategori": "B2B"
+    },
+    {
+      "soru": "B2B ticarette en sik yapilan hatalar nelerdir?",
+      "cevap": "En sik hatalar: 1) Sozlesme yapmadan ise baslamak, 2) INCOTERMS ve odeme sekli belirsizligi, 3) Musteri/tedarikci teyidi almadan yuksek riskli odeme, 4) Talep tahminini yanlis yapmak, 5) Kalite ve teslim takibi yapmamak, 6) Mense ve GTIP hataları, 7) Belge ve evrak eksiklikleri, 8) Guncel mevzuati takip etmemek.",
+      "kategori": "B2B"
+    }
+  ]
+}
