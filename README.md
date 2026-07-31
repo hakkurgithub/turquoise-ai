@@ -1,8 +1,9 @@
-# Goodbuy Real Estate AI - Hibrit Satis Asistani
+# Turquoise AI - Genel Yapay Zeka Asistani
 
-Turkiye'nin gayrimenkul platformu icin hibrit yapay zeka satis temsilcisi.
-Arazi, tarla, villa, arsa, zeytinlik, ciftlik ve diger gayrimenkuller hakkinda
-musterilere yardimci olur.
+hasinder.com, goodbuy.hasinder.com ve akademi.hasinder.com platformlarina hitap
+eden genel yapay zeka asistani. Gayrimenkul, gumruk ve dis ticaret, B2B ticaret,
+Hasinder platformu, Goodbuy Real Estate AI, Has Ozel Akademi ve 81 il hakkinda
+sorulan sorulara cevap verir. Bilmedigi sorulari WhatsApp uzerinden uzmana iletir.
 
 ## Ozellikler
 
@@ -14,7 +15,9 @@ musterilere yardimci olur.
 - **Konsol arayuzu:** Python veya Node.js ile terminalde calisir.
 - **Acik kaynak veri:** Tum bilgi bankasi `hasinder-ai-data/` klasorundeki
   acik JSON/Markdown dosyalarindan gelir - kolayca genisletilebilir.
-- **Genisletilmis bilgi bankasi:** 48 soru-cevap, 49 emlak terimi, 23 sehir bilgisi.
+- **Genisletilmis bilgi bankasi:** 250 soru-cevap, 112 terim, 81 sehir bilgisi.
+- **WhatsApp yonlendirme:** Cevap bulunamayan sorular WhatsApp uzerinden
+  uzmana iletilir (wa.me/905333715577).
 
 ## Klasor Yapisi
 
@@ -27,10 +30,25 @@ musterilere yardimci olur.
 ├── konsol.js                   # Node.js konsol surumu (Node 18+, ek paket gerekmez)
 └── hasinder-ai-data/           # Bilgi bankasi (acik kaynak veriler)
     ├── goodbuy-real-estate-prompt.md # AI kimligi ve kurallari (sistem promptu)
-    ├── soru-cevap-dataset.json # Soru-cevap veri seti
-    ├── emlak-terimleri.json    # Emlak terimleri sozlugu
-    └── sehir-bilgileri.json    # Sehir ve bolge bilgileri
+    ├── soru-cevap-dataset.json # Genel soru-cevap veri seti
+    ├── hasinder-platform-dataset.json # Hasinder/Goodbuy/Akademi platform verisi
+    ├── gumruk-dis-ticaret-dataset.json # Gumruk ve dis ticaret mevzuati
+    ├── gayrimenkul-hukuk-dataset.json # Tapu, imar ve gayrimenkul hukuku
+    ├── emlak-terimleri.json    # Terimler sozlugu
+    └── sehir-bilgileri.json    # 81 il sehir ve bolge bilgileri
 ```
+
+## Bilgi Kategorileri
+
+| Kategori | Kapsam |
+|----------|--------|
+| Hasinder | Platform, 20 icra kurulu, TIB Borsa, Hatay Yatirim Projesi |
+| Goodbuy | AI satis asistani, paketler, analiz araclari |
+| Akademi | 15 derslik Gumruk ve Dis Ticaret uzmanlasma programi |
+| Gumruk | 4458 sayili Kanun, beyanname, muayene, rejimler, cezalar |
+| Dis Ticaret | INCOTERMS 2020, odeme sekilleri, tesvikler, lojistik |
+| Tapu/Imar/Hukuk | Tapu islemleri, ipotek, imar, kentsel donusum, kira hukuku |
+| Sehirler | 81 il, populer bolgeler, arazi fiyatlari |
 
 ## Hizli Baslangic
 
@@ -120,8 +138,10 @@ git push -u origin main
 
 Kod degistirmeden asistanin bilgisini artirabilirsiniz:
 
-- **Yeni soru-cevap:** `soru-cevap-dataset.json` icindeki `dataset` dizisine
-  `{"soru": "...", "cevap": "..."}` ekleyin.
+- **Yeni soru-cevap:** Herhangi bir `*-dataset.json` icindeki `dataset` dizisine
+  `{"soru": "...", "cevap": "..."}` ekleyin. Yeni bir konu alani icin yeni bir
+  `konu-dataset.json` dosyasi olusturup `app.js` ve `konsol.js`/`konsol.py`
+  icindeki `dosyalar` listesine ekleyin.
 - **Yeni terim:** `emlak-terimleri.json` icindeki `terimler` dizisine
   `{"terim": "...", "aciklama": "...", "kategori": "..."}` ekleyin.
 - **Yeni sehir:** `sehir-bilgileri.json` icindeki `sehirler` dizisine ekleyin.

@@ -71,13 +71,20 @@ function eslesmeSkoru(kullaniciKelimeler, soruKelimeler) {
 /* ---------- Veri Yukleme ---------- */
 async function veriYukle() {
   const taban = 'hasinder-ai-data/';
-  const [qa, terim, sehir, prompt] = await Promise.all([
-    fetch(taban + 'soru-cevap-dataset.json').then(r => r.json()),
+  const dosyalar = [
+    'soru-cevap-dataset.json',
+    'hasinder-platform-dataset.json',
+    'gumruk-dis-ticaret-dataset.json',
+    'gayrimenkul-hukuk-dataset.json'
+  ];
+  const [qa, terim, sehir, prompt, ...ekler] = await Promise.all([
+    ...dosyalar.map(d => fetch(taban + d).then(r => r.json())),
     fetch(taban + 'emlak-terimleri.json').then(r => r.json()),
     fetch(taban + 'sehir-bilgileri.json').then(r => r.json()),
     fetch(taban + 'goodbuy-real-estate-prompt.md').then(r => r.text())
   ]);
-  VERI.qa = qa.dataset.map(o => ({ ...o, kelimeler: icerikKelimeleri(o.soru) }));
+  const tumQa = [qa, ...ekler].flatMap(d => d.dataset || []);
+  VERI.qa = tumQa.map(o => ({ ...o, kelimeler: icerikKelimeleri(o.soru) }));
   VERI.terimler = terim.terimler;
   VERI.sehirler = sehir.sehirler;
   VERI.genelNotlar = sehir.genelNotlar || {};

@@ -469,6 +469,96 @@
       "terim": "Isbirligi Platformu",
       "aciklama": "Isletmelerin bir araya gelerek ticaret, yatirim ve isbirligi yaptigi dijital ortam. Istanbul ve Hatay Sanayici ve Is Insanlari Platformu buna ornektir.",
       "kategori": "Ticaret"
+    },
+    {
+      "terim": "YBS",
+      "aciklama": "Yeni Bilgisayarli Transit Sistemi. Gumruk beyannamelerinin elektronik olarak dolduruldugu sistem. Gumruk islemlerinin dijital altyapisidir.",
+      "kategori": "Gumruk"
+    },
+    {
+      "terim": "SAD (Tek Idari Belge)",
+      "aciklama": "Gumruk beyannamesinin resmi adi. 8 nusha olarak duzenlenir; ihracat, ithalat ve transit islemlerinde kullanilir.",
+      "kategori": "Gumruk"
+    },
+    {
+      "terim": "HS Kod",
+      "aciklama": "Harmonized System. Esyalarin uluslararasi siniflandirildigi 6 haneli kod. GTIP ilk 6 hanesini olusturur.",
+      "kategori": "Gumruk"
+    },
+    {
+      "terim": "Akreditif",
+      "aciklama": "Banka garantili dis ticaret odeme sekli (L/C). Alici adina banka saticiya belirli sartlarin yerine getirilmesi karsiliginda odeme garantisi verir.",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "terim": "Kiyamet (Kiymet)",
+      "aciklama": "Ithal esyanin gumruk vergilerinin hesaplanmasinda esas alinan deger. CIF esasli hesaplanir.",
+      "kategori": "Gumruk"
+    },
+    {
+      "terim": "Mense Kurali",
+      "aciklama": "Esiyanin mense ulkesinin belirlenmesini saglayan kurallar. Tercihli ve tercihli olmayan mense olarak ikiye ayrilir.",
+      "kategori": "Gumruk"
+    },
+    {
+      "terim": "Fire Orani",
+      "aciklama": "Dahilde isleme rejiminde girdinin islenmesi sirasinda kaybedilen kismin orani. Taahhut hesabinda belirlenir.",
+      "kategori": "Gumruk"
+    },
+    {
+      "terim": "Ozet Beyan",
+      "aciklama": "Kargo tasiyicilarinin esyalari topluca gumruge bildirmesi. Hizli posta ve kargo gonderilerinde kullanilir.",
+      "kategori": "Gumruk"
+    },
+    {
+      "terim": "Kacakcilik",
+      "aciklama": "Gumruk mevzuatina aykiri olarak esyanin hareket ettirilmesi (5607 sayili Kanun). Suc teskil eder ve hapis cezasi icerir.",
+      "kategori": "Hukuki"
+    },
+    {
+      "terim": "Tahliye Taahhudu",
+      "aciklama": "Kiracinin belirlenen tarihte evi bosaltmayi noter onayli olarak taahhut ettigi belge. Noter tasdikli olmasi sarttir.",
+      "kategori": "Hukuki"
+    },
+    {
+      "terim": "Emsal Karsilastirma",
+      "aciklama": "Gayrimenkul degerleme yontemi. Benzer satis ve fiyatlarla karsilastirarak deger belirler.",
+      "kategori": "Gayrimenkul"
+    },
+    {
+      "terim": "Gelir Yaklasimi",
+      "aciklama": "Gayrimenkul degerleme yontemi. Gayrimenkulden elde edilecek kira geliri uzerinden deger hesaplanir.",
+      "kategori": "Gayrimenkul"
+    },
+    {
+      "terim": "Maliyet Yaklasimi",
+      "aciklama": "Gayrimenkul degerleme yontemi. Yeniden insa edilme maliyetine gore deger belirler.",
+      "kategori": "Gayrimenkul"
+    },
+    {
+      "terim": "Kira Istisnasi",
+      "aciklama": "Konut kira gelirlerinde beyan oncesi uygulanan istisna tutari. Bu tutarin altindaki gelir beyan edilmez.",
+      "kategori": "Finansal"
+    },
+    {
+      "terim": "Web-Tapu",
+      "aciklama": "Tapu ve Kadastro Genel Mudurlugu online tapu sorgulama sistemidir. Ada/parsel, serhler ve malik bilgileri sorgulanabilir.",
+      "kategori": "Tapu"
+    },
+    {
+      "terim": "Baslangic Paketi",
+      "aciklama": "Goodbuy Real Estate AI ucretsiz paketi: 50 ilan, temel AI asistan, web entegrasyonu ve e-posta destegi icerir.",
+      "kategori": "Goodbuy"
+    },
+    {
+      "terim": "Profesyonel Paket",
+      "aciklama": "Goodbuy Real Estate AI 2.999 TL/ay paketi: sinirsiz ilan, gelismis AI, WhatsApp+web entegrasyonu, randevu yonetimi ve satis analitigi icerir.",
+      "kategori": "Goodbuy"
+    },
+    {
+      "terim": "Kurumsal Paket",
+      "aciklama": "Goodbuy Real Estate AI ozel fiyatli paketi: profesyonel paketteki her sey + ozel AI egitimi, CRM+API entegrasyonu ve coklu kullanici destegi.",
+      "kategori": "Goodbuy"
     }
   ]
 }

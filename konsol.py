@@ -82,7 +82,11 @@ def veri_yukle():
         with open(os.path.join(VERI_KLASORU, dosya), encoding='utf-8') as f:
             return f.read()
 
-    qa = json.loads(oku('soru-cevap-dataset.json'))['dataset']
+    dosyalar = ['soru-cevap-dataset.json', 'hasinder-platform-dataset.json',
+                'gumruk-dis-ticaret-dataset.json', 'gayrimenkul-hukuk-dataset.json']
+    qa = []
+    for dosya in dosyalar:
+        qa.extend(json.loads(oku(dosya)).get('dataset', []))
     for kayit in qa:
         kayit['kelimeler'] = icerik_kelimeleri(kayit['soru'])
     return {

@@ -1,0 +1,264 @@
+{
+  "dataset": [
+    {
+      "soru": "Tapu cesitleri nelerdir?",
+      "cevap": "Tapu turleri: 1) Kat mulkiyetli tapu (bagimsiz bolum, daire/dukkan), 2) Kat irtifakli tapu (insaat devam ediyor, iskân alininca kat mulkiyetine gecer), 3) Hisseli tapu (birden fazla malik), 4) Arsa ve arazi tapusu, 5) Devre mulk tapusu, 6) Turistik tesis ve sitelerde ozel tapu turleri.",
+      "kategori": "Tapu"
+    },
+    {
+      "soru": "Hisseli tapu nedir?",
+      "cevap": "Hisseli tapu, birden fazla kisinin ayni gayrimenkul uzerinde belirli paylara sahip oldugu tapudur. Riskleri: Diger hissedarlarin onayini almadan tam tasarruf edemezsiniz, satis/ipotek icin ortak karar gerekir, izalesuzaim (ortakligin giderilmesi) davasi acilabilir. Tek basina hisse satisina acik da olabilir.",
+      "kategori": "Tapu"
+    },
+    {
+      "soru": "Tapuda islem nasil yapilir?",
+      "cevap": "Tapu islemi Tapu ve Kadastro Mudurlugu'nde yapilir: 1) Randevu alinir (e-devlet/TADAS), 2) Alici ve satici bizzat katilir veya vekalet verir, 3) Kimlikler ve tapu belgesi ibraz edilir, 4) Deger beyani girilir ve tapu harcinin yuzde 2'si odenir, 5) Tescil islemi sonrasinda tapu imzalanir. Noter onayli sozlesme zorunlu degildir ama onerilir.",
+      "kategori": "Tapu"
+    },
+    {
+      "soru": "Tapu harc orani nedir?",
+      "cevap": "Tapu harci orani, satis bedelinin (beyan edilen deger) alicidan ve saticidan ayri ayri yuzde 2'sidir (toplam yuzde 4). Yeni binalarda KDV'ye tabi alimlarda harç orani farkli uygulanabilir. Belediye rayicinin altinda beyan edilirse haricten deger tespiti istenebilir.",
+      "kategori": "Tapu"
+    },
+    {
+      "soru": "Tapu taksimasi (temlik) nedir?",
+      "cevap": "Tapu taksimasi (temlik), malikin gayrimenkul uzerindeki mulkiyet hakkini baska birisine devretmesidir. Karsiliksiz (bagis) veya karsilikli (satis) olabilir. Karsiliksiz devirde bagis vergisi, karsilikli devirde tapu harci uygulanir.",
+      "kategori": "Tapu"
+    },
+    {
+      "soru": "Tapu kayit ornegi (tape) nedir?",
+      "cevap": "Tapu kayit ornegi, tapu senedinin tapu mudurlugu tarafindan onayli kopyasidir. Gayrimenkulun kimlik bilgilerini (ada, parsel, cins, yuzolcumu) ve maliklerini gosterir. Satis oncesinde gercek durumun dogrulanmasi icin alinmalidir.",
+      "kategori": "Tapu"
+    },
+    {
+      "soru": "Ipotek nedir?",
+      "cevap": "Ipotek, borcun teminati olarak gayrimenkulun bankaya veya alacakliya rehin edilmesidir. Tapu kutuğune ipotek serhi islenir. Borc odenmeden ipotek kaldirilmaz (fek edilmez). Satista ipotekli gayrimenkul satilabilir ancak ipotek borcunun kapatiImasi gerekebilir.",
+      "kategori": "Tapu"
+    },
+    {
+      "soru": "Ipotek fekki nedir?",
+      "cevap": "Ipotek fekki, ipotek serhinin tapu kaydindan kaldirilmasidir. Borc kapatildiktan sonra alacakli bankanin fek yazisini tapu mudurlugune iletmesiyle yapilir. Ipotek kapali kaldikca gayrimenkulun uzerinde rehin hakkı devam eder.",
+      "kategori": "Tapu"
+    },
+    {
+      "soru": "Hacizli tapu satin alinir mi?",
+      "cevap": "Hacizli tapu satin almak risklidir. Haciz kaydi iceriyorsa icra takibi devam eder ve gayrimenkul cekilebilir. Oncesinde e-devletten veya tapu mudurlugunden kaydin kontrol edilmesi, varsa haczin kapatiImasi onerilir.",
+      "kategori": "Tapu"
+    },
+    {
+      "soru": "Imar nedir?",
+      "cevap": "Imar, bir bolgenin yapilasma kosullarini belirleyen planlama duzenidir. Imar plani, arsanin konut, ticaret, sanayi gibi kullanimini; emsal (KAKS), TAKS, yukseklik ve cekme mesafelerini belirler. Imar durumu belgesi belediyeden alinir.",
+      "kategori": "Imar"
+    },
+    {
+      "soru": "TAKS nedir?",
+      "cevap": "TAKS (Taban Alani Katsayisi), arsanin zemin uzerinde kaplanabilecek taban alanini belirler. Ornegin 1000 m² arsada TAKS 0.20 ise taban alani 200 m² olabilir. Imar planinda belirlenir ve yapinin oturdugu alani sinirlar.",
+      "kategori": "Imar"
+    },
+    {
+      "soru": "KAKS (EMSAL) nedir?",
+      "cevap": "KAKS (Kat Alani Katsayisi) veya emsal, arsa uzerine yapilabilecek toplam insaat alanini belirler. Ornegin 1000 m² arsada KAKS 1.5 ise toplam 1500 m² kapali alan yapilabilir. Kat sayisi emsal ve TAKS ile hesaplanir.",
+      "kategori": "Imar"
+    },
+    {
+      "soru": "Yapi kullanim izni (iskan) nedir?",
+      "cevap": "Yapi kullanim izni (iskan belgesi), insaat tamamlandiktan sonra binanin oturulabilir/kullanilabilir oldugunu belgeleyen resmi belgedir. Belediyeden alinir. Iskansiz binada elektrik, su ve dogalgaz abonelikleri yapilamaz ve kat mulkiyeti tescillenemez.",
+      "kategori": "Imar"
+    },
+    {
+      "soru": "Kentsel donusum nasil calisir?",
+      "cevap": "6306 sayili Afet Riski Altindaki Alanlarin Donusturulmesi Kanunu kapsaminda: 1) Riskli yapi tespiti yapilir, 2) Malikler en az 3/2 cogunlukla karar verir, 3) Anlasma veya kamulastirma sureci baslar, 4) Yikim ve yeniden yapim yapilir. Devlet kira yardimi ve faiz destegi saglar.",
+      "kategori": "Imar"
+    },
+    {
+      "soru": "Kentsel donusumde kira yardimi ne kadar?",
+      "cevap": "Kentsel donusum kapsaminda riskli binasi yikilan maliklere kira yardimi (yasi, geliri ve ikamet suresine gore) odemesi yapilir. Uygun fiyatli konut uretimi icin faiz destegi de saglanir. Tutarlar ve kosullar yillik guncellenir.",
+      "kategori": "Imar"
+    },
+    {
+      "soru": "Kat mulkiyeti kanunu nedir?",
+      "cevap": "634 sayili Kat Mulkiyeti Kanunu, bagimsiz bolumlerin (daire, dukkan) mulkiyetini ve apartman/kompleks yonetimini duzenler. Kat malikleri kurulu kararlari, ortak alanlarin kullanimi, aidat ve yonetim plani bu kanuna gore isler.",
+      "kategori": "Hukuk"
+    },
+    {
+      "soru": "Kat malikleri kurulu nedir?",
+      "cevap": "Kat malikleri kurulu, bir binadaki bagimsiz bolum maliklerinin toplandigi yonetim organidir. Aidat, bakim, onarim, yonetim ve yasaklar konusunda kararlar alir. Onemli kararlar (ortak alan degisikligi gibi) tum maliklerin oybirligini veya belirli cogunlugu gerektirir.",
+      "kategori": "Hukuk"
+    },
+    {
+      "soru": "Kira sozlesmesi nasil yapilir?",
+      "cevap": "Kira sozlesmesi sozlu yapilabilir ama yazili yapilmasi onerilir. Kira bedeli, depozito (en fazla 3 ay), artis orani (yillik - Yİ-ÜFE/UFE), fesih kosullari, ortak giderler ve ev sahibi-kiraci yukumlulukleri belirtilir. Tahliye taahhudu ayri yapilir.",
+      "kategori": "Hukuk"
+    },
+    {
+      "soru": "Kira artis orani nasil hesaplanir?",
+      "cevap": "Konut kiralamalarinda yillik artis, bir onceki yilin Yİ-ÜFE (12 aylik ortalama) oranini gecmeyecek sekilde yapilir (2024 sonrasi duzenleme). Isyeri kiralamalarinda taraflar serbestce belirleyebilir. Her yil icin 5 yili gecen artis anlasmalari gecersizdir.",
+      "kategori": "Hukuk"
+    },
+    {
+      "soru": "Depozito ne kadar olabilir?",
+      "cevap": "Konut kira sozlesmelerinde depozito en fazla 3 aylik kira tutari olabilir. Depozito bankada veya emanette tutulmalidir. Sozlesme sonunda borc yoksa depozito faiziyle iade edilir.",
+      "kategori": "Hukuk"
+    },
+    {
+      "soru": "Kiraci tahliye edilebilir mi?",
+      "cevap": "Kiraci, sozlesme suresi dolmadan ve yasal bir neden olmadan tahliye edilemez. Tahliye nedenleri: Kira bedelini odememe, kiralananin amaca aykiri kullanimi, gecikmis kira ihtarnamesine ragmen odememe, 10 yillik uzayan kiralarda ev sahibi ihtiyaci. Tahliye taahhudu noter tasdikli olmalidir.",
+      "kategori": "Hukuk"
+    },
+    {
+      "soru": "Gayrimenkulde degerleme nasil yapilir?",
+      "cevap": "Gayrimenkul degerleme 3 yontemle yapilir: 1) Emsal karsilastirma (benzer satislar), 2) Gelir yaklasimi (kiradan elde edilecek gelir), 3) Maliyet yaklasimi (yeniden insa maliyeti). SPK lisansli degerleme sirketleri rapor duzenler. m² fiyati, konum, manzara, yapi yasi ve deprem yonetmeligi degerde belirleyicidir.",
+      "kategori": "Gayrimenkul"
+    },
+    {
+      "soru": "Gayrimenkul yatiriminda nelere dikkat edilmeli?",
+      "cevap": "Gayrimenkul yatiriminda: 1) Lokasyon ve gelismekte olan bolgeler, 2) Imar durumu ve iskan, 3) Tapu kaydi ve ipotek/haciz kontrolu, 4) Deprem yonetmeligine uyum, 5) Likidite (satabilme kolayligi), 6) Kira getirisi ve deger artis potansiyeli. Spekulasyona dayali fiyat artislarina girmeyin.",
+      "kategori": "Gayrimenkul"
+    },
+    {
+      "soru": "Arsa yatirimi kârli mi?",
+      "cevap": "Arsa yatirimi, imar gelismesi beklenen bolgelerde uzun vadede deger kazanir. Ancak: 1) Imar durumu belli olmayan arsalar risklidir, 2) Belediyenin nazim/uygulama planlarini inceleyin, 3) Imar parseline donusunce deger katlanir, 4) Bandrol/degiskenlik riski vardir. Kisa vadeli getiriden cok uzun vade icin uygundur.",
+      "kategori": "Gayrimenkul"
+    },
+    {
+      "soru": "Deprem riski emlak degerini nasil etkiler?",
+      "cevap": "Deprem riski yuksek bolgelerde emlak degeri duser, deprem yonetmeligine uygun yeni binalar daha degerli olur. Yapi denetimi belgeli, riskli bolge siniflamasinda zemin etudu yapilmis binalar daha güvenli ve degerlidir.",
+      "kategori": "Gayrimenkul"
+    },
+    {
+      "soru": "Emlak komisyonu orani ne kadardir?",
+      "cevap": "Emlak komisyonu genellikle satis bedelinin alici ve saticidan ayri ayri yuzde 2'si (toplam yuzde 4) olarak uygulanir. Kiralama islemlerinde bir aylik kira bedeli komisyon olarak talep edilir. Oranlar sozlesmeyle belirlenir.",
+      "kategori": "Gayrimenkul"
+    },
+    {
+      "soru": "Tapuda rayic ve beyan edilen deger farki nedir?",
+      "cevap": "Rayic, belediyenin gayrimenkul icin belirledigi piyasa degeridir. Tapu isleminde beyan edilen deger uzerinden harç hesaplanir. Beyan edilen deger rayicin altinda kalirsa tapu mudurlugu haricten deger tespiti isteyebilir ve harç farki cezali olarak tahsil edilir.",
+      "kategori": "Tapu"
+    },
+    {
+      "soru": "Noter satis sozlesmesi sart mi?",
+      "cevap": "Gayrimenkul satisinda noter satis sozlesmesi zorunlu degildir; tapu mudurlugunde devir yapilir. Ancak noter onayli satis vaadi sozlesmesi (ozellikle vadeli ve kat irtifakli satislarda) taraflari guvence altina alir.",
+      "kategori": "Tapu"
+    },
+    {
+      "soru": "Satis vaadi sozlesmesi nedir?",
+      "cevap": "Satis vaadi sozlesmesi, bir gayrimenkulun ileride belirlenen sartlarla satilmasina iliskin sozlesmedir. Noter tarafindan duzenlenir (resmi senet). Taraflardan birinin vazgecmesi durumunda mahkeme karariyla tescil istenebilir.",
+      "kategori": "Tapu"
+    },
+    {
+      "soru": "Iskansiz konut satin almak riskli mi?",
+      "cevap": "Iskansiz (yapi kullanim izni olmayan) konut satin almak risklidir: 1) Kat mulkiyeti tescillenmez, 2) Abonelikler alinamaz, 3) Imara aykiri olabilir, 4) Deprem guvenligi sartlari tam saglanmamis olabilir. Iskanli tapu alinmasi onerilir.",
+      "kategori": "Imar"
+    },
+    {
+      "soru": "Otopark, bahce gibi ortak alanlar satilabilir mi?",
+      "cevap": "Ortak alanlar (bahce, otopark, asansor, merdiven, havuz) bagimsiz bolum maliklerinin ortak mulkiyetindedir. Tek basina satilamaz veya ipotek edilemez. Kat mulkiyetinde bazi alanlar (depo, otopark) eklenti olarak bagimsiz bolume baglanabilir.",
+      "kategori": "Hukuk"
+    },
+    {
+      "soru": "Gayrimenkul alirken vergiler nelerdir?",
+      "cevap": "Gayrimenkul aliminda: 1) Tapu harci (%2 alici + %2 satici), 2) Yeni konutlarda KDV (metrekareye gore %1 veya %10), 3) Damga vergisi, 4) Dask (zorunlu deprem sigortasi), 5) Emlak vergisi (yillik, belediye). Eski konutta KDV yoktur.",
+      "kategori": "Tapu"
+    },
+    {
+      "soru": "Emlak vergisi oranlari nelerdir?",
+      "cevap": "Emlak vergisi yillik oranlar: Konutlarda binde 1, isyerlerinde binde 2, arsalarda binde 3, arazilerde binde 1. Buyuksehirlerde bu oranlar 2 kat uygulanir. Yeni binalarda 5 yil muafiyet olabilir. Vergi, belediye tarafindan rayic uzerinden tahsil edilir.",
+      "kategori": "Tapu"
+    },
+    {
+      "soru": "DASK (zorunlu deprem sigortasi) nedir?",
+      "cevap": "DASK, deprem sonucu olusan maddi zararlari karsilayan zorunlu deprem sigortasidir. Kat mulkiyetli bagimsiz bolumler ve isyerleri icin ZORUNLUDUR. 2024 teminati yaklasik 640.000 TL'dir. DASK olmadan tapu islemi ve abonelikler yapilamaz.",
+      "kategori": "Gayrimenkul"
+    },
+    {
+      "soru": "EKB (enerji kimlik belgesi) zorunlu mu?",
+      "cevap": "EKB, binanin enerji performansini A-G arasi siniflandiran belgedir. Satilik ve kiralik tum mevcut ve yeni binalar icin zorunludur. 10 yil gecerlidir. EKB olmadan satis/kiralama ilani verilemez.",
+      "kategori": "Gayrimenkul"
+    },
+    {
+      "soru": "Kooperatif konutu nedir?",
+      "cevap": "Kooperatif konutu, konut yapı kooperatifinin belirli kosullar altinda uyelerine insa ettirdigi konuttur. Riskler: Insaatin bitmemesi, anahtar teslim gecikmesi, tapunun gec cikmasi. Konut alirken kooperatifin mali durumu ve sureci incelenmelidir.",
+      "kategori": "Gayrimenkul"
+    },
+    {
+      "soru": "Gayrimenkul yatirim fonu nedir?",
+      "cevap": "GYF (Gayrimenkul Yatirim Fonu), yatirimcilardan toplanan parayla gayrimenkule veya gayrimenkul yatirim araclarina yatirim yapan portfoy yonetim sirketidir. Kucuk tutarlarla gayrimenkul piyasasina katilim saglar, likiditesi yuksektir.",
+      "kategori": "Finans"
+    },
+    {
+      "soru": "Konut kredisi nasil alinir?",
+      "cevap": "Konut kredisi icin: 1) Banka kredi skoru ve gelir belgesi ister, 2) Konutun degerleme raporu yapilir, 3) Kredi orani degerin belirli bir yuzdesiyle sinirlidir (LTV), 4) Ekspertiz + DASK + tapu harci masraflari eklenir, 5) Kredi taksiti gelirin belirli bir oranini (genelde %50) gecmemelidir.",
+      "kategori": "Finans"
+    },
+    {
+      "soru": "Kiraci haklari nelerdir?",
+      "cevap": "Kiraci haklari: 1) Yasal artis oraninin uzerinde zam yapilamaz, 2) Kiralanan evde oturma hakki sozlesme suresince korunur, 3) Ev sahibi hakli neden olmadan tahliye edemez, 4) Onarim ve bakim ev sahibine aittir (kunyede belirtilenler), 5) Depozito sozlesme bitiminde iade edilir.",
+      "kategori": "Hukuk"
+    },
+    {
+      "soru": "Ev sahibi haklari nelerdir?",
+      "cevap": "Ev sahibi haklari: 1) Kira bedelini tahsil etme, 2) Yasal artis uygulama, 3) Sozlesme suresi sonunda tahliye isteyebilme, 4) Kiraci evi amac disi kullanirsa veya bedel odemezse tahliye davasi acma, 5) Gerekli onarimlari yaptirma. Yukumluluk: Konutun oturulabilirligini saglamak.",
+      "kategori": "Hukuk"
+    },
+    {
+      "soru": "Turkiye'de yabancilar gayrimenkul alabilir mi?",
+      "cevap": "Yabancilar, karşılıklılik ilkesi ve kanuni sinirlamalar cercevesinde Turkiye'de gayrimenkul alabilir. Bazi bolgeler (askeri bolgeler) yasaklidir. 6302 sayili Kanun ile sinirlamalar genisletilmistir. Tapu islemleri ozel izin gerektirir.",
+      "kategori": "Hukuk"
+    },
+    {
+      "soru": "Turk vatandasligi icin gayrimenkul yatirimi sartlari nedir?",
+      "cevap": "Turk vatandasligi icin tapu kayitlarina gore en az 400.000 ABD dolari degerinde gayrimenkul edinimi ve bu gayrimenkulun 3 yil satilmayacagina dair tapu serhi istenir (2024 guncel limit). Basvuru Ticaret Bakanligi uzerinden yapilir.",
+      "kategori": "Hukuk"
+    },
+    {
+      "soru": "Gayrimenkul satisinda hangi belgeler gereklidir?",
+      "cevap": "Satis icin gerekenler: 1) Tapu senedi, 2) Kimlikler, 3) Vekalet varsa noter vekaletname, 4) Ipotek/haciz yoklugu icin tapu kayit ornegi, 5) DASK ve EKB (zorunlu), 6) Yapi kullanim izni (iskan) yeni binalarda, 7) Belediye borcu yoklugu (bazi durumlarda).",
+      "kategori": "Tapu"
+    },
+    {
+      "soru": "Villa, ciftlik ve zeytinlik arsa farklari nelerdir?",
+      "cevap": "Villa: Konut amaçli bagimsiz yapi (katta imar hukuku). Ciftlik: Tarim ve hayvancilik yapilan, genellikle konutlu tarim arazisi. Zeytinlik: Zeytin uretimi yapilan tarim arazisi; imar izni cok kisitlidir, ozel yasal koruma altindadir (3573 sayili Kanun). Arazi yatiriminda imar durumu ve siniflandirma kritik.",
+      "kategori": "Gayrimenkul"
+    },
+    {
+      "soru": "Zeytinlik arsa imara acilabilir mi?",
+      "cevap": "Zeytinlikler, 3573 sayili Zeytinciliğin Islahı ve Yabanilerin Asilamasi Hakkinda Kanun kapsaminda korunur. Zeytinlik alanlar kamu yarari olmadan imara acilamaz ve zeytin agaclari izinsiz kesilemez. Zeytinlik alanlarin imara acilmasi icin tarim disi kullanim izni gerekir.",
+      "kategori": "Gayrimenkul"
+    },
+    {
+      "soru": "Icra yoluyla gayrimenkul alinir mi?",
+      "cevap": "Icra yoluyla (harici) gayrimenkul satislarinda uygun fiyatli alim firsatlari olabilir. Ancak riskler: 1) Icindeki kiraci tahliye edilemeyebilir, 2) Ipotekler ve diger serhler satis sonrasinda cikabilir, 3) Haric satis oncesinde tapu kaydi ve icra dosyasi detaylica incelenmelidir.",
+      "kategori": "Hukuk"
+    },
+    {
+      "soru": "Gayrimenkulde tapu sicil kayitlari nasil sorgulanir?",
+      "cevap": "Tapu kayitlari Tapu ve Kadastro Genel Mudurlugu'nun 'Web-Tapu' sistemi veya e-devlet uzerinden sorgulanabilir. Ada/parsel, yuzolcumu, cins, kat/daire ve serhler (ipotek, haciz, serh) goruntulenir. Malik ve vekalet durumu detayli sorguda yer alir.",
+      "kategori": "Tapu"
+    },
+    {
+      "soru": "Kira geliri vergilendirmesi nasil olur?",
+      "cevap": "Konut kira geliri icin 2024'te istisna tutari uzeri gelir vergilendirilir. Isyeri kira gelirinde stopaj uygulanir. Kira gelirleri beyanname ile beyan edilir; gider yontemleri (gercek veya goturulen) secilebilir. Vergi dilimi gelire gore artar.",
+      "kategori": "Finans"
+    },
+    {
+      "soru": "Kira beyannamesi nasil verilir?",
+      "cevap": "Kira geliri beyannamesi her yil mart ayinda hazir beyan sistemi (e-devlet) uzerinden verilir. Konut istisnasi ve gider yontemi secilir. Beyan edilen kira gelirine yillik istisna tutarindan dusukse beyanname verilmez.",
+      "kategori": "Finans"
+    },
+    {
+      "soru": "Gayrimenkul icin ekspertiz raporu ne ise yarar?",
+      "cevap": "Ekspertiz raporu, gayrimenkulun piyasa degerini uzman bir degerleme sirketinin belgeledigini gosterir. Banka kredilerinde zorunludur. Raporda konum, yapi durumu, imar, deprem riski ve emsal degerler yer alir. Dogru fiyat icin alimdan once ekspertiz yaptirilir.",
+      "kategori": "Finans"
+    },
+    {
+      "soru": "Kat mulkiyetinde cati, asansor gibi ortak giderler nasil paylasilir?",
+      "cevap": "Ortak giderler (cati, asansor, merdiven, su tesisati) Kat Mulkiyeti Kanunu'na gore bagimsiz bolumlerin arsa payi oraninda paylasilir. Aidatlar kat malikleri kurulu karariyla belirlenir. Odenmeyen aidat icin icra takibi yapilabilir.",
+      "kategori": "Hukuk"
+    },
+    {
+      "soru": "Gayrimenkul alirken tapu mudurlugunde nelere dikkat edilir?",
+      "cevap": "Tapu isleminde: 1) Beyan edilen deger gercekci olsun (rayic altinda olmamasi), 2) Harç oranini (2+2) onceden hesaplayin, 3) Serhler (ipotek, haciz, serh) kontrol edilsin, 4) Kimlik ve vekalet dogrulansin, 5) Ipotekli alimda bankanin fek yazisi veya devir onayi olsun, 6) Randevu ve islem sonrası tapu imzalansin.",
+      "kategori": "Tapu"
+    }
+  ]
+}

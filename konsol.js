@@ -72,10 +72,16 @@ function eslesmeSkoru(kullaniciKelimeler, soruKelimeler) {
 /* ---------- Veri Yukleme ---------- */
 function veriYukle() {
   const oku = d => fs.readFileSync(path.join(VERI_KLASORU, d), 'utf-8');
-  const qa = JSON.parse(oku('soru-cevap-dataset.json')).dataset;
-  qa.forEach(k => k.kelimeler = icerikKelimeleri(k.soru));
+  const dosyalar = [
+    'soru-cevap-dataset.json',
+    'hasinder-platform-dataset.json',
+    'gumruk-dis-ticaret-dataset.json',
+    'gayrimenkul-hukuk-dataset.json'
+  ];
+  const tumQa = dosyalar.flatMap(d => JSON.parse(oku(d)).dataset || []);
+  tumQa.forEach(k => k.kelimeler = icerikKelimeleri(k.soru));
   return {
-    qa,
+    qa: tumQa,
     terimler: JSON.parse(oku('emlak-terimleri.json')).terimler,
     sehirler: JSON.parse(oku('sehir-bilgileri.json')).sehirler,
     prompt: oku('goodbuy-real-estate-prompt.md')

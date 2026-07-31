@@ -1,0 +1,244 @@
+{
+  "dataset": [
+    {
+      "soru": "4458 sayili Gumruk Kanunu nedir?",
+      "cevap": "4458 sayili Gumruk Kanunu, Turkiye'nin gumruk mevzuatinin ana kanunudur. 27.10.1999 tarihinde kabul edilmistir ve 01.02.2000'de yururluge girmistir. Esyanin gumruge giris, cikis, rejimler, vergiler ve cezalari duzenler. Gumruk Birligi mevzuatiyla uyumludur.",
+      "kategori": "Gumruk"
+    },
+    {
+      "soru": "Gumruk mevzuat hiyerarsisi nedir?",
+      "cevap": "Hiyerarsi: 1) Kanun (4458 sayili Gumruk Kanunu) - buyuk cerceve, 2) Yonetmelikler (Gumruk Yonetmeligi) - cerceveyi uygulamaya doker, 3) Tebligler ve genelgeler - guncel rehberler. Alt duzeydeki duzenleme ust duzeydeki ile celisemez. Mevzuat degisir; takip gerektirir.",
+      "kategori": "Gumruk"
+    },
+    {
+      "soru": "INCOTERMS nedir?",
+      "cevap": "INCOTERMS (International Commercial Terms), Uluslararasi Ticaret Odasi (ICC) tarafindan yayinlanan uluslararasi satis sozlesmelerindeki teslim ve masraf paylasim kurallaridir. INCOTERMS 2020 guncel surumudur ve 11 kural icerir.",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "soru": "INCOTERMS 2020 kac kural icerir?",
+      "cevap": "INCOTERMS 2020 toplam 11 kural icerir ve 2 buyuk gruba ayrilir: 1) Her tasima sekli icin uygun 7 kural (EXW, FCA, CPT, CIP, DAP, DPU, DDP), 2) Deniz ve ic su yolu tasimaciligi icin 4 kural (FAS, FOB, CFR, CIF).",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "soru": "EXW kurali nedir?",
+      "cevap": "EXW (Ex Works - Fabrika Teslimi): Satici esyayi kendi tesisinde (fabrika/depo) aliciya teslim eder. Alici tum masraflari, riskleri ve gumruk islemlerini ustlenir. Satici icin en dusuk yukumluluk, alici icin en yuksek riskli kuraldir.",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "soru": "FOB kurali nedir?",
+      "cevap": "FOB (Free On Board - Gemide Masrafsiz): Satici esyayi belirlenen limanda gemiye yuklenene kadar teslim eder. Esiyanin gemiye yuklendigi anda risk aliciya gecer. Sadece deniz ve ic su yolu tasimaciliginda kullanilir.",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "soru": "CIF kurali nedir?",
+      "cevap": "CIF (Cost, Insurance and Freight - Mal Bedeli, Sigorta ve Navlun): Satici esyanin maliyetini, hedef limana navlunu ve sigortasini odemekle yukumludur. Risk yukleme aninda aliciya gecer ama satici sigorta ve navlun odar. Sadece deniz tasimaciliginda kullanilir.",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "soru": "FCA kurali nedir?",
+      "cevap": "FCA (Free Carrier - Tasimaciya Masrafsiz): Satici esyayi belirlenen yerde (kendi tesisinde veya belirlenen noktada) tasimaciya teslim eder. Teslim aninda risk ve maliyet aliciya gecer. Her tasima sekli icin uygundur. INCOTERMS 2020'de sozlesme yuklemesi icin düzenleme yapilmistir.",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "soru": "DDP kurali nedir?",
+      "cevap": "DDP (Delivered Duty Paid - Gumruk Vergileri Odenmis Olarak Teslim): Satici esyayi hedef ulkedeki belirlenen noktaya gumruk vergileri dahil teslim eder. Satici icin en yuksek yukumluluk. Alici esyayi bosaltir ve risk uzerine alir.",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "soru": "DAP kurali nedir?",
+      "cevap": "DAP (Delivered at Place - Belirlenen Noktada Teslim): Satici esyayi varis ulkedeki belirlenen noktada, bosaltilmis halde teslim eder. Ihracat islemleri saticiya, ithalat gumruk islemleri ve vergiler aliciya aittir. INCOTERMS 2020'de DAT yerine DPU kullanilir.",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "soru": "FAS, CFR, CIP, CPT, DPU kurallari nelerdir?",
+      "cevap": "FAS (Free Alongside Ship): Gemi yaninda teslim, satici riski rıhtimda sona erer. CFR (Cost and Freight): Navlun saticida ama risk yuklemede aliciya gecer. CIP (Carriage and Insurance Paid): Navlun ve sigorta saticida. CPT (Carriage Paid To): Navlun saticida, sigorta alicida. DPU (Delivered at Place Unloaded): Belirlenen yerde bosaltilmis teslim (DAT'in INCOTERMS 2020'deki yeni adi).",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "soru": "Akreditif (L/C) nedir?",
+      "cevap": "L/C (Letter of Credit - Akreditif): Bankanin, alici adina saticiya belirli sartlarin yerine getirilmesi karsiliginda odeme garantisi verdigi dis ticaret odeme sekli. Banka garantisi verir; satici icin en guvenli odeme yontemidir. Belgeler bankaya sunuldugunda odeme yapilir.",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "soru": "T/T odeme sekli nedir?",
+      "cevap": "T/T (Telegraphic Transfer - Havale): Alicinin bankasi uzerinden saticinin bankasina havale ile odeme yapilmasidir. En basit odeme sekli ama banka garantisi icermez. Pesin (peşin) ve vadeli olmak uzere iki sekli vardir.",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "soru": "D/P odeme sekli nedir?",
+      "cevap": "D/P (Documents against Payment - Belge Karsiligi Odeme): Saticinin bankasi belgeleri aliciya, odeme yapildiktan sonra teslim eder. Alici belgeleri almadan odemek zorundadir. Orta riskli bir odeme yontemidir.",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "soru": "D/A odeme sekli nedir?",
+      "cevap": "D/A (Documents against Acceptance - Belge Karsiligi Kabul): Saticinin bankasi belgeleri aliciya, alici poliçeyi kabul ettikten sonra teslim eder. Alici vadede odeme yapar. D/P'ye gore alici lehine daha riskli bir yontemdir.",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "soru": "Gumruk beyannamesi nedir?",
+      "cevap": "Gumruk beyannamesi, esyanin gumruk rejimine girmesi icin gumruk idaresine verilen resmi beyandir. Esiyanin turu, degeri, miktari, mensei ve rejimi beyan edilir. Yanlis veya eksik beyan cezaya yol acar. Beyanname YBS (Yeni Bilgisayarlı Transit Sistemi) uzerinden elektronik doldurulur.",
+      "kategori": "Gumruk"
+    },
+    {
+      "soru": "Gumruk beyannamesi kac nusha duzenlenir?",
+      "cevap": "Gumruk beyannamesi (SAD - Tek Idari Belge) 8 nusha olarak duzenlenir. 1-3: ihracat islemleri, 4: ithalat, 5: transit, 6: ulusal kullanim, 7: sigorta/istatistik, 8: giris/cikis bildirimi. Beyanname mali musavirlik veya gumruk musaviri tarafindan doldurulur.",
+      "kategori": "Gumruk"
+    },
+    {
+      "soru": "Risk analizi nedir?",
+      "cevap": "Risk analizi, gumruk idaresinin beyan edilen esyayi kontrole tabi tutma kararini belirleyen sistemdir. Beyannameye renk kanallarindan biri verilir: Yesil (muayenesiz), sari (belge kontrolu), mavi (bosaltma oncesi muayene), kirmizi (fiziki muayene). Dogru beyan hizli gecer.",
+      "kategori": "Gumruk"
+    },
+    {
+      "soru": "Gumruk risk analizi renkleri nelerdir?",
+      "cevap": "4 renk vardir: Yesil - esya muayenesiz gecer (en hizli), Sari - belge kontrolu yapilir, Mavi - bosaltma oncesi muayene, Kirmizi - fiziki muayene yapilir (en kapsamli). Renk, risk profiline gore otomatik belirlenir.",
+      "kategori": "Gumruk"
+    },
+    {
+      "soru": "AEO statüsü kimlere verilir?",
+      "cevap": "AEO statüsü, gumruk mevzuatina uyumlu, guvenilir ve finansal olarak saglam firmalara verilir. Basvuru kriterleri: Gumruk ceza gecmisi, guvenlik ve ic kontrol sartlari, mali yeterlilik. AEO hem Turkiye hem AB arasinda guvenilirlik demektir.",
+      "kategori": "Gumruk"
+    },
+    {
+      "soru": "Yetkilendirilmis Yukumlu (YÜ) nedir?",
+      "cevap": "Yetkilendirilmis Yukumlu, AEO'nun Turkiye'deki adidir. Gumruk islemlerinde kolayliklar saglar: Azaltilmis muayene, oncelikli islem, basitlestirilmis islemler. Basvuru Ticaret Bakanligi'na yapilir ve belirli sartlarin saglanmasi gerekir.",
+      "kategori": "Gumruk"
+    },
+    {
+      "soru": "Gumruk vergisi turleri nelerdir?",
+      "cevap": "Ithalatta odenen gumruk vergileri: 1) Ithalat vergisi (gumruk vergisi), 2) Katma Deger Vergisi (KDV), 3) OTV (ozel tuketim vergisi - belirli urunlerde), 4) Damping vergisi (anti-damping), 5) Telafi edici vergi, 6) Ek mali yukumlulukler. Vergiler kiymet, GTIP ve mensee gore hesaplanir.",
+      "kategori": "Gumruk"
+    },
+    {
+      "soru": "Gumruk kiyameti nedir?",
+      "cevap": "Gumruk kiyameti (kiymet), ithal esyanin gumruk vergilerinin hesaplanmasinda esas alinan degeridir. Ana yontem islem kiyametidir: Fiilen odenen veya odenecek fiyat + navlun + sigorta (CIF). Yanlis kiyamet beyani vergi ziya cezasina yol acar.",
+      "kategori": "Gumruk"
+    },
+    {
+      "soru": "Mense (menşe) nedir?",
+      "cevap": "Mense, esyanin ekonomik anlamda uretildigi veya islendigi ulkeyi belirtir. Tercihli mense (anlasmali ulkelerde indirimli vergi) ve tercihli olmayan mense (islemlerin geneli) olarak ikiye ayrilir. Mense kurali ihlali ek vergi veya cezaya yol acar.",
+      "kategori": "Gumruk"
+    },
+    {
+      "soru": "Mikro ihracat nedir?",
+      "cevap": "Mikro ihracat, degeri belirlenen sinirin altindaki esyanin ETGB (E-Ticaret Gumruk Beyannamesi) ile ihrac edilmesidir. Kucuk e-ticaret satislari icin basitlestirilmis prosedur saglar. Iyi bir belgelendirme ve gumruk iletiisimi gerektirir.",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "soru": "E-ihracat nasil yapilir?",
+      "cevap": "E-ihracat, dijital platformlar (e-ticaret siteleri, pazaryerleri) uzerinden yapilan ihracattir. Mikro ihracat limitleri dahilinde ETGB ile basitlestirilmis beyan kullanilir. Hizli posta/kargo gonderileri ozel mevzuata tabidir.",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "soru": "Dahilde isleme izni nasil alinir?",
+      "cevap": "Dahilde isleme rejimi izni, Ticaret Bakanligi'na basvuru ile alinir. Basvuruda kapsam (esya listesi), fire oranlari, taahhut hesabi ve telafi edici urunler belirtilir. Izin sonrasinda ithal edilen girdiler islenir ve belirlenen surede yeniden ihrac edilir.",
+      "kategori": "Gumruk"
+    },
+    {
+      "soru": "Fire orani nedir?",
+      "cevap": "Fire orani, dahilde isleme rejiminde girdinin islenmesi sirasinda kaybedilen veya artiga donen kismin oranidir. Taahhut hesabinda belirlenir ve kapanista kontrol edilir. Yukumlulukten kapanis ve fire yonetimiyle cikilir.",
+      "kategori": "Gumruk"
+    },
+    {
+      "soru": "T1 ve T2 transit belgeleri nedir?",
+      "cevap": "T1, Gumruk Birligi disindaki esya icin transit belgesidir (vergi riski vardir). T2, Gumruk Birligi icindeki esya icin transit belgesidir (serbest dolasim). NCTS elektronik sistemi uzerinden duzenlenir ve gumruk idareleri arasinda esyanin takip edilmesini saglar.",
+      "kategori": "Gumruk"
+    },
+    {
+      "soru": "TIR Karnesi ile transit farki nedir?",
+      "cevap": "TIR Karnesi, yol ile uluslararasi esya tasimaciliginda kullanilan transit belgesidir (karayolu agirlikli). T1/T2 NCTS kapsamindaki gumruk transit belgeleridir. TIR, gecilen ulkelerin gumruklerinde depozito olmadan tasima imkani saglar.",
+      "kategori": "Gumruk"
+    },
+    {
+      "soru": "Vergi ziyai cezasi nedir?",
+      "cevap": "Vergi ziyai, beyan eksikligi veya hatali islem nedeniyle devletin vergi kaybina ugramasidir. Gumruk Kanunu'na gore vergi ziyai uc katina kadar ceza uygulanir. Kacakcilik (5607 sayili Kanun) ise daha agir yaptirimlar ve hapis cezasi icerir.",
+      "kategori": "Gumruk"
+    },
+    {
+      "soru": "Usulsuzluk cezasi nedir?",
+      "cevap": "Usulsuzluk, mevzuata aykiri davranis olup vergi kaybina yol acmayan durumlardir (gec beyan, eksik belge gibi). Vergi ziyaından farkli olarak daha hafif idari para cezalari uygulanir.",
+      "kategori": "Gumruk"
+    },
+    {
+      "soru": "Gumruk Kanunu idari para cezalari nelerdir?",
+      "cevap": "Gumruk Kanunu'nun 241. maddesinde idari para cezalari duzenlenir: Beyanname verme yukumlulugunun ihlali, eksik/yanlis beyan, belge ve bilgi eksiklikleri icin para cezalari uygulanir. Cezalar beyan edilen kiyamet uzerinden hesaplanir.",
+      "kategori": "Gumruk"
+    },
+    {
+      "soru": "5326 sayili Kanun nedir?",
+      "cevap": "5326 sayili Kabahatler Kanunu, idari para cezalari ve uzlasma mekanizmasini duzenleyen kanundur. Gumruk cezalari dahil bazi idari cezalarda uzlasma basvurusu, cezanin belirli bir oranda indirimli odeunmesini saglar.",
+      "kategori": "Gumruk"
+    },
+    {
+      "soru": "Kacakcilik sucunun unsurlari nelerdir?",
+      "cevap": "5607 sayili Kanun'a gore kacakcilik sucu unsurlari: Gumruk mevzuatina aykiri esya ithali veya ihraci, kacak esyanin ticareti, nakli ve depolanmasi. Kasit aranir ve kacak esyanin kiymeti cezayi belirler.",
+      "kategori": "Gumruk"
+    },
+    {
+      "soru": "Turquality nedir?",
+      "cevap": "Turquality, Turkiye'nin ilk marka ve ihracat gelistirme programidir. Markali ihracati tesvik eder ve katilimci firmalara danismanlik, egitim, tanitim ve yurtdisi acilim destekleri saglar. Ticaret Bakanligi tarafindan yonetilir.",
+      "kategori": "Tesvik"
+    },
+    {
+      "soru": "Vergi iadesi nedir?",
+      "cevap": "Vergi iadesi, belirli sartlari saglayan mükelleflerin odedikleri vergilerin bir kisminin iade edilmesidir. Dis ticarette KDV iadesi en yaygin uygulamadir: Ihracatin gerceklesmesi durumunda yuklenilen KDV iade edilir.",
+      "kategori": "Tesvik"
+    },
+    {
+      "soru": "CRM nedir?",
+      "cevap": "CRM (Customer Relationship Management - Musteri Iliskileri Yonetimi), musteri verilerinin toplanip yonetildigi, satis surecinin takip edildigi ve musterilerle iliskilerin guclendirildigi sistemdir. Dis ticarette potansiyel musteri takibi ve tekrar satislar icin kritiktir.",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "soru": "Yurtdisi musteri nasil bulunur?",
+      "cevap": "Yurtdisi musteri bulma kanallari: 1) B2B pazaryerleri (Alibaba, Kompass, Europages), 2) Fuarlar ve ticaret heyetleri, 3) Ticaret Musavirlikleri verileri, 4) Sektorel firmasini dernekleri, 5) Linkedin ve sosyal medya. Hedef pazar arastirmasi once yapilmalidir.",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "soru": "Dis ticarette odeme riskleri nelerdir?",
+      "cevap": "Dis ticarette riskler: Ulke riski (siyasi, ekonomik), ticari risk (alinanin odememesi), kur riski, tasima riski, mevzuat riski. Risk azaltma yontemleri: Akreditif kullanimi, sigorta, eximbank garantileri, on odeme ve dogru INCOTERMS secimi.",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "soru": "Lojistik turleri nelerdir?",
+      "cevap": "Lojistik turleri: 1) Deniz tasimaciligi (konteyner, RO-RO), 2) Hava tasimaciligi (hizli ama maliyetli), 3) Karayolu tasimaciligi (transit, TIR), 4) Demiryolu tasimaciligi, 5) Multimodal (cok modlu) tasimacilik. Secim; maliyet, zaman ve esya turune gore yapilir.",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "soru": "Deniz konteyner tipleri nelerdir?",
+      "cevap": "Yaygin konteyner tipleri: 20 ft standart (TEU), 40 ft standart (FEU), 40 ft High Cube (yuksek hacim), 45 ft High Cube, reefer (soguk zinzir), open top (ustu acik), flat rack (panel). Her urun grubu icin uygun konteyner secilmelidir.",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "soru": "Incoterms 2020 degisiklikleri nelerdir?",
+      "cevap": "INCOTERMS 2020 degisiklikleri: 1) DAT kaldirildi, DPU (Delivered at Place Unloaded) getirildi, 2) FCA'da sozlesme yuklemesi icin yeni duzenleme, 3) CIF ve CIP sigorta kapsami farklilastirildi (CIP'te Institute Cargo Clauses A), 4) Guvenlik bilgileri ve tasima masraflarina iliskin netlik.",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "soru": "Gumruk musaviri ne is yapar?",
+      "cevap": "Gumruk musaviri, firmalarin ithalat/ihracat islemlerinde gumruk beyannamelerini hazirlayan, gumruk islemlerini takip eden ve mevzuat konusunda danismanlik veren uzmandir. YBS uzerinden beyanname girisi yapabilir ve firmayi gumruk idaresinde temsil eder.",
+      "kategori": "Gumruk"
+    },
+    {
+      "soru": "Gumruk muayene sekilleri nelerdir?",
+      "cevap": "Muayene sekilleri: 1) Belge muayenesi (evrak kontrolu), 2) Fiziki muayene (esyanin yerinde kontrolu), 3) Kismi muayene, 4) Basitlestirilmis muayene, 5) Yasak madde/kacakcilik muayenesi. Muayene sekli risk analizi rengine gore belirlenir.",
+      "kategori": "Gumruk"
+    },
+    {
+      "soru": "Ticaret Bakanligi dis ticarette ne is yapar?",
+      "cevap": "Ticaret Bakanligi, dis ticaret politikalari ve gumruk islemlerini yonetir: Ihracat ve ithalat mevzuati, gumruk idareleri, tesvikler, Eximbank koordinasyonu, TIR ve serbest bolgeler, ticaret politikasi onlemleri (anti-damping, korunma).",
+      "kategori": "Gumruk"
+    },
+    {
+      "soru": "Damping nedir?",
+      "cevap": "Damping, bir ulkenin urunlerini normal degerin altinda fiyatla ihrac etmesidir. Ithalatci ulke anti-damping vergisi uygulayarak yerli uretimi korur. Anti-damping sorusturmasi Ticaret Bakanligi tarafindan yurutilur.",
+      "kategori": "Dis Ticaret"
+    },
+    {
+      "soru": "Dis ticaret sozlesmesi hazirlarken nelere dikkat edilir?",
+      "cevap": "Dis ticaret sozlesmesinde: 1) INCOTERMS kurali, 2) Odeme sekli (L/C, T/T, D/P, D/A), 3) Teslim suresi ve yeri, 4) Miktar ve nitelik (GTIP uyumu), 5) Uyusmazlik cozumu (hakem, mahkeme), 6) Sigorta ve tasima sorumlulugu, 7) Ceza ve fesih kosullari net belirtilmelidir.",
+      "kategori": "Dis Ticaret"
+    }
+  ]
+}
