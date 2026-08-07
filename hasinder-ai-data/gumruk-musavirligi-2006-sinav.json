@@ -1,0 +1,1117 @@
+{
+  "dataset": [
+    {
+      "soru": "“Gümrük mevzuatının uygulanmasını sağlamak",
+      "cevap": "Doğru cevap: D) ",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {},
+      "dogruCevap": "D",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi 'menşe ispat belgesi”",
+      "cevap": "Doğru cevap: D) Kumanya listesi değildir?",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "C": "CIV",
+        "D": "Kumanya listesi değildir?"
+      },
+      "dogruCevap": "D",
+      "dogruCevapMetni": "Kumanya listesi değildir?"
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi özet beyan yerine veya Türkiye'deki ikametleri sırasında geti- geçen belge değildir? Tecekleri eşya ve taşıtları",
+      "cevap": "Doğru cevap: D) ATA Karnesi",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "C": "TIR Karnesi ciliklerinin binaları için inşaat malzemesi",
+        "A": "Serbest bölge işlem formu çantaları",
+        "B": "CIM",
+        "D": "ATA Karnesi"
+      },
+      "dogruCevap": "D",
+      "dogruCevapMetni": "ATA Karnesi"
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi beyanın yapılma doğrudur? şekillerinden biri değildir? l- Muayene neticesinde beyannamede yazılı olmayan eşyaya rastlanılırsa durum bir tuta- A bent rada nakla tespit olunarak idare amirine bildirilir B AE BEYAN 11- Beyan ile muayene sonucu bulunan vergi ) Sözlü beyan NE farkı 9» 3'ü geçerse bütün kapılar açılır.",
+      "cevap": "Doğru cevap: B) ",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "D": "Bilgisayar veri işleme tekniği yoluyla beyan lll- Beyan ile muayene sonucu bulunan vergi . iğ - farkı o 5'i geçerse durum bir tutanakla tespit"
+      },
+      "dogruCevap": "B",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "Gümrük beyannamesinin 'rejim kodu' kutusu- olunarak idare amirine bildirilir. nun doldurulması açısından *5' numaralı kod aşağıdakilerden hangisini ifade etmektedir?",
+      "cevap": "Doğru cevap: C) ",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "A": "Kesin ihracat",
+        "D": "ll ve lll",
+        "B": "Kesin ithalat"
+      },
+      "dogruCevap": "C",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "Gümrük beyannamesinin 'rejim' kutusunun doldurulması açısından 3158 kodu aşağıdaki-",
+      "cevap": "Doğru cevap: B) İşletici veya kullanıcıdan yurt içi kullanıma giren eşyanın yeniden",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "A": "Beyan sahibinden kapsamında serbest dolaşım ile eş zamanlı",
+        "B": "İşletici veya kullanıcıdan yurt içi kullanıma giren eşyanın yeniden",
+        "C": "Yükümlüden İhracatı",
+        "D": "Temsilciden öz"
+      },
+      "dogruCevap": "B",
+      "dogruCevapMetni": "İşletici veya kullanıcıdan yurt içi kullanıma giren eşyanın yeniden"
+    },
+    {
+      "soru": "pahilde İşleme Rejimi mevzuatı hükümleri çerçe- aşağıdakilerden hangisidir? vesinde, aşağıda belirtilen işlemlerin hangisi ile Acatğasü",
+      "cevap": "Doğru cevap: A) Türkiye'de üretilen ve ihraç edilecek ayakka-",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "B": "e işareti ilgili olarak gümrük idarelerince Dahilde İşleme ilmesi mümkün bul dır?",
+        "C": "E işareti",
+        "D": "CE işareti İzninin verilmesi mümkün bulunmamaktadır\" s Ae",
+        "A": "Türkiye'de üretilen ve ihraç edilecek ayakka-"
+      },
+      "dogruCevap": "A",
+      "dogruCevapMetni": "Türkiye'de üretilen ve ihraç edilecek ayakka-"
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi gümrük beyannamesi",
+      "cevap": "Doğru cevap: A) CIM",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "C": "Eşyanın gümrüğe sunulması yerine geçen belgedir?",
+        "D": "Gümrük beyanı",
+        "A": "CIM",
+        "B": "Konşimento"
+      },
+      "dogruCevap": "A",
+      "dogruCevapMetni": "CIM"
+    },
+    {
+      "soru": "Aşağıdaki eşyadan hangisi muayeneye tabi",
+      "cevap": "Doğru cevap: A) Hızlı kargo taşımacılığı yoluyla gelen eşya",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "A": "Hızlı kargo taşımacılığı yoluyla gelen eşya",
+        "B": "Yabancı devlet başkanları ve aileleri efradı ile refakatlerinde memur olanların getirdikleri",
+        "D": "Form A"
+      },
+      "dogruCevap": "A",
+      "dogruCevapMetni": "Hızlı kargo taşımacılığı yoluyla gelen eşya"
+    },
+    {
+      "soru": "Muayene ile ilgili aşağıdakilerden hangisi",
+      "cevap": "Doğru cevap: C) ",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {},
+      "dogruCevap": "C",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi şartlı muafiyet düzen- lemesi değildir?",
+      "cevap": "Doğru cevap: D) ",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {},
+      "dogruCevap": "D",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "12. soru (PDF OCR ile tam çıkarılamadı)",
+      "cevap": "Doğru cevap: B",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {},
+      "dogruCevap": "B",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi Gümrük Kontrolü Altın- |",
+      "cevap": "Doğru cevap: A) ",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {},
+      "dogruCevap": "A",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "Türkiye Gümrük Bölgesine boş olarak gelen Türk limanları arasındaki yük boşaltma veya yükünü boşalttıktan sonra yurt dışına çıka- amaçlı seferleri, yurt dışı seferin devamı cak olan ticari kullanıma mahsus kara taşıtları sayılır. (dolu veya boş otobüsler dahil)” için düzenle-",
+      "cevap": "Doğru cevap: A) Taşıt giriş çıkış formu Ma giriş rejimi hükümleri uygulanır.",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "D": "Serbest dolaşımda bulunmayan yakıt ve nen belge aşağıdakilerden hangisidir? kumanyanın, gemilerden indirilerek ithal edilmek istenilmesi hâlinde, serbest dolaşı-",
+        "A": "Taşıt giriş çıkış formu Ma giriş rejimi hükümleri uygulanır.",
+        "B": "Triptik karnesi"
+      },
+      "dogruCevap": "A",
+      "dogruCevapMetni": "Taşıt giriş çıkış formu Ma giriş rejimi hükümleri uygulanır."
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi gümrük yükümlülüğü- nü sona erdiren hâllerden değildir? A)80 B)iâ6: EET YBU",
+      "cevap": "Doğru cevap: C) ",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {},
+      "dogruCevap": "C",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "Posta gümrük işlemleri ile ilgili olarak aşağıda-",
+      "cevap": "Doğru cevap: D) Müsteşarlığa intikal eden itirazlar kırk beş",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "B": "Ticari nitelikteki eşya, sahipleri tarafından gün içinde karara bağlanır. beyanname ile beyan olunur.",
+        "A": "Dahilde işleme veya geçici ithalat rejimlerin-",
+        "C": "Gümrük başmüdürlüklerine intikal eden iti- den faydalanmak üzere posta yolu ile gelen razlar otuz gün içinde karara bağlanır. eşya için ilgili rejim hükümleri uygulanır.",
+        "D": "Müsteşarlığa intikal eden itirazlar kırk beş"
+      },
+      "dogruCevap": "D",
+      "dogruCevapMetni": "Müsteşarlığa intikal eden itirazlar kırk beş"
+    },
+    {
+      "soru": "Yakıt ve kumanyalara ilişkin gümrük işlemleri da İşleme Rejiminin Dahilde İşleme Rejiminden açısından aşağıdakilerden hangisi yanlıştır? farklılığını belirleyen etkenlerden biri değildir?",
+      "cevap": "Doğru cevap: C) Türk bandıralı gemilerden düzenli yurt dışı Mrs Tal . seferli olanlarının, yabancı limandan sonra",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "A": "İthal eşyası için teminat uygulaması yoktur. cat hükmünde deniz ve hava taşıtlarına",
+        "B": "Serbest dolaşımda bulunmayan yakıt ve",
+        "C": "Türk bandıralı gemilerden düzenli yurt dışı Mrs Tal . seferli olanlarının, yabancı limandan sonra",
+        "D": "Eş değer eşya uygulaması yoktur."
+      },
+      "dogruCevap": "C",
+      "dogruCevapMetni": "Türk bandıralı gemilerden düzenli yurt dışı Mrs Tal . seferli olanlarının, yabancı limandan sonra"
+    },
+    {
+      "soru": "Gümrük Müsteşarlığına intikal eden düzeltme",
+      "cevap": "Doğru cevap: B) ",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "D": "Yabancı taşıtlar için geçici giriş karnesi talebine ilişkin itirazların karara bağlanarak ilgili kişiye tebliğ edilme süresi kaç gündür?"
+      },
+      "dogruCevap": "B",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi yanlıştır?",
+      "cevap": "Doğru cevap: A) ",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "B": "Vergilerin kaldırılmasına karar verilmesi Hoş n iha tRğZ",
+        "C": "Vergilerin geri verilmesine karar verilmesi a En Tae ra LR Yararli ve",
+        "D": "Gümrük beyannamesinin iptal edilmesi cezalara karşı on beş gün içinde itiraz edebi- Ber ARR . lirler."
+      },
+      "dogruCevap": "A",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "Türkiye Gümrük Bölgesi içinde transit hâlindeki en Douane'ları beyanname addolunarak iş- eşyanın beklenmeyen hâller nedeniyle telef lem yapılır. veya kaybı hâlinde söz konusu telef veya kaybın",
+      "cevap": "Doğru cevap: C) Telef veya kayıp herkesçe bilinen ve duyulan başka olaylar yüzünden olmuşsa o yere en yakın Gümrük ve Muhafaza Başmüdürü tara- fından verilecek belge ile kanıtlanır.",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "D": "Trafik kazaları, trafik kaza raporuna göre ve en yakın gümrük idaresi tarafından yapılan tespit sonucunda gümrük idare amirinin vereceği belge ile kanıtlanır. dü;",
+        "A": "Söz konusu telef ve kayıp, idarenin de taraf olarak bulunduğu mahkeme kararı ile kanıt- lanır,",
+        "B": "Suçüstü şeklindeki hırsızlıklar, hazırlık tahki- katı üzerine Cumhuriyet savcılığınca verilen belge ile kanıtlanır.",
+        "C": "Telef veya kayıp herkesçe bilinen ve duyulan başka olaylar yüzünden olmuşsa o yere en yakın Gümrük ve Muhafaza Başmüdürü tara- fından verilecek belge ile kanıtlanır."
+      },
+      "dogruCevap": "C",
+      "dogruCevapMetni": "Telef veya kayıp herkesçe bilinen ve duyulan başka olaylar yüzünden olmuşsa o yere en yakın Gümrük ve Muhafaza Başmüdürü tara- fından verilecek belge ile kanıtlanır."
+    },
+    {
+      "soru": "Transit rejimi kapsamında taşınan eşya için",
+      "cevap": "Doğru cevap: B) ",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {},
+      "dogruCevap": "B",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi transit rejimi kapsa- idari belgeyle beyan uygulaması ile ilgili olarak mında taşınan eşyayı varış veya çıkış gümrük aşağıdakilerden hangisi yanlıştır? idaresine sağlam ve noksansız olarak sunmakla yükümlü değildir?",
+      "cevap": "Doğru cevap: B) Aynı gümrük idaresinden sürekli ve periyodik eşyayı gönderen satıcı olarak gemilere kumanya, yağ, yakıt ve diğer",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "A": "Transit rejimi hak sahibi olan kişiler edenlerin bu yöndeki talebi kabul edilir.",
+        "B": "Aynı gümrük idaresinden sürekli ve periyodik eşyayı gönderen satıcı olarak gemilere kumanya, yağ, yakıt ve diğer",
+        "C": "İhracat rejiminde beyanname yerine ticari ve eşyayı kabul eden taşıyıcı idari belgeyle beyan uygulamasından yarar- lanma talebi değerlendirilirken, Gümrük",
+        "D": "Transit rejimine göre taşındığını bilerek"
+      },
+      "dogruCevap": "B",
+      "dogruCevapMetni": "Aynı gümrük idaresinden sürekli ve periyodik eşyayı gönderen satıcı olarak gemilere kumanya, yağ, yakıt ve diğer"
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi doğrudur? Yönetmeliği'nin 136 ve 137'nci maddelerinde yer alan genel ve özel koşullar aranır.",
+      "cevap": "Doğru cevap: D) Bu usulle gerçekleşen ihracata ilişkin ticari süresi, belge düzenleme tarihi itibariyle üç veya idari belgede; ihracat konusu eşyanın yıldır. teşhisini mümkün kılacak bütün bilgilerin ve",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "A": "Onaylanmış Kişi Statü Belgesinin geçerlilik",
+        "D": "Bu usulle gerçekleşen ihracata ilişkin ticari süresi, belge düzenleme tarihi itibariyle üç veya idari belgede; ihracat konusu eşyanın yıldır. teşhisini mümkün kılacak bütün bilgilerin ve",
+        "B": "A ve B Sınıfı Onaylanmış Kişi Statü Belge- “Basitleştirilmiş İhracat” ifadesinin yer sine sahip olanlar, Gümrük Yönetmeliğinin alması gerekir. 207'nci maddesi çerçevesinde “basitleştiril-"
+      },
+      "dogruCevap": "D",
+      "dogruCevapMetni": "Bu usulle gerçekleşen ihracata ilişkin ticari süresi, belge düzenleme tarihi itibariyle üç veya idari belgede; ihracat konusu eşyanın yıldır. teşhisini mümkün kılacak bütün bilgilerin ve"
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi Onaylanmış Kişi verilmesi gereken teminat ile ilgili olarak aşağı- Statüsüne sahip olmak için aranılan imalatçı dakilerden hangisi yanlıştır? olma koşulunun istisnalarından birisi değildir?",
+      "cevap": "Doğru cevap: A) Sektörel dış ticaret şirketi olması transitte aranmaz.",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "A": "Sektörel dış ticaret şirketi olması transitte aranmaz.",
+        "B": "Boru hattı ile yapılan taşımalarda teminat",
+        "C": "Sahip veya acenteleri adına tescil edilmiş rından aralarında vasıtalı veya vasıtasız bulunan ve düzenli sefer yapmakta olan şirket ilişkisi bulunan aynı gruba ait imalatçı altmış rüsum tonilatodan fazla deniz taşıtla- firmaların dış ticaret işlemlerini gerçekleş- rıyla yapılan taşımalarda teminat aranmaz. tiren yine bu gruba ait olan dış ticaret veya",
+        "D": "Her türlü eşyanın demir yolu ile taşınmasında pazarlama şirketi olması teminat aranmaz."
+      },
+      "dogruCevap": "A",
+      "dogruCevapMetni": "Sektörel dış ticaret şirketi olması transitte aranmaz."
+    },
+    {
+      "soru": "İhracat rejiminde beyanname yerine ticari ve",
+      "cevap": "Doğru cevap: C) ",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {},
+      "dogruCevap": "C",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "A Sınıfı Onaylanmış Kişi Statü Belgesi sahibi mektedirler. olabilmek için aranılan koşullar ile ilgili olarak",
+      "cevap": "Doğru cevap: D) İmalatçı olanlar için başvuru tarihinden geriye dönük bir ay içinde en az 200işçi istihdam ediyor olması 4",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "C": "Dış Ticaret Sermaye şirketi olması",
+        "A": "Bir önceki takvim yılı veya başvuru yılı içinde tedirler. asgari 25 milyon FOB/ABD Doları kıyrnetinde",
+        "D": "İmalatçı olanlar için başvuru tarihinden geriye dönük bir ay içinde en az 200işçi istihdam ediyor olması 4",
+        "B": "Bir önceki takvim yılı veya başvuru yılı içinde lanmış Kişi Statü Belgesine sahip olanlar gerçekleştirilen ithalat ve ihracat toplamının yararlanabilmektedirler. asgari 100 milyon ABD Doları kıymetiride olması"
+      },
+      "dogruCevap": "D",
+      "dogruCevapMetni": "İmalatçı olanlar için başvuru tarihinden geriye dönük bir ay içinde en az 200işçi istihdam ediyor olması 4"
+    },
+    {
+      "soru": "Gerçek kişiler tarafından gümrük vergisinden",
+      "cevap": "Doğru cevap: A) ",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {},
+      "dogruCevap": "A",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "Kanuni ikametgâhını Türkiye'ye nakleden gerçek",
+      "cevap": "Doğru cevap: B) ",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "D": "Basitleştirilmiş usule göre yapılan işleme kişilere ait kullanılmış motorlu veya motorsuz ilişkin tamamlayıcı beyanın, üç ay içinde özel kara nakil vasıtalarının ithali koşulları ile verilmesi zorunludur. ilgili olarak aşağıdakilerden hangisi doğrudur?"
+      },
+      "dogruCevap": "B",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "Türkiye Gümrük Bölgesi dışında yerleşik kişi- aynı olan ve aynı ülkede üretilmiş eşya lerin ölümü ile Türkiye'de ikamet eden veya",
+      "cevap": "Doğru cevap: D) Muafiyet, mücbir sebepler saklı kalmak kay- dıyla, veraset ilamı tarihinden itibaren 6 ay içinde tek seferde veya aynı süre içinde birden fazla partide getirilen eşya için tanınır. B",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "B": "Motorlu ticari araçlar için bu kapsamda mua-",
+        "C": "Ham madde stokları ve mamul veya yarıma- özellik ve unsurları bulunan ve aynı ül kede mul ürünler için bu kapsamda muafiyet üretilmiş eşya uygulanmaz.",
+        "A": "Alkol ürünleri için bu kapsamda muafiyet Ayn ikmüe HEDE eyl ANNAN Ve uygulanmaz. A ren Li KELa iz",
+        "D": "Muafiyet, mücbir sebepler saklı kalmak kay- dıyla, veraset ilamı tarihinden itibaren 6 ay içinde tek seferde veya aynı süre içinde birden fazla partide getirilen eşya için tanınır. B"
+      },
+      "dogruCevap": "D",
+      "dogruCevapMetni": "Muafiyet, mücbir sebepler saklı kalmak kay- dıyla, veraset ilamı tarihinden itibaren 6 ay içinde tek seferde veya aynı süre içinde birden fazla partide getirilen eşya için tanınır. B"
+    },
+    {
+      "soru": "Serbest dolaşıma giriş rejiminde tamamlayıcı Muaf ithal edilen kullanılmış şahsi eşyadan, beyanın verilme süresi ile ilgili olarak aşağıda- kanuni ikametgâhlarını Türkiye Gümrük Bölge- kilerden hangisi doğrudur? sine nakleden gerçek kişilere ait kullanılmış motorlu veya motorsuz özel kara HAKİ Vasıtaları:",
+      "cevap": "Doğru cevap: A) AladIğI tarihte üç yaşından büyük olma- içinde verilmesi zorunludur.",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "A": "AladIğI tarihte üç yaşından büyük olma- içinde verilmesi zorunludur.",
+        "B": "Bir ay içinde gerçekleştirilen basitleştirilmiş malıdır. usule göre yapılan işlemlere ilişkin",
+        "C": "Basitleştirilmiş usule göre yapılan işleme malıdır. ilişkin tamamlayıcı beyanın, bir ay içinde verilmesi zorunludur.",
+        "D": "Getirildiği tarihte üç yaşından büyük olma-"
+      },
+      "dogruCevap": "A",
+      "dogruCevapMetni": "AladIğI tarihte üç yaşından büyük olma- içinde verilmesi zorunludur."
+    },
+    {
+      "soru": "Beyan sahibinin yazılı talebinin gümrük idare-",
+      "cevap": "Doğru cevap: B) İndirgeme yöntemi — Hesaplanmış kıymet ARICI l öntemi",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "A": "i vö i ati KAMİEİNE iz ynı eşyanın satış bedeli yöntemi — Benzer la YEK OLA e le saka rak. eşyanın satış bedeli yöntemi mektedir. “5 OMKAK Üretilmiş olmanı gerek",
+        "B": "İndirgeme yöntemi — Hesaplanmış kıymet ARICI l öntemi",
+        "C": "Satış bedeli yöntemi - Son yöntem görevlilerinin Türkiye Gümrük Bölgesi dışın-",
+        "D": "Aynı eşyanın satış bedeli yöntemi -Hesap- da en az 24 ay ikamet etmiş olmaları gerek- lanmış kıymet yöntemi mektedir."
+      },
+      "dogruCevap": "B",
+      "dogruCevapMetni": "İndirgeme yöntemi — Hesaplanmış kıymet ARICI l öntemi"
+    },
+    {
+      "soru": "Eşyanın gümrük kıymetinin belirlenmesine sının, ikametgâhlarının naklinden önceki ilişkin hükümler çerçevesinde, “aynı eşya” Türkiye'ye son giriş tarihinden en az 12 ay deyimi hangisini ifade eder? öncesinden beri yurt dışında bulundukları ülkede adlarına kayıtlı olması gerekmektedir.",
+      "cevap": "Doğru cevap: C) ",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "A": "Fiziksel özellik, aynı işlevi görmeleri, tanın- dığı özellikler dahil olmak üzere her hususta"
+      },
+      "dogruCevap": "C",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "Aşağıdaki unsurlardan hangisi, Gümrük Kanu- |",
+      "cevap": "Doğru cevap: A) ",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {},
+      "dogruCevap": "A",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi, ithal eşyasının fiilen",
+      "cevap": "Doğru cevap: D) Finansmanın satıcı veya bir başka kişi tara- kurma, montaj, bakım veya taknık yardıma fından sağlanmış olmasına bakılmaz. Finans- Hadimi, man anlaşmasının yazılı olarak yapılmış ilişkin giderler l ki",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "B": "Finansmanın satıcı tarafından sağlanmış ödenen veya ödenecek fiyatından ayırt edi- olması zorunludur. Finansman anlaşmasının lebilmeleri koşuluyla gümrük kıymetine dahil yazılı olarak yapılmış olması gerekir. edilmeyecek unsurlardan değildir?",
+        "C": "İthal eşyasının satışıyla ilgili olarak bir finans- olması gerekir. man anlaşması uyarınca alıcı tarafından",
+        "D": "Finansmanın satıcı veya bir başka kişi tara- kurma, montaj, bakım veya taknık yardıma fından sağlanmış olmasına bakılmaz. Finans- Hadimi, man anlaşmasının yazılı olarak yapılmış ilişkin giderler l ki"
+      },
+      "dogruCevap": "D",
+      "dogruCevapMetni": "Finansmanın satıcı veya bir başka kişi tara- kurma, montaj, bakım veya taknık yardıma fından sağlanmış olmasına bakılmaz. Finans- Hadimi, man anlaşmasının yazılı olarak yapılmış ilişkin giderler l ki"
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi, gümrük kıymetinin Tük idarelerinin harekete geçmesi istenilen süre belirlenmesinde, doğrudan doğruya, alıcı ile en fazla kaç gündür? satıcı arasındaki ilişkinin varlığının kabul edile- ceği durumlardan değildir? A)7",
+      "cevap": "Doğru cevap: B) 15",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "B": "15",
+        "C": "30 D)60",
+        "A": "Aynı ailenin üyeleri olmaları a ihâ isi “"
+      },
+      "dogruCevap": "B",
+      "dogruCevapMetni": "15"
+    },
+    {
+      "soru": "İthal eşyasının gümrük kıymeti satış bedeli göllmesi tamı \"e yöntemine göre belirlenirken, royalti veya lisans",
+      "cevap": "Doğru cevap: C) Ödemenin kıymeti belirlenecek eşya ile ilgili kullanıma tabi tutulması nedeniyle, gümrük olması ve söz konusu eşyanın satış koşulu vergilerinin geri verilmesi veya kaldırılması olarak yapılması kaydıyla, royalti veya lisans ücreti ödemeleri fiilen ödenen veya öde- necek fiyata ilave edilir.",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "B": "Royalti veya lisans ücreti ödemeleri, her du- kaldırılması rumda fiilen ödenen veya ödenecek fiyata",
+        "A": "Ödemenin kıymeti belirlenecek eşya ile ilgili vergilerinin geri verilmesi veya kaldırılması olması koşuluyla, royalti veya lisans ücreti",
+        "C": "Ödemenin kıymeti belirlenecek eşya ile ilgili kullanıma tabi tutulması nedeniyle, gümrük olması ve söz konusu eşyanın satış koşulu vergilerinin geri verilmesi veya kaldırılması olarak yapılması kaydıyla, royalti veya lisans ücreti ödemeleri fiilen ödenen veya öde- necek fiyata ilave edilir.",
+        "D": "Royalti veya lisans ücreti ödemeleri, fiilen ödenen veya ödenecek fiyattan ayırt edile- bilmeleri kaydıyla gümrük kıymetine dahil edilmez. 4-"
+      },
+      "dogruCevap": "C",
+      "dogruCevapMetni": "Ödemenin kıymeti belirlenecek eşya ile ilgili kullanıma tabi tutulması nedeniyle, gümrük olması ve söz konusu eşyanın satış koşulu vergilerinin geri verilmesi veya kaldırılması olarak yapılması kaydıyla, royalti veya lisans ücreti ödemeleri fiilen ödenen veya öde- necek fiyata ilave edilir."
+    },
+    {
+      "soru": "“İthal eşyasının satışıyla ilgili olarak bir finans- nu ve Yönetmeliği'nde, son yönteme göre güm- man anlaşması uyarınca alıcı tarafından üstleni- Tük kıymetinin tespit edilmesinde esas alına- len faiz giderleri, ithal eşyasının fiilen ödenen mayacak unsurlar arasında sayılmamıştır? veya ödenecek fiyatından ayırt edilebilmeleri",
+      "cevap": "Doğru cevap: D) Asgari gümrük kıymetleri olması zorunludur. Finansman anlaşmasının yazılı olarak yapılmış olması zorunlu değildir.",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "A": "Finansmanın bir banka tarafından sağlanmış",
+        "B": "Eşyanın, ihraç ülkesindeki iç piyasa fiyatı delerden hangisi doğrudur?",
+        "C": "Türkiye'de üretilen eşyanın, Türkiye içindeki satış fiyatı",
+        "D": "Asgari gümrük kıymetleri olması zorunludur. Finansman anlaşmasının yazılı olarak yapılmış olması zorunlu değildir."
+      },
+      "dogruCevap": "D",
+      "dogruCevapMetni": "Asgari gümrük kıymetleri olması zorunludur. Finansman anlaşmasının yazılı olarak yapılmış olması zorunlu değildir."
+    },
+    {
+      "soru": "Gümrüğe gelmemiş bir eşya ile ilgili olarak",
+      "cevap": "Doğru cevap: C) ",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "D": "İthal eşyasına katılan malzeme, aksam, parça muhtemel bir hak tecavüzünün önlenmesi ve benzerleri amacıyla fikri ve sınai mülkiyet haklarının korunmasına ilişkin yapılan başvurularda güm-"
+      },
+      "dogruCevap": "C",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "CANL ere AR pe ela",
+      "cevap": "Doğru cevap: B) ",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "C": "Birinin diğerini dolaylı veya dolaysız olarak YAK DİP Beyanln bu #tatisünü kaybetmesine kontrol atmesi neden olan hâllerden biri değildir?",
+        "D": "Birbirlerinin yasal ortakları olmaları Bİ EE",
+        "A": "Serbest dolaşıma giriş beyannamesinin iptal"
+      },
+      "dogruCevap": "B",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "Antrepoda elleçleme işlemine tabi tutulan eşya- |",
+      "cevap": "Doğru cevap: A) ",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {},
+      "dogruCevap": "A",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi Tarife Kontenjanı getirilmek kaydıyla götürdükleri taşıtları için, (Tarife Kotası) deyimini ifade eder? çıkış işlemlerini yapan gümrük idarelerince 3 nüsha olarak düzenlenen Türkiye Gümrük",
+      "cevap": "Doğru cevap: B) Bir mal ya da mal grubunun gümrük vergisi ibraz edilir. oranlarında belli bir miktar veya değer için",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "A": "Bir takvim yılı içinde veya muayyen bir dö- Bölgesi Dışına Çıkan Taşıtlara İlişkin Geçici nem itibarıyla yapılmasına izin verilen itha- İhracat Beyannamesi ve Taahhütnamesi latın miktar ve/veya değerine denir. ihracat işlemini yapan gümrük idaresine",
+        "B": "Bir mal ya da mal grubunun gümrük vergisi ibraz edilir. oranlarında belli bir miktar veya değer için",
+        "C": "Belli bir dönem içinde belli malların belirle- taşıtların çıkışlarında, Gümrük Geçiş Karnesi nen değer ya da miktar için ithalatta ve ihra- ibraz edilmesi zorunludur. catta normal gümrük vergisi oranında bir",
+        "D": "İki ya da daha çok ülkenin yaptıkları ticaret yapıldığı durumda, kaydın kapatılması için anlaşması uyarınca aralarındaki ticarette kar- 2'nci nüsha beyanname çıkış işlemini yapan şılıklı olarak ya da bir ülkenin belli ülke ya da gümrük idaresine gönderilir. toprak parçaları menşeli eşyaya tek taraflı"
+      },
+      "dogruCevap": "B",
+      "dogruCevapMetni": "Bir mal ya da mal grubunun gümrük vergisi ibraz edilir. oranlarında belli bir miktar veya değer için"
+    },
+    {
+      "soru": "Türkiye Gümrük Bölgesinden geçici olarak nın, antreponun bağlı bulunduğu gümrük ida- çıkarılan taşıtlar ile ilgili olarak aşağıdakilerden resinden başka bir gümrük idaresinde, gümrük hangisi yanlıştır? yükümlülüğü doğuran gümrükçe onaylanmış bir iğ Bı işlem veya kullanıma tabi tutulması ve beyan",
+      "cevap": "Doğru cevap: C) INF 6 Bilgi Formu — D)INF 9 Bilgi Formu Gümrük Geçiş Karnesi ibraz etmemeleri hâlinde, en geç üç yıl içerisinde aynen geri",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "A": "İkametgâhı Türkiye'de bulunan Türk ve — sahibinin gümrük vergilerinin hesaplanmasını yabancı gerçek ve tüzel kişilerin yabancı bir talep etmesi halinde vergilerin hesabında ülkeye geçici olarak çıkaracakları ve en geç yararlanılmak üzere aşağıdakilerden hangisi Üç yıl içerisinde geri getirecekleri kendilerine külün? ait taşıtları için 'Triptik' veya 'Gümrük Geçiş Karnesi' beyanname olarak kabul olunur. aa e",
+        "B": "İkametgâhı Türkiye'de bulunan Türk ve A)INF 8 Bilgi Formu — B)INF 7 Bilgi Formu yabancı gerçek Ve'tüzel kişilerin Triptik veya",
+        "C": "INF 6 Bilgi Formu — D)INF 9 Bilgi Formu Gümrük Geçiş Karnesi ibraz etmemeleri hâlinde, en geç üç yıl içerisinde aynen geri"
+      },
+      "dogruCevap": "C",
+      "dogruCevapMetni": "INF 6 Bilgi Formu — D)INF 9 Bilgi Formu Gümrük Geçiş Karnesi ibraz etmemeleri hâlinde, en geç üç yıl içerisinde aynen geri"
+    },
+    {
+      "soru": "120 Kg. ağırlığında bir ambalaj içinde bulunan 500 Kg. C, 200 Kg. U ve 300 Kg. B cinsi eşya değişik vergi oranlarına ve aynı zamanda brüt ağırlıkları üzerinden vergiye tabi bulunmaktadır. Bu eşyanın ağırlığı, Gümrük Kanunu hüküm- lerine göre, aşağıdakilerin hangisinde doğru olarak belirlenmiştir?",
+      "cevap": "Doğru cevap: B) Eşya net ağırlıklarına ambalaj ağırlığı orantılı olarak ilave edilir.",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "A": "Bütün ağırlık unsurları toplanarak ortalama ağırlık bulunur.",
+        "B": "Eşya net ağırlıklarına ambalaj ağırlığı orantılı olarak ilave edilir.",
+        "C": "Sadece eşya net ağırlıkları esas alınır.",
+        "D": "Ambalaj ağırlığı eşit miktarda bölünerek eşya net ağırlıklarına ilave edilir. 7."
+      },
+      "dogruCevap": "B",
+      "dogruCevapMetni": "Eşya net ağırlıklarına ambalaj ağırlığı orantılı olarak ilave edilir."
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi, eşyaya menşe kazan- |",
+      "cevap": "Doğru cevap: A) ",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {},
+      "dogruCevap": "A",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "Yolcu beraberinde getirilip gümrüğe sunul- La . RE masından sonra gümrükçe onaylanmış bir işlem",
+      "cevap": "Doğru cevap: C) Antrepolarda yapılan sayım sonucunda fazla çıkan eşyanın gümrük vergileri, duruma göre z SE z işletici veya kullanıcıdan tahsil edilir.",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "A": "Antrepo rejimine tabi tutulan eşya, gümrük veya kullanıma tabi tutuluncaya kadar, eşyanın idarelerinden izin alınmak şartıyla geçici geçici depolama yeri mahiyetinde konulduğu olğrak gümrük antreposundan çıkanlabllır. yolcu salonlarındaki gümrük ambarlarında",
+        "B": "Antrepo rellimie tabi tutulmuş esyarım 5İr kalabileceği süre ne kadardır? gümrük antreposundan diğerine nakli, güm- rük idarelerinin iznine bağlıdır. A)tay — B)4ögün C)3ay — D)Süresiz",
+        "C": "Antrepolarda yapılan sayım sonucunda fazla çıkan eşyanın gümrük vergileri, duruma göre z SE z işletici veya kullanıcıdan tahsil edilir."
+      },
+      "dogruCevap": "C",
+      "dogruCevapMetni": "Antrepolarda yapılan sayım sonucunda fazla çıkan eşyanın gümrük vergileri, duruma göre z SE z işletici veya kullanıcıdan tahsil edilir."
+    },
+    {
+      "soru": "X firmasının 20086 yılı içerisinde yapmış olduğu",
+      "cevap": "Doğru cevap: D) Eşyanın antrepo rejimi altında kalış süresi bir ithalatla ilgili olarak fazla alınan 175.000.- ELA üklü 4 ka YTL'nin iadesi söz konusu olmuştur. Bu durum- Görülen Hallarda Be vaya Sümük aaa naE da geri verme işlemini yapmaya aşağıdaki > YUA İNU BE Ray Kull ilan iğ birimlerden hangisi yetkilidir? anmış: yeni bir Işlam Veya kullanım tayin edilmesi için bir süre belirlenebilir.",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "D": "Eşyanın antrepo rejimi altında kalış süresi bir ithalatla ilgili olarak fazla alınan 175.000.- ELA üklü 4 ka YTL'nin iadesi söz konusu olmuştur. Bu durum- Görülen Hallarda Be vaya Sümük aaa naE da geri verme işlemini yapmaya aşağıdaki > YUA İNU BE Ray Kull ilan iğ birimlerden hangisi yetkilidir? anmış: yeni bir Işlam Veya kullanım tayin edilmesi için bir süre belirlenebilir.",
+        "A": "İlgili Gümrük Müdürlüğü"
+      },
+      "dogruCevap": "D",
+      "dogruCevapMetni": "Eşyanın antrepo rejimi altında kalış süresi bir ithalatla ilgili olarak fazla alınan 175.000.- ELA üklü 4 ka YTL'nin iadesi söz konusu olmuştur. Bu durum- Görülen Hallarda Be vaya Sümük aaa naE da geri verme işlemini yapmaya aşağıdaki > YUA İNU BE Ray Kull ilan iğ birimlerden hangisi yetkilidir? anmış: yeni bir Işlam Veya kullanım tayin edilmesi için bir süre belirlenebilir."
+    },
+    {
+      "soru": "4458 sayılı Gümrük Kanunu'na göre aşağıda- yanıltarak, vergilerini hiç ödememek veya kilerden hangisi “gümrük beyanını yapan veya ia EE ar rain Le li etmek veya hesabına gümrük beyanı yapılan kişi veya bu ö ka ön irli isler ici; kişiye ait bir gümrük rejimi ile ilgili hakların ve Bees Tree De Ta a Kamar İşler Tollk a İz a ALAK Gi DE ae - vergiden tamamen veya kısmen muaf olara yükümlülüklerin devredildiği kişiyi” ifade eder? ithal olunan eayayı, Hhal amacıdişında",
+      "cevap": "Doğru cevap: B) Rejim hak sahibi kullanmak veya satmak veya bilerek satın a m ni almak ©) Bayan sahibi",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "A": "İzin hak sahibi",
+        "B": "Rejim hak sahibi kullanmak veya satmak veya bilerek satın a m ni almak ©) Bayan sahibi",
+        "D": "Yükümlü",
+        "C": "Gümrük kontrolü altında işleme rejimi çerçe- - Ni - vesinde ithal edilen veya bunun kullanılması"
+      },
+      "dogruCevap": "B",
+      "dogruCevapMetni": "Rejim hak sahibi kullanmak veya satmak veya bilerek satın a m ni almak ©) Bayan sahibi"
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi, Bakanlar Kurulunun sonucu elde olunan eşyayı, gerçeğe aykırı eşyanın gümrükçe onaylanmış bir işlem veya her türlü beyanname veya belge düzenlemek kullanıma tabi tutulmasına yasaklama veya suretiyle serbest dolaşıma sokmak veya inaneladiş e gerekçeleri arasında yer buna teşebbüs etmek almamaktadır",
+      "cevap": "Doğru cevap: B) Ulusal firmaların uluslararası ticarette haksız rekabetten korunması",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "D": "Sanatsal, tarihi veya arkeolojik değeri olan ulusal hazinelerin korunması 8-",
+        "A": "Kamu ahlakı, kamu düzeni, kamu güvenliği, fazla farklılık çıkması insan, hayvan ve bitki sağlık ve hayatlarının korunması",
+        "B": "Ulusal firmaların uluslararası ticarette haksız rekabetten korunması",
+        "C": "Fikri ve sınai mülkiyet haklarının korunması"
+      },
+      "dogruCevap": "B",
+      "dogruCevapMetni": "Ulusal firmaların uluslararası ticarette haksız rekabetten korunması"
+    },
+    {
+      "soru": "Aşağıda sayılan hâllerden hangisinde serbest dırmayan işlem veya işçilik değildir? dolaşıma sokulacak eşya için gümrük vergile- rinden muafiyet uygulanmaz?",
+      "cevap": "Doğru cevap: D) Tozun giderilmesi, kalburlama, ayıklama, türlü kullanılmamış ev eşyası sınıflandırma, eşleştirme, yıkama, kesme gibi",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "A": "Değeri 100 EURO' yu geçmeyen eşya ve eylemin o ülkede yapılması N",
+        "B": "ARE TER a ve montajında;deği-",
+        "C": "Değeri 300 EURO' yu geçmemek üzere yolcu- c) Parça hâlindeki ürünlerden birleştirmek lar tarafından ithal edilen hediyelik eşya suretiyle tam ürün oluşturacak şekilde basit",
+        "D": "Tozun giderilmesi, kalburlama, ayıklama, türlü kullanılmamış ev eşyası sınıflandırma, eşleştirme, yıkama, kesme gibi"
+      },
+      "dogruCevap": "D",
+      "dogruCevapMetni": "Tozun giderilmesi, kalburlama, ayıklama, türlü kullanılmamış ev eşyası sınıflandırma, eşleştirme, yıkama, kesme gibi"
+    },
+    {
+      "soru": "Antrepo rejimine tabi tutulan eşya için aşağıda- kilerden hangisi yanlıştır?",
+      "cevap": "Doğru cevap: C) ",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {},
+      "dogruCevap": "C",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "Eşyanın zoralımına da hükmolunan kaçakçılık",
+      "cevap": "Doğru cevap: C) Gümrükler Genel Müdürlüğü fiili aşağıdakilerden hangisidir?",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "C": "Gümrükler Genel Müdürlüğü fiili aşağıdakilerden hangisidir?",
+        "D": "İlgili Gümrük ve Muhafaza Başmüdürlüğü )İlg BR EEE",
+        "A": "Gerçeğe aykırı belge ile gümrük idaresini"
+      },
+      "dogruCevap": "C",
+      "dogruCevapMetni": "Gümrükler Genel Müdürlüğü fiili aşağıdakilerden hangisidir?"
+    },
+    {
+      "soru": "Yolcularla ilgili gümrük komisyonları hakkında |",
+      "cevap": "Doğru cevap: C) ",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {},
+      "dogruCevap": "C",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "Yolcuların, gümrük mevzuatına göre zati ve yaptırımlar için dosya Dış Ticaret Müste- hediyelik eşya kapsamı dışında olup beyanla- şarlığı'na intikal ettirilir. rına aykırı olarak üzerlerinde veya eşyası ara-",
+      "cevap": "Doğru cevap: B) ",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "C": "Kaçakçılıkla Mücadele Kanunu'nda, söz sında çıkan ya da başkasına ait olduğu hâlde, konusu fiillere ilişkin, failler hakkında ağır kendi zati eşyasıymış gibi gösterdikleri eşyaya para cezası ve hapis cezası, eşya ile ilgili ilişkin yapılacak işlemle ilgili olarak aşağıdaki olarak ise zoralımına karar verilmesi ifadelerden hangisi doğrudur? öngörülmüştür.",
+        "D": "Bu fiil ile Gümrük Kanunu, Kaçakçılıkla",
+        "A": "Eşyaya el konulur, eşya sahibine eşyanın Mücadele Kanunu ve Türk Ceza Kanunu gümrüklenmiş değeri kadar para cezası hükümleri ihlal edilmiştir. uygulanır."
+      },
+      "dogruCevap": "B",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "Dahilde İşleme Rejimi çerçevesinde DİİB ile aşağıdakilerden hangisi doğrudur? elbise yapımında kullanılmak üzere Türkiye'ye KER MPGE . . NE ithal edilen 500 top kumaş, şirket yetkilileri",
+      "cevap": "Doğru cevap: D) Bir gümrük müdürü veya yetkilendireceği katı para cezası alınır. yardımcısının başkanlığında, bir gümrük",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "A": "Gümrük Başmüdürü veya yetkilendireceği — tarafından yurt içinde satılmış, ihraç taahhütleri başmüdür yardımcısı başkanlığında beş kişi- ise, sahte olarak düzenlenen ihracat beyanna- öy Gümeli KonÜR TERRA meleri ile kapatılmıştır. Bu olay ile ilgili olarak tebliğ tanhildeğ itibaren yedi gün İçinde aşağıda yer alan ifadelerden hangisi doğrudur? Da a aaa ea ale RABİ. | a) Geçte olarak getirilen eşyanın yurtiçinde dımcısının başkanlığında mahallin ticaret ve biratilması kaçakçılık Tl olarak:düzenlen- sanayi odası ile mülki amirin görevlendire- mediğinden, Gümrük Kanunu hükümlerine ceği birer temsilci olmak üzere üç kişiden göre söz konusu eşyaya ilişkin gümrük oluşur. vergileri tahsil edilir, ayrıca bu vergilerin iki",
+        "D": "Bir gümrük müdürü veya yetkilendireceği katı para cezası alınır. yardımcısının başkanlığında, bir gümrük",
+        "B": "İhracat beyannameleri sahte olarak düzen- görevlisi ile mahallin ticaret ve sanayi lendiğinden, ortada bir eşya olmaması nede- odalarınca görevlendirilen iki temsilciden niyle, sadece Türk Ceza Kanunu'nda yer alan oluşur. “Belgede sahtecilik” fiili işlenmiştir. Ayrıca, Dahilde İşleme Rejimi yönünden gerekli idari"
+      },
+      "dogruCevap": "D",
+      "dogruCevapMetni": "Bir gümrük müdürü veya yetkilendireceği katı para cezası alınır. yardımcısının başkanlığında, bir gümrük"
+    },
+    {
+      "soru": "Kaçakçılıkla Mücadele Kanunu'na göre meslek, cezası uygulanır ve eşya sahibine teslim sanat ve görevlerinin verdiği kolaylıktan yarar- edilir. lanmak suretiyle kaçakçılık fiillerini kendi na-",
+      "cevap": "Doğru cevap: B) Söz konusu fiillere ilişkin cezalar bir kat artı- rılmak suretiyle uygulanır.",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "C": "Bu kişiler hakkında ilgili maddelerde belir- tilen üst sınırı geçmemek üzere hürriyeti bağlayıcı cezaya yarısı miktarında artırılarak hükmolunur.",
+        "D": "Failim memur olması durumunda, ilgili mad- delerde yazılı olan cezalar yarısı oranında artırılarak hükmolunur. -9-",
+        "A": "Bu kişiler hakkında ilgili maddelerde belir- gümrüklenmiş değerinin iki katı kadar da tilen ağır KETE cezaları yarısı miktarında para cezası uygulanır. artırılarak hükmolunur. iğ",
+        "B": "Söz konusu fiillere ilişkin cezalar bir kat artı- rılmak suretiyle uygulanır."
+      },
+      "dogruCevap": "B",
+      "dogruCevapMetni": "Söz konusu fiillere ilişkin cezalar bir kat artı- rılmak suretiyle uygulanır."
+    },
+    {
+      "soru": "C Avrupa ülkesinden gelen bir geminin kaptanı |",
+      "cevap": "Doğru cevap: D) ",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {},
+      "dogruCevap": "D",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "4926 sayılı Kaçakçılıkla Mücadele Kanunu'na YARIYACAK olani Belgeler bülünürsa, sahibinin göre suç sayılan fiillerin toplu olarak işlenmesi vaya mümeyyiz ak âbalarının; bunlarda. hâlinde ilgili maddelerdeki cezalar nasıl uygu- bulunmadığı takdirde mahalde bulunan iki lanır? kişinin huzurunda mühürlenir ve aramayı yapan kimselerce alınarak tutanakla birlikte",
+      "cevap": "Doğru cevap belirtilmemiş.",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "A": "Yarısı kadar arttırılarak uygulanır. soruşturmayı yapanlara verilir.",
+        "B": "Yarısı kadar azaltılarak uygulanır.",
+        "D": "İki kat arttırılarak uygulanır. daki eşyaya el konulması bu Kanun'da öngö- rülen suçların işlenmesinin önlenmesi ama-",
+        "C": "Bir kat arttırılarak uygulanır. ile eklentilerinde arama yapılması ve buralar-"
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "4926 sayılı Kaçakçılıkla Mücadele Kanunu hü- cıyla usulüne göre verilmiş hâkim kararı; bu kümlerine göre aşağıdakilerden hangisi kaçak- sebebe bağlı olarak gecikmesinde sakınca çılığı önleme, izleme ve soruşturmakla görevli bulunan hâllerde ise o yerin en büyük mülki olanlar arasında yer almamaktadır? amirinin veya Cumhuriyet savcısının yazılı AŞEECTT YEN emri ile yapılır.",
+      "cevap": "Doğru cevap belirtilmemiş.",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "A": "Cumhuriyet başsavcısı",
+        "B": "Mülki amirler",
+        "C": "Jandarma",
+        "D": "Sahil Güvenlik Komutanlığına bağlı personel -40- GÜMRÜK MÜUŞAVİRLİĞİ ÖN ELEME SINAVI A"
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "4926 sayılı Kaçakçılıkla Mücadele Kanunu'na tarafından, limana gelişlerinin hemen sonrası, göre aşağıdakilerden hangisi cezayı ağırlaştırıcı gemi yükü arasında, taşıma belgelerinde yer neden değildir? almayan toplum ve çevre sağlığı yönünden tehlikeli ve zararlı X atık maddesinin bulunduğu",
+      "cevap": "Doğru cevap: C) Bir menfaat karşılığı olsun veya olmasın",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "A": "Gemi kaptanı tarafından limana girişlerinden kaçakçılık suçu işleyenlerin hâl ve sıfatlarını hemen sonra Gümrük İdaresine yazılı olarak bilerek yardım edilmesi bilgi verilmesi nedeniyle, söz konusu eşya",
+        "B": "Kanunun suç saydığı fiillerin iki veya daha M Dcaale Kanın hükümlere göre, Yağa da fazla kişi tarafından teşekkül oluşturmaksızın Pr caBtr ni a toplu olarak işlenmesi 2 yer alan hangi işlemin ikmal edilmesi gerekir?",
+        "C": "Bir menfaat karşılığı olsun veya olmasın",
+        "D": "Kaçakçılık suçlarının memurlar tarafından sağlam teminat altında geldiği yere veya işlenmesi diğer bir yabancı yere iade ve sevk olunur."
+      },
+      "dogruCevap": "C",
+      "dogruCevapMetni": "Bir menfaat karşılığı olsun veya olmasın"
+    },
+    {
+      "soru": "4926 sayılı Kaçakçılıkla Mücadele Kanunu'na ve taşıma belgelerinde kayıtlı olmaması kar- göre aramalarla ilgili olarak aşağıdakilerden şısında, Gümrük İdaresine bilgi verilmesine hangisi yanlıştır? rağmen, zoralımına karar verilir ve taşıyanları hakkında kanuni takibat başlatılır.",
+      "cevap": "Doğru cevap: B) Kacak öeyalarama TşlerindöRünun'A Aykın",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "A": "Gümrük salonları ve gümrük kapılarında",
+        "C": "Arama sırasında kaçakçılık suçunun işlen- diğini gösteren veya suçun kanıtlanmasına",
+        "B": "Kacak öeyalarama TşlerindöRünun'A Aykın",
+        "D": "Taşıyanlar hakkında Kaçakçılıkla Mücadele gak Ceya'arama İyi KENE KAÇAN. Kanunu hükümlerine göre takibat başlatıl- hareket edenler hakkında Ceza Muhakemesi makla birlikte, eşyanın zoralımına karar veril- Katunu Kökümleri uygulanır. İ meyip, geldiği yere sevk olunur."
+      },
+      "dogruCevap": "B",
+      "dogruCevapMetni": "Kacak öeyalarama TşlerindöRünun'A Aykın"
+    },
+    {
+      "soru": "4926 sayılı Kaçakçılıkla Mücadele Kanunu hü-",
+      "cevap": "Doğru cevap: A) ",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {},
+      "dogruCevap": "A",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "4926 sayılı Kaçakçılıkla Mücadele Kanunu'na li Sahil Güvenlik Komutanlığı göre yapılacak aramalarla ilgili olarak aşağıda ll- Emniyet Genel Müdürlüğü yapılan açıklamalardan hangisi yanlıştır? IV- Genelkurmay Başkanlığı V- Gümrükler Muhafaza Genel Müdürlüğü",
+      "cevap": "Doğru cevap: C) 1, Ni, İl ve V",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "A": "1, Ji, İl, İV ve V",
+        "B": "1, ll, IV ve V şüphe edilen her türlü kap, ambalaj veya",
+        "C": "1, Ni, İl ve V",
+        "D": "1, Ni, İl, ve İV taşımaya yarayan diğer araçlarda arama"
+      },
+      "dogruCevap": "C",
+      "dogruCevapMetni": "1, Ni, İl ve V"
+    },
+    {
+      "soru": "TIR Uygulama Tebliği hükümlerine göre Kara navlunu öder ama sigorta yaptırması gerekmez. yolu Taşıtı Onay Belgesi aşağıdaki taşıtlardan Yukarıda açıklanan teslim şekli aşağıdakilerden hangisi için düzenlenmez? hangisidir?",
+      "cevap": "Doğru cevap: D) Çekiciler 41.",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "A": "Kamyonlar A)FOB. B)CER. C)CİF",
+        "D": "Çekiciler 41.",
+        "B": "Brandalı taşıtlar",
+        "C": "Römork veya yarı römorklar"
+      },
+      "dogruCevap": "D",
+      "dogruCevapMetni": "Çekiciler 41."
+    },
+    {
+      "soru": "Aşağıdaki eşyadan hangisi TIR Karnesi kapsa- kümlerinin uygulanmasında, aşağıdaki açıkla- mında taşınabilir? malardan hangisi doğrudur?",
+      "cevap": "Doğru cevap: B) Ham tütün kapsamına giren suçlarda, şüpheli veya",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "A": "4926 sayılı Kaçakçılıkla Mücadele Kanunu",
+        "B": "Ham tütün kapsamına giren suçlarda, şüpheli veya",
+        "C": "Tütün içeren purolar sanıkların yurt dışına çıkmalarının geçici",
+        "D": "İçilen tütün, herhangi bir oranda tütün yerine olarak yasaklanmasına hazırlık soruşturması geçen maddeler içersin içermesin sırasında hâkim, yargılama safhasında ise"
+      },
+      "dogruCevap": "B",
+      "dogruCevapMetni": "Ham tütün kapsamına giren suçlarda, şüpheli veya"
+    },
+    {
+      "soru": "Aşağıdaki kurumlardan hangilerine savunma ve",
+      "cevap": "Doğru cevap: C) Gümrük komisyonlarınca verilen kararlara tim, montaj, yedek parça, bakım-onarım ve tebliğ tarihinden itibara ön kaş gün içinde modernizasyonuna ilişkin olarak yapılan teslim asliye ceza mahkemelerine itiraz olunabilir. Va'hizmetler ve bu teslim ve hizmetleri gerçek;",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "B": "4926 sayili Kaçakçılıkla Mücadele Kani: iç güvenlik ihtiyaçları için uçak, helikopter, ge- nu'nun Suç saydığı filler nedeniyle Türk mi, denizaltı, tank, panzer, zırhlı personel taşı- Ceza Kanunu veya ceza öngören diğer ka- yıcı, roket, füze ve benzeri araçlar, silah, mü- nunlarda yazılı cürümleri işleyenler hakkın- himmat, silah malzeme, teçhizat ve sistemleri da, içtima kuralı uygulanır. ile bunların araştırma-geliştirme, yazılım, üre-",
+        "C": "Gümrük komisyonlarınca verilen kararlara tim, montaj, yedek parça, bakım-onarım ve tebliğ tarihinden itibara ön kaş gün içinde modernizasyonuna ilişkin olarak yapılan teslim asliye ceza mahkemelerine itiraz olunabilir. Va'hizmetler ve bu teslim ve hizmetleri gerçek;",
+        "D": "Zoralım hakkı düşen veya takibi zamanaşı- leştirenlere bu kapsamda yapılacak olan tes- mına uğrayan eşyanın bedel ve vergilerinin limler, KDV den müstesnadır? davalıdan tahsili gerekir. . er 1- Milli Savunma Bakanlığı"
+      },
+      "dogruCevap": "C",
+      "dogruCevapMetni": "Gümrük komisyonlarınca verilen kararlara tim, montaj, yedek parça, bakım-onarım ve tebliğ tarihinden itibara ön kaş gün içinde modernizasyonuna ilişkin olarak yapılan teslim asliye ceza mahkemelerine itiraz olunabilir. Va'hizmetler ve bu teslim ve hizmetleri gerçek;"
+    },
+    {
+      "soru": "3065 sayılı Katma Değer Vergisi Kanunu uya-",
+      "cevap": "Doğru cevap: A) ",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "B": "li, li, IV ve V © yerin en büyük mülki amirinin veya Cum-",
+        "C": "li, İl ve IV",
+        "D": "li, IV ve V huriyet savcısının yazılı emri ile arama yapı- * : labilir. l »"
+      },
+      "dogruCevap": "A",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "“Mal bedeli ve Navlun' anlamına gelen ve yal- kaçak eşya sakladığından kuşkulanılan nızca deniz ya da iç su taşımacılığında kulla- kişiler gümrük kontrolü amacıyla gümrük nılan bu teslim şeklinde, malların yükleme lima- görevlilerince aranabilir. nında gemi bordasına aktarılmasıyla satıcının teslim yükümlülüğü gerçekleşmiş olur. Satıcı",
+      "cevap": "Doğru cevap: B) ",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {},
+      "dogruCevap": "B",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "Bir ithalatçı Uzak Doğu Asya ülkelerinin birin- — |",
+      "cevap": "Doğru cevap: D) ",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {},
+      "dogruCevap": "D",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "Çok uluslu şirketlerin farklı ülkelerdeki şubeleri",
+      "cevap": "Doğru cevap: C) ",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {},
+      "dogruCevap": "C",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "Fikri ve sınai mülkiyet hakkı sahibinin rızası ile TunANAN Veya ölüe müdüNüğü onayli üçüncü bir ülkede pazara sunulan bir malın — işletici veya bölge kullanıcı işleticisi ya da daha ucuza piyasaya sürüldüğü ülkeden distri- kullanıcı tarafından bölgeye getirilen Türkiye bütör dışında birisi tarafından yerel pazara ithal mahreçli mallar isteğe bağlı olarak ihracat edilmesi aşağıdakilerden hangisi ile ifade edilir? işlemine tabi tutulmayabilir. ik ; Ill- Serbest bölgelerde kambiyo mükellefiyet-",
+      "cevap": "Doğru cevap: B) 1, ll ve lll C)1, Ül ve IV",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "A": "1, İl, İl ve IV",
+        "B": "1, ll ve lll C)1, Ül ve IV",
+        "C": "Menşe sapması —",
+        "D": "A, İl ve İV A2."
+      },
+      "dogruCevap": "B",
+      "dogruCevapMetni": "1, ll ve lll C)1, Ül ve IV"
+    },
+    {
+      "soru": "Aşağıdakilerden hangisinin yolcu beraberinde den ayakkabı cinsi eşya ithalatı gerçekleştir- efektif olarak yurda getirilmesi hâlinde, 32 sayılı miştir. Bu ithalat ile ilgili olarak, ihraç ülkesinde Karar ve bağlı mevzuat hükümleri uyarınca yerleşik bir komisyoncuya, belirlediği vasıf, gümrük idarelerine beyan edilmesi esastır? kıymet ve miktarda kendisine mal tedarik etmesi (satın alması) karşılığında, faturaya istinaden",
+      "cevap": "Doğru cevap: C) Yabancı taşıtlar ile yabancı ülkelere sefer göre, bu ithalat işlemi ile ilgili olarak aşağıdaki- yapan yerli taşıtlara verilen kumanya bedel- lerden hangi işlemin ikmal edilmesi gerekir? leri",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "A": "Ödenen bu bedel Gümrük Vergisi matrahının",
+        "B": "Türkiye'de ikamet etmeyenlere özel fatura ile İdaresine beyan edilmemiştir. Gümrük Kanunu yapılan satış bedeli ve Katma Değer Vergisi Kanunu hükümlerine",
+        "C": "Yabancı taşıtlar ile yabancı ülkelere sefer göre, bu ithalat işlemi ile ilgili olarak aşağıdaki- yapan yerli taşıtlara verilen kumanya bedel- lerden hangi işlemin ikmal edilmesi gerekir? leri",
+        "D": "Transit ticarette alış bedeli"
+      },
+      "dogruCevap": "C",
+      "dogruCevapMetni": "Yabancı taşıtlar ile yabancı ülkelere sefer göre, bu ithalat işlemi ile ilgili olarak aşağıdaki- yapan yerli taşıtlara verilen kumanya bedel- lerden hangi işlemin ikmal edilmesi gerekir? leri"
+    },
+    {
+      "soru": "Kambiyo mevzuatına göre, genel olarak yolcu- belirlenirken, eşyanın fiilen ödenen veya ların beraberlerinde yurtdışına çıkarabilecekleri ödenecek fiyatına ilave edilmediğinden, Türk Parası ve efektif miktarı ile ilgili olarak Gümrük Kanunu'nda öngörülen cezalar aşağıdakilerden hangisi doğrudur? tatbik edilerek eşya sahibine teslim edilir.",
+      "cevap": "Doğru cevap: C) En çok 5.000.- ABD Doları karşılığı Türk",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "B": "En çok 50.000.- ABD Doları karşılığı Türk",
+        "A": "En çok 5.000.- ABD Doları karşılığı Türk olmadığından, bu konuda Gümrük İdaresi parası ile en çok 15.000.- ABD Doları veya tarafından herhangi bir işlem yapılmasına eşitine kadar efektifi yurt dışına çıkarabilirler. gerek bulunmamaktadır.",
+        "C": "En çok 5.000.- ABD Doları karşılığı Türk",
+        "D": "Yolcuların beraberlerinde yurtdışına çıkara- Vergisi matrahına dahil olduğundan bu bilecekleri Türk parası ve efektif miktarı ile yönde gerekli işlemler ikmal edilir. ilgili olarak herhangi bir sınırlama bulun- mamaktadır."
+      },
+      "dogruCevap": "C",
+      "dogruCevapMetni": "En çok 5.000.- ABD Doları karşılığı Türk"
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi doğrudur? yapılacağı şubenin bulunduğu ülkedeki gümrük öğ Hü vergisinden kaçınmak için kullanabileceği > baban STAK Gö lam YAĞA ya DERE yönlemtasağıdakilördon hangisidir? A.B.D. Dolarının altında kalmak üzere bölge",
+      "cevap": "Doğru cevap: D) Transit ticaret ihracat işlemine tabi tutulmayabilir. Il- Bir parti olarak toplam fatura bedeli 500",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "A": "Arbitraj müdürlüğü veya bölge müdürlüğü onayı ile",
+        "B": "Factoring işletici veya bölge kullanıcı işleticisi ya da",
+        "C": "Transfer fiyatlandırması kullanıcı tarafından mallar isteğe bağlı olarak",
+        "D": "Transit ticaret ihracat işlemine tabi tutulmayabilir. Il- Bir parti olarak toplam fatura bedeli 500"
+      },
+      "dogruCevap": "D",
+      "dogruCevapMetni": "Transit ticaret ihracat işlemine tabi tutulmayabilir. Il- Bir parti olarak toplam fatura bedeli 500"
+    },
+    {
+      "soru": "Yürürlükteki ithalat tebliğlerine göre aşağıdaki — |",
+      "cevap": "Doğru cevap: C) ",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {},
+      "dogruCevap": "C",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "Yürürlükteki İthalat Rejimi Kararına göre, tarım payı olarak Toplu Konut Fonu kesintisi yapılan",
+      "cevap": "Doğru cevap: B) İşlenmiş tarım ürünleri ithal lisansı gümrük yükümlülüğünün doğ-",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "A": "Tarım ürünleri latta Dış Ticaret Müsteşarlığınca düzenlenen",
+        "B": "İşlenmiş tarım ürünleri ithal lisansı gümrük yükümlülüğünün doğ-",
+        "C": "Tarife kontenjanı, belirli bir dönem itibariyle",
+        "D": "Sanayi malları idaresine ibraz edilir."
+      },
+      "dogruCevap": "B",
+      "dogruCevapMetni": "İşlenmiş tarım ürünleri ithal lisansı gümrük yükümlülüğünün doğ-"
+    },
+    {
+      "soru": "Yürürlükteki Dış Ticarette Standardizasyon gümrük vergisinde ve/veya diğer mali yük- Tebliğleri uyarınca, “et”, “insan tedavisinde lerde indirim yapılan ya da muafiyet sağla- kullanılan serum” ve “kömür”ün serbest do- nan ithalatın miktar veya değerini ifade eder. laşıma girişinde sırasıyla hangi kurum / kuru-",
+      "cevap": "Doğru cevap: D) Kullanılmayan veya dağıtılamayan kota ve luşun “Kontrol Belgesi” aranmaktadır? tarife kontenjanları yeniden dağıtıma tabi tutulmazlar.",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "D": "Kullanılmayan veya dağıtılamayan kota ve luşun “Kontrol Belgesi” aranmaktadır? tarife kontenjanları yeniden dağıtıma tabi tutulmazlar.",
+        "A": "Sanayi ve Ticaret Bakanlığı — Dış Ticaret"
+      },
+      "dogruCevap": "D",
+      "dogruCevapMetni": "Kullanılmayan veya dağıtılamayan kota ve luşun “Kontrol Belgesi” aranmaktadır? tarife kontenjanları yeniden dağıtıma tabi tutulmazlar."
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi ithalatta gözetim ve korunma önlemleri hakkında mevzuat çerçeve-",
+      "cevap": "Doğru cevap: D) Damping marjı, dampinge karşı uygulanacak vergi oranı göz önüne alınarak tespit edilir. 413-",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "A": "Kota uygulaması fiyatıyla mukayese edilerek tespit edilir.",
+        "B": "Damping marjı, menşe ülkedeki üretim mali-",
+        "C": "Dampinge karşı vergi tutarı, damping marjı dikkate alınarak tespit edilir.",
+        "D": "Damping marjı, dampinge karşı uygulanacak vergi oranı göz önüne alınarak tespit edilir. 413-"
+      },
+      "dogruCevap": "D",
+      "dogruCevapMetni": "Damping marjı, dampinge karşı uygulanacak vergi oranı göz önüne alınarak tespit edilir. 413-"
+    },
+    {
+      "soru": "İthalat Rejimi Kararı eki listelerden Il sayılı ifadelerden hangisi yanlıştır? listede yer alan eşyanın aynı zamanda V sayılı listede yer alması durumunda, gümrük vergisi",
+      "cevap": "Doğru cevap: B) V sayılı listede belirtilen gümrük vergisi oranı yazısı aranır. uygulanır.",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "A": "sayılı listede belirtilen gümrük vergisi oranı",
+        "B": "V sayılı listede belirtilen gümrük vergisi oranı yazısı aranır. uygulanır.",
+        "C": "ll ve V sayılı listelerde belirtilen gümrük gümrük idarelerince, Enerji ve Tabii Kaynak- vergisi oranlarından daha düşük olanı lar Bakanlığının (Petrol İşleri Genel Müdür- uygulanır. lüğü) uygunluk yazısı aranır.",
+        "D": "Sivil hava taşıtlarında kullanılmaya mahsus vergisi oranlarından daha yüksek olanı maddelerin ithalinde gümrük idarelerince uygulanır. Ulaştırma Bakanlığının (Sivil Havacılık Genel"
+      },
+      "dogruCevap": "B",
+      "dogruCevapMetni": "V sayılı listede belirtilen gümrük vergisi oranı yazısı aranır. uygulanır."
+    },
+    {
+      "soru": "Tarife kontenjanı mevzuatı ile ilgili olarak aşağı- . daki ifadelerden hangisi yanlıştır?",
+      "cevap": "Doğru cevap: D) ",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {},
+      "dogruCevap": "D",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "Normal ticari işlemler içinde ihracatçı ülkenin iç",
+      "cevap": "Doğru cevap: D) Tarım ve Köyişleri Bakanlığı - Sağlık Bakan- satışlar uygun bir karşılaştırma yapmaya olanak lığı - Çevre Bakanlığı sağlamadığında, damping marjı ile ilgili olarak aşağıdaki ifadelerden hangisi yanlıştır?",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "B": "Sağlık Bakanlığı — Çevre Bakanlığı — Hazine piyasasında, dampinge konu ürünün veya ben- Müsteşarlığı zer ürünün satışı yapılmadığında veya ihracatçı",
+        "C": "Tarım ve Köyişleri Bakanlığı — Devlet Planla- ülkenin iç piyasasında satış hacminin düşük ma Teşkilatı Müsteşarlığı — Sağlık Bakanlığı olması veya pazarın özel durumu nedeniyle, bu",
+        "D": "Tarım ve Köyişleri Bakanlığı - Sağlık Bakan- satışlar uygun bir karşılaştırma yapmaya olanak lığı - Çevre Bakanlığı sağlamadığında, damping marjı ile ilgili olarak aşağıdaki ifadelerden hangisi yanlıştır?"
+      },
+      "dogruCevap": "D",
+      "dogruCevapMetni": "Tarım ve Köyişleri Bakanlığı - Sağlık Bakan- satışlar uygun bir karşılaştırma yapmaya olanak lığı - Çevre Bakanlığı sağlamadığında, damping marjı ile ilgili olarak aşağıdaki ifadelerden hangisi yanlıştır?"
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi Hariçte İşleme İzin",
+      "cevap": "Doğru cevap: B) ",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {},
+      "dogruCevap": "B",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "\"Bedelsiz ihracat” ile ilgili olarak aşağıdaki 1- Dahilde işleme izin belgesinde taahhüt edilen Hadelerden hangisi doğrudur? ihracatı, belge sahibi firmadan tedarik ettiği in i lge sahibi ol!",
+      "cevap": "Doğru cevap: D) İhracı ön izne bağlı bir mal ilgili merciin ön kendisi ve/veya aracı ihracatçı vasıtasıyla izni alınmak koşuluyla bedelsiz olarak ihraç gerçekleştiren dahilde işleme izin belgesi sdilabilir. sahibi firma",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "A": "Bedelsiz ihracat izinleri 1 yıl süre ile geçer- Sek SHerseklesFen Balda sahibi olmayan lidir. PERT Pe R rai <üPE N in 2- Dahilde işleme izin belgesinde taahhüt edilen",
+        "B": "Bedelsiz olarak ihraç edilecek eşya standar- ihraş ürününün tamamını ya da bir kısmını dizasyon kontrolüne tabidir. —— üreten, belgede kayıtlı ancak belge sahibi",
+        "C": "İhracında Destekleme ve Fiyat İstikrar Fo- olmayan firma nu'na prim kesintisi yapılan mallar bedelsiz Szİşlem görmüş drünün tamamını vaya Bİr olarak lragadilemez. Bek kısmını üreten ve bu ürünün ihracatını",
+        "D": "İhracı ön izne bağlı bir mal ilgili merciin ön kendisi ve/veya aracı ihracatçı vasıtasıyla izni alınmak koşuluyla bedelsiz olarak ihraç gerçekleştiren dahilde işleme izin belgesi sdilabilir. sahibi firma"
+      },
+      "dogruCevap": "D",
+      "dogruCevapMetni": "İhracı ön izne bağlı bir mal ilgili merciin ön kendisi ve/veya aracı ihracatçı vasıtasıyla izni alınmak koşuluyla bedelsiz olarak ihraç gerçekleştiren dahilde işleme izin belgesi sdilabilir. sahibi firma"
+    },
+    {
+      "soru": "Dış Ticarette Teknik Düzenlemeler ve Standardi-",
+      "cevap": "Doğru cevap: C) Aracı ihracatçı — Fason imalatçı — Yan Bu Talimatlar Temelinde Verilen Onayların sanayici Karşılıklı Tanınması Koşullarına Dair Anlaşma”",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "A": "Aracı ihracatçı — Yan sanayici — İmalatçı zasyon uygulamalarıyla ilgili olarak, 20/3/1958 ihracatçı tarihli “Tekerlekli Araçların, Araçlara Takılan",
+        "B": "İhracatçı — Fason imalatçı — Belge sahibi velveya Araçlarda Kullanılan Aksam ve Parça- firma ların Müşterek Teknik Talimatlarının Kabulü ve",
+        "C": "Aracı ihracatçı — Fason imalatçı — Yan Bu Talimatlar Temelinde Verilen Onayların sanayici Karşılıklı Tanınması Koşullarına Dair Anlaşma”",
+        "D": "İhracatçı — İmalatçı ihracatçı - Yan sanayici kapsamında verilen ve otomotiv ürünlerinin"
+      },
+      "dogruCevap": "C",
+      "dogruCevapMetni": "Aracı ihracatçı — Fason imalatçı — Yan Bu Talimatlar Temelinde Verilen Onayların sanayici Karşılıklı Tanınması Koşullarına Dair Anlaşma”"
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi İthalatta Korunma bılara iliştirilmek üzere 5.000 USD tutarında Önlemleri Hakkında Karar uyarınca alınabilecek etiket ithalatı korunma önlemleri arasında yer almaz?",
+      "cevap": "Doğru cevap: A) İthalatın belirli süreyle durdurulması",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "B": "Tarife kontenjanı uygulanması TV ithalatı",
+        "A": "İthalatın belirli süreyle durdurulması",
+        "C": "Gümrük vergisinde artış yapılması",
+        "D": "Miktar/değer kısıtlamasına gidilmesi üzere buğday ithalatı 44-"
+      },
+      "dogruCevap": "A",
+      "dogruCevapMetni": "İthalatın belirli süreyle durdurulması"
+    },
+    {
+      "soru": "Genelleştirilmiş Tercihler Sistemi hangi Belgesi ve Hariçte İşleme İzin süresi ile ilgili ürünlere uygulanmaktadır? olarak doğrudur? . . .",
+      "cevap": "Doğru cevap: B) Hariçte İşleme İzin Belgesi/Hariçte İşleme İzin Topluluğu (AKÇT) ürünleri hariç) yer alan süresi azami 12 aydır. Ayrıca, ilgilinin gerek- Gümrük Birliği kapsamındaki eşyaya uygu- çeli talebi üzerine ek süre verilebilir. lanır.",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "A": "Hariçte İşleme İzin Belgesi/Hariçte İşleme İzin alan tüm ürünlere uygulanır. süresi azami 12 aydır. Ayrıca, ek süre verile-",
+        "B": "Hariçte İşleme İzin Belgesi/Hariçte İşleme İzin Topluluğu (AKÇT) ürünleri hariç) yer alan süresi azami 12 aydır. Ayrıca, ilgilinin gerek- Gümrük Birliği kapsamındaki eşyaya uygu- çeli talebi üzerine ek süre verilebilir. lanır.",
+        "C": "İthalat Rejimi Kararı Eki tüm listelerde yer Hariçte İşleme İzin süresi azami 12 aydır. alan tüm ürünlere uygulanır. Ayrıca ek süre verilemez.",
+        "D": "Hariçte İşleme İzin Belgesi süresi azami 6 ay, fasılları dışındaki tüm ürünlere uygulanır. Hariçte İşleme İzin süresi azami 12 aydır."
+      },
+      "dogruCevap": "B",
+      "dogruCevapMetni": "Hariçte İşleme İzin Belgesi/Hariçte İşleme İzin Topluluğu (AKÇT) ürünleri hariç) yer alan süresi azami 12 aydır. Ayrıca, ilgilinin gerek- Gümrük Birliği kapsamındaki eşyaya uygu- çeli talebi üzerine ek süre verilebilir. lanır."
+    },
+    {
+      "soru": "Dahilde İşleme Rejimi ile ilgili olarak, aşağıda süre verilebilir. yer alan tanımlar sırasıyla neyi ifade etmek- tedir?",
+      "cevap": "Doğru cevap: A) ",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {},
+      "dogruCevap": "A",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "87. soru (PDF OCR ile tam çıkarılamadı)",
+      "cevap": "Doğru cevap: D",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {},
+      "dogruCevap": "D",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "Tekstil ve Konfeksiyon İthalatının Kayda Alın-",
+      "cevap": "Doğru cevap: D) ",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {},
+      "dogruCevap": "D",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "Milli Savunma Bakanlığı tarafından verilen teyit edilir? “Endüstriyel Kalite Güvence Seviye Belgesi” aşağıdakilerden hangisidir?",
+      "cevap": "Doğru cevap: B) ACAP Belgesi",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "A": "Uygunluk Belgesi —",
+        "B": "ACAP Belgesi",
+        "C": "GMP Belgesi",
+        "D": "Menşe Şahadetnamesi"
+      },
+      "dogruCevap": "B",
+      "dogruCevapMetni": "ACAP Belgesi"
+    },
+    {
+      "soru": "Dış Ticarette Teknik Düzenlemeler ve Standar-",
+      "cevap": "Doğru cevap: C) ",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {},
+      "dogruCevap": "C",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "Aşağıda belirtilen eşya veya eşya gruplarından",
+      "cevap": "Doğru cevap: D) ",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {},
+      "dogruCevap": "D",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "İhracatçılar, konsinye olarak gönderilen malla- rın kesin satışının yapılmasından sonra kendi-",
+      "cevap": "Doğru cevap: B) 30 C)45",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "A": "15",
+        "B": "30 C)45",
+        "C": "Gelişmekte olan ülkelere teknik yardımda izni veren İhracatçı Birlikleri Genel Sekreter- bulunma liğine ve aracı bankaya kaç gün içinde bildir-",
+        "D": "60 -15-"
+      },
+      "dogruCevap": "B",
+      "dogruCevapMetni": "30 C)45"
+    },
+    {
+      "soru": "Aşağıdaki ülkelerden hangisi ile serbest ticaret Masına İlişkin Tebliğ hükümleri uyarınca, dü- anlaşmamız (ST",
+      "cevap": "Doğru cevap: C) 60",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "A": "30 B)45",
+        "B": "Romanya",
+        "C": "60",
+        "D": "90"
+      },
+      "dogruCevap": "C",
+      "dogruCevapMetni": "60"
+    },
+    {
+      "soru": "Tedarikçi beyanının doğruluğu hangi belge ile",
+      "cevap": "Doğru cevap: A) ",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {},
+      "dogruCevap": "A",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi EUR.1 Dolaşım Sertifi- dizasyon Yönetmeliği uyarınca ihracatta zorun- kalarının teknik nedenlerle reddedilme sebep- lu standart denetimi sonucunda tüzük veya lerinden biri değildir? standardına uygun bulunduğu takdirde, ihra- catçı veya temsilcisine, gümrüklere ibraz edil-",
+      "cevap": "Doğru cevap: B) Teknik Belge kutusuna anlaşmaya taraf olmayan ülkeler-",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "A": "Uygunluk Belgesi",
+        "B": "Teknik Belge kutusuna anlaşmaya taraf olmayan ülkeler-",
+        "C": "Kontrol Belgesi den birinin yazılması",
+        "D": "EUR.1 Dolaşım Sertifikasının yetkili olmayan bir makam tarafından onaylanması"
+      },
+      "dogruCevap": "B",
+      "dogruCevapMetni": "Teknik Belge kutusuna anlaşmaya taraf olmayan ülkeler-"
+    },
+    {
+      "soru": "Serbest ticaret anlaşmaları kapsamında menşe bağlı mallardan değildir? ispatından muafiyet için ticari mahiyette olma- yan yolcu zati ve hediyelik eşyasının kıymeti en",
+      "cevap": "Doğru cevap: C) Ham lületaşı ve taslak pipo",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "A": "100 B)1000 — C)1200 —",
+        "B": "Orijinal bağırsak",
+        "C": "Ham lületaşı ve taslak pipo",
+        "D": "Nükleer Tedarikçiler Grubu kapsamındaki"
+      },
+      "dogruCevap": "C",
+      "dogruCevapMetni": "Ham lületaşı ve taslak pipo"
+    },
+    {
+      "soru": "Dünya Ticaret Örgütü'nün işlevleri hakkında aşağıdakilerden hangisi yanlıştır?",
+      "cevap": "Doğru cevap: D) ",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {},
+      "dogruCevap": "D",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "Temel olarak Ankara Anlaşması'nın gümrüklerle ilgili hükümlerinin uygulanmasının izlenmesi amacıyla kurulan Gümrük İşbirliği Komitesi hangi karar veya anlaşma ile kurulmuştur?",
+      "cevap": "Doğru cevap: A) 2/69 sayılı Ortaklık Konseyi Kararı",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "A": "2/69 sayılı Ortaklık Konseyi Kararı",
+        "B": "Ankara Anlaşması",
+        "C": "Roma Anlaşması",
+        "D": "Helsinki Kararı"
+      },
+      "dogruCevap": "A",
+      "dogruCevapMetni": "2/69 sayılı Ortaklık Konseyi Kararı"
+    },
+    {
+      "soru": "Genelleştirilmiş Tercihler Sistemi çerçevesinde, Türk menşeli ürünlerin Genelleştirilmiş Tercih- ler Sistemi kapsamında kümülasyon hüküm- lerinden yararlanabilmesini sağlamak üzere kullanılan \"Menşe İspat Belgesi\" aşağıdakiler- den hangisidir?",
+      "cevap": "Doğru cevap: B) Çad",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {
+        "A": "Moğolistan",
+        "B": "Çad",
+        "C": "Şili",
+        "D": "Tunus CEVAPLARINIZI KONTROL EDİNİZ. -16-"
+      },
+      "dogruCevap": "B",
+      "dogruCevapMetni": "Çad"
+    },
+    {
+      "soru": "100. soru (PDF OCR ile tam çıkarılamadı)",
+      "cevap": "Doğru cevap: B",
+      "kategori": "Gumruk Musavirligi 2006 On Eleme",
+      "secenekler": {},
+      "dogruCevap": "B",
+      "dogruCevapMetni": ""
+    }
+  ]
+}
