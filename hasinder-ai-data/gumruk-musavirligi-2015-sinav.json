@@ -1,0 +1,3532 @@
+{
+  "dataset": [
+    {
+      "soru": "1. soru - A seçeneği: \"Eşyanın kanuna aykırı olarak girişini gerçekleştiren kişiler\" ne demek?",
+      "cevap": "Eşyanın kanuna aykırı olarak girişini gerçekleştiren kişiler — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 1,
+      "secenek": "A"
+    },
+    {
+      "soru": "1. soru - B seçeneği: \"Eşyanın kanuna aykırı girişine iştirak eden ve girişin kanun\" ne demek?",
+      "cevap": "Eşyanın kanuna aykırı girişine iştirak eden ve girişin kanuna aykırı olduğunu bilen veya normal olarak bilmesi gereken kişiler — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 1,
+      "secenek": "B"
+    },
+    {
+      "soru": "1. soru - C seçeneği: \"Eşyayı elde eden veya elinde bulunduran ve bu eşyayı elde et\" ne demek?",
+      "cevap": "Eşyayı elde eden veya elinde bulunduran ve bu eşyayı elde ettiği veya aldığı sırada eşyanın kanuna aykırı olarak girdiğini bilen veya normal olarak bilmesi gereken kişiler — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 1,
+      "secenek": "C"
+    },
+    {
+      "soru": "1. soru - D seçeneği: \"Eşyayı üreten kişiler\" ne demek?",
+      "cevap": "Eşyayı üreten kişiler — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 1,
+      "secenek": "D"
+    },
+    {
+      "soru": "1. 4458 sayılı Gümrük Kanunu’na göre, ithalat vergilerine  tabi eşyanın gümrük vergilerinden aşağıdakilerden hangisi sorumlu değildir?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Eşyanın kanuna aykırı olarak girişini gerçekleştiren kişiler",
+        "B": "Eşyanın kanuna aykırı girişine iştirak eden ve girişin kanuna aykırı olduğunu bilen veya normal olarak bilmesi gereken kişiler",
+        "C": "Eşyayı elde eden veya elinde bulunduran ve bu eşyayı elde ettiği veya aldığı sırada eşyanın kanuna aykırı olarak girdiğini bilen veya normal olarak bilmesi gereken kişiler",
+        "D": "Eşyayı üreten kişiler",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Eşyanın kanuna aykırı olarak girişini gerçekleştiren kişiler — Bu yanlış cevaptır.",
+        "B": "Eşyanın kanuna aykırı girişine iştirak eden ve girişin kanuna aykırı olduğunu bilen veya normal olarak bilmesi gereken kişiler — Bu yanlış cevaptır.",
+        "C": "Eşyayı elde eden veya elinde bulunduran ve bu eşyayı elde ettiği veya aldığı sırada eşyanın kanuna aykırı olarak girdiğini bilen veya normal olarak bilmesi gereken kişiler — Bu yanlış cevaptır.",
+        "D": "Eşyayı üreten kişiler — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "2. soru - A seçeneği: \"İhracat vergilerine tabi eşyanın gümrük beyanında bulunulmak\" ne demek?",
+      "cevap": "İhracat vergilerine tabi eşyanın gümrük beyanında bulunulmaksızın Türkiye Gümrük Bölgesi dışına çıkartılması hâlinde gümrük yükümlülüğü doğar. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 2,
+      "secenek": "A"
+    },
+    {
+      "soru": "2. soru - B seçeneği: \"Gümrük yükümlülüğü, ihracat vergilerine tabi eşyanın, fiilen\" ne demek?",
+      "cevap": "Gümrük yükümlülüğü, ihracat vergilerine tabi eşyanın, fiilen Türkiye Gümrük Bölgesi dışına çıktığı tarihte başlar. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 2,
+      "secenek": "B"
+    },
+    {
+      "soru": "2. soru - C seçeneği: \"İhracat vergilerine tabi eşyayı Türkiye Gümrük Bölgesi dışın\" ne demek?",
+      "cevap": "İhracat vergilerine tabi eşyayı Türkiye Gümrük Bölgesi dışına çıkaran, bu fiile iştirak eden, beyanda bulunulması gerektiğini bildiği veya bilmesi gerektiği hâlde bulunmayan kişiler, gümrük vergilerinden sorumludur. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 2,
+      "secenek": "C"
+    },
+    {
+      "soru": "2. soru - D seçeneği: \"İhracat vergilerine tabi eşyayı üreten kişiler söz konusu eş\" ne demek?",
+      "cevap": "İhracat vergilerine tabi eşyayı üreten kişiler söz konusu eşyanın Türkiye Gümrük Bölgesi dışına çıkartılması hâlindeki gümrük yükümlülüğünden müteselsilen sorumludurlar. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 2,
+      "secenek": "D"
+    },
+    {
+      "soru": "2. 4458 sayılı Gümrük Kanunu’na göre, ihracat vergilerine  tabi eşyaların gümrük yükümlülüğüne ilişkin olarak aşağıdakilerden hangisi yanlıştır?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "İhracat vergilerine tabi eşyanın gümrük beyanında bulunulmaksızın Türkiye Gümrük Bölgesi dışına çıkartılması hâlinde gümrük yükümlülüğü doğar.",
+        "B": "Gümrük yükümlülüğü, ihracat vergilerine tabi eşyanın, fiilen Türkiye Gümrük Bölgesi dışına çıktığı tarihte başlar.",
+        "C": "İhracat vergilerine tabi eşyayı Türkiye Gümrük Bölgesi dışına çıkaran, bu fiile iştirak eden, beyanda bulunulması gerektiğini bildiği veya bilmesi gerektiği hâlde bulunmayan kişiler, gümrük vergilerinden sorumludur.",
+        "D": "İhracat vergilerine tabi eşyayı üreten kişiler söz konusu eşyanın Türkiye Gümrük Bölgesi dışına çıkartılması hâlindeki gümrük yükümlülüğünden müteselsilen sorumludurlar.",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "İhracat vergilerine tabi eşyanın gümrük beyanında bulunulmaksızın Türkiye Gümrük Bölgesi dışına çıkartılması hâlinde gümrük yükümlülüğü doğar. — Bu yanlış cevaptır.",
+        "B": "Gümrük yükümlülüğü, ihracat vergilerine tabi eşyanın, fiilen Türkiye Gümrük Bölgesi dışına çıktığı tarihte başlar. — Bu yanlış cevaptır.",
+        "C": "İhracat vergilerine tabi eşyayı Türkiye Gümrük Bölgesi dışına çıkaran, bu fiile iştirak eden, beyanda bulunulması gerektiğini bildiği veya bilmesi gerektiği hâlde bulunmayan kişiler, gümrük vergilerinden sorumludur. — Bu yanlış cevaptır.",
+        "D": "İhracat vergilerine tabi eşyayı üreten kişiler söz konusu eşyanın Türkiye Gümrük Bölgesi dışına çıkartılması hâlindeki gümrük yükümlülüğünden müteselsilen sorumludurlar. — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "3. soru - A seçeneği: \"Türkiye Gümrük Bölgesine giriş ve çıkış gümrük kapılarından \" ne demek?",
+      "cevap": "Türkiye Gümrük Bölgesine giriş ve çıkış gümrük kapılarından yapılır. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 3,
+      "secenek": "A"
+    },
+    {
+      "soru": "3. soru - B seçeneği: \"Genel hizmete açık demiryolları gümrük yolu sayılır.\" ne demek?",
+      "cevap": "Genel hizmete açık demiryolları gümrük yolu sayılır. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 3,
+      "secenek": "B"
+    },
+    {
+      "soru": "3. soru - C seçeneği: \"Türkiye Gümrük Bölgesi içinden, demiryolundan başka kara taş\" ne demek?",
+      "cevap": "Türkiye Gümrük Bölgesi içinden, demiryolundan başka kara taşıtları ile ancak sınırdaki yetkili bir gümrük idaresine eşya getirilebilir. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 3,
+      "secenek": "C"
+    },
+    {
+      "soru": "3. soru - D seçeneği: \"Türkiye Gümrük Bölgesine yürütülerek getirilecek hayvanlar, \" ne demek?",
+      "cevap": "Türkiye Gümrük Bölgesine yürütülerek getirilecek hayvanlar, sağlık kontrolü yapılabilen gümrük kapılarından girebilir. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 3,
+      "secenek": "D"
+    },
+    {
+      "soru": "3. 4458 sayılı Gümrük Kanunu’na göre, Taşıtların Türkiye  Gümrük Bölgesine Giriş ve Çıkışı ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Türkiye Gümrük Bölgesine giriş ve çıkış gümrük kapılarından yapılır.",
+        "B": "Genel hizmete açık demiryolları gümrük yolu sayılır.",
+        "C": "Türkiye Gümrük Bölgesi içinden, demiryolundan başka kara taşıtları ile ancak sınırdaki yetkili bir gümrük idaresine eşya getirilebilir.",
+        "D": "Türkiye Gümrük Bölgesine yürütülerek getirilecek hayvanlar, sağlık kontrolü yapılabilen gümrük kapılarından girebilir.",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Türkiye Gümrük Bölgesine giriş ve çıkış gümrük kapılarından yapılır. — Bu yanlış cevaptır.",
+        "B": "Genel hizmete açık demiryolları gümrük yolu sayılır. — Bu yanlış cevaptır.",
+        "C": "Türkiye Gümrük Bölgesi içinden, demiryolundan başka kara taşıtları ile ancak sınırdaki yetkili bir gümrük idaresine eşya getirilebilir. — Bu yanlış cevaptır.",
+        "D": "Türkiye Gümrük Bölgesine yürütülerek getirilecek hayvanlar, sağlık kontrolü yapılabilen gümrük kapılarından girebilir. — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "4. soru - A seçeneği: \"Kanunen ödenmemeleri gerektiği hâlde ödenmiş olduğu belirlen\" ne demek?",
+      "cevap": "Kanunen ödenmemeleri gerektiği hâlde ödenmiş olduğu belirlenen gümrük vergileri geri verilmez. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 4,
+      "secenek": "A"
+    },
+    {
+      "soru": "4. soru - B seçeneği: \"Kanunen ödenmemesi veya tahakkuk ettirilmemesi gereken gümrü\" ne demek?",
+      "cevap": "Kanunen ödenmemesi veya tahakkuk ettirilmemesi gereken gümrük vergileri ilgili kişinin kasten yaptığı bir tahrifat sonucunda ödenmiş veya tahakkuk ettirilmişse, bu vergilerin geri verilmesine veya kaldırılmasına ilişkin talepler kabul edilmez. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 4,
+      "secenek": "B"
+    },
+    {
+      "soru": "4. soru - C seçeneği: \"Kanunen ödenmemeleri gereken gümrük vergileri, söz konusu ve\" ne demek?",
+      "cevap": "Kanunen ödenmemeleri gereken gümrük vergileri, söz konusu vergilerin yükümlüye tebliğ edilmesi ve ilgilinin üç yıl içinde gümrük idaresine müracaatı üzerine geri verilir veya kaldırılır. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 4,
+      "secenek": "C"
+    },
+    {
+      "soru": "4. soru - D seçeneği: \"Kanunen tahakkuk ettirilmemeleri gerektiği hâlde tahakkuk et\" ne demek?",
+      "cevap": "Kanunen tahakkuk ettirilmemeleri gerektiği hâlde tahakkuk ettirilen gümrük vergileri kaldırılır. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 4,
+      "secenek": "D"
+    },
+    {
+      "soru": "4. 4458 sayılı Gümrük Kanunu’na göre, Vergilerin Geri  Verilmesi veya Kaldırılması konusuyla ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Kanunen ödenmemeleri gerektiği hâlde ödenmiş olduğu belirlenen gümrük vergileri geri verilmez.",
+        "B": "Kanunen ödenmemesi veya tahakkuk ettirilmemesi gereken gümrük vergileri ilgili kişinin kasten yaptığı bir tahrifat sonucunda ödenmiş veya tahakkuk ettirilmişse, bu vergilerin geri verilmesine veya kaldırılmasına ilişkin talepler kabul edilmez.",
+        "C": "Kanunen ödenmemeleri gereken gümrük vergileri, söz konusu vergilerin yükümlüye tebliğ edilmesi ve ilgilinin üç yıl içinde gümrük idaresine müracaatı üzerine geri verilir veya kaldırılır.",
+        "D": "Kanunen tahakkuk ettirilmemeleri gerektiği hâlde tahakkuk ettirilen gümrük vergileri kaldırılır.",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Kanunen ödenmemeleri gerektiği hâlde ödenmiş olduğu belirlenen gümrük vergileri geri verilmez. — Bu yanlış cevaptır.",
+        "B": "Kanunen ödenmemesi veya tahakkuk ettirilmemesi gereken gümrük vergileri ilgili kişinin kasten yaptığı bir tahrifat sonucunda ödenmiş veya tahakkuk ettirilmişse, bu vergilerin geri verilmesine veya kaldırılmasına ilişkin talepler kabul edilmez. — Bu yanlış cevaptır.",
+        "C": "Kanunen ödenmemeleri gereken gümrük vergileri, söz konusu vergilerin yükümlüye tebliğ edilmesi ve ilgilinin üç yıl içinde gümrük idaresine müracaatı üzerine geri verilir veya kaldırılır. — Bu yanlış cevaptır.",
+        "D": "Kanunen tahakkuk ettirilmemeleri gerektiği hâlde tahakkuk ettirilen gümrük vergileri kaldırılır. — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "5. soru - A seçeneği: \"Gümrük kontrolü\" ne demek?",
+      "cevap": "Gümrük kontrolü — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 5,
+      "secenek": "A"
+    },
+    {
+      "soru": "5. soru - B seçeneği: \"Gümrük beyanı\" ne demek?",
+      "cevap": "Gümrük beyanı — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 5,
+      "secenek": "B"
+    },
+    {
+      "soru": "5. soru - C seçeneği: \"Gümrük gözetimi\" ne demek?",
+      "cevap": "Gümrük gözetimi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 5,
+      "secenek": "C"
+    },
+    {
+      "soru": "5. soru - D seçeneği: \"Gümrük statüsü\" ne demek?",
+      "cevap": "Gümrük statüsü — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 5,
+      "secenek": "D"
+    },
+    {
+      "soru": "5. 4458 sayılı Gümrük Kanunu’na göre, “belirlenen usul  ve esaslar çerçevesinde eşyanın bir gümrük rejimine tabi tutulması talebinde bulunulması” aşağıdakilerden hangisidir?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Gümrük kontrolü",
+        "B": "Gümrük beyanı",
+        "C": "Gümrük gözetimi",
+        "D": "Gümrük statüsü",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Gümrük kontrolü — Bu yanlış cevaptır.",
+        "B": "Gümrük beyanı — Bu yanlış cevaptır.",
+        "C": "Gümrük gözetimi — Bu yanlış cevaptır.",
+        "D": "Gümrük statüsü — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "6. soru - A seçeneği: \"Bütün kişiler, gümrük mevzuatı ile öngörülen tasarrufları ve\" ne demek?",
+      "cevap": "Bütün kişiler, gümrük mevzuatı ile öngörülen tasarrufları ve işlemleri gerçekleştirmek üzere gümrük idarelerindeki işleri için bir temsilci tayin edebilirler. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 6,
+      "secenek": "A"
+    },
+    {
+      "soru": "6. soru - B seçeneği: \"Temsil doğrudan veya dolaylı olabilir.\" ne demek?",
+      "cevap": "Temsil doğrudan veya dolaylı olabilir. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 6,
+      "secenek": "B"
+    },
+    {
+      "soru": "6. soru - C seçeneği: \"Temsilci doğrudan temsil durumunda kendi adına ve hesabına h\" ne demek?",
+      "cevap": "Temsilci doğrudan temsil durumunda kendi adına ve hesabına hareket eder. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 6,
+      "secenek": "C"
+    },
+    {
+      "soru": "6. soru - D seçeneği: \"Transit taşımacılık yapan veya arızi olarak beyanda bulunan \" ne demek?",
+      "cevap": "Transit taşımacılık yapan veya arızi olarak beyanda bulunan kişiler hariç olmak üzere, temsilci Türkiye Gümrük Bölgesinde yerleşik bulunan kişilerdir. 1 \tDiğer sayfaya geçiniz. 26 ARALIK 2015 — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 6,
+      "secenek": "D"
+    },
+    {
+      "soru": "6. 4458 sayılı Gümrük Kanunu’na göre, Temsil Hakkı ve  Yetkilendirilmiş Yükümlü ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Bütün kişiler, gümrük mevzuatı ile öngörülen tasarrufları ve işlemleri gerçekleştirmek üzere gümrük idarelerindeki işleri için bir temsilci tayin edebilirler.",
+        "B": "Temsil doğrudan veya dolaylı olabilir.",
+        "C": "Temsilci doğrudan temsil durumunda kendi adına ve hesabına hareket eder.",
+        "D": "Transit taşımacılık yapan veya arızi olarak beyanda bulunan kişiler hariç olmak üzere, temsilci Türkiye Gümrük Bölgesinde yerleşik bulunan kişilerdir. 1 \tDiğer sayfaya geçiniz. 26 ARALIK 2015",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Bütün kişiler, gümrük mevzuatı ile öngörülen tasarrufları ve işlemleri gerçekleştirmek üzere gümrük idarelerindeki işleri için bir temsilci tayin edebilirler. — Bu yanlış cevaptır.",
+        "B": "Temsil doğrudan veya dolaylı olabilir. — Bu yanlış cevaptır.",
+        "C": "Temsilci doğrudan temsil durumunda kendi adına ve hesabına hareket eder. — Bu yanlış cevaptır.",
+        "D": "Transit taşımacılık yapan veya arızi olarak beyanda bulunan kişiler hariç olmak üzere, temsilci Türkiye Gümrük Bölgesinde yerleşik bulunan kişilerdir. 1 \tDiğer sayfaya geçiniz. 26 ARALIK 2015 — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "7. soru - A seçeneği: \"Kararın yanlış veya eksik bilgilere dayanılarak verilmesi hâ\" ne demek?",
+      "cevap": "Kararın yanlış veya eksik bilgilere dayanılarak verilmesi hâlinde — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 7,
+      "secenek": "A"
+    },
+    {
+      "soru": "7. soru - B seçeneği: \"Başvuru sahibinin kararın yanlışlığı veya eksikliğini bilmes\" ne demek?",
+      "cevap": "Başvuru sahibinin kararın yanlışlığı veya eksikliğini bilmesi gerektiği hâllerde — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 7,
+      "secenek": "B"
+    },
+    {
+      "soru": "7. soru - C seçeneği: \"Kararın doğru veya tam bilgilere dayanılarak verilmesinin mü\" ne demek?",
+      "cevap": "Kararın doğru veya tam bilgilere dayanılarak verilmesinin mümkün olmamasının tespiti hâlinde — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 7,
+      "secenek": "C"
+    },
+    {
+      "soru": "7. soru - D seçeneği: \"Karara esas teşkil eden bir veya birden fazla koşulun gerçek\" ne demek?",
+      "cevap": "Karara esas teşkil eden bir veya birden fazla koşulun gerçekleşmemiş veya gerçekleşemez olması hâlinde — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 7,
+      "secenek": "D"
+    },
+    {
+      "soru": "7. 4458 sayılı Gümrük Kanunu’na göre, aşağıdaki  hâllerden hangisinde ilgilinin lehine olan karar değiştirilir veya iptal edilebilir?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Kararın yanlış veya eksik bilgilere dayanılarak verilmesi hâlinde",
+        "B": "Başvuru sahibinin kararın yanlışlığı veya eksikliğini bilmesi gerektiği hâllerde",
+        "C": "Kararın doğru veya tam bilgilere dayanılarak verilmesinin mümkün olmamasının tespiti hâlinde",
+        "D": "Karara esas teşkil eden bir veya birden fazla koşulun gerçekleşmemiş veya gerçekleşemez olması hâlinde",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Kararın yanlış veya eksik bilgilere dayanılarak verilmesi hâlinde — Bu yanlış cevaptır.",
+        "B": "Başvuru sahibinin kararın yanlışlığı veya eksikliğini bilmesi gerektiği hâllerde — Bu yanlış cevaptır.",
+        "C": "Kararın doğru veya tam bilgilere dayanılarak verilmesinin mümkün olmamasının tespiti hâlinde — Bu yanlış cevaptır.",
+        "D": "Karara esas teşkil eden bir veya birden fazla koşulun gerçekleşmemiş veya gerçekleşemez olması hâlinde — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "8. soru - A seçeneği: \"1 \tB) 2 \tC) 3 \tD) 4\" ne demek?",
+      "cevap": "1 \tB) 2 \tC) 3 \tD) 4 — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 8,
+      "secenek": "A"
+    },
+    {
+      "soru": "8. 4458 sayılı Gümrük Kanunu’na göre, bağlayıcı menşe  bilgisi veriliş tarihinden itibaren kaç yıl geçerlidir?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "1 \tB) 2 \tC) 3 \tD) 4",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "1 \tB) 2 \tC) 3 \tD) 4 — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "9. soru - A seçeneği: \"Kanun\" ne demek?",
+      "cevap": "Kanun — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 9,
+      "secenek": "A"
+    },
+    {
+      "soru": "9. soru - B seçeneği: \"Kanun Hükmünde Kararname\" ne demek?",
+      "cevap": "Kanun Hükmünde Kararname — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 9,
+      "secenek": "B"
+    },
+    {
+      "soru": "9. soru - C seçeneği: \"Yönetmelik\" ne demek?",
+      "cevap": "Yönetmelik — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 9,
+      "secenek": "C"
+    },
+    {
+      "soru": "9. soru - D seçeneği: \"Yönerge\" ne demek?",
+      "cevap": "Yönerge — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 9,
+      "secenek": "D"
+    },
+    {
+      "soru": "9. 4458 sayılı Gümrük Kanunu’na göre, Menşe  şahadetnamesi aranacak hâller ile menşe şahadetnamelerinin şekli ve içereceği bilgilere ilişkin usul ve esaslar aşağıdakilerden hangisi ile belirlenir?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Kanun",
+        "B": "Kanun Hükmünde Kararname",
+        "C": "Yönetmelik",
+        "D": "Yönerge",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Kanun — Bu yanlış cevaptır.",
+        "B": "Kanun Hükmünde Kararname — Bu yanlış cevaptır.",
+        "C": "Yönetmelik — Bu yanlış cevaptır.",
+        "D": "Yönerge — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "10. soru - A seçeneği: \"Brüt ağırlığa atıfta bulunulan hâllerde kapların ağırlıkları\" ne demek?",
+      "cevap": "Brüt ağırlığa atıfta bulunulan hâllerde kapların ağırlıkları toplamı olarak değerlendirilir. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 10,
+      "secenek": "A"
+    },
+    {
+      "soru": "10. soru - B seçeneği: \"Net ağırlığa atıfta bulunulan hâllerde eşyanın kendi ağırlığ\" ne demek?",
+      "cevap": "Net ağırlığa atıfta bulunulan hâllerde eşyanın kendi ağırlığı olarak değerlendirilir. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 10,
+      "secenek": "B"
+    },
+    {
+      "soru": "10. soru - C seçeneği: \"Sadece ağırlığa atıfta bulunulan hâllerde eşyanın kendi ağır\" ne demek?",
+      "cevap": "Sadece ağırlığa atıfta bulunulan hâllerde eşyanın kendi ağırlığı değerlendirilir. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 10,
+      "secenek": "C"
+    },
+    {
+      "soru": "10. soru - D seçeneği: \"Brüt ağırlığı üzerinden vergiye tabi eşya ambalajsız geldiği\" ne demek?",
+      "cevap": "Brüt ağırlığı üzerinden vergiye tabi eşya ambalajsız geldiği takdirde, söz konusu eşya bulunduğu hâldeki ağırlığı üzerinden vergiye tabi tutulur. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 10,
+      "secenek": "D"
+    },
+    {
+      "soru": "10. 4458 sayılı Gümrük Kanunu’na göre, Gümrük  tarifesinde ağırlık esasına göre vergiye tabi eşyada, vergiye esas ağırlıklar ile bazı pozisyon ve alt pozisyonların kapsamının belirlenmesine esas alınan ağırlıklar ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Brüt ağırlığa atıfta bulunulan hâllerde kapların ağırlıkları toplamı olarak değerlendirilir.",
+        "B": "Net ağırlığa atıfta bulunulan hâllerde eşyanın kendi ağırlığı olarak değerlendirilir.",
+        "C": "Sadece ağırlığa atıfta bulunulan hâllerde eşyanın kendi ağırlığı değerlendirilir.",
+        "D": "Brüt ağırlığı üzerinden vergiye tabi eşya ambalajsız geldiği takdirde, söz konusu eşya bulunduğu hâldeki ağırlığı üzerinden vergiye tabi tutulur.",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Brüt ağırlığa atıfta bulunulan hâllerde kapların ağırlıkları toplamı olarak değerlendirilir. — Bu yanlış cevaptır.",
+        "B": "Net ağırlığa atıfta bulunulan hâllerde eşyanın kendi ağırlığı olarak değerlendirilir. — Bu yanlış cevaptır.",
+        "C": "Sadece ağırlığa atıfta bulunulan hâllerde eşyanın kendi ağırlığı değerlendirilir. — Bu yanlış cevaptır.",
+        "D": "Brüt ağırlığı üzerinden vergiye tabi eşya ambalajsız geldiği takdirde, söz konusu eşya bulunduğu hâldeki ağırlığı üzerinden vergiye tabi tutulur. — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "11. soru - A seçeneği: \"Demiryolu katarları ve düzenli sefer yapan deniz, nehir, kar\" ne demek?",
+      "cevap": "Demiryolu katarları ve düzenli sefer yapan deniz, nehir, kara ve hava taşıtları gece ve gündüzün her saatinde Gümrük Bölgesine girip çıkabilirler. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 11,
+      "secenek": "A"
+    },
+    {
+      "soru": "11. soru - B seçeneği: \"Düzensiz seferli olan ve yolcu getiren deniz, nehir, kara ve\" ne demek?",
+      "cevap": "Düzensiz seferli olan ve yolcu getiren deniz, nehir, kara ve hava taşıtları gece ve gündüzün her saatinde Gümrük Bölgesine girip çıkabilirler. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 11,
+      "secenek": "B"
+    },
+    {
+      "soru": "11. soru - C seçeneği: \"İşletme teşkilatı bulunan limanlarda, gemiler gece ve gündüz\" ne demek?",
+      "cevap": "İşletme teşkilatı bulunan limanlarda, gemiler gece ve gündüzün her saatinde yük ve yolcu alıp çıkarabilirler. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 11,
+      "secenek": "C"
+    },
+    {
+      "soru": "11. soru - D seçeneği: \"Yolcu ve turist taşıyan her türlü gemi mesai saatleri içinde\" ne demek?",
+      "cevap": "Yolcu ve turist taşıyan her türlü gemi mesai saatleri içinde gümrük idaresi bulunan bir limana girip çıkabilir. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 11,
+      "secenek": "D"
+    },
+    {
+      "soru": "11. 4458 sayılı Gümrük Kanunu’na göre, Türkiye Gümrük  Bölgesine giriş ve çıkış ile gümrük idarelerindeki her türlü gümrük işlemlerinin çalışma saatleri ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Demiryolu katarları ve düzenli sefer yapan deniz, nehir, kara ve hava taşıtları gece ve gündüzün her saatinde Gümrük Bölgesine girip çıkabilirler.",
+        "B": "Düzensiz seferli olan ve yolcu getiren deniz, nehir, kara ve hava taşıtları gece ve gündüzün her saatinde Gümrük Bölgesine girip çıkabilirler.",
+        "C": "İşletme teşkilatı bulunan limanlarda, gemiler gece ve gündüzün her saatinde yük ve yolcu alıp çıkarabilirler.",
+        "D": "Yolcu ve turist taşıyan her türlü gemi mesai saatleri içinde gümrük idaresi bulunan bir limana girip çıkabilir.",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Demiryolu katarları ve düzenli sefer yapan deniz, nehir, kara ve hava taşıtları gece ve gündüzün her saatinde Gümrük Bölgesine girip çıkabilirler. — Bu yanlış cevaptır.",
+        "B": "Düzensiz seferli olan ve yolcu getiren deniz, nehir, kara ve hava taşıtları gece ve gündüzün her saatinde Gümrük Bölgesine girip çıkabilirler. — Bu yanlış cevaptır.",
+        "C": "İşletme teşkilatı bulunan limanlarda, gemiler gece ve gündüzün her saatinde yük ve yolcu alıp çıkarabilirler. — Bu yanlış cevaptır.",
+        "D": "Yolcu ve turist taşıyan her türlü gemi mesai saatleri içinde gümrük idaresi bulunan bir limana girip çıkabilir. — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "12. soru - A seçeneği: \"Özet beyan, eşyanın Türkiye Gümrük Bölgesine getirilmesinden\" ne demek?",
+      "cevap": "Özet beyan, eşyanın Türkiye Gümrük Bölgesine getirilmesinden sonra verilir. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 12,
+      "secenek": "A"
+    },
+    {
+      "soru": "12. soru - B seçeneği: \"Özet beyan, giriş gümrük idaresine verilir.\" ne demek?",
+      "cevap": "Özet beyan, giriş gümrük idaresine verilir. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 12,
+      "secenek": "B"
+    },
+    {
+      "soru": "12. soru - C seçeneği: \"Özet beyanın şekli ve içeriği gerekli bilgileri kapsayacak ş\" ne demek?",
+      "cevap": "Özet beyanın şekli ve içeriği gerekli bilgileri kapsayacak şekilde kanun ile belirlenir. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 12,
+      "secenek": "C"
+    },
+    {
+      "soru": "12. soru - D seçeneği: \"Özet beyanın gerekli ayrıntıları içermesi hâlinde ticari bil\" ne demek?",
+      "cevap": "Özet beyanın gerekli ayrıntıları içermesi hâlinde ticari bilgiler ile taşıma bilgilerinin kullanılmasına gerek yoktur. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 12,
+      "secenek": "D"
+    },
+    {
+      "soru": "12. 4458 sayılı Gümrük Kanunu’na göre, Özet Beyan ve  Eşyanın Türkiye Gümrük Bölgesine Girmesi ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Özet beyan, eşyanın Türkiye Gümrük Bölgesine getirilmesinden sonra verilir.",
+        "B": "Özet beyan, giriş gümrük idaresine verilir.",
+        "C": "Özet beyanın şekli ve içeriği gerekli bilgileri kapsayacak şekilde kanun ile belirlenir.",
+        "D": "Özet beyanın gerekli ayrıntıları içermesi hâlinde ticari bilgiler ile taşıma bilgilerinin kullanılmasına gerek yoktur.",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Özet beyan, eşyanın Türkiye Gümrük Bölgesine getirilmesinden sonra verilir. — Bu yanlış cevaptır.",
+        "B": "Özet beyan, giriş gümrük idaresine verilir. — Bu yanlış cevaptır.",
+        "C": "Özet beyanın şekli ve içeriği gerekli bilgileri kapsayacak şekilde kanun ile belirlenir. — Bu yanlış cevaptır.",
+        "D": "Özet beyanın gerekli ayrıntıları içermesi hâlinde ticari bilgiler ile taşıma bilgilerinin kullanılmasına gerek yoktur. — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "13. soru - A seçeneği: \"15 \tB) 30 \tC) 45 \tD) 60\" ne demek?",
+      "cevap": "15 \tB) 30 \tC) 45 \tD) 60 — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 13,
+      "secenek": "A"
+    },
+    {
+      "soru": "13. 4458 sayılı Gümrük Kanunu’na göre, özet beyan  kapsamındaki eşyaya, gümrükçe onaylanmış bir işlem veya kullanım belirlenerek, buna ilişkin işlemler; deniz yolu ile gelen eşya için, özet beyanın verildiği tarihten itibaren kaç gün içinde tamamlanır?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "15 \tB) 30 \tC) 45 \tD) 60",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "15 \tB) 30 \tC) 45 \tD) 60 — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "14. soru - A seçeneği: \"Türkiye’de yerleşik olmayan yabancı firmalara ait proforma f\" ne demek?",
+      "cevap": "Türkiye’de yerleşik olmayan yabancı firmalara ait proforma faturalar hariç boş faturalar — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 14,
+      "secenek": "A"
+    },
+    {
+      "soru": "14. soru - B seçeneği: \"Patent antlaşması yabancı firmaların eşyası\" ne demek?",
+      "cevap": "Patent antlaşması yabancı firmaların eşyası — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 14,
+      "secenek": "B"
+    },
+    {
+      "soru": "14. soru - C seçeneği: \"Yabancı dille yazılı etiket\" ne demek?",
+      "cevap": "Yabancı dille yazılı etiket — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 14,
+      "secenek": "C"
+    },
+    {
+      "soru": "14. soru - D seçeneği: \"Yabancı dille basılı damga 2 \tDiğer sayfaya geçiniz. 26 ARAL\" ne demek?",
+      "cevap": "Yabancı dille basılı damga 2 \tDiğer sayfaya geçiniz. 26 ARALIK 2015 — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 14,
+      "secenek": "D"
+    },
+    {
+      "soru": "14. 4458 sayılı Gümrük Kanunu’na göre, Gümrükçe  Onaylanmış İşlem veya Kullanım ile ilgili aşağıdakilerden hangisinin Türkiye’de ithaline izin verilir?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Türkiye’de yerleşik olmayan yabancı firmalara ait proforma faturalar hariç boş faturalar",
+        "B": "Patent antlaşması yabancı firmaların eşyası",
+        "C": "Yabancı dille yazılı etiket",
+        "D": "Yabancı dille basılı damga 2 \tDiğer sayfaya geçiniz. 26 ARALIK 2015",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Türkiye’de yerleşik olmayan yabancı firmalara ait proforma faturalar hariç boş faturalar — Bu yanlış cevaptır.",
+        "B": "Patent antlaşması yabancı firmaların eşyası — Bu yanlış cevaptır.",
+        "C": "Yabancı dille yazılı etiket — Bu yanlış cevaptır.",
+        "D": "Yabancı dille basılı damga 2 \tDiğer sayfaya geçiniz. 26 ARALIK 2015 — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "15. soru - A seçeneği: \"İşlem görmüş ürünlerin imali için ithal eşyasının yerine kul\" ne demek?",
+      "cevap": "İşlem görmüş ürünlerin imali için ithal eşyasının yerine kullanılan serbest dolaşımda bulunan eşya — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 15,
+      "secenek": "A"
+    },
+    {
+      "soru": "15. soru - B seçeneği: \"İşleme faaliyetleri sonucunda elde edilen tüm ürünler\" ne demek?",
+      "cevap": "İşleme faaliyetleri sonucunda elde edilen tüm ürünler — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 15,
+      "secenek": "B"
+    },
+    {
+      "soru": "15. soru - C seçeneği: \"İşleme faaliyetleri sonucunda elde edilen işlem görmüş ürün \" ne demek?",
+      "cevap": "İşleme faaliyetleri sonucunda elde edilen işlem görmüş ürün dışındaki ürünler — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 15,
+      "secenek": "C"
+    },
+    {
+      "soru": "15. soru - D seçeneği: \"Dahilde işleme rejimi kapsamında elde edilmesi amaçlanan ürü\" ne demek?",
+      "cevap": "Dahilde işleme rejimi kapsamında elde edilmesi amaçlanan ürün — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 15,
+      "secenek": "D"
+    },
+    {
+      "soru": "15. 4458 sayılı Gümrük Kanunu’na göre, “asıl işlem  görmüş ürün” deyimi aşağıda verilen hangi anlama gelir?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "İşlem görmüş ürünlerin imali için ithal eşyasının yerine kullanılan serbest dolaşımda bulunan eşya",
+        "B": "İşleme faaliyetleri sonucunda elde edilen tüm ürünler",
+        "C": "İşleme faaliyetleri sonucunda elde edilen işlem görmüş ürün dışındaki ürünler",
+        "D": "Dahilde işleme rejimi kapsamında elde edilmesi amaçlanan ürün",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "İşlem görmüş ürünlerin imali için ithal eşyasının yerine kullanılan serbest dolaşımda bulunan eşya — Bu yanlış cevaptır.",
+        "B": "İşleme faaliyetleri sonucunda elde edilen tüm ürünler — Bu yanlış cevaptır.",
+        "C": "İşleme faaliyetleri sonucunda elde edilen işlem görmüş ürün dışındaki ürünler — Bu yanlış cevaptır.",
+        "D": "Dahilde işleme rejimi kapsamında elde edilmesi amaçlanan ürün — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "16. soru - A seçeneği: \"Kota kapsamında tarife önlemleri uygulanan eşya\" ne demek?",
+      "cevap": "Kota kapsamında tarife önlemleri uygulanan eşya — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 16,
+      "secenek": "A"
+    },
+    {
+      "soru": "16. soru - B seçeneği: \"İhracat miktar kısıtlamasına tabi olan eşya\" ne demek?",
+      "cevap": "İhracat miktar kısıtlamasına tabi olan eşya — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 16,
+      "secenek": "B"
+    },
+    {
+      "soru": "16. soru - C seçeneği: \"Tarım politikası çerçevesinde ithalat veya ihracat lisansı v\" ne demek?",
+      "cevap": "Tarım politikası çerçevesinde ithalat veya ihracat lisansı veya sertifikasının ibrazını gerektiren eşya — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 16,
+      "secenek": "C"
+    },
+    {
+      "soru": "16. soru - D seçeneği: \"İşlem görmüş ürün için ihracat iadesi veya vergisi mevcut eş\" ne demek?",
+      "cevap": "İşlem görmüş ürün için ihracat iadesi veya vergisi mevcut eşya — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 16,
+      "secenek": "D"
+    },
+    {
+      "soru": "16. 4458 sayılı Gümrük Kanunu’na göre, serbest dolaşıma  giriş beyannamesinin tescili sırasında aşağıda verilen hangi eşya için geri ödeme sistemi uygulanır?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Kota kapsamında tarife önlemleri uygulanan eşya",
+        "B": "İhracat miktar kısıtlamasına tabi olan eşya",
+        "C": "Tarım politikası çerçevesinde ithalat veya ihracat lisansı veya sertifikasının ibrazını gerektiren eşya",
+        "D": "İşlem görmüş ürün için ihracat iadesi veya vergisi mevcut eşya",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Kota kapsamında tarife önlemleri uygulanan eşya — Bu yanlış cevaptır.",
+        "B": "İhracat miktar kısıtlamasına tabi olan eşya — Bu yanlış cevaptır.",
+        "C": "Tarım politikası çerçevesinde ithalat veya ihracat lisansı veya sertifikasının ibrazını gerektiren eşya — Bu yanlış cevaptır.",
+        "D": "İşlem görmüş ürün için ihracat iadesi veya vergisi mevcut eşya — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "17. soru - A seçeneği: \"6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun h\" ne demek?",
+      "cevap": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre belirlenen gecikme zammı oranında gecikme faizi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 17,
+      "secenek": "A"
+    },
+    {
+      "soru": "17. soru - B seçeneği: \"5326 sayılı Kabahatler Kanunu hükümlerine göre belirlenen ge\" ne demek?",
+      "cevap": "5326 sayılı Kabahatler Kanunu hükümlerine göre belirlenen gecikme zammı oranında gecikme faizi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 17,
+      "secenek": "B"
+    },
+    {
+      "soru": "17. soru - C seçeneği: \"Türkiye Cumhuriyet Merkez Bankası tarafından belirlenen rees\" ne demek?",
+      "cevap": "Türkiye Cumhuriyet Merkez Bankası tarafından belirlenen reeskont faizi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 17,
+      "secenek": "C"
+    },
+    {
+      "soru": "17. soru - D seçeneği: \"6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun k\" ne demek?",
+      "cevap": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun kapsamında tecil faizi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 17,
+      "secenek": "D"
+    },
+    {
+      "soru": "17. 4458 sayılı Gümrük Kanunu’na göre, uzlaşılan  vergilerin alınması gerektiği tarihten itibaren uzlaşma tutanağının imzalandığı tarihe kadar geçen süre için uygulanan faiz aşağıdakilerden hangisidir?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre belirlenen gecikme zammı oranında gecikme faizi",
+        "B": "5326 sayılı Kabahatler Kanunu hükümlerine göre belirlenen gecikme zammı oranında gecikme faizi",
+        "C": "Türkiye Cumhuriyet Merkez Bankası tarafından belirlenen reeskont faizi",
+        "D": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun kapsamında tecil faizi",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre belirlenen gecikme zammı oranında gecikme faizi — Bu yanlış cevaptır.",
+        "B": "5326 sayılı Kabahatler Kanunu hükümlerine göre belirlenen gecikme zammı oranında gecikme faizi — Bu yanlış cevaptır.",
+        "C": "Türkiye Cumhuriyet Merkez Bankası tarafından belirlenen reeskont faizi — Bu yanlış cevaptır.",
+        "D": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun kapsamında tecil faizi — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "18. soru - A seçeneği: \"1 hafta \tB) 1 ay\" ne demek?",
+      "cevap": "1 hafta \tB) 1 ay — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 18,
+      "secenek": "A"
+    },
+    {
+      "soru": "18. soru - C seçeneği: \"45 gün \tD) 2 ay\" ne demek?",
+      "cevap": "45 gün \tD) 2 ay — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 18,
+      "secenek": "C"
+    },
+    {
+      "soru": "18. 4458 sayılı Gümrük Kanunu’na göre, uzlaşma konusu  yapılan gümrük vergileri ve cezalar, uzlaşma gerçekleştiği takdirde, uzlaşma tutanağının tebliğinden itibaren ne kadar süre içinde ödenir?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "1 hafta \tB) 1 ay",
+        "B": "",
+        "C": "45 gün \tD) 2 ay",
+        "D": "",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "1 hafta \tB) 1 ay — Bu yanlış cevaptır.",
+        "C": "45 gün \tD) 2 ay — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "19. soru - A seçeneği: \"7 gün \tB) 15 gün\" ne demek?",
+      "cevap": "7 gün \tB) 15 gün — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 19,
+      "secenek": "A"
+    },
+    {
+      "soru": "19. soru - C seçeneği: \"30 gün \tD) 60 gün\" ne demek?",
+      "cevap": "30 gün \tD) 60 gün — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 19,
+      "secenek": "C"
+    },
+    {
+      "soru": "19. 4458 sayılı Gümrük Kanunu’na göre, yükümlüler,  kendilerine tebliğ edilen gümrük vergileri, cezalar ve idari kararlara karşı tebliğ tarihinden itibaren kaç gün içinde bir üst makama, üst makam yoksa aynı makama verecekleri bir dilekçe ile itiraz edebilir?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "7 gün \tB) 15 gün",
+        "B": "",
+        "C": "30 gün \tD) 60 gün",
+        "D": "",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "7 gün \tB) 15 gün — Bu yanlış cevaptır.",
+        "C": "30 gün \tD) 60 gün — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "20. soru - A seçeneği: \"Gümrük antrepo rejimine tabi tutulan eşyanın, antrepolara ko\" ne demek?",
+      "cevap": "Gümrük antrepo rejimine tabi tutulan eşyanın, antrepolara konuldukları tarihte işleticiler tarafından kayıtlara geçirilmemesi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 20,
+      "secenek": "A"
+    },
+    {
+      "soru": "20. soru - B seçeneği: \"Geçici ithalat rejimi kapsamında Türkiye Gümrük Bölgesine ge\" ne demek?",
+      "cevap": "Geçici ithalat rejimi kapsamında Türkiye Gümrük Bölgesine getirilen eşyanın verilen sürenin bitimini takiben iki ayı aşmayan sürede yeniden ihraç edilmesi veya gümrükçe onaylanmış bir işlem veya kullanıma tabi tutulması — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 20,
+      "secenek": "B"
+    },
+    {
+      "soru": "20. soru - C seçeneği: \"Geçici olarak Türkiye Gümrük Bölgesi dışına çıkarılan eşyanı\" ne demek?",
+      "cevap": "Geçici olarak Türkiye Gümrük Bölgesi dışına çıkarılan eşyanın verilen süreyi aştıktan sonra geri getirilmesi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 20,
+      "secenek": "C"
+    },
+    {
+      "soru": "20. soru - D seçeneği: \"Serbest bölgelerde çalışan veya buralara giren ve çıkan kişi\" ne demek?",
+      "cevap": "Serbest bölgelerde çalışan veya buralara giren ve çıkan kişilerin bu Kanunla konulmuş kurallara uymaması — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 20,
+      "secenek": "D"
+    },
+    {
+      "soru": "20. 4458 sayılı Gümrük Kanunu’na göre, Usulsüzlük cezası  aşağıdaki hangi hâllerde belirtilen miktarın dört katı olarak uygulanır?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Gümrük antrepo rejimine tabi tutulan eşyanın, antrepolara konuldukları tarihte işleticiler tarafından kayıtlara geçirilmemesi",
+        "B": "Geçici ithalat rejimi kapsamında Türkiye Gümrük Bölgesine getirilen eşyanın verilen sürenin bitimini takiben iki ayı aşmayan sürede yeniden ihraç edilmesi veya gümrükçe onaylanmış bir işlem veya kullanıma tabi tutulması",
+        "C": "Geçici olarak Türkiye Gümrük Bölgesi dışına çıkarılan eşyanın verilen süreyi aştıktan sonra geri getirilmesi",
+        "D": "Serbest bölgelerde çalışan veya buralara giren ve çıkan kişilerin bu Kanunla konulmuş kurallara uymaması",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Gümrük antrepo rejimine tabi tutulan eşyanın, antrepolara konuldukları tarihte işleticiler tarafından kayıtlara geçirilmemesi — Bu yanlış cevaptır.",
+        "B": "Geçici ithalat rejimi kapsamında Türkiye Gümrük Bölgesine getirilen eşyanın verilen sürenin bitimini takiben iki ayı aşmayan sürede yeniden ihraç edilmesi veya gümrükçe onaylanmış bir işlem veya kullanıma tabi tutulması — Bu yanlış cevaptır.",
+        "C": "Geçici olarak Türkiye Gümrük Bölgesi dışına çıkarılan eşyanın verilen süreyi aştıktan sonra geri getirilmesi — Bu yanlış cevaptır.",
+        "D": "Serbest bölgelerde çalışan veya buralara giren ve çıkan kişilerin bu Kanunla konulmuş kurallara uymaması — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "21. soru - A seçeneği: \"Uzlaşmanın vaki olmaması hâlinde duran dava açma süresinin b\" ne demek?",
+      "cevap": "Uzlaşmanın vaki olmaması hâlinde duran dava açma süresinin bitimine yedi günden az kalmış olması hâlinde süre yedi gün uzar. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 21,
+      "secenek": "A"
+    },
+    {
+      "soru": "21. soru - B seçeneği: \"Uzlaşma konusu yapılan alacaklar, uzlaşma gerçekleştiği takd\" ne demek?",
+      "cevap": "Uzlaşma konusu yapılan alacaklar, uzlaşma gerçekleştiği takdirde uzlaşma tutanağının tebliğinden itibaren genel usullere göre bir ay içinde ödenir. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 21,
+      "secenek": "B"
+    },
+    {
+      "soru": "21. soru - C seçeneği: \"Uzlaşmaya ilişkin toplantı sonucunda uzlaşma vaki olmamışsa \" ne demek?",
+      "cevap": "Uzlaşmaya ilişkin toplantı sonucunda uzlaşma vaki olmamışsa bu husus, uzlaşma vaki olmuşsa uzlaşılan tutarlar ilgili gümrük müdürlüğüne bildirilir. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 21,
+      "secenek": "C"
+    },
+    {
+      "soru": "21. soru - D seçeneği: \"Uzlaşma talebi, yükümlüye tebliğ edilen alacakların tamamı i\" ne demek?",
+      "cevap": "Uzlaşma talebi, yükümlüye tebliğ edilen alacakların tamamı için yapılabileceği gibi vergiler ve cezaların tür itibarıyla bir kısmı için de yapılabilir. 3 \tDiğer sayfaya geçiniz. 26 ARALIK 2015 — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 21,
+      "secenek": "D"
+    },
+    {
+      "soru": "21. Gümrük Uzlaşma Yönetmeliği’ne göre, uzlaşma ile ilgili  olarak aşağıdakilerden hangisi yanlıştır?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Uzlaşmanın vaki olmaması hâlinde duran dava açma süresinin bitimine yedi günden az kalmış olması hâlinde süre yedi gün uzar.",
+        "B": "Uzlaşma konusu yapılan alacaklar, uzlaşma gerçekleştiği takdirde uzlaşma tutanağının tebliğinden itibaren genel usullere göre bir ay içinde ödenir.",
+        "C": "Uzlaşmaya ilişkin toplantı sonucunda uzlaşma vaki olmamışsa bu husus, uzlaşma vaki olmuşsa uzlaşılan tutarlar ilgili gümrük müdürlüğüne bildirilir.",
+        "D": "Uzlaşma talebi, yükümlüye tebliğ edilen alacakların tamamı için yapılabileceği gibi vergiler ve cezaların tür itibarıyla bir kısmı için de yapılabilir. 3 \tDiğer sayfaya geçiniz. 26 ARALIK 2015",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Uzlaşmanın vaki olmaması hâlinde duran dava açma süresinin bitimine yedi günden az kalmış olması hâlinde süre yedi gün uzar. — Bu yanlış cevaptır.",
+        "B": "Uzlaşma konusu yapılan alacaklar, uzlaşma gerçekleştiği takdirde uzlaşma tutanağının tebliğinden itibaren genel usullere göre bir ay içinde ödenir. — Bu yanlış cevaptır.",
+        "C": "Uzlaşmaya ilişkin toplantı sonucunda uzlaşma vaki olmamışsa bu husus, uzlaşma vaki olmuşsa uzlaşılan tutarlar ilgili gümrük müdürlüğüne bildirilir. — Bu yanlış cevaptır.",
+        "D": "Uzlaşma talebi, yükümlüye tebliğ edilen alacakların tamamı için yapılabileceği gibi vergiler ve cezaların tür itibarıyla bir kısmı için de yapılabilir. 3 \tDiğer sayfaya geçiniz. 26 ARALIK 2015 — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "22. soru - A seçeneği: \"Başvurunun süresi içinde yapılıp yapılmadığı hususları değer\" ne demek?",
+      "cevap": "Başvurunun süresi içinde yapılıp yapılmadığı hususları değerlendirilir. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 22,
+      "secenek": "A"
+    },
+    {
+      "soru": "22. soru - B seçeneği: \"Başvuru sahibinin maddi koşullarıyla ilgili hususlar değerle\" ne demek?",
+      "cevap": "Başvuru sahibinin maddi koşullarıyla ilgili hususlar değerlendirilir. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 22,
+      "secenek": "B"
+    },
+    {
+      "soru": "22. soru - C seçeneği: \"Alacağın uzlaşma kapsamına girip girmediği hususları değerle\" ne demek?",
+      "cevap": "Alacağın uzlaşma kapsamına girip girmediği hususları değerlendirilir. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 22,
+      "secenek": "C"
+    },
+    {
+      "soru": "22. soru - D seçeneği: \"Başvuru sahibinin başvuruda bulunma yetkisini haiz olup olma\" ne demek?",
+      "cevap": "Başvuru sahibinin başvuruda bulunma yetkisini haiz olup olmadığı hususları değerlendirilir. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 22,
+      "secenek": "D"
+    },
+    {
+      "soru": "22. Gümrük Uzlaşma Yönetmeliği’ne göre, uzlaşma  talebinin incelenmesi ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Başvurunun süresi içinde yapılıp yapılmadığı hususları değerlendirilir.",
+        "B": "Başvuru sahibinin maddi koşullarıyla ilgili hususlar değerlendirilir.",
+        "C": "Alacağın uzlaşma kapsamına girip girmediği hususları değerlendirilir.",
+        "D": "Başvuru sahibinin başvuruda bulunma yetkisini haiz olup olmadığı hususları değerlendirilir.",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Başvurunun süresi içinde yapılıp yapılmadığı hususları değerlendirilir. — Bu yanlış cevaptır.",
+        "B": "Başvuru sahibinin maddi koşullarıyla ilgili hususlar değerlendirilir. — Bu yanlış cevaptır.",
+        "C": "Alacağın uzlaşma kapsamına girip girmediği hususları değerlendirilir. — Bu yanlış cevaptır.",
+        "D": "Başvuru sahibinin başvuruda bulunma yetkisini haiz olup olmadığı hususları değerlendirilir. — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "23. soru - A seçeneği: \"Harcırah ödemeleri\" ne demek?",
+      "cevap": "Harcırah ödemeleri — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 23,
+      "secenek": "A"
+    },
+    {
+      "soru": "23. soru - B seçeneği: \"Bağış ve yardımlar\" ne demek?",
+      "cevap": "Bağış ve yardımlar — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 23,
+      "secenek": "B"
+    },
+    {
+      "soru": "23. soru - C seçeneği: \"Döner sermaye faaliyetlerinden elde edilecek kârlar\" ne demek?",
+      "cevap": "Döner sermaye faaliyetlerinden elde edilecek kârlar — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 23,
+      "secenek": "C"
+    },
+    {
+      "soru": "23. soru - D seçeneği: \"Döner sermaye faaliyetlerinde kullanılmak üzere işletmeye ve\" ne demek?",
+      "cevap": "Döner sermaye faaliyetlerinde kullanılmak üzere işletmeye verilen mallar — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 23,
+      "secenek": "D"
+    },
+    {
+      "soru": "23. Gümrük ve Ticaret Bakanlığı Döner Sermaye İşletmesi  Yönetmeliği’ne göre, aşağıdakilerden hangisi işletmelerin sermaye kaynaklarından birisi değildir?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Harcırah ödemeleri",
+        "B": "Bağış ve yardımlar",
+        "C": "Döner sermaye faaliyetlerinden elde edilecek kârlar",
+        "D": "Döner sermaye faaliyetlerinde kullanılmak üzere işletmeye verilen mallar",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Harcırah ödemeleri — Bu yanlış cevaptır.",
+        "B": "Bağış ve yardımlar — Bu yanlış cevaptır.",
+        "C": "Döner sermaye faaliyetlerinden elde edilecek kârlar — Bu yanlış cevaptır.",
+        "D": "Döner sermaye faaliyetlerinde kullanılmak üzere işletmeye verilen mallar — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "24. soru - A seçeneği: \"Laboratuvarın kalite yönetim sistemine göre yürütülmesinden \" ne demek?",
+      "cevap": "Laboratuvarın kalite yönetim sistemine göre yürütülmesinden sorumlu olmak — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 24,
+      "secenek": "A"
+    },
+    {
+      "soru": "24. soru - B seçeneği: \"Ar-Ge çalışmalarında bulunmak\" ne demek?",
+      "cevap": "Ar-Ge çalışmalarında bulunmak — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 24,
+      "secenek": "B"
+    },
+    {
+      "soru": "24. soru - C seçeneği: \"Ar-Ge çalışmalarına katılmak\" ne demek?",
+      "cevap": "Ar-Ge çalışmalarına katılmak — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 24,
+      "secenek": "C"
+    },
+    {
+      "soru": "24. soru - D seçeneği: \"Numuneleri arşivlemek\" ne demek?",
+      "cevap": "Numuneleri arşivlemek — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 24,
+      "secenek": "D"
+    },
+    {
+      "soru": "24. Gümrük Laboratuvarlarının Faaliyetleri Hakkında  Yönetmeliği göre, aşağıdakilerden hangisi laboratuvar teknik personelinin görev ve yetkilerinden birisidir?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Laboratuvarın kalite yönetim sistemine göre yürütülmesinden sorumlu olmak",
+        "B": "Ar-Ge çalışmalarında bulunmak",
+        "C": "Ar-Ge çalışmalarına katılmak",
+        "D": "Numuneleri arşivlemek",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Laboratuvarın kalite yönetim sistemine göre yürütülmesinden sorumlu olmak — Bu yanlış cevaptır.",
+        "B": "Ar-Ge çalışmalarında bulunmak — Bu yanlış cevaptır.",
+        "C": "Ar-Ge çalışmalarına katılmak — Bu yanlış cevaptır.",
+        "D": "Numuneleri arşivlemek — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "25. soru - A seçeneği: \"Türkiye Odalar ve Borsalar Birliği\" ne demek?",
+      "cevap": "Türkiye Odalar ve Borsalar Birliği — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 25,
+      "secenek": "A"
+    },
+    {
+      "soru": "25. soru - B seçeneği: \"Türk Standartları Enstitüsü\" ne demek?",
+      "cevap": "Türk Standartları Enstitüsü — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 25,
+      "secenek": "B"
+    },
+    {
+      "soru": "25. soru - C seçeneği: \"Tüketici Örgütleri Federasyonu\" ne demek?",
+      "cevap": "Tüketici Örgütleri Federasyonu — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 25,
+      "secenek": "C"
+    },
+    {
+      "soru": "25. soru - D seçeneği: \"Uluslararası Nakliyeciler Derneği\" ne demek?",
+      "cevap": "Uluslararası Nakliyeciler Derneği — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 25,
+      "secenek": "D"
+    },
+    {
+      "soru": "25. Gümrük ve Ticaret Konseyi Yönetmeliği’ne göre,  aşağıdakilerden hangisi Konseyi temsil eden kamu kesimi temsilci üyelerinden birisidir?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Türkiye Odalar ve Borsalar Birliği",
+        "B": "Türk Standartları Enstitüsü",
+        "C": "Tüketici Örgütleri Federasyonu",
+        "D": "Uluslararası Nakliyeciler Derneği",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Türkiye Odalar ve Borsalar Birliği — Bu yanlış cevaptır.",
+        "B": "Türk Standartları Enstitüsü — Bu yanlış cevaptır.",
+        "C": "Tüketici Örgütleri Federasyonu — Bu yanlış cevaptır.",
+        "D": "Uluslararası Nakliyeciler Derneği — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "26. soru - A seçeneği: \"Malın arızasına ve yapılan işlemlere ilişkin bilgi\" ne demek?",
+      "cevap": "Malın arızasına ve yapılan işlemlere ilişkin bilgi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 26,
+      "secenek": "A"
+    },
+    {
+      "soru": "26. soru - B seçeneği: \"Servis istasyonu yetkilisinin imzası\" ne demek?",
+      "cevap": "Servis istasyonu yetkilisinin imzası — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 26,
+      "secenek": "B"
+    },
+    {
+      "soru": "26. soru - C seçeneği: \"Malın tüketiciye teslim tarihi\" ne demek?",
+      "cevap": "Malın tüketiciye teslim tarihi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 26,
+      "secenek": "C"
+    },
+    {
+      "soru": "26. soru - D seçeneği: \"Tüketicinin mala ilişkin şikayet ve talepleri\" ne demek?",
+      "cevap": "Tüketicinin mala ilişkin şikayet ve talepleri — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 26,
+      "secenek": "D"
+    },
+    {
+      "soru": "26. Satış Sonrası Hizmetler Yönetmeliği’ne göre, servis  istasyonlarının, kendilerine kargo ile gönderilen arızalı mallar hariç olmak üzere, kendilerine teslim edilen veya kendileri tarafından teslim alınan arızalı mallar ile ilgili malın teslim alındığına dair doldurdukları belgede aşağıdakilerden hangisinin bulunması zorunludur?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Malın arızasına ve yapılan işlemlere ilişkin bilgi",
+        "B": "Servis istasyonu yetkilisinin imzası",
+        "C": "Malın tüketiciye teslim tarihi",
+        "D": "Tüketicinin mala ilişkin şikayet ve talepleri",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Malın arızasına ve yapılan işlemlere ilişkin bilgi — Bu yanlış cevaptır.",
+        "B": "Servis istasyonu yetkilisinin imzası — Bu yanlış cevaptır.",
+        "C": "Malın tüketiciye teslim tarihi — Bu yanlış cevaptır.",
+        "D": "Tüketicinin mala ilişkin şikayet ve talepleri — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "27. soru - A seçeneği: \"Söz konusu eşyanın dahilde veya gümrük kontrolü altında işle\" ne demek?",
+      "cevap": "Söz konusu eşyanın dahilde veya gümrük kontrolü altında işleme rejimlerine tabi olarak antrepolarda yapılacak işleme faaliyetlerinde kullanılacağının beyan edilmesi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 27,
+      "secenek": "A"
+    },
+    {
+      "soru": "27. soru - B seçeneği: \"Konulacağı antreponun eşyanın tabi tutulacağı işleme faaliye\" ne demek?",
+      "cevap": "Konulacağı antreponun eşyanın tabi tutulacağı işleme faaliyetlerine elverişli olması — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 27,
+      "secenek": "B"
+    },
+    {
+      "soru": "27. soru - C seçeneği: \"Ekonomik yönden ihtiyaç bulunması\" ne demek?",
+      "cevap": "Ekonomik yönden ihtiyaç bulunması — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 27,
+      "secenek": "C"
+    },
+    {
+      "soru": "27. soru - D seçeneği: \"Gümrük gözetimini olumsuz etkilememesi\" ne demek?",
+      "cevap": "Gümrük gözetimini olumsuz etkilememesi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 27,
+      "secenek": "D"
+    },
+    {
+      "soru": "27. Gümrük Yönetmeliği’ne göre, ihracata bağlı  önlemlerden yararlanmayan serbest dolaşımda bulunan eşyanın, gümrük idaresinin izni ile ihraç amacı dışında ve antrepo rejimine tabi tutulmadan antrepolara konulabilmesi için aşağıdakilerden hangisi gerekli değildir?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Söz konusu eşyanın dahilde veya gümrük kontrolü altında işleme rejimlerine tabi olarak antrepolarda yapılacak işleme faaliyetlerinde kullanılacağının beyan edilmesi",
+        "B": "Konulacağı antreponun eşyanın tabi tutulacağı işleme faaliyetlerine elverişli olması",
+        "C": "Ekonomik yönden ihtiyaç bulunması",
+        "D": "Gümrük gözetimini olumsuz etkilememesi",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Söz konusu eşyanın dahilde veya gümrük kontrolü altında işleme rejimlerine tabi olarak antrepolarda yapılacak işleme faaliyetlerinde kullanılacağının beyan edilmesi — Bu yanlış cevaptır.",
+        "B": "Konulacağı antreponun eşyanın tabi tutulacağı işleme faaliyetlerine elverişli olması — Bu yanlış cevaptır.",
+        "C": "Ekonomik yönden ihtiyaç bulunması — Bu yanlış cevaptır.",
+        "D": "Gümrük gözetimini olumsuz etkilememesi — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "28. soru - A seçeneği: \"Yükümlüden mal alan kişi\" ne demek?",
+      "cevap": "Yükümlüden mal alan kişi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 28,
+      "secenek": "A"
+    },
+    {
+      "soru": "28. soru - B seçeneği: \"Yükümlünün temsilcisi\" ne demek?",
+      "cevap": "Yükümlünün temsilcisi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 28,
+      "secenek": "B"
+    },
+    {
+      "soru": "28. soru - C seçeneği: \"Yükümlünün kendisi\" ne demek?",
+      "cevap": "Yükümlünün kendisi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 28,
+      "secenek": "C"
+    },
+    {
+      "soru": "28. soru - D seçeneği: \"Yükümlünün özel vekaletname verilmesi şartıyla gümrük müşavi\" ne demek?",
+      "cevap": "Yükümlünün özel vekaletname verilmesi şartıyla gümrük müşaviri — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 28,
+      "secenek": "D"
+    },
+    {
+      "soru": "28. Gümrük Uzlaşma Yönetmeliği’ne göre, aşağıdakilerden  hangisi uzlaşma talebinde bulunamaz?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Yükümlüden mal alan kişi",
+        "B": "Yükümlünün temsilcisi",
+        "C": "Yükümlünün kendisi",
+        "D": "Yükümlünün özel vekaletname verilmesi şartıyla gümrük müşaviri",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Yükümlüden mal alan kişi — Bu yanlış cevaptır.",
+        "B": "Yükümlünün temsilcisi — Bu yanlış cevaptır.",
+        "C": "Yükümlünün kendisi — Bu yanlış cevaptır.",
+        "D": "Yükümlünün özel vekaletname verilmesi şartıyla gümrük müşaviri — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "29. soru - A seçeneği: \"Gümrüklenmiş değer\" ne demek?",
+      "cevap": "Gümrüklenmiş değer — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 29,
+      "secenek": "A"
+    },
+    {
+      "soru": "29. soru - B seçeneği: \"Akaryakıt\" ne demek?",
+      "cevap": "Akaryakıt — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 29,
+      "secenek": "B"
+    },
+    {
+      "soru": "29. soru - C seçeneği: \"Kaçak eşya\" ne demek?",
+      "cevap": "Kaçak eşya — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 29,
+      "secenek": "C"
+    },
+    {
+      "soru": "29. soru - D seçeneği: \"Gümrük vergileri 4 \tDiğer sayfaya geçiniz. 26 ARALIK 2015\" ne demek?",
+      "cevap": "Gümrük vergileri 4 \tDiğer sayfaya geçiniz. 26 ARALIK 2015 — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 29,
+      "secenek": "D"
+    },
+    {
+      "soru": "29. Aşağıdaki kavramlardan hangisine 5607 sayılı  Kaçakçılıkla Mücadele Kanunu’nun Tanımlar başlıklı ikinci maddesinde yer verilmemiştir?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Gümrüklenmiş değer",
+        "B": "Akaryakıt",
+        "C": "Kaçak eşya",
+        "D": "Gümrük vergileri 4 \tDiğer sayfaya geçiniz. 26 ARALIK 2015",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Gümrüklenmiş değer — Bu yanlış cevaptır.",
+        "B": "Akaryakıt — Bu yanlış cevaptır.",
+        "C": "Kaçak eşya — Bu yanlış cevaptır.",
+        "D": "Gümrük vergileri 4 \tDiğer sayfaya geçiniz. 26 ARALIK 2015 — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "30. soru - A seçeneği: \"Yalnız I \tB) Yalnız II\" ne demek?",
+      "cevap": "Yalnız I \tB) Yalnız II — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 30,
+      "secenek": "A"
+    },
+    {
+      "soru": "30. soru - B seçeneği: \"Soruşturma ve kovuşturma aşamalarında karar vermeye yetkili \" ne demek?",
+      "cevap": "Soruşturma ve kovuşturma aşamalarında karar vermeye yetkili merciler tarafından süresi içinde karar verilememesi hâlinde eşya derhal tasfiye edilir. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 30,
+      "secenek": "B"
+    },
+    {
+      "soru": "30. soru - C seçeneği: \"I ve II \tD) I ve III\" ne demek?",
+      "cevap": "I ve II \tD) I ve III — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 30,
+      "secenek": "C"
+    },
+    {
+      "soru": "30. soru - D seçeneği: \"Kovuşturma aşamasında tasfiye kararını mahkeme verir. I. Kaç\" ne demek?",
+      "cevap": "Kovuşturma aşamasında tasfiye kararını mahkeme verir. I. Kaçakçılıkla Mücadele Kanunu kapsamına giren suçlarla bağlantılı olarak resmi belgede sahtecilik suçunun işlenmesi hâlinde, davaya bakmakla görevli mahkeme ağır ceza mahkemesidir. II. Kaçakçılıkla Mücadele Kanunu kapsamına giren suçlar dolayısıyla açılan davalar İçişleri Bakanlığı’nın teklifi üzerine Hakimler ve Savcılar Yüksek Kurulu’nca belirlenen asliye ceza mahkemelerinde görülür. III. Başvuru üzerine ilgili Gümrük İdaresi açılan davaya katılan olarak kabul edilir. 5607 sayılı Kaçakçılıkla Mücadele Kanunu’na göre, yukarıda verilen Yetkili merciler ve davaya katılma ile ilgili bilgilerden hangisi/hangileri doğrudur? I. Kaçakçılık suçları olarak tanımlanan fiillerin teşebbüs aşamasında kalmaları hâlinde cezada yarı oranında indirime gidilir. II. Kaçakçılık suçlarının konusu oluşturan eşyanın değerinin fahiş olması hâlinde verilecek cezada artırıma gidilir. III. Kaçakçılık suçlarının iştirak hâlinde işlenmesi mümkün değildir. 5607 sayılı Kaçakçılıkla Mücadele Kanunu’na göre, yukarıda yer alan ifadelerden hangisi/hangileri yanlıştır? — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 30,
+      "secenek": "D"
+    },
+    {
+      "soru": "30. 5607 sayılı Kaçakçılıkla Mücadele Kanunu’na göre,  kaçak şüphesiyle el konulan kaçak akaryakıt hariç her türlü eşya hakkında yapılacak olan işleme ilişkin olarak aşağıdakilerden hangisi yanlıştır?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Yalnız I \tB) Yalnız II",
+        "B": "Soruşturma ve kovuşturma aşamalarında karar vermeye yetkili merciler tarafından süresi içinde karar verilememesi hâlinde eşya derhal tasfiye edilir.",
+        "C": "I ve II \tD) I ve III",
+        "D": "Kovuşturma aşamasında tasfiye kararını mahkeme verir. I. Kaçakçılıkla Mücadele Kanunu kapsamına giren suçlarla bağlantılı olarak resmi belgede sahtecilik suçunun işlenmesi hâlinde, davaya bakmakla görevli mahkeme ağır ceza mahkemesidir. II. Kaçakçılıkla Mücadele Kanunu kapsamına giren suçlar dolayısıyla açılan davalar İçişleri Bakanlığı’nın teklifi üzerine Hakimler ve Savcılar Yüksek Kurulu’nca belirlenen asliye ceza mahkemelerinde görülür. III. Başvuru üzerine ilgili Gümrük İdaresi açılan davaya katılan olarak kabul edilir. 5607 sayılı Kaçakçılıkla Mücadele Kanunu’na göre, yukarıda verilen Yetkili merciler ve davaya katılma ile ilgili bilgilerden hangisi/hangileri doğrudur? I. Kaçakçılık suçları olarak tanımlanan fiillerin teşebbüs aşamasında kalmaları hâlinde cezada yarı oranında indirime gidilir. II. Kaçakçılık suçlarının konusu oluşturan eşyanın değerinin fahiş olması hâlinde verilecek cezada artırıma gidilir. III. Kaçakçılık suçlarının iştirak hâlinde işlenmesi mümkün değildir. 5607 sayılı Kaçakçılıkla Mücadele Kanunu’na göre, yukarıda yer alan ifadelerden hangisi/hangileri yanlıştır?",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Yalnız I \tB) Yalnız II — Bu yanlış cevaptır.",
+        "B": "Soruşturma ve kovuşturma aşamalarında karar vermeye yetkili merciler tarafından süresi içinde karar verilememesi hâlinde eşya derhal tasfiye edilir. — Bu yanlış cevaptır.",
+        "C": "I ve II \tD) I ve III — Bu yanlış cevaptır.",
+        "D": "Kovuşturma aşamasında tasfiye kararını mahkeme verir. I. Kaçakçılıkla Mücadele Kanunu kapsamına giren suçlarla bağlantılı olarak resmi belgede sahtecilik suçunun işlenmesi hâlinde, davaya bakmakla görevli mahkeme ağır ceza mahkemesidir. II. Kaçakçılıkla Mücadele Kanunu kapsamına giren suçlar dolayısıyla açılan davalar İçişleri Bakanlığı’nın teklifi üzerine Hakimler ve Savcılar Yüksek Kurulu’nca belirlenen asliye ceza mahkemelerinde görülür. III. Başvuru üzerine ilgili Gümrük İdaresi açılan davaya katılan olarak kabul edilir. 5607 sayılı Kaçakçılıkla Mücadele Kanunu’na göre, yukarıda verilen Yetkili merciler ve davaya katılma ile ilgili bilgilerden hangisi/hangileri doğrudur? I. Kaçakçılık suçları olarak tanımlanan fiillerin teşebbüs aşamasında kalmaları hâlinde cezada yarı oranında indirime gidilir. II. Kaçakçılık suçlarının konusu oluşturan eşyanın değerinin fahiş olması hâlinde verilecek cezada artırıma gidilir. III. Kaçakçılık suçlarının iştirak hâlinde işlenmesi mümkün değildir. 5607 sayılı Kaçakçılıkla Mücadele Kanunu’na göre, yukarıda yer alan ifadelerden hangisi/hangileri yanlıştır? — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "33. soru - A seçeneği: \"Suçun kaçakçılık fiillerini önlemek, izlemek, araştırmak ve \" ne demek?",
+      "cevap": "Suçun kaçakçılık fiillerini önlemek, izlemek, araştırmak ve soruşturmakla görevli kişi tarafından işlenmesi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 33,
+      "secenek": "A"
+    },
+    {
+      "soru": "33. soru - B seçeneği: \"Suçun kamu kurum ve kuruluşlarının araç olarak kullanılması \" ne demek?",
+      "cevap": "Suçun kamu kurum ve kuruluşlarının araç olarak kullanılması suretiyle işlenmesi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 33,
+      "secenek": "B"
+    },
+    {
+      "soru": "33. soru - C seçeneği: \"Suçun bir örgütün faaliyeti çerçevesinde işlenmesi\" ne demek?",
+      "cevap": "Suçun bir örgütün faaliyeti çerçevesinde işlenmesi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 33,
+      "secenek": "C"
+    },
+    {
+      "soru": "33. soru - D seçeneği: \"Suçun üç veya daha fazla kişi tarafından birlikte işlenmesi\" ne demek?",
+      "cevap": "Suçun üç veya daha fazla kişi tarafından birlikte işlenmesi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 33,
+      "secenek": "D"
+    },
+    {
+      "soru": "33. Aşağıdakilerden hangisi 5607 sayılı Kaçakçılıkla  Mücadele Kanunu’nda kaçakçılık suçlarının nitelikli hâli olarak düzenlenmemiştir?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Suçun kaçakçılık fiillerini önlemek, izlemek, araştırmak ve soruşturmakla görevli kişi tarafından işlenmesi",
+        "B": "Suçun kamu kurum ve kuruluşlarının araç olarak kullanılması suretiyle işlenmesi",
+        "C": "Suçun bir örgütün faaliyeti çerçevesinde işlenmesi",
+        "D": "Suçun üç veya daha fazla kişi tarafından birlikte işlenmesi",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Suçun kaçakçılık fiillerini önlemek, izlemek, araştırmak ve soruşturmakla görevli kişi tarafından işlenmesi — Bu yanlış cevaptır.",
+        "B": "Suçun kamu kurum ve kuruluşlarının araç olarak kullanılması suretiyle işlenmesi — Bu yanlış cevaptır.",
+        "C": "Suçun bir örgütün faaliyeti çerçevesinde işlenmesi — Bu yanlış cevaptır.",
+        "D": "Suçun üç veya daha fazla kişi tarafından birlikte işlenmesi — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "34. soru - A seçeneği: \"İçişleri Bakanlığı Müsteşarlığı\" ne demek?",
+      "cevap": "İçişleri Bakanlığı Müsteşarlığı — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 34,
+      "secenek": "A"
+    },
+    {
+      "soru": "34. soru - B seçeneği: \"Jandarma Genel Komutanlığı\" ne demek?",
+      "cevap": "Jandarma Genel Komutanlığı — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 34,
+      "secenek": "B"
+    },
+    {
+      "soru": "34. soru - C seçeneği: \"Vali ve Kaymakamlar\" ne demek?",
+      "cevap": "Vali ve Kaymakamlar — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 34,
+      "secenek": "C"
+    },
+    {
+      "soru": "34. soru - D seçeneği: \"Gümrük Müsteşarlığı personeli\" ne demek?",
+      "cevap": "Gümrük Müsteşarlığı personeli — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 34,
+      "secenek": "D"
+    },
+    {
+      "soru": "34. 5607 sayılı Kaçakçılıkla Mücadele Kanunu’na göre,  aşağıdakilerden hangisi kaçakçılığı önleme, izleme ve araştırmakla görevli değildir?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "İçişleri Bakanlığı Müsteşarlığı",
+        "B": "Jandarma Genel Komutanlığı",
+        "C": "Vali ve Kaymakamlar",
+        "D": "Gümrük Müsteşarlığı personeli",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "İçişleri Bakanlığı Müsteşarlığı — Bu yanlış cevaptır.",
+        "B": "Jandarma Genel Komutanlığı — Bu yanlış cevaptır.",
+        "C": "Vali ve Kaymakamlar — Bu yanlış cevaptır.",
+        "D": "Gümrük Müsteşarlığı personeli — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "35. soru - A seçeneği: \"İçişleri Bakanlığı’nın görüşü alınarak münhasıran Maliye Bak\" ne demek?",
+      "cevap": "İçişleri Bakanlığı’nın görüşü alınarak münhasıran Maliye Bakanlığı tarafından çıkarılan yönetmelikle — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 35,
+      "secenek": "A"
+    },
+    {
+      "soru": "35. soru - B seçeneği: \"Maliye Bakanlığı’nın görüşü alınarak münhasıran Gümrük ve Ti\" ne demek?",
+      "cevap": "Maliye Bakanlığı’nın görüşü alınarak münhasıran Gümrük ve Ticaret Bakanlığı tarafından çıkarılan yönetmelikle — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 35,
+      "secenek": "B"
+    },
+    {
+      "soru": "35. soru - C seçeneği: \"Maliye Bakanlığı’nın görüşü alınarak Gümrük ve Ticaret Bakan\" ne demek?",
+      "cevap": "Maliye Bakanlığı’nın görüşü alınarak Gümrük ve Ticaret Bakanlığı ile İçişleri Bakanlığı tarafından müştereken çıkarılan yönetmelikle — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 35,
+      "secenek": "C"
+    },
+    {
+      "soru": "35. soru - D seçeneği: \"Maliye Bakanlığı’nın görüşü alınarak münhasıran İçişleri Bak\" ne demek?",
+      "cevap": "Maliye Bakanlığı’nın görüşü alınarak münhasıran İçişleri Bakanlığı tarafından çıkarılan yönetmelikle 5 \tDiğer sayfaya geçiniz. 26 ARALIK 2015 — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 35,
+      "secenek": "D"
+    },
+    {
+      "soru": "35. 5607 sayılı Kaçakçılıkla Mücadele Kanunu’na göre,  kaçak akaryakıtın yakalanması hâlinde, ihbar edenlere ve yakalayan kamu görevlilerine yapılacak ikramiye ödemelerine ilişkin usul ve esaslar ile ödemelere esas alınacak tutarlar ve diğer hususlar aşağıdakilerden hangisi tarafından müştereken çıkarılan yönetmelikle düzenlenir?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "İçişleri Bakanlığı’nın görüşü alınarak münhasıran Maliye Bakanlığı tarafından çıkarılan yönetmelikle",
+        "B": "Maliye Bakanlığı’nın görüşü alınarak münhasıran Gümrük ve Ticaret Bakanlığı tarafından çıkarılan yönetmelikle",
+        "C": "Maliye Bakanlığı’nın görüşü alınarak Gümrük ve Ticaret Bakanlığı ile İçişleri Bakanlığı tarafından müştereken çıkarılan yönetmelikle",
+        "D": "Maliye Bakanlığı’nın görüşü alınarak münhasıran İçişleri Bakanlığı tarafından çıkarılan yönetmelikle 5 \tDiğer sayfaya geçiniz. 26 ARALIK 2015",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "İçişleri Bakanlığı’nın görüşü alınarak münhasıran Maliye Bakanlığı tarafından çıkarılan yönetmelikle — Bu yanlış cevaptır.",
+        "B": "Maliye Bakanlığı’nın görüşü alınarak münhasıran Gümrük ve Ticaret Bakanlığı tarafından çıkarılan yönetmelikle — Bu yanlış cevaptır.",
+        "C": "Maliye Bakanlığı’nın görüşü alınarak Gümrük ve Ticaret Bakanlığı ile İçişleri Bakanlığı tarafından müştereken çıkarılan yönetmelikle — Bu yanlış cevaptır.",
+        "D": "Maliye Bakanlığı’nın görüşü alınarak münhasıran İçişleri Bakanlığı tarafından çıkarılan yönetmelikle 5 \tDiğer sayfaya geçiniz. 26 ARALIK 2015 — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "36. soru - A seçeneği: \"Üçte birinden yarısına kadar artırılır.\" ne demek?",
+      "cevap": "Üçte birinden yarısına kadar artırılır. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 36,
+      "secenek": "A"
+    },
+    {
+      "soru": "36. soru - B seçeneği: \"Dörtte birinden yarısına kadar artırılır.\" ne demek?",
+      "cevap": "Dörtte birinden yarısına kadar artırılır. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 36,
+      "secenek": "B"
+    },
+    {
+      "soru": "36. soru - C seçeneği: \"Beşte birinden yarısına kadar artırılır.\" ne demek?",
+      "cevap": "Beşte birinden yarısına kadar artırılır. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 36,
+      "secenek": "C"
+    },
+    {
+      "soru": "36. soru - D seçeneği: \"Beşte ikisinden yarısına kadar artırılır.\" ne demek?",
+      "cevap": "Beşte ikisinden yarısına kadar artırılır. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 36,
+      "secenek": "D"
+    },
+    {
+      "soru": "36. 5607 sayılı Kaçakçılıkla Mücadele Kanunu’na göre,  eşyanın gümrük kapıları dışından ülkeye sokulması hâlinde, verilecek ceza ne kadar artırılır?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Üçte birinden yarısına kadar artırılır.",
+        "B": "Dörtte birinden yarısına kadar artırılır.",
+        "C": "Beşte birinden yarısına kadar artırılır.",
+        "D": "Beşte ikisinden yarısına kadar artırılır.",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Üçte birinden yarısına kadar artırılır. — Bu yanlış cevaptır.",
+        "B": "Dörtte birinden yarısına kadar artırılır. — Bu yanlış cevaptır.",
+        "C": "Beşte birinden yarısına kadar artırılır. — Bu yanlış cevaptır.",
+        "D": "Beşte ikisinden yarısına kadar artırılır. — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "37. soru - A seçeneği: \"Yalnız I \tB) Yalnız II\" ne demek?",
+      "cevap": "Yalnız I \tB) Yalnız II — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 37,
+      "secenek": "A"
+    },
+    {
+      "soru": "37. soru - B seçeneği: \"B, dolandırıcılık suçundan sorumludur.\" ne demek?",
+      "cevap": "B, dolandırıcılık suçundan sorumludur. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 37,
+      "secenek": "B"
+    },
+    {
+      "soru": "37. soru - C seçeneği: \"I ve II \tD) I ve III\" ne demek?",
+      "cevap": "I ve II \tD) I ve III — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 37,
+      "secenek": "C"
+    },
+    {
+      "soru": "37. soru - D seçeneği: \"B, Türk Ceza Kanunu’nun 165. maddesinde tanımlanan suç eşyas\" ne demek?",
+      "cevap": "B, Türk Ceza Kanunu’nun 165. maddesinde tanımlanan suç eşyasının satın alınması veya kabul edilmesi suçundan sorumludur. I. Kaçakçılıkla Mücadele Kanunu’nda tanımlanmış olan kaçakçılık suçlarının işlenmesine iştirak etmiş olan kişi; resmi makamlar tarafından haber alındıktan sonra fiilin bütünüyle ortaya çıkmasına hizmet ve yardım ederse cezalandırılmaz. II. Kaçakçılıkla Mücadele Kanunu’nda tanımlanan suçlarla ilgili olarak 5237 sayılı Türk Ceza Kanunu’nun eşya ve kazanç müsaderesine ilişkin hükümleri uygulanmaz. III. Etkin pişmanlık dolayısıyla fail hakkında cezaya hükmolunmaması sadece suç konusu eşya ile ilgili olarak müsadere hükümlerinin uygulanmasına engel teşkil etmez. 5607 sayılı Kaçakçılıkla Mücadele Kanunu hükümlerine göre, yukarıdakilerden hangisi/hangileri yanlıştır? — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 37,
+      "secenek": "D"
+    },
+    {
+      "soru": "37. Eşyayı gümrük işlemlerine tabi tutmaksızın ülkeye sokan A,  bu eşyayı kaçak olma niteliğini bilen B’ye satmış; B, bu eşyayı kaçak olduğunu bilmeyen eşine hediye etmiştir. 5607 sayılı Kaçakçılıkla Mücadele Kanunu’na göre, söz konusu olayda B’nin ceza hukuku sorumluluğu ile ilgili aşağıdakilerden hangisi söylenebilir?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Yalnız I \tB) Yalnız II",
+        "B": "B, dolandırıcılık suçundan sorumludur.",
+        "C": "I ve II \tD) I ve III",
+        "D": "B, Türk Ceza Kanunu’nun 165. maddesinde tanımlanan suç eşyasının satın alınması veya kabul edilmesi suçundan sorumludur. I. Kaçakçılıkla Mücadele Kanunu’nda tanımlanmış olan kaçakçılık suçlarının işlenmesine iştirak etmiş olan kişi; resmi makamlar tarafından haber alındıktan sonra fiilin bütünüyle ortaya çıkmasına hizmet ve yardım ederse cezalandırılmaz. II. Kaçakçılıkla Mücadele Kanunu’nda tanımlanan suçlarla ilgili olarak 5237 sayılı Türk Ceza Kanunu’nun eşya ve kazanç müsaderesine ilişkin hükümleri uygulanmaz. III. Etkin pişmanlık dolayısıyla fail hakkında cezaya hükmolunmaması sadece suç konusu eşya ile ilgili olarak müsadere hükümlerinin uygulanmasına engel teşkil etmez. 5607 sayılı Kaçakçılıkla Mücadele Kanunu hükümlerine göre, yukarıdakilerden hangisi/hangileri yanlıştır?",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Yalnız I \tB) Yalnız II — Bu yanlış cevaptır.",
+        "B": "B, dolandırıcılık suçundan sorumludur. — Bu yanlış cevaptır.",
+        "C": "I ve II \tD) I ve III — Bu yanlış cevaptır.",
+        "D": "B, Türk Ceza Kanunu’nun 165. maddesinde tanımlanan suç eşyasının satın alınması veya kabul edilmesi suçundan sorumludur. I. Kaçakçılıkla Mücadele Kanunu’nda tanımlanmış olan kaçakçılık suçlarının işlenmesine iştirak etmiş olan kişi; resmi makamlar tarafından haber alındıktan sonra fiilin bütünüyle ortaya çıkmasına hizmet ve yardım ederse cezalandırılmaz. II. Kaçakçılıkla Mücadele Kanunu’nda tanımlanan suçlarla ilgili olarak 5237 sayılı Türk Ceza Kanunu’nun eşya ve kazanç müsaderesine ilişkin hükümleri uygulanmaz. III. Etkin pişmanlık dolayısıyla fail hakkında cezaya hükmolunmaması sadece suç konusu eşya ile ilgili olarak müsadere hükümlerinin uygulanmasına engel teşkil etmez. 5607 sayılı Kaçakçılıkla Mücadele Kanunu hükümlerine göre, yukarıdakilerden hangisi/hangileri yanlıştır? — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "39. soru - A seçeneği: \"Kurul’un sekretarya görevini yaparlar.\" ne demek?",
+      "cevap": "Kurul’un sekretarya görevini yaparlar. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 39,
+      "secenek": "A"
+    },
+    {
+      "soru": "39. soru - B seçeneği: \"Kaçakçılık ve kaçakçılık istihbaratı konusunda görüş ve tekl\" ne demek?",
+      "cevap": "Kaçakçılık ve kaçakçılık istihbaratı konusunda görüş ve tekliflerde bulunurlar. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 39,
+      "secenek": "B"
+    },
+    {
+      "soru": "39. soru - C seçeneği: \"Kurul’un aldığı kararların sonuçlarını takip ederler.\" ne demek?",
+      "cevap": "Kurul’un aldığı kararların sonuçlarını takip ederler. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 39,
+      "secenek": "C"
+    },
+    {
+      "soru": "39. soru - D seçeneği: \"Kurul’un düzenli bir şekilde toplanmasını ve çalışmasını sağ\" ne demek?",
+      "cevap": "Kurul’un düzenli bir şekilde toplanmasını ve çalışmasını sağlarlar. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 39,
+      "secenek": "D"
+    },
+    {
+      "soru": "39. Kaçakçılık İstihbarat Koordinasyon Kurulu’nun  Toplanma, Çalışma Esas ve Usulleri Hakkında Yönetmelik hükümlerine göre, aşağıdakilerden hangisi ilgili Diğer Bakanlık, Kurum ve Kuruluşların görevlerinden birisidir?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Kurul’un sekretarya görevini yaparlar.",
+        "B": "Kaçakçılık ve kaçakçılık istihbaratı konusunda görüş ve tekliflerde bulunurlar.",
+        "C": "Kurul’un aldığı kararların sonuçlarını takip ederler.",
+        "D": "Kurul’un düzenli bir şekilde toplanmasını ve çalışmasını sağlarlar.",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Kurul’un sekretarya görevini yaparlar. — Bu yanlış cevaptır.",
+        "B": "Kaçakçılık ve kaçakçılık istihbaratı konusunda görüş ve tekliflerde bulunurlar. — Bu yanlış cevaptır.",
+        "C": "Kurul’un aldığı kararların sonuçlarını takip ederler. — Bu yanlış cevaptır.",
+        "D": "Kurul’un düzenli bir şekilde toplanmasını ve çalışmasını sağlarlar. — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "40. soru - A seçeneği: \"4 \tB) 6 \tC) 8 \tD) 12\" ne demek?",
+      "cevap": "4 \tB) 6 \tC) 8 \tD) 12 — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 40,
+      "secenek": "A"
+    },
+    {
+      "soru": "40. Kaçakçılık İstihbarat Koordinasyon Kurulu’nun  Toplanma, Çalışma Esas ve Usulleri Hakkında Yönetmelik hükümlerine göre, Kaçakçılık İstihbarat Koordinasyon Kurulu kaç ayda bir toplanır?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "4 \tB) 6 \tC) 8 \tD) 12",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "4 \tB) 6 \tC) 8 \tD) 12 — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "41. soru - A seçeneği: \"Gümrükler Muhafaza Genel Müdürlüğü\" ne demek?",
+      "cevap": "Gümrükler Muhafaza Genel Müdürlüğü — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 41,
+      "secenek": "A"
+    },
+    {
+      "soru": "41. soru - B seçeneği: \"Emniyet Genel Müdürlüğü\" ne demek?",
+      "cevap": "Emniyet Genel Müdürlüğü — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 41,
+      "secenek": "B"
+    },
+    {
+      "soru": "41. soru - C seçeneği: \"Bütçe ve Mali Kontrol Genel Müdürlüğü\" ne demek?",
+      "cevap": "Bütçe ve Mali Kontrol Genel Müdürlüğü — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 41,
+      "secenek": "C"
+    },
+    {
+      "soru": "41. soru - D seçeneği: \"Adalet Bakanlığı Ceza İşleri Genel Müdürlüğü\" ne demek?",
+      "cevap": "Adalet Bakanlığı Ceza İşleri Genel Müdürlüğü — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 41,
+      "secenek": "D"
+    },
+    {
+      "soru": "41. Kaçakçılık Türleri ile İlgili Mahkumiyet Hükmü  Kesinleşenlerin Kamuoyuna İlan Edilmesine Dair Yönetmelik hükümlerine göre, “Genel Müdürlük” aşağıdakilerden hangisini ifade etmektedir?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Gümrükler Muhafaza Genel Müdürlüğü",
+        "B": "Emniyet Genel Müdürlüğü",
+        "C": "Bütçe ve Mali Kontrol Genel Müdürlüğü",
+        "D": "Adalet Bakanlığı Ceza İşleri Genel Müdürlüğü",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Gümrükler Muhafaza Genel Müdürlüğü — Bu yanlış cevaptır.",
+        "B": "Emniyet Genel Müdürlüğü — Bu yanlış cevaptır.",
+        "C": "Bütçe ve Mali Kontrol Genel Müdürlüğü — Bu yanlış cevaptır.",
+        "D": "Adalet Bakanlığı Ceza İşleri Genel Müdürlüğü — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "42. soru - A seçeneği: \"Akaryakıt\" ne demek?",
+      "cevap": "Akaryakıt — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 42,
+      "secenek": "A"
+    },
+    {
+      "soru": "42. soru - B seçeneği: \"Uyuşturucu madde\" ne demek?",
+      "cevap": "Uyuşturucu madde — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 42,
+      "secenek": "B"
+    },
+    {
+      "soru": "42. soru - C seçeneği: \"Alkollü içkiler\" ne demek?",
+      "cevap": "Alkollü içkiler — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 42,
+      "secenek": "C"
+    },
+    {
+      "soru": "42. soru - D seçeneği: \"Nükleer maddeler 6 \tDiğer sayfaya geçiniz. 26 ARALIK 2015\" ne demek?",
+      "cevap": "Nükleer maddeler 6 \tDiğer sayfaya geçiniz. 26 ARALIK 2015 — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 42,
+      "secenek": "D"
+    },
+    {
+      "soru": "42. 5607 sayılı Kaçakçılıkla Mücadele Kanunu’na Göre  Elkonulan Eşya ve Alıkonulan Taşıtlara İlişkin Uygulama Yönetmeliği uyarınca aşağıdaki maddelerden hangisi el koyan idare tarafından komisyon marifetiyle imha edilir?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Akaryakıt",
+        "B": "Uyuşturucu madde",
+        "C": "Alkollü içkiler",
+        "D": "Nükleer maddeler 6 \tDiğer sayfaya geçiniz. 26 ARALIK 2015",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Akaryakıt — Bu yanlış cevaptır.",
+        "B": "Uyuşturucu madde — Bu yanlış cevaptır.",
+        "C": "Alkollü içkiler — Bu yanlış cevaptır.",
+        "D": "Nükleer maddeler 6 \tDiğer sayfaya geçiniz. 26 ARALIK 2015 — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "43. soru - A seçeneği: \"Emniyet Genel Müdürlüğü Kaçakçılık ve Organize Suçlarla Müca\" ne demek?",
+      "cevap": "Emniyet Genel Müdürlüğü Kaçakçılık ve Organize Suçlarla Mücadele Daire Başkanı — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 43,
+      "secenek": "A"
+    },
+    {
+      "soru": "43. soru - B seçeneği: \"Gümrük ve Ticaret Bakanlığı Müsteşarı\" ne demek?",
+      "cevap": "Gümrük ve Ticaret Bakanlığı Müsteşarı — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 43,
+      "secenek": "B"
+    },
+    {
+      "soru": "43. soru - C seçeneği: \"Maliye Bakanlığı Müsteşarı\" ne demek?",
+      "cevap": "Maliye Bakanlığı Müsteşarı — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 43,
+      "secenek": "C"
+    },
+    {
+      "soru": "43. soru - D seçeneği: \"İçişleri Bakanlığı Müsteşarı veya Müsteşar Yardımcısı\" ne demek?",
+      "cevap": "İçişleri Bakanlığı Müsteşarı veya Müsteşar Yardımcısı — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 43,
+      "secenek": "D"
+    },
+    {
+      "soru": "43. Kaçakçılık İstihbarat Koordinasyon Kurulu’nun  Toplanma, Çalışma Esas ve Usulleri Hakkında Yönetmelik hükümlerine göre, aşağıdakilerden hangisi Kaçakçılık İstihbarat Koordinasyon Kurulu’nun toplantısına başkanlık eder?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Emniyet Genel Müdürlüğü Kaçakçılık ve Organize Suçlarla Mücadele Daire Başkanı",
+        "B": "Gümrük ve Ticaret Bakanlığı Müsteşarı",
+        "C": "Maliye Bakanlığı Müsteşarı",
+        "D": "İçişleri Bakanlığı Müsteşarı veya Müsteşar Yardımcısı",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Emniyet Genel Müdürlüğü Kaçakçılık ve Organize Suçlarla Mücadele Daire Başkanı — Bu yanlış cevaptır.",
+        "B": "Gümrük ve Ticaret Bakanlığı Müsteşarı — Bu yanlış cevaptır.",
+        "C": "Maliye Bakanlığı Müsteşarı — Bu yanlış cevaptır.",
+        "D": "İçişleri Bakanlığı Müsteşarı veya Müsteşar Yardımcısı — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "44. soru - A seçeneği: \"İthalat vergileri\" ne demek?",
+      "cevap": "İthalat vergileri — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 44,
+      "secenek": "A"
+    },
+    {
+      "soru": "44. soru - B seçeneği: \"Gözetim önlemleri\" ne demek?",
+      "cevap": "Gözetim önlemleri — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 44,
+      "secenek": "B"
+    },
+    {
+      "soru": "44. soru - C seçeneği: \"İthalat veya ihracat yasaklamaları\" ne demek?",
+      "cevap": "İthalat veya ihracat yasaklamaları — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 44,
+      "secenek": "C"
+    },
+    {
+      "soru": "44. soru - D seçeneği: \"Korunma önlemleri\" ne demek?",
+      "cevap": "Korunma önlemleri — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 44,
+      "secenek": "D"
+    },
+    {
+      "soru": "44. Aşağıdakilerden hangisi “ticaret politikası önlemi”  değildir?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "İthalat vergileri",
+        "B": "Gözetim önlemleri",
+        "C": "İthalat veya ihracat yasaklamaları",
+        "D": "Korunma önlemleri",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "İthalat vergileri — Bu yanlış cevaptır.",
+        "B": "Gözetim önlemleri — Bu yanlış cevaptır.",
+        "C": "İthalat veya ihracat yasaklamaları — Bu yanlış cevaptır.",
+        "D": "Korunma önlemleri — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "45. soru - A seçeneği: \"Ekonomi Bakanlığı İhracat Genel Müdürlüğü\" ne demek?",
+      "cevap": "Ekonomi Bakanlığı İhracat Genel Müdürlüğü — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 45,
+      "secenek": "A"
+    },
+    {
+      "soru": "45. soru - B seçeneği: \"İlgili Gümrük Müdürlüğü\" ne demek?",
+      "cevap": "İlgili Gümrük Müdürlüğü — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 45,
+      "secenek": "B"
+    },
+    {
+      "soru": "45. soru - C seçeneği: \"İhracatçı Birlikleri Genel Sekreterliği\" ne demek?",
+      "cevap": "İhracatçı Birlikleri Genel Sekreterliği — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 45,
+      "secenek": "C"
+    },
+    {
+      "soru": "45. soru - D seçeneği: \"Gümrük Müsteşarlığı\" ne demek?",
+      "cevap": "Gümrük Müsteşarlığı — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 45,
+      "secenek": "D"
+    },
+    {
+      "soru": "45. Gerçek veya tüzel kişiler tarafından götürülen veya  gönderilen hediyelerden değeri 250.000 USD’yi aşan eşyaların bedelsiz ihracat izinlerini vermeye yetkili makam aşağıdakilerden hangisidir?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Ekonomi Bakanlığı İhracat Genel Müdürlüğü",
+        "B": "İlgili Gümrük Müdürlüğü",
+        "C": "İhracatçı Birlikleri Genel Sekreterliği",
+        "D": "Gümrük Müsteşarlığı",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Ekonomi Bakanlığı İhracat Genel Müdürlüğü — Bu yanlış cevaptır.",
+        "B": "İlgili Gümrük Müdürlüğü — Bu yanlış cevaptır.",
+        "C": "İhracatçı Birlikleri Genel Sekreterliği — Bu yanlış cevaptır.",
+        "D": "Gümrük Müsteşarlığı — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "46. soru - A seçeneği: \"Köprü mevzuat\" ne demek?",
+      "cevap": "Köprü mevzuat — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 46,
+      "secenek": "A"
+    },
+    {
+      "soru": "46. soru - B seçeneği: \"Üçgen trafik\" ne demek?",
+      "cevap": "Üçgen trafik — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 46,
+      "secenek": "B"
+    },
+    {
+      "soru": "46. soru - C seçeneği: \"Yeniden ithalat\" ne demek?",
+      "cevap": "Yeniden ithalat — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 46,
+      "secenek": "C"
+    },
+    {
+      "soru": "46. soru - D seçeneği: \"INF sistemi\" ne demek?",
+      "cevap": "INF sistemi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 46,
+      "secenek": "D"
+    },
+    {
+      "soru": "46. Gümrük Birliği Gümrük Bölgesi’nin bir parçasından  geçici olarak ihraç edilen eşyanın üçüncü ülkede işlem görüp, Gümrük Birliği Gümrük Bölgesinin diğer parçasından kısmi veya tam muafiyet suretiyle serbest dolaşıma girmesini sağlayan sisteme ne denir?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Köprü mevzuat",
+        "B": "Üçgen trafik",
+        "C": "Yeniden ithalat",
+        "D": "INF sistemi",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Köprü mevzuat — Bu yanlış cevaptır.",
+        "B": "Üçgen trafik — Bu yanlış cevaptır.",
+        "C": "Yeniden ithalat — Bu yanlış cevaptır.",
+        "D": "INF sistemi — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "47. soru - A seçeneği: \"5.000 \tB) 10.000\" ne demek?",
+      "cevap": "5.000 \tB) 10.000 — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 47,
+      "secenek": "A"
+    },
+    {
+      "soru": "47. soru - C seçeneği: \"20.000 \tD) 30.000\" ne demek?",
+      "cevap": "20.000 \tD) 30.000 — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 47,
+      "secenek": "C"
+    },
+    {
+      "soru": "47. Giriş sınır kapılarında gümrüksüz satış mağazaları  açılabilmesi için başvuru tarihinden önceki aydan başlamak üzere on iki ay içinde en az ne kadar yolcu girişi olması gerekir?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "5.000 \tB) 10.000",
+        "B": "",
+        "C": "20.000 \tD) 30.000",
+        "D": "",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "5.000 \tB) 10.000 — Bu yanlış cevaptır.",
+        "C": "20.000 \tD) 30.000 — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "48. soru - A seçeneği: \"Yaban domuzu\" ne demek?",
+      "cevap": "Yaban domuzu — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 48,
+      "secenek": "A"
+    },
+    {
+      "soru": "48. soru - B seçeneği: \"Sığla\" ne demek?",
+      "cevap": "Sığla — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 48,
+      "secenek": "B"
+    },
+    {
+      "soru": "48. soru - C seçeneği: \"Afyon ve haşhaş kellesi\" ne demek?",
+      "cevap": "Afyon ve haşhaş kellesi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 48,
+      "secenek": "C"
+    },
+    {
+      "soru": "48. soru - D seçeneği: \"Zeytin fidanı\" ne demek?",
+      "cevap": "Zeytin fidanı — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 48,
+      "secenek": "D"
+    },
+    {
+      "soru": "48. Aşağıdaki eşyalardan hangisinin ihracı ön izne tabi  değildir?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Yaban domuzu",
+        "B": "Sığla",
+        "C": "Afyon ve haşhaş kellesi",
+        "D": "Zeytin fidanı",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Yaban domuzu — Bu yanlış cevaptır.",
+        "B": "Sığla — Bu yanlış cevaptır.",
+        "C": "Afyon ve haşhaş kellesi — Bu yanlış cevaptır.",
+        "D": "Zeytin fidanı — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "49. soru - A seçeneği: \"Bir takvim yılı içerisinde ya da belirli bir zamanda ithalat\" ne demek?",
+      "cevap": "Bir takvim yılı içerisinde ya da belirli bir zamanda ithalatın miktar ve değer olarak kısıtlanmasıdır. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 49,
+      "secenek": "A"
+    },
+    {
+      "soru": "49. soru - B seçeneği: \"Bir mal ya da mal grubunun ithalatının yasaklanması ve yurda\" ne demek?",
+      "cevap": "Bir mal ya da mal grubunun ithalatının yasaklanması ve yurda girişinin önlenmesidir. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 49,
+      "secenek": "B"
+    },
+    {
+      "soru": "49. soru - C seçeneği: \"Bir mal ya da mal grubunun gümrük vergisi oranlarında belirl\" ne demek?",
+      "cevap": "Bir mal ya da mal grubunun gümrük vergisi oranlarında belirli bir miktar veya değer için indirim yapılması veya muafiyet sağlanmasıdır. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 49,
+      "secenek": "C"
+    },
+    {
+      "soru": "49. soru - D seçeneği: \"Bir mal ya da mal grubunun gümrük vergisi oranlarında belirl\" ne demek?",
+      "cevap": "Bir mal ya da mal grubunun gümrük vergisi oranlarında belirli bir dönem için indirim uygulanmasıdır. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 49,
+      "secenek": "D"
+    },
+    {
+      "soru": "49. Tarife kotasının tanımı aşağıdakilerden hangisinde  doğru verilmiştir?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Bir takvim yılı içerisinde ya da belirli bir zamanda ithalatın miktar ve değer olarak kısıtlanmasıdır.",
+        "B": "Bir mal ya da mal grubunun ithalatının yasaklanması ve yurda girişinin önlenmesidir.",
+        "C": "Bir mal ya da mal grubunun gümrük vergisi oranlarında belirli bir miktar veya değer için indirim yapılması veya muafiyet sağlanmasıdır.",
+        "D": "Bir mal ya da mal grubunun gümrük vergisi oranlarında belirli bir dönem için indirim uygulanmasıdır.",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Bir takvim yılı içerisinde ya da belirli bir zamanda ithalatın miktar ve değer olarak kısıtlanmasıdır. — Bu yanlış cevaptır.",
+        "B": "Bir mal ya da mal grubunun ithalatının yasaklanması ve yurda girişinin önlenmesidir. — Bu yanlış cevaptır.",
+        "C": "Bir mal ya da mal grubunun gümrük vergisi oranlarında belirli bir miktar veya değer için indirim yapılması veya muafiyet sağlanmasıdır. — Bu yanlış cevaptır.",
+        "D": "Bir mal ya da mal grubunun gümrük vergisi oranlarında belirli bir dönem için indirim uygulanmasıdır. — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "50. soru - A seçeneği: \"Yabancı firma olması hâlinde, yabancı firmanın bu işte kulla\" ne demek?",
+      "cevap": "Yabancı firma olması hâlinde, yabancı firmanın bu işte kullanacağı malları üreten imalatçı firmaların yapacakları satış ve teslimleri — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 50,
+      "secenek": "A"
+    },
+    {
+      "soru": "50. soru - B seçeneği: \"Yerli firma olması hâlinde, uluslararası ihalelerde tamamı ü\" ne demek?",
+      "cevap": "Yerli firma olması hâlinde, uluslararası ihalelerde tamamı üzerinden, imalatçı firmalar tarafından üretilerek bu firmalara yapılan satış ve teslimleri — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 50,
+      "secenek": "B"
+    },
+    {
+      "soru": "50. soru - C seçeneği: \"Yerli ve yabancı firmaların ortaklığı şeklinde olması hâlind\" ne demek?",
+      "cevap": "Yerli ve yabancı firmaların ortaklığı şeklinde olması hâlinde, hem yerli hem de yabancı firmalara kendi faaliyetleri oranında imalatçı firmaların üreterek yapacakları satış ve teslimleri — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 50,
+      "secenek": "C"
+    },
+    {
+      "soru": "50. soru - D seçeneği: \"Yabancı para ile finanse edilenlerde yabancı paraya isabet e\" ne demek?",
+      "cevap": "Yabancı para ile finanse edilenlerde yabancı paraya isabet eden oranda imalatçı firmalar tarafından üretilerek bu firmalara yapılan satış ve teslimleri 7 \tDiğer sayfaya geçiniz. 26 ARALIK 2015 — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 50,
+      "secenek": "D"
+    },
+    {
+      "soru": "50. Aşağıdakilerden hangisi yatırım programında yer alan  kamu yatırımlarından uluslararası ihaleye çıkarılanların ihalesini kazanan veya yabancı para ile finanse edilenlerin yapımını üstlenen firmaların “ihracat sayılan satış ve teslimleri” arasında yer almaz?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Yabancı firma olması hâlinde, yabancı firmanın bu işte kullanacağı malları üreten imalatçı firmaların yapacakları satış ve teslimleri",
+        "B": "Yerli firma olması hâlinde, uluslararası ihalelerde tamamı üzerinden, imalatçı firmalar tarafından üretilerek bu firmalara yapılan satış ve teslimleri",
+        "C": "Yerli ve yabancı firmaların ortaklığı şeklinde olması hâlinde, hem yerli hem de yabancı firmalara kendi faaliyetleri oranında imalatçı firmaların üreterek yapacakları satış ve teslimleri",
+        "D": "Yabancı para ile finanse edilenlerde yabancı paraya isabet eden oranda imalatçı firmalar tarafından üretilerek bu firmalara yapılan satış ve teslimleri 7 \tDiğer sayfaya geçiniz. 26 ARALIK 2015",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Yabancı firma olması hâlinde, yabancı firmanın bu işte kullanacağı malları üreten imalatçı firmaların yapacakları satış ve teslimleri — Bu yanlış cevaptır.",
+        "B": "Yerli firma olması hâlinde, uluslararası ihalelerde tamamı üzerinden, imalatçı firmalar tarafından üretilerek bu firmalara yapılan satış ve teslimleri — Bu yanlış cevaptır.",
+        "C": "Yerli ve yabancı firmaların ortaklığı şeklinde olması hâlinde, hem yerli hem de yabancı firmalara kendi faaliyetleri oranında imalatçı firmaların üreterek yapacakları satış ve teslimleri — Bu yanlış cevaptır.",
+        "D": "Yabancı para ile finanse edilenlerde yabancı paraya isabet eden oranda imalatçı firmalar tarafından üretilerek bu firmalara yapılan satış ve teslimleri 7 \tDiğer sayfaya geçiniz. 26 ARALIK 2015 — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "51. soru - A seçeneği: \"İhracat azalır.\" ne demek?",
+      "cevap": "İhracat azalır. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 51,
+      "secenek": "A"
+    },
+    {
+      "soru": "51. soru - B seçeneği: \"Döviz kuru artar.\" ne demek?",
+      "cevap": "Döviz kuru artar. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 51,
+      "secenek": "B"
+    },
+    {
+      "soru": "51. soru - C seçeneği: \"Faiz yükselir.\" ne demek?",
+      "cevap": "Faiz yükselir. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 51,
+      "secenek": "C"
+    },
+    {
+      "soru": "51. soru - D seçeneği: \"Maliye politikası etkin değildir.\" ne demek?",
+      "cevap": "Maliye politikası etkin değildir. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 51,
+      "secenek": "D"
+    },
+    {
+      "soru": "51. Mundell-Fleming Modeli’nde esnek döviz kuru  sisteminin uygulandığı durumda aşağıdakilerden hangisi kamu harcamasının artışı sonuçlarından birisi değildir?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "İhracat azalır.",
+        "B": "Döviz kuru artar.",
+        "C": "Faiz yükselir.",
+        "D": "Maliye politikası etkin değildir.",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "İhracat azalır. — Bu yanlış cevaptır.",
+        "B": "Döviz kuru artar. — Bu yanlış cevaptır.",
+        "C": "Faiz yükselir. — Bu yanlış cevaptır.",
+        "D": "Maliye politikası etkin değildir. — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "52. soru - A seçeneği: \"Yönlendirilmiş sabit aralık kur sistemi\" ne demek?",
+      "cevap": "Yönlendirilmiş sabit aralık kur sistemi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 52,
+      "secenek": "A"
+    },
+    {
+      "soru": "52. soru - B seçeneği: \"Ayarlanabilir sabit kur sistemi\" ne demek?",
+      "cevap": "Ayarlanabilir sabit kur sistemi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 52,
+      "secenek": "B"
+    },
+    {
+      "soru": "52. soru - C seçeneği: \"Dalgalı döviz kuru sistemi\" ne demek?",
+      "cevap": "Dalgalı döviz kuru sistemi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 52,
+      "secenek": "C"
+    },
+    {
+      "soru": "52. soru - D seçeneği: \"Yöneltilen döviz kuru sistemi\" ne demek?",
+      "cevap": "Yöneltilen döviz kuru sistemi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 52,
+      "secenek": "D"
+    },
+    {
+      "soru": "52. Sabitlenen döviz kurunun enflasyon oranının, dış  ticaret açığı ve uluslararası rezervler gibi göstergelere bakılarak sıkça değiştirildiği uygulama aşağıdakilerden hangisidir?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Yönlendirilmiş sabit aralık kur sistemi",
+        "B": "Ayarlanabilir sabit kur sistemi",
+        "C": "Dalgalı döviz kuru sistemi",
+        "D": "Yöneltilen döviz kuru sistemi",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Yönlendirilmiş sabit aralık kur sistemi — Bu yanlış cevaptır.",
+        "B": "Ayarlanabilir sabit kur sistemi — Bu yanlış cevaptır.",
+        "C": "Dalgalı döviz kuru sistemi — Bu yanlış cevaptır.",
+        "D": "Yöneltilen döviz kuru sistemi — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "53. soru - A seçeneği: \"Ticaret Saptırma Etkisi\" ne demek?",
+      "cevap": "Ticaret Saptırma Etkisi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 53,
+      "secenek": "A"
+    },
+    {
+      "soru": "53. soru - B seçeneği: \"Dalgalı Döviz Kuru Sistemi\" ne demek?",
+      "cevap": "Dalgalı Döviz Kuru Sistemi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 53,
+      "secenek": "B"
+    },
+    {
+      "soru": "53. soru - C seçeneği: \"Mill-Bastable Testi\" ne demek?",
+      "cevap": "Mill-Bastable Testi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 53,
+      "secenek": "C"
+    },
+    {
+      "soru": "53. soru - D seçeneği: \"Marshall Lerner Koşulu\" ne demek?",
+      "cevap": "Marshall Lerner Koşulu — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 53,
+      "secenek": "D"
+    },
+    {
+      "soru": "53. Dalgalı Kur Sistemi’nde döviz kuru arttığı zaman  ihracatın artabilmesi ve ithalatın kısılabilmesi için ihraç malı ve ithal malı esnekliklerinin yüksek olması aşağıdakilerden hangisi ile tanımlanır?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Ticaret Saptırma Etkisi",
+        "B": "Dalgalı Döviz Kuru Sistemi",
+        "C": "Mill-Bastable Testi",
+        "D": "Marshall Lerner Koşulu",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Ticaret Saptırma Etkisi — Bu yanlış cevaptır.",
+        "B": "Dalgalı Döviz Kuru Sistemi — Bu yanlış cevaptır.",
+        "C": "Mill-Bastable Testi — Bu yanlış cevaptır.",
+        "D": "Marshall Lerner Koşulu — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "54. soru - A seçeneği: \"Karşılaştırmalı Üstünlükler Teorisi\" ne demek?",
+      "cevap": "Karşılaştırmalı Üstünlükler Teorisi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 54,
+      "secenek": "A"
+    },
+    {
+      "soru": "54. soru - B seçeneği: \"Mutlak Üstünlükler Teorisi\" ne demek?",
+      "cevap": "Mutlak Üstünlükler Teorisi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 54,
+      "secenek": "B"
+    },
+    {
+      "soru": "54. soru - C seçeneği: \"Emek Değer Teorisi\" ne demek?",
+      "cevap": "Emek Değer Teorisi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 54,
+      "secenek": "C"
+    },
+    {
+      "soru": "54. soru - D seçeneği: \"Heckscher Ohlin Teorisi\" ne demek?",
+      "cevap": "Heckscher Ohlin Teorisi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 54,
+      "secenek": "D"
+    },
+    {
+      "soru": "54. Adam Smith’in dış ticaretin pozitif toplamlı bir faaliyet  olduğu yolunda geliştirdiği analiz aşağıdakilerden hangisi ile tanımlanır?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Karşılaştırmalı Üstünlükler Teorisi",
+        "B": "Mutlak Üstünlükler Teorisi",
+        "C": "Emek Değer Teorisi",
+        "D": "Heckscher Ohlin Teorisi",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Karşılaştırmalı Üstünlükler Teorisi — Bu yanlış cevaptır.",
+        "B": "Mutlak Üstünlükler Teorisi — Bu yanlış cevaptır.",
+        "C": "Emek Değer Teorisi — Bu yanlış cevaptır.",
+        "D": "Heckscher Ohlin Teorisi — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "55. soru - A seçeneği: \"Döviz kontrolü\" ne demek?",
+      "cevap": "Döviz kontrolü — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 55,
+      "secenek": "A"
+    },
+    {
+      "soru": "55. soru - B seçeneği: \"Dış ticaret kısıtlamaları\" ne demek?",
+      "cevap": "Dış ticaret kısıtlamaları — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 55,
+      "secenek": "B"
+    },
+    {
+      "soru": "55. soru - C seçeneği: \"Kur ayarlamaları\" ne demek?",
+      "cevap": "Kur ayarlamaları — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 55,
+      "secenek": "C"
+    },
+    {
+      "soru": "55. soru - D seçeneği: \"Reeskont faizi artışı\" ne demek?",
+      "cevap": "Reeskont faizi artışı — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 55,
+      "secenek": "D"
+    },
+    {
+      "soru": "55. Aşağıdakilerden hangisi harcama kaydırıcı  politikalardan birisi değildir?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Döviz kontrolü",
+        "B": "Dış ticaret kısıtlamaları",
+        "C": "Kur ayarlamaları",
+        "D": "Reeskont faizi artışı",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Döviz kontrolü — Bu yanlış cevaptır.",
+        "B": "Dış ticaret kısıtlamaları — Bu yanlış cevaptır.",
+        "C": "Kur ayarlamaları — Bu yanlış cevaptır.",
+        "D": "Reeskont faizi artışı — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "56. soru - A seçeneği: \"1923 \tB) 1925\" ne demek?",
+      "cevap": "1923 \tB) 1925 — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 56,
+      "secenek": "A"
+    },
+    {
+      "soru": "56. soru - C seçeneği: \"1929 \tD) 1930\" ne demek?",
+      "cevap": "1929 \tD) 1930 — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 56,
+      "secenek": "C"
+    },
+    {
+      "soru": "56. Türkiye Cumhuriyeti’nde gümrük tarifeleri ilk kez  aşağıdaki hangi yılda bağımsız olarak yükseltilmiştir?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "1923 \tB) 1925",
+        "B": "",
+        "C": "1929 \tD) 1930",
+        "D": "",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "1923 \tB) 1925 — Bu yanlış cevaptır.",
+        "C": "1929 \tD) 1930 — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "57. soru - A seçeneği: \"Kota ile tarife eş değer değildir, kota tarifeye kıyasla yur\" ne demek?",
+      "cevap": "Kota ile tarife eş değer değildir, kota tarifeye kıyasla yurtiçi üretimin daha yüksek, fiyat düzeyinin daha düşük olmasına yol açar. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 57,
+      "secenek": "A"
+    },
+    {
+      "soru": "57. soru - B seçeneği: \"Kota ile tarife eş değer değildir, kota tarifeye kıyasla hem\" ne demek?",
+      "cevap": "Kota ile tarife eş değer değildir, kota tarifeye kıyasla hem yurtiçi üretimin hem fiyat düzeyinin daha düşük olmasına yol açar. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 57,
+      "secenek": "B"
+    },
+    {
+      "soru": "57. soru - C seçeneği: \"Kota ile tarife eş değer değildir, kota tarifeye kıyasla yur\" ne demek?",
+      "cevap": "Kota ile tarife eş değer değildir, kota tarifeye kıyasla yurtiçi üretimin daha yüksek, fiyat düzeyinin daha fazla olmasına yol açar. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 57,
+      "secenek": "C"
+    },
+    {
+      "soru": "57. soru - D seçeneği: \"Kota ile tarife eş değer değildir, kota tarifeye kıyasla yur\" ne demek?",
+      "cevap": "Kota ile tarife eş değer değildir, kota tarifeye kıyasla yurtiçi üretimin daha düşük, fiyat düzeyinin daha fazla olmasına yol açar. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 57,
+      "secenek": "D"
+    },
+    {
+      "soru": "57. Yurt içinde monopol, yurtdışında tam rekabet  durumunda kota ile tarife etkisi için aşağıdakilerden hangisi doğrudur?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Kota ile tarife eş değer değildir, kota tarifeye kıyasla yurtiçi üretimin daha yüksek, fiyat düzeyinin daha düşük olmasına yol açar.",
+        "B": "Kota ile tarife eş değer değildir, kota tarifeye kıyasla hem yurtiçi üretimin hem fiyat düzeyinin daha düşük olmasına yol açar.",
+        "C": "Kota ile tarife eş değer değildir, kota tarifeye kıyasla yurtiçi üretimin daha yüksek, fiyat düzeyinin daha fazla olmasına yol açar.",
+        "D": "Kota ile tarife eş değer değildir, kota tarifeye kıyasla yurtiçi üretimin daha düşük, fiyat düzeyinin daha fazla olmasına yol açar.",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Kota ile tarife eş değer değildir, kota tarifeye kıyasla yurtiçi üretimin daha yüksek, fiyat düzeyinin daha düşük olmasına yol açar. — Bu yanlış cevaptır.",
+        "B": "Kota ile tarife eş değer değildir, kota tarifeye kıyasla hem yurtiçi üretimin hem fiyat düzeyinin daha düşük olmasına yol açar. — Bu yanlış cevaptır.",
+        "C": "Kota ile tarife eş değer değildir, kota tarifeye kıyasla yurtiçi üretimin daha yüksek, fiyat düzeyinin daha fazla olmasına yol açar. — Bu yanlış cevaptır.",
+        "D": "Kota ile tarife eş değer değildir, kota tarifeye kıyasla yurtiçi üretimin daha düşük, fiyat düzeyinin daha fazla olmasına yol açar. — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "58. soru - A seçeneği: \"Fabrikada Teslim\" ne demek?",
+      "cevap": "Fabrikada Teslim — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 58,
+      "secenek": "A"
+    },
+    {
+      "soru": "58. soru - B seçeneği: \"Taşıma Vasıtasının Yanında Teslim\" ne demek?",
+      "cevap": "Taşıma Vasıtasının Yanında Teslim — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 58,
+      "secenek": "B"
+    },
+    {
+      "soru": "58. soru - C seçeneği: \"Terminalde Teslim\" ne demek?",
+      "cevap": "Terminalde Teslim — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 58,
+      "secenek": "C"
+    },
+    {
+      "soru": "58. soru - D seçeneği: \"Gemide Teslim 8 \tDiğer sayfaya geçiniz. 26 ARALIK 2015\" ne demek?",
+      "cevap": "Gemide Teslim 8 \tDiğer sayfaya geçiniz. 26 ARALIK 2015 — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 58,
+      "secenek": "D"
+    },
+    {
+      "soru": "58. Aşağıdakilerden hangisi günümüzde fiyat  belirlemelerinin standartlaştırılması amacıyla Uluslararası Ticaret Odası (ICC) tarafından hazırlanan INCOTERMS’in tüm taşıma modlarında kullanılan teslim şekilleri arasında yer almaz?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Fabrikada Teslim",
+        "B": "Taşıma Vasıtasının Yanında Teslim",
+        "C": "Terminalde Teslim",
+        "D": "Gemide Teslim 8 \tDiğer sayfaya geçiniz. 26 ARALIK 2015",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Fabrikada Teslim — Bu yanlış cevaptır.",
+        "B": "Taşıma Vasıtasının Yanında Teslim — Bu yanlış cevaptır.",
+        "C": "Terminalde Teslim — Bu yanlış cevaptır.",
+        "D": "Gemide Teslim 8 \tDiğer sayfaya geçiniz. 26 ARALIK 2015 — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "59. soru - A seçeneği: \"Dış rekabetten koruma\" ne demek?",
+      "cevap": "Dış rekabetten koruma — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 59,
+      "secenek": "A"
+    },
+    {
+      "soru": "59. soru - B seçeneği: \"İhracatın özendirilmesi\" ne demek?",
+      "cevap": "İhracatın özendirilmesi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 59,
+      "secenek": "B"
+    },
+    {
+      "soru": "59. soru - C seçeneği: \"Ekonomik kalkınma\" ne demek?",
+      "cevap": "Ekonomik kalkınma — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 59,
+      "secenek": "C"
+    },
+    {
+      "soru": "59. soru - D seçeneği: \"Piyasa eksiklerinin giderilmesi\" ne demek?",
+      "cevap": "Piyasa eksiklerinin giderilmesi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 59,
+      "secenek": "D"
+    },
+    {
+      "soru": "59. Aşağıdakilerden hangisi dış ticaret politikasının  amaçlarından birisi değildir?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Dış rekabetten koruma",
+        "B": "İhracatın özendirilmesi",
+        "C": "Ekonomik kalkınma",
+        "D": "Piyasa eksiklerinin giderilmesi",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Dış rekabetten koruma — Bu yanlış cevaptır.",
+        "B": "İhracatın özendirilmesi — Bu yanlış cevaptır.",
+        "C": "Ekonomik kalkınma — Bu yanlış cevaptır.",
+        "D": "Piyasa eksiklerinin giderilmesi — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "60. soru - A seçeneği: \"Gümrük birliği\" ne demek?",
+      "cevap": "Gümrük birliği — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 60,
+      "secenek": "A"
+    },
+    {
+      "soru": "60. soru - B seçeneği: \"Serbest bölgeler\" ne demek?",
+      "cevap": "Serbest bölgeler — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 60,
+      "secenek": "B"
+    },
+    {
+      "soru": "60. soru - C seçeneği: \"Sınır ve kıyı ticareti\" ne demek?",
+      "cevap": "Sınır ve kıyı ticareti — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 60,
+      "secenek": "C"
+    },
+    {
+      "soru": "60. soru - D seçeneği: \"Bedelsiz ithalat\" ne demek?",
+      "cevap": "Bedelsiz ithalat — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 60,
+      "secenek": "D"
+    },
+    {
+      "soru": "60. Aşağıdakilerden hangisi özel dış ticaret rejimi değildir?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Gümrük birliği",
+        "B": "Serbest bölgeler",
+        "C": "Sınır ve kıyı ticareti",
+        "D": "Bedelsiz ithalat",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Gümrük birliği — Bu yanlış cevaptır.",
+        "B": "Serbest bölgeler — Bu yanlış cevaptır.",
+        "C": "Sınır ve kıyı ticareti — Bu yanlış cevaptır.",
+        "D": "Bedelsiz ithalat — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "61. soru - A seçeneği: \"İhracatçı ülke, arz ve talep esnekliği düşük ise verginin bü\" ne demek?",
+      "cevap": "İhracatçı ülke, arz ve talep esnekliği düşük ise verginin büyük payını üstlenir. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 61,
+      "secenek": "A"
+    },
+    {
+      "soru": "61. soru - B seçeneği: \"Büyük alıcı ülkenin ürüne vergi koyması, ihracatçı ülkeyi fi\" ne demek?",
+      "cevap": "Büyük alıcı ülkenin ürüne vergi koyması, ihracatçı ülkeyi fiyatını düşürmeye zorlar. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 61,
+      "secenek": "B"
+    },
+    {
+      "soru": "61. soru - C seçeneği: \"Küçük ülkelerin dünya fiyatları üzerinde etkisi yoktur.\" ne demek?",
+      "cevap": "Küçük ülkelerin dünya fiyatları üzerinde etkisi yoktur. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 61,
+      "secenek": "C"
+    },
+    {
+      "soru": "61. soru - D seçeneği: \"Büyük ithalatçı ülkenin arz ve talep esnekliği yüksek ise gü\" ne demek?",
+      "cevap": "Büyük ithalatçı ülkenin arz ve talep esnekliği yüksek ise gümrük vergisi, ithalatı arttırır. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 61,
+      "secenek": "D"
+    },
+    {
+      "soru": "61. Gümrük vergisi yükünün ithalatçı ve/veya ihracatçı  ülke tarafından paylaşılmasını etkileyen faktörlerle ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "İhracatçı ülke, arz ve talep esnekliği düşük ise verginin büyük payını üstlenir.",
+        "B": "Büyük alıcı ülkenin ürüne vergi koyması, ihracatçı ülkeyi fiyatını düşürmeye zorlar.",
+        "C": "Küçük ülkelerin dünya fiyatları üzerinde etkisi yoktur.",
+        "D": "Büyük ithalatçı ülkenin arz ve talep esnekliği yüksek ise gümrük vergisi, ithalatı arttırır.",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "İhracatçı ülke, arz ve talep esnekliği düşük ise verginin büyük payını üstlenir. — Bu yanlış cevaptır.",
+        "B": "Büyük alıcı ülkenin ürüne vergi koyması, ihracatçı ülkeyi fiyatını düşürmeye zorlar. — Bu yanlış cevaptır.",
+        "C": "Küçük ülkelerin dünya fiyatları üzerinde etkisi yoktur. — Bu yanlış cevaptır.",
+        "D": "Büyük ithalatçı ülkenin arz ve talep esnekliği yüksek ise gümrük vergisi, ithalatı arttırır. — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "62. soru - A seçeneği: \"İç fiyatlar ile katma değer\" ne demek?",
+      "cevap": "İç fiyatlar ile katma değer — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 62,
+      "secenek": "A"
+    },
+    {
+      "soru": "62. soru - B seçeneği: \"Dünya fiyatları ile katma değer\" ne demek?",
+      "cevap": "Dünya fiyatları ile katma değer — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 62,
+      "secenek": "B"
+    },
+    {
+      "soru": "62. soru - C seçeneği: \"Mill-Bastable Testi\" ne demek?",
+      "cevap": "Mill-Bastable Testi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 62,
+      "secenek": "C"
+    },
+    {
+      "soru": "62. soru - D seçeneği: \"Etkin olmayan koruma oranı\" ne demek?",
+      "cevap": "Etkin olmayan koruma oranı — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 62,
+      "secenek": "D"
+    },
+    {
+      "soru": "62. Gümrük tarifesinin etkin koruma oranı (vI –v) / v I  olarak ifade edilirse, (v' ) nedir?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "İç fiyatlar ile katma değer",
+        "B": "Dünya fiyatları ile katma değer",
+        "C": "Mill-Bastable Testi",
+        "D": "Etkin olmayan koruma oranı",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "İç fiyatlar ile katma değer — Bu yanlış cevaptır.",
+        "B": "Dünya fiyatları ile katma değer — Bu yanlış cevaptır.",
+        "C": "Mill-Bastable Testi — Bu yanlış cevaptır.",
+        "D": "Etkin olmayan koruma oranı — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "63. soru - A seçeneği: \"Üçüncü ülkelerden yapılan ithalattan alınan gümrük vergileri\" ne demek?",
+      "cevap": "Üçüncü ülkelerden yapılan ithalattan alınan gümrük vergileri — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 63,
+      "secenek": "A"
+    },
+    {
+      "soru": "63. soru - B seçeneği: \"Katma değer vergisi payı\" ne demek?",
+      "cevap": "Katma değer vergisi payı — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 63,
+      "secenek": "B"
+    },
+    {
+      "soru": "63. soru - C seçeneği: \"Kurumlar vergisi payı\" ne demek?",
+      "cevap": "Kurumlar vergisi payı — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 63,
+      "secenek": "C"
+    },
+    {
+      "soru": "63. soru - D seçeneği: \"Gayrisafi milli gelir payı\" ne demek?",
+      "cevap": "Gayrisafi milli gelir payı — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 63,
+      "secenek": "D"
+    },
+    {
+      "soru": "63. Aşağıdakilerden hangisi Avrupa Birliği bütçesi gelirleri  içerisinde yer almaz?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Üçüncü ülkelerden yapılan ithalattan alınan gümrük vergileri",
+        "B": "Katma değer vergisi payı",
+        "C": "Kurumlar vergisi payı",
+        "D": "Gayrisafi milli gelir payı",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Üçüncü ülkelerden yapılan ithalattan alınan gümrük vergileri — Bu yanlış cevaptır.",
+        "B": "Katma değer vergisi payı — Bu yanlış cevaptır.",
+        "C": "Kurumlar vergisi payı — Bu yanlış cevaptır.",
+        "D": "Gayrisafi milli gelir payı — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "64. soru - A seçeneği: \"Çifte vergilendirmenin önlenmesi\" ne demek?",
+      "cevap": "Çifte vergilendirmenin önlenmesi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 64,
+      "secenek": "A"
+    },
+    {
+      "soru": "64. soru - B seçeneği: \"Eş etkili vergilerin kaldırılması\" ne demek?",
+      "cevap": "Eş etkili vergilerin kaldırılması — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 64,
+      "secenek": "B"
+    },
+    {
+      "soru": "64. soru - C seçeneği: \"Ayrımcı vergilemenin kaldırılması\" ne demek?",
+      "cevap": "Ayrımcı vergilemenin kaldırılması — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 64,
+      "secenek": "C"
+    },
+    {
+      "soru": "64. soru - D seçeneği: \"Minimum kurumlar vergisi oranı\" ne demek?",
+      "cevap": "Minimum kurumlar vergisi oranı — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 64,
+      "secenek": "D"
+    },
+    {
+      "soru": "64. Aşağıdakilerden hangisi Avrupa Birliği vergileme  politikasının ilkelerinden birisi değildir?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Çifte vergilendirmenin önlenmesi",
+        "B": "Eş etkili vergilerin kaldırılması",
+        "C": "Ayrımcı vergilemenin kaldırılması",
+        "D": "Minimum kurumlar vergisi oranı",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Çifte vergilendirmenin önlenmesi — Bu yanlış cevaptır.",
+        "B": "Eş etkili vergilerin kaldırılması — Bu yanlış cevaptır.",
+        "C": "Ayrımcı vergilemenin kaldırılması — Bu yanlış cevaptır.",
+        "D": "Minimum kurumlar vergisi oranı — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "65. soru - A seçeneği: \"Dış ticaret etkisi \tB) Üretim etkisi\" ne demek?",
+      "cevap": "Dış ticaret etkisi \tB) Üretim etkisi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 65,
+      "secenek": "A"
+    },
+    {
+      "soru": "65. soru - C seçeneği: \"Gelir dağılımı etkisi \tD) Rant etkisi\" ne demek?",
+      "cevap": "Gelir dağılımı etkisi \tD) Rant etkisi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 65,
+      "secenek": "C"
+    },
+    {
+      "soru": "65. Gümrük vergilerinin ekonomik etkilerinin analizi  yapılırken kısmi denge yaklaşımında aşağıdakilerden hangisi dikkate alınmaz?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Dış ticaret etkisi \tB) Üretim etkisi",
+        "B": "",
+        "C": "Gelir dağılımı etkisi \tD) Rant etkisi",
+        "D": "",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Dış ticaret etkisi \tB) Üretim etkisi — Bu yanlış cevaptır.",
+        "C": "Gelir dağılımı etkisi \tD) Rant etkisi — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "66. soru - A seçeneği: \"Vergiler en yüksek vergi haddinden kesin olarak tahsil edili\" ne demek?",
+      "cevap": "Vergiler en yüksek vergi haddinden kesin olarak tahsil edilir. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 66,
+      "secenek": "A"
+    },
+    {
+      "soru": "66. soru - B seçeneği: \"Yükümlünün talebine istinaden, vergiler teminat olarak alına\" ne demek?",
+      "cevap": "Yükümlünün talebine istinaden, vergiler teminat olarak alınarak, usulüne uygun bir menşe şahadetnamesi ibrazı için beyannamenin tescil tarihinden itibaren altı aylık bir süre verilir. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 66,
+      "secenek": "B"
+    },
+    {
+      "soru": "66. soru - C seçeneği: \"Beyannamede tahakkuk eden vergilere göre işlem yapılır ve he\" ne demek?",
+      "cevap": "Beyannamede tahakkuk eden vergilere göre işlem yapılır ve herhangi bir cezai hüküm olmaz. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 66,
+      "secenek": "C"
+    },
+    {
+      "soru": "66. soru - D seçeneği: \"5607 sayılı Kaçakçılık Kanunu’na göre işlem tesis edilir. 9 \" ne demek?",
+      "cevap": "5607 sayılı Kaçakçılık Kanunu’na göre işlem tesis edilir. 9 \tDiğer sayfaya geçiniz. 26 ARALIK 2015 — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 66,
+      "secenek": "D"
+    },
+    {
+      "soru": "66. Serbest dolaşıma giriş beyannamesinin tescili  sırasında menşe şahadetnamesinin mevcut olmaması veya ibraz edilen menşe şahadetnamesinin şekil ve formalite noksanlığı ya da içerik itibarıyla yanlış veya eksik bilgi taşıması nedeniyle gümrük idaresince kabul edilmemesi hâllerinde aşağıdaki hangi işlem yapılır?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Vergiler en yüksek vergi haddinden kesin olarak tahsil edilir.",
+        "B": "Yükümlünün talebine istinaden, vergiler teminat olarak alınarak, usulüne uygun bir menşe şahadetnamesi ibrazı için beyannamenin tescil tarihinden itibaren altı aylık bir süre verilir.",
+        "C": "Beyannamede tahakkuk eden vergilere göre işlem yapılır ve herhangi bir cezai hüküm olmaz.",
+        "D": "5607 sayılı Kaçakçılık Kanunu’na göre işlem tesis edilir. 9 \tDiğer sayfaya geçiniz. 26 ARALIK 2015",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Vergiler en yüksek vergi haddinden kesin olarak tahsil edilir. — Bu yanlış cevaptır.",
+        "B": "Yükümlünün talebine istinaden, vergiler teminat olarak alınarak, usulüne uygun bir menşe şahadetnamesi ibrazı için beyannamenin tescil tarihinden itibaren altı aylık bir süre verilir. — Bu yanlış cevaptır.",
+        "C": "Beyannamede tahakkuk eden vergilere göre işlem yapılır ve herhangi bir cezai hüküm olmaz. — Bu yanlış cevaptır.",
+        "D": "5607 sayılı Kaçakçılık Kanunu’na göre işlem tesis edilir. 9 \tDiğer sayfaya geçiniz. 26 ARALIK 2015 — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "67. soru - A seçeneği: \"Bakanlık tarafından yayımlanacak tebliğ ile belirlenir.\" ne demek?",
+      "cevap": "Bakanlık tarafından yayımlanacak tebliğ ile belirlenir. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 67,
+      "secenek": "A"
+    },
+    {
+      "soru": "67. soru - B seçeneği: \"Düzenleyici bir yönetmelik ile belirlenir.\" ne demek?",
+      "cevap": "Düzenleyici bir yönetmelik ile belirlenir. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 67,
+      "secenek": "B"
+    },
+    {
+      "soru": "67. soru - C seçeneği: \"Anlaşma kapsamındaki eşya için yapılan anlaşma metni ile bel\" ne demek?",
+      "cevap": "Anlaşma kapsamındaki eşya için yapılan anlaşma metni ile belirlenir. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 67,
+      "secenek": "C"
+    },
+    {
+      "soru": "67. soru - D seçeneği: \"Gümrükler Genel Müdürlüğü tarafından yayımlanacak tebliğ ile\" ne demek?",
+      "cevap": "Gümrükler Genel Müdürlüğü tarafından yayımlanacak tebliğ ile belirlenir. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 67,
+      "secenek": "D"
+    },
+    {
+      "soru": "67. Türkiye’nin tek taraflı olarak bazı ülkeler veya ülke  gruplarına tanıdığı tercihli tarife uygulamasından yararlandırılmak istenen eşyanın tercihli menşe kuralı ne şekilde belirlenir?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Bakanlık tarafından yayımlanacak tebliğ ile belirlenir.",
+        "B": "Düzenleyici bir yönetmelik ile belirlenir.",
+        "C": "Anlaşma kapsamındaki eşya için yapılan anlaşma metni ile belirlenir.",
+        "D": "Gümrükler Genel Müdürlüğü tarafından yayımlanacak tebliğ ile belirlenir.",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Bakanlık tarafından yayımlanacak tebliğ ile belirlenir. — Bu yanlış cevaptır.",
+        "B": "Düzenleyici bir yönetmelik ile belirlenir. — Bu yanlış cevaptır.",
+        "C": "Anlaşma kapsamındaki eşya için yapılan anlaşma metni ile belirlenir. — Bu yanlış cevaptır.",
+        "D": "Gümrükler Genel Müdürlüğü tarafından yayımlanacak tebliğ ile belirlenir. — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "68. soru - A seçeneği: \"Ticaret politikasının AB Ticaret politikası ile uyumlu hâle \" ne demek?",
+      "cevap": "Ticaret politikasının AB Ticaret politikası ile uyumlu hâle getirilmesi yükümlülüğü getirilecektir. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 68,
+      "secenek": "A"
+    },
+    {
+      "soru": "68. soru - B seçeneği: \"Gümrük Birliği kapsamındaki eşya için AB ile ticarette gümrü\" ne demek?",
+      "cevap": "Gümrük Birliği kapsamındaki eşya için AB ile ticarette gümrük vergileri kaldırılacaktır. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 68,
+      "secenek": "B"
+    },
+    {
+      "soru": "68. soru - C seçeneği: \"Akit Taraflar arasında ithalatta uygulanan miktar kısıtlamal\" ne demek?",
+      "cevap": "Akit Taraflar arasında ithalatta uygulanan miktar kısıtlamaları ve eş etkili tedbirler yürürlükten kaldırılacaktır. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 68,
+      "secenek": "C"
+    },
+    {
+      "soru": "68. soru - D seçeneği: \"AB ile Türkiye arasında serbest ticaret anlaşmalarında eşit \" ne demek?",
+      "cevap": "AB ile Türkiye arasında serbest ticaret anlaşmalarında eşit statü hakkı getirilecektir. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 68,
+      "secenek": "D"
+    },
+    {
+      "soru": "68. Aşağıdakilerden hangisi AB ile Gümrük Birliğini tesis  eden 1/95 sayılı Ortaklık Konseyi Kararı’nın sonuçlarından birisi değildir?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Ticaret politikasının AB Ticaret politikası ile uyumlu hâle getirilmesi yükümlülüğü getirilecektir.",
+        "B": "Gümrük Birliği kapsamındaki eşya için AB ile ticarette gümrük vergileri kaldırılacaktır.",
+        "C": "Akit Taraflar arasında ithalatta uygulanan miktar kısıtlamaları ve eş etkili tedbirler yürürlükten kaldırılacaktır.",
+        "D": "AB ile Türkiye arasında serbest ticaret anlaşmalarında eşit statü hakkı getirilecektir.",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Ticaret politikasının AB Ticaret politikası ile uyumlu hâle getirilmesi yükümlülüğü getirilecektir. — Bu yanlış cevaptır.",
+        "B": "Gümrük Birliği kapsamındaki eşya için AB ile ticarette gümrük vergileri kaldırılacaktır. — Bu yanlış cevaptır.",
+        "C": "Akit Taraflar arasında ithalatta uygulanan miktar kısıtlamaları ve eş etkili tedbirler yürürlükten kaldırılacaktır. — Bu yanlış cevaptır.",
+        "D": "AB ile Türkiye arasında serbest ticaret anlaşmalarında eşit statü hakkı getirilecektir. — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "69. soru - A seçeneği: \"Makedonya \tB) Kosova\" ne demek?",
+      "cevap": "Makedonya \tB) Kosova — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 69,
+      "secenek": "A"
+    },
+    {
+      "soru": "69. soru - C seçeneği: \"Bosna ve Hersek \tD) Arnavutluk\" ne demek?",
+      "cevap": "Bosna ve Hersek \tD) Arnavutluk — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 69,
+      "secenek": "C"
+    },
+    {
+      "soru": "69. Aşağıdaki ülkelerden hangisi Batı Balkan Menşe  Kümülasyon Sistemine dahil değildir?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Makedonya \tB) Kosova",
+        "B": "",
+        "C": "Bosna ve Hersek \tD) Arnavutluk",
+        "D": "",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Makedonya \tB) Kosova — Bu yanlış cevaptır.",
+        "C": "Bosna ve Hersek \tD) Arnavutluk — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "70. soru - A seçeneği: \"A.TR Dolaşım Belgesi’nin yetkili olmayan bir makam tarafında\" ne demek?",
+      "cevap": "A.TR Dolaşım Belgesi’nin yetkili olmayan bir makam tarafından onaylanması — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 70,
+      "secenek": "A"
+    },
+    {
+      "soru": "70. soru - B seçeneği: \"A.TR Dolaşım Belgesi’nin mühürlenip imzalanmaması\" ne demek?",
+      "cevap": "A.TR Dolaşım Belgesi’nin mühürlenip imzalanmaması — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 70,
+      "secenek": "B"
+    },
+    {
+      "soru": "70. soru - C seçeneği: \"A.TR Dolaşım Belgesi’nin zamanında ibraz edilmemesi\" ne demek?",
+      "cevap": "A.TR Dolaşım Belgesi’nin zamanında ibraz edilmemesi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 70,
+      "secenek": "C"
+    },
+    {
+      "soru": "70. soru - D seçeneği: \"İbraz edilen A.TR Dolaşım Belgesi’nin orijinal olmayıp fotok\" ne demek?",
+      "cevap": "İbraz edilen A.TR Dolaşım Belgesi’nin orijinal olmayıp fotokopi veya suret olması — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 70,
+      "secenek": "D"
+    },
+    {
+      "soru": "70. Aşağıdakilerden hangisi A.TR Dolaşım Belgesi’nin  teknik nedenlerden dolayı reddini gerektiren durumlardan birisi değildir?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "A.TR Dolaşım Belgesi’nin yetkili olmayan bir makam tarafından onaylanması",
+        "B": "A.TR Dolaşım Belgesi’nin mühürlenip imzalanmaması",
+        "C": "A.TR Dolaşım Belgesi’nin zamanında ibraz edilmemesi",
+        "D": "İbraz edilen A.TR Dolaşım Belgesi’nin orijinal olmayıp fotokopi veya suret olması",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "A.TR Dolaşım Belgesi’nin yetkili olmayan bir makam tarafından onaylanması — Bu yanlış cevaptır.",
+        "B": "A.TR Dolaşım Belgesi’nin mühürlenip imzalanmaması — Bu yanlış cevaptır.",
+        "C": "A.TR Dolaşım Belgesi’nin zamanında ibraz edilmemesi — Bu yanlış cevaptır.",
+        "D": "İbraz edilen A.TR Dolaşım Belgesi’nin orijinal olmayıp fotokopi veya suret olması — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "71. soru - A seçeneği: \"Konseyin önerisi üzerine Komisyon tarafından belirlenir.\" ne demek?",
+      "cevap": "Konseyin önerisi üzerine Komisyon tarafından belirlenir. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 71,
+      "secenek": "A"
+    },
+    {
+      "soru": "71. soru - B seçeneği: \"Komisyon’un önerisi üzerine Konsey ve Avrupa Parlamentosu ta\" ne demek?",
+      "cevap": "Komisyon’un önerisi üzerine Konsey ve Avrupa Parlamentosu tarafından belirlenir. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 71,
+      "secenek": "B"
+    },
+    {
+      "soru": "71. soru - C seçeneği: \"Komisyonun önerisi üzerine Konsey tarafından belirlenir.\" ne demek?",
+      "cevap": "Komisyonun önerisi üzerine Konsey tarafından belirlenir. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 71,
+      "secenek": "C"
+    },
+    {
+      "soru": "71. soru - D seçeneği: \"Avrupa Parlamentosu’nun önerisi üzerine Konsey ve Komisyon t\" ne demek?",
+      "cevap": "Avrupa Parlamentosu’nun önerisi üzerine Konsey ve Komisyon tarafından belirlenir. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 71,
+      "secenek": "D"
+    },
+    {
+      "soru": "71. Avrupa Birliği’nin İşleyişi Hakkında Antlaşma’ya göre,  Ortak Gümrük Tarifesi vergilerinin belirlenme şekli aşağıdakilerden hangisinde doğru verilmiştir?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Konseyin önerisi üzerine Komisyon tarafından belirlenir.",
+        "B": "Komisyon’un önerisi üzerine Konsey ve Avrupa Parlamentosu tarafından belirlenir.",
+        "C": "Komisyonun önerisi üzerine Konsey tarafından belirlenir.",
+        "D": "Avrupa Parlamentosu’nun önerisi üzerine Konsey ve Komisyon tarafından belirlenir.",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Konseyin önerisi üzerine Komisyon tarafından belirlenir. — Bu yanlış cevaptır.",
+        "B": "Komisyon’un önerisi üzerine Konsey ve Avrupa Parlamentosu tarafından belirlenir. — Bu yanlış cevaptır.",
+        "C": "Komisyonun önerisi üzerine Konsey tarafından belirlenir. — Bu yanlış cevaptır.",
+        "D": "Avrupa Parlamentosu’nun önerisi üzerine Konsey ve Komisyon tarafından belirlenir. — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "72. soru - A seçeneği: \"Üye devletler ile üçüncü ülkeler arasındaki ticareti destekl\" ne demek?",
+      "cevap": "Üye devletler ile üçüncü ülkeler arasındaki ticareti destekleme gereği — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 72,
+      "secenek": "A"
+    },
+    {
+      "soru": "72. soru - B seçeneği: \"Her bir üye devletin sürdürülebilir ve dengeli biçimde kalkı\" ne demek?",
+      "cevap": "Her bir üye devletin sürdürülebilir ve dengeli biçimde kalkınması — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 72,
+      "secenek": "B"
+    },
+    {
+      "soru": "72. soru - C seçeneği: \"Teşebbüslerin rekabet gücünün artmasını sağladığı ölçüde, Bi\" ne demek?",
+      "cevap": "Teşebbüslerin rekabet gücünün artmasını sağladığı ölçüde, Birlik içinde rekabet koşullarının gelişmesi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 72,
+      "secenek": "C"
+    },
+    {
+      "soru": "72. soru - D seçeneği: \"Üye devletler arasında nihai ürünler bakımından rekabet koşu\" ne demek?",
+      "cevap": "Üye devletler arasında nihai ürünler bakımından rekabet koşullarının bozulmamasını gözeterek, Birliğin hammadde ve yarı mamul ihtiyaçları 10 \tDiğer sayfaya geçiniz. 26 ARALIK 2015 — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 72,
+      "secenek": "D"
+    },
+    {
+      "soru": "72. Aşağıdakilerden hangisi, Komisyonun, Avrupa  Birliği’nin İşleyişi Hakkında Antlaşma uyarınca bu antlaşmanın “Gümrük Birliği” Bölümü ile kendisine verilen görevlerin yerine getirilmesinde esas alacağı hususlar arasında yer almaz?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Üye devletler ile üçüncü ülkeler arasındaki ticareti destekleme gereği",
+        "B": "Her bir üye devletin sürdürülebilir ve dengeli biçimde kalkınması",
+        "C": "Teşebbüslerin rekabet gücünün artmasını sağladığı ölçüde, Birlik içinde rekabet koşullarının gelişmesi",
+        "D": "Üye devletler arasında nihai ürünler bakımından rekabet koşullarının bozulmamasını gözeterek, Birliğin hammadde ve yarı mamul ihtiyaçları 10 \tDiğer sayfaya geçiniz. 26 ARALIK 2015",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Üye devletler ile üçüncü ülkeler arasındaki ticareti destekleme gereği — Bu yanlış cevaptır.",
+        "B": "Her bir üye devletin sürdürülebilir ve dengeli biçimde kalkınması — Bu yanlış cevaptır.",
+        "C": "Teşebbüslerin rekabet gücünün artmasını sağladığı ölçüde, Birlik içinde rekabet koşullarının gelişmesi — Bu yanlış cevaptır.",
+        "D": "Üye devletler arasında nihai ürünler bakımından rekabet koşullarının bozulmamasını gözeterek, Birliğin hammadde ve yarı mamul ihtiyaçları 10 \tDiğer sayfaya geçiniz. 26 ARALIK 2015 — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "73. soru - A seçeneği: \"Yalnızca üye devletler arasında\" ne demek?",
+      "cevap": "Yalnızca üye devletler arasında — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 73,
+      "secenek": "A"
+    },
+    {
+      "soru": "73. soru - B seçeneği: \"Üye devletler ile üçüncü devletler arasında\" ne demek?",
+      "cevap": "Üye devletler ile üçüncü devletler arasında — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 73,
+      "secenek": "B"
+    },
+    {
+      "soru": "73. soru - C seçeneği: \"Yalnızca üye devletlerle Komisyon arasında\" ne demek?",
+      "cevap": "Yalnızca üye devletlerle Komisyon arasında — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 73,
+      "secenek": "C"
+    },
+    {
+      "soru": "73. soru - D seçeneği: \"Üye devletler arasında ve üye devletlerle Komisyon arasında\" ne demek?",
+      "cevap": "Üye devletler arasında ve üye devletlerle Komisyon arasında — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 73,
+      "secenek": "D"
+    },
+    {
+      "soru": "73. Avrupa Birliği’nin İşleyişi Hakkında Antlaşma uyarınca,  Avrupa Parlamentosu ve Konsey, olağan yasama usulü uyarınca hareket ederek, gümrük işbirliğini güçlendirmek amacıyla tedbirler alır. Buna göre, bu gümrük işbirliği, aşağıdakilerden hangisi arasında güçlendirilecektir?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Yalnızca üye devletler arasında",
+        "B": "Üye devletler ile üçüncü devletler arasında",
+        "C": "Yalnızca üye devletlerle Komisyon arasında",
+        "D": "Üye devletler arasında ve üye devletlerle Komisyon arasında",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Yalnızca üye devletler arasında — Bu yanlış cevaptır.",
+        "B": "Üye devletler ile üçüncü devletler arasında — Bu yanlış cevaptır.",
+        "C": "Yalnızca üye devletlerle Komisyon arasında — Bu yanlış cevaptır.",
+        "D": "Üye devletler arasında ve üye devletlerle Komisyon arasında — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "74. soru - A seçeneği: \"Avrupa Birliği’nin münhasır yetkisi\" ne demek?",
+      "cevap": "Avrupa Birliği’nin münhasır yetkisi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 74,
+      "secenek": "A"
+    },
+    {
+      "soru": "74. soru - B seçeneği: \"Avrupa Birliği ve üye devletler arasında paylaşılan yetki\" ne demek?",
+      "cevap": "Avrupa Birliği ve üye devletler arasında paylaşılan yetki — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 74,
+      "secenek": "B"
+    },
+    {
+      "soru": "74. soru - C seçeneği: \"Avrupa Birliği’nin üye devletlerin eylemlerini destekleme, k\" ne demek?",
+      "cevap": "Avrupa Birliği’nin üye devletlerin eylemlerini destekleme, koordine etme ve tamamlama yetkisi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 74,
+      "secenek": "C"
+    },
+    {
+      "soru": "74. soru - D seçeneği: \"Avrupa Birliği’nin ortak bir dış politika ve güvenlik politi\" ne demek?",
+      "cevap": "Avrupa Birliği’nin ortak bir dış politika ve güvenlik politikası belirleme ve uygulama yetkisi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 74,
+      "secenek": "D"
+    },
+    {
+      "soru": "74. Avrupa Birliği’nin İşleyişi Hakkında Antlaşma, Avrupa  Birliği’nin yetkilerini belirli kategorilere ayırmıştır. Buna göre, gümrük birliği, bu yetki kategorilerinden hangisinin içerisinde yer alır?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Avrupa Birliği’nin münhasır yetkisi",
+        "B": "Avrupa Birliği ve üye devletler arasında paylaşılan yetki",
+        "C": "Avrupa Birliği’nin üye devletlerin eylemlerini destekleme, koordine etme ve tamamlama yetkisi",
+        "D": "Avrupa Birliği’nin ortak bir dış politika ve güvenlik politikası belirleme ve uygulama yetkisi",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Avrupa Birliği’nin münhasır yetkisi — Bu yanlış cevaptır.",
+        "B": "Avrupa Birliği ve üye devletler arasında paylaşılan yetki — Bu yanlış cevaptır.",
+        "C": "Avrupa Birliği’nin üye devletlerin eylemlerini destekleme, koordine etme ve tamamlama yetkisi — Bu yanlış cevaptır.",
+        "D": "Avrupa Birliği’nin ortak bir dış politika ve güvenlik politikası belirleme ve uygulama yetkisi — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "75. soru - A seçeneği: \"“Malların Serbest Dolaşımı” (Başlık II)\" ne demek?",
+      "cevap": "“Malların Serbest Dolaşımı” (Başlık II) — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 75,
+      "secenek": "A"
+    },
+    {
+      "soru": "75. soru - B seçeneği: \"“Tarım ve Balıkçılık” (Başlık III)\" ne demek?",
+      "cevap": "“Tarım ve Balıkçılık” (Başlık III) — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 75,
+      "secenek": "B"
+    },
+    {
+      "soru": "75. soru - C seçeneği: \"“Kişilerin, Hizmetlerin ve Sermayenin Serbest Dolaşımı” (Baş\" ne demek?",
+      "cevap": "“Kişilerin, Hizmetlerin ve Sermayenin Serbest Dolaşımı” (Başlık IV) — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 75,
+      "secenek": "C"
+    },
+    {
+      "soru": "75. soru - D seçeneği: \"“Özgürlük, Güvenlik ve Adalet Alanı” (Başlık V)\" ne demek?",
+      "cevap": "“Özgürlük, Güvenlik ve Adalet Alanı” (Başlık V) — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 75,
+      "secenek": "D"
+    },
+    {
+      "soru": "75. Avrupa Birliği’nin İşleyişi Hakkında Antlaşma, sistematik  olarak, sırasıyla en üstten alta doğru olmak üzere “Kısım”, “Başlık”, “Bölüm” ve “Kesim” olarak yapılandırılmıştır. Avrupa Birliği’nin gümrük birliği, bu Antlaşma’nın Üçüncü Kısmı olan “Birliğin Politikaları ve İç Eylemleri” altındaki bir “Başlık” altında bir “Bölüm” olarak düzenlenmiştir. Buna göre, “Gümrük Birliği” Bölümü, aşağıdaki hangi “Başlık” altında yer alır?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "“Malların Serbest Dolaşımı” (Başlık II)",
+        "B": "“Tarım ve Balıkçılık” (Başlık III)",
+        "C": "“Kişilerin, Hizmetlerin ve Sermayenin Serbest Dolaşımı” (Başlık IV)",
+        "D": "“Özgürlük, Güvenlik ve Adalet Alanı” (Başlık V)",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "“Malların Serbest Dolaşımı” (Başlık II) — Bu yanlış cevaptır.",
+        "B": "“Tarım ve Balıkçılık” (Başlık III) — Bu yanlış cevaptır.",
+        "C": "“Kişilerin, Hizmetlerin ve Sermayenin Serbest Dolaşımı” (Başlık IV) — Bu yanlış cevaptır.",
+        "D": "“Özgürlük, Güvenlik ve Adalet Alanı” (Başlık V) — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "76. soru - A seçeneği: \"3 katına kadar artırılabilir.\" ne demek?",
+      "cevap": "3 katına kadar artırılabilir. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 76,
+      "secenek": "A"
+    },
+    {
+      "soru": "76. soru - B seçeneği: \"5 katına kadar artırılabilir.\" ne demek?",
+      "cevap": "5 katına kadar artırılabilir. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 76,
+      "secenek": "B"
+    },
+    {
+      "soru": "76. soru - C seçeneği: \"%50’sine kadar artırılabilir.\" ne demek?",
+      "cevap": "%50’sine kadar artırılabilir. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 76,
+      "secenek": "C"
+    },
+    {
+      "soru": "76. soru - D seçeneği: \"%30’una kadar artırılabilir.\" ne demek?",
+      "cevap": "%30’una kadar artırılabilir. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 76,
+      "secenek": "D"
+    },
+    {
+      "soru": "76. Türk Gümrük Tarife Cetveli’nde yer alan eşyaların  gümrük vergisi had ve nispetleri, Bakanlar Kurulu’nca bu cetveldeki had ve nispetlerin ne kadarına kadar artırılabilir?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "3 katına kadar artırılabilir.",
+        "B": "5 katına kadar artırılabilir.",
+        "C": "%50’sine kadar artırılabilir.",
+        "D": "%30’una kadar artırılabilir.",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "3 katına kadar artırılabilir. — Bu yanlış cevaptır.",
+        "B": "5 katına kadar artırılabilir. — Bu yanlış cevaptır.",
+        "C": "%50’sine kadar artırılabilir. — Bu yanlış cevaptır.",
+        "D": "%30’una kadar artırılabilir. — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "77. soru - A seçeneği: \"Bölüm, fasıl ve tali fasıl başlıkları bağlayıcı niteliktedir\" ne demek?",
+      "cevap": "Bölüm, fasıl ve tali fasıl başlıkları bağlayıcı niteliktedir. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 77,
+      "secenek": "A"
+    },
+    {
+      "soru": "77. soru - B seçeneği: \"Tarifenin belirli bir pozisyonunda herhangi bir maddeye yapı\" ne demek?",
+      "cevap": "Tarifenin belirli bir pozisyonunda herhangi bir maddeye yapılan atıf, bu maddenin karışımlarını, bileşimlerini ve diğer maddelerle birleştirilmiş hâlini de içine alır. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 77,
+      "secenek": "B"
+    },
+    {
+      "soru": "77. soru - C seçeneği: \"Eşyayı en özel şekilde tanımlayan pozisyon, daha genel şekil\" ne demek?",
+      "cevap": "Eşyayı en özel şekilde tanımlayan pozisyon, daha genel şekilde tanımlayan pozisyona göre öncelik alır. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 77,
+      "secenek": "C"
+    },
+    {
+      "soru": "77. soru - D seçeneği: \"Tarifenin belirli bir pozisyonunda bir eşyaya yapılmış atıf,\" ne demek?",
+      "cevap": "Tarifenin belirli bir pozisyonunda bir eşyaya yapılmış atıf, ayırt edici niteliğini içermesi şartıyla imali bitirilmemiş ve aksamı tamamlanmamış olanlarını da kapsar. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 77,
+      "secenek": "D"
+    },
+    {
+      "soru": "77. Aşağıdakilerden hangisi Türk Gümrük Tarife  Cetveli’nde yer alan tarifenin yorumu ile ilgili genel kurallardan birisi değildir?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Bölüm, fasıl ve tali fasıl başlıkları bağlayıcı niteliktedir.",
+        "B": "Tarifenin belirli bir pozisyonunda herhangi bir maddeye yapılan atıf, bu maddenin karışımlarını, bileşimlerini ve diğer maddelerle birleştirilmiş hâlini de içine alır.",
+        "C": "Eşyayı en özel şekilde tanımlayan pozisyon, daha genel şekilde tanımlayan pozisyona göre öncelik alır.",
+        "D": "Tarifenin belirli bir pozisyonunda bir eşyaya yapılmış atıf, ayırt edici niteliğini içermesi şartıyla imali bitirilmemiş ve aksamı tamamlanmamış olanlarını da kapsar.",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Bölüm, fasıl ve tali fasıl başlıkları bağlayıcı niteliktedir. — Bu yanlış cevaptır.",
+        "B": "Tarifenin belirli bir pozisyonunda herhangi bir maddeye yapılan atıf, bu maddenin karışımlarını, bileşimlerini ve diğer maddelerle birleştirilmiş hâlini de içine alır. — Bu yanlış cevaptır.",
+        "C": "Eşyayı en özel şekilde tanımlayan pozisyon, daha genel şekilde tanımlayan pozisyona göre öncelik alır. — Bu yanlış cevaptır.",
+        "D": "Tarifenin belirli bir pozisyonunda bir eşyaya yapılmış atıf, ayırt edici niteliğini içermesi şartıyla imali bitirilmemiş ve aksamı tamamlanmamış olanlarını da kapsar. — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "78. soru - A seçeneği: \"Yenilen sebzeler ve bazı kök ve yumrular\" ne demek?",
+      "cevap": "Yenilen sebzeler ve bazı kök ve yumrular — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 78,
+      "secenek": "A"
+    },
+    {
+      "soru": "78. soru - B seçeneği: \"Yenilen çeşitli gıda müstehazarları\" ne demek?",
+      "cevap": "Yenilen çeşitli gıda müstehazarları — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 78,
+      "secenek": "B"
+    },
+    {
+      "soru": "78. soru - C seçeneği: \"Hububat\" ne demek?",
+      "cevap": "Hububat — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 78,
+      "secenek": "C"
+    },
+    {
+      "soru": "78. soru - D seçeneği: \"Lak; sakız, reçine ve diğer bitkisel özsu ve hülasalar 11 \tD\" ne demek?",
+      "cevap": "Lak; sakız, reçine ve diğer bitkisel özsu ve hülasalar 11 \tDiğer sayfaya geçiniz. 26 ARALIK 2015 — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 78,
+      "secenek": "D"
+    },
+    {
+      "soru": "78. Aşağıdakilerden hangisi Türk Gümrük Tarife  Cetveli’nin 2. Bölümünde bulunan “Bitkisel Ürünler” içerisinde yer almaz?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Yenilen sebzeler ve bazı kök ve yumrular",
+        "B": "Yenilen çeşitli gıda müstehazarları",
+        "C": "Hububat",
+        "D": "Lak; sakız, reçine ve diğer bitkisel özsu ve hülasalar 11 \tDiğer sayfaya geçiniz. 26 ARALIK 2015",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Yenilen sebzeler ve bazı kök ve yumrular — Bu yanlış cevaptır.",
+        "B": "Yenilen çeşitli gıda müstehazarları — Bu yanlış cevaptır.",
+        "C": "Hububat — Bu yanlış cevaptır.",
+        "D": "Lak; sakız, reçine ve diğer bitkisel özsu ve hülasalar 11 \tDiğer sayfaya geçiniz. 26 ARALIK 2015 — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "79. soru - A seçeneği: \"Mineral Maddeler\" ne demek?",
+      "cevap": "Mineral Maddeler — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 79,
+      "secenek": "A"
+    },
+    {
+      "soru": "79. soru - B seçeneği: \"Taş, Alçı, Çimento\" ne demek?",
+      "cevap": "Taş, Alçı, Çimento — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 79,
+      "secenek": "B"
+    },
+    {
+      "soru": "79. soru - C seçeneği: \"Ağaç ve Ahşap Eşya\" ne demek?",
+      "cevap": "Ağaç ve Ahşap Eşya — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 79,
+      "secenek": "C"
+    },
+    {
+      "soru": "79. soru - D seçeneği: \"Deriler ve Köseleler\" ne demek?",
+      "cevap": "Deriler ve Köseleler — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 79,
+      "secenek": "D"
+    },
+    {
+      "soru": "79. Türk Gümrük Tarife Cetveli’nin 5. Bölümünde aşağıda  verilen hangi ürün grupları yer alır?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Mineral Maddeler",
+        "B": "Taş, Alçı, Çimento",
+        "C": "Ağaç ve Ahşap Eşya",
+        "D": "Deriler ve Köseleler",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Mineral Maddeler — Bu yanlış cevaptır.",
+        "B": "Taş, Alçı, Çimento — Bu yanlış cevaptır.",
+        "C": "Ağaç ve Ahşap Eşya — Bu yanlış cevaptır.",
+        "D": "Deriler ve Köseleler — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    },
+    {
+      "soru": "80. soru - A seçeneği: \"Kalem sayısı\" ne demek?",
+      "cevap": "Kalem sayısı — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 80,
+      "secenek": "A"
+    },
+    {
+      "soru": "80. soru - B seçeneği: \"Aynı eşya\" ne demek?",
+      "cevap": "Aynı eşya — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 80,
+      "secenek": "B"
+    },
+    {
+      "soru": "80. soru - C seçeneği: \"Yaklaşık eşya\" ne demek?",
+      "cevap": "Yaklaşık eşya — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 80,
+      "secenek": "C"
+    },
+    {
+      "soru": "80. soru - D seçeneği: \"Bir kalem eşya 12 \tTest bitti. SINAVDA UYULACAK KURALLAR (Sı\" ne demek?",
+      "cevap": "Bir kalem eşya 12 \tTest bitti. SINAVDA UYULACAK KURALLAR (Sınav \tbaşlamadan \tönce \tSalon \tBaşkanı \ttarafından yüksek sesle adaylara okunacaktır.) — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2015 Secenek Aciklamasi",
+      "soruNumarasi": 80,
+      "secenek": "D"
+    },
+    {
+      "soru": "80. Türk Gümrük Tarife Cetveli’nde aynı tarife  pozisyonunun alt açılımında bulunan ve aynı kanuni veya tercihli vergi oranına tabi olan eşya çeşidine ne denir?",
+      "cevap": "Doğru cevap mevcut değil.",
+      "kategori": "Gumruk Musavirligi 2015 Unknown",
+      "secenekler": {
+        "A": "Kalem sayısı",
+        "B": "Aynı eşya",
+        "C": "Yaklaşık eşya",
+        "D": "Bir kalem eşya 12 \tTest bitti. SINAVDA UYULACAK KURALLAR (Sınav \tbaşlamadan \tönce \tSalon \tBaşkanı \ttarafından yüksek sesle adaylara okunacaktır.)",
+        "E": ""
+      },
+      "secenekAciklamalari": {
+        "A": "Kalem sayısı — Bu yanlış cevaptır.",
+        "B": "Aynı eşya — Bu yanlış cevaptır.",
+        "C": "Yaklaşık eşya — Bu yanlış cevaptır.",
+        "D": "Bir kalem eşya 12 \tTest bitti. SINAVDA UYULACAK KURALLAR (Sınav \tbaşlamadan \tönce \tSalon \tBaşkanı \ttarafından yüksek sesle adaylara okunacaktır.) — Bu yanlış cevaptır."
+      },
+      "dogruCevap": "",
+      "dogruCevapMetni": ""
+    }
+  ]
+}

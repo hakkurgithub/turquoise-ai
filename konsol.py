@@ -87,6 +87,13 @@ def veri_yukle():
                 'gumruk-musavirligi-2006-sinav.json',
                 'gumruk-musavirligi-2008-sinav.json',
                 'gumruk-musavirligi-2010-sinav.json',
+                'gumruk-musavirligi-2011-sinav.json',
+                'gumruk-musavirligi-2012-sinav.json',
+                'gumruk-musavirligi-2013-sinav.json',
+                'gumruk-musavirligi-2014-sinav.json',
+                'gumruk-musavirligi-2015-sinav.json',
+                'gumruk-musavirligi-2017-sinav.json',
+                'gumruk-musavirligi-2018-sinav.json',
                 'b2b-ticaret-dataset.json', 'lojistik-tasimacilik-dataset.json',
                 'finans-vergi-dataset.json', 'sirket-is-hukuku-dataset.json',
                 'turkiye-ekonomi-dataset.json', 'emlak-yatirim-dataset.json']

@@ -15,7 +15,7 @@ sorulan sorulara cevap verir. Bilmedigi sorulari WhatsApp uzerinden uzmana ileti
 - **Konsol arayuzu:** Python veya Node.js ile terminalde calisir.
 - **Acik kaynak veri:** Tum bilgi bankasi `hasinder-ai-data/` klasorundeki
   acik JSON/Markdown dosyalarindan gelir - kolayca genisletilebilir.
-- **Genisletilmis bilgi bankasi:** 1035 soru-cevap, 112 terim, 81 sehir bilgisi.
+- **Genisletilmis bilgi bankasi:** 3821 soru-cevap, 112 terim, 81 sehir bilgisi.
 - **WhatsApp yonlendirme:** Cevap bulunamayan sorular WhatsApp uzerinden
   uzmana iletilir (wa.me/905333715577).
 
@@ -37,6 +37,13 @@ sorulan sorulara cevap verir. Bilmedigi sorulari WhatsApp uzerinden uzmana ileti
     ├── gumruk-musavirligi-2006-sinav.json # 2006 Gümrük Müşavirliği Ön Eleme Sınavı (100 soru + seçenek açıklamalı)
     ├── gumruk-musavirligi-2008-sinav.json # 2008 Gümrük Müşavirliği Mesleki Yeterlilik Sınavı (50 soru + seçenek açıklamalı)
     ├── gumruk-musavirligi-2010-sinav.json # 2010 Gümrük Müşavirliği Mesleki Yeterlilik Sınavı (50 soru + seçenek açıklamalı)
+    ├── gumruk-musavirligi-2011-sinav.json # 2011 Gümrük Müşavirliği Sınavları
+    ├── gumruk-musavirligi-2012-sinav.json # 2012 Gümrük Müşavirliği Sınavları
+    ├── gumruk-musavirligi-2013-sinav.json # 2013 Gümrük Müşavirliği Sınavları
+    ├── gumruk-musavirligi-2014-sinav.json # 2014 Gümrük Müşavirliği Sınavları
+    ├── gumruk-musavirligi-2015-sinav.json # 2015 Gümrük Müşavirliği Yazılı Sınavı
+    ├── gumruk-musavirligi-2017-sinav.json # 2017 Gümrük Müşavirliği Sınavı (cevap anahtarlı)
+    ├── gumruk-musavirligi-2018-sinav.json # 2018 Gümrük Müşavirliği Sınavı (cevap anahtarlı)
     ├── b2b-ticaret-dataset.json # B2B ticaret, tedarik zinciri, sozlesmeler
     ├── lojistik-tasimacilik-dataset.json # Lojistik ve tasimacilik
     ├── finans-vergi-dataset.json # Finans ve vergi mevzuati
