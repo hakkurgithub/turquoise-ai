@@ -44,6 +44,7 @@ sorulan sorulara cevap verir. Bilmedigi sorulari WhatsApp uzerinden uzmana ileti
     ├── gumruk-musavirligi-2015-sinav.json # 2015 Gümrük Müşavirliği Yazılı Sınavı
     ├── gumruk-musavirligi-2017-sinav.json # 2017 Gümrük Müşavirliği Sınavı (cevap anahtarlı)
     ├── gumruk-musavirligi-2018-sinav.json # 2018 Gümrük Müşavirliği Sınavı (cevap anahtarlı)
+    ├── gumruk-tarife-cetveli-fasillar.json # Türk Gümrük Tarife Cetveli - 99 Fasıl + 21 Bölüm
     ├── b2b-ticaret-dataset.json # B2B ticaret, tedarik zinciri, sozlesmeler
     ├── lojistik-tasimacilik-dataset.json # Lojistik ve tasimacilik
     ├── finans-vergi-dataset.json # Finans ve vergi mevzuati

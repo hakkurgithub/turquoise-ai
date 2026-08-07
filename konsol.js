@@ -87,6 +87,7 @@ function veriYukle() {
     'gumruk-musavirligi-2015-sinav.json',
     'gumruk-musavirligi-2017-sinav.json',
     'gumruk-musavirligi-2018-sinav.json',
+    'gumruk-tarife-cetveli-fasillar.json',
     'b2b-ticaret-dataset.json',
     'lojistik-tasimacilik-dataset.json',
     'finans-vergi-dataset.json',
