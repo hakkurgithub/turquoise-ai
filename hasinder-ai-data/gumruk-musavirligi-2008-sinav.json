@@ -2,7 +2,7 @@
   "dataset": [
     {
       "soru": "1. Götürü teminatla ilgili olarak aşağıdakilerden hangisi yanlıştır?",
-      "cevap": "Doğru cevap: D) Götürü teminat mektuplarının vadesi en az 3 yıl olmalıdır.",
+      "cevap": "Doğru cevap: D) Götürü teminat mektuplarının vadesi en az 3 yıl olmalıdır.\n\nAçıklama: Götürü teminatla ilgili olarak verilen ifadelerden yanlış olanı sorulmaktadır. Götürü teminat mektuplarının vadesi en az 2 yıl olmalıdır (3 yıl değil).",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "Götürü teminat sisteminden, A ve B Sınıfı Onaylanmış Kişi Statüsüne sahip olan yükümlüler ile Müsteşarlıkça belirlenen şartları taşıyan antrepo işleticileri yararlanabilir.",
@@ -10,12 +10,18 @@
         "C": "Götürü teminat sisteminden yararlanmak için verilecek teminat tutarı bir önceki yılda gümrük işlemleri nedeniyle teminat konusu olan toplam değerin %10’udur.",
         "D": "Götürü teminat mektuplarının vadesi en az 3 yıl olmalıdır."
       },
+      "secenekAciklamalari": {
+        "A": "Götürü teminat sisteminden, A ve B Sınıfı Onaylanmış Kişi Statüsüne sahip olan yükümlüler ile Müsteşarlıkça belirlenen şartları taşıyan antrepo işleticileri yararlanabilir. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "B": "4760 sayılı Özel Tüketim Vergisi Kanununun eki (I) sayılı listede yer alan eşyanın ithaliyle ilgili Maliye Bakanlığınca yapılan düzenlemeler saklı kalmak kaydıyla, gümrük rejimlerine ilişkin tüm kamu alacakları için geçerlidir — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "C": "Götürü teminat sisteminden yararlanmak için verilecek teminat tutarı bir önceki yılda gümrük işlemleri nedeniyle teminat konusu olan toplam değerin %10’udur. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "D": "Götürü teminat mektuplarının vadesi en az 3 yıl olmalıdır. — Bu doğru cevaptır. Götürü teminat mektuplarının vadesi en az 3 yıl olmalıdır. Gümrük mevzuatına göre götürü teminat mektuplarının vade sınırı 2 yıldır, 3 yıl değil."
+      },
       "dogruCevap": "D",
       "dogruCevapMetni": "Götürü teminat mektuplarının vadesi en az 3 yıl olmalıdır."
     },
     {
       "soru": "2. Aşağıda boş bırakılan yerlere gelmesi gereken ifadeler hangileridir?",
-      "cevap": "Doğru cevap: A) I- Satış bedeli, II- Fiilen ödenen veya ödenecek fiyat, III- Ödemeler toplamı",
+      "cevap": "Doğru cevap: A) I- Satış bedeli, II- Fiilen ödenen veya ödenecek fiyat, III- Ödemeler toplamı\n\nAçıklama: İthal eşyasının gümrük kıymetinin unsurları sorulmaktadır. Gümrük kıymeti satış bedeli olup, fiilen ödenen/ödenecek fiyat üzerinden hesaplanır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "I- Satış bedeli, II- Fiilen ödenen veya ödenecek fiyat, III- Ödemeler toplamı",
@@ -23,12 +29,18 @@
         "C": "I- Satış bedeli, II- Ödemeler toplamı, III- Fiilen ödenen veya ödenecek fiyat",
         "D": "I- Ödemeler toplamı, II-Fiilen ödenen veya ödenecek fiyat, III- Satış bedeli -- 1 of 14 -- 2"
       },
+      "secenekAciklamalari": {
+        "A": "I- Satış bedeli, II- Fiilen ödenen veya ödenecek fiyat, III- Ödemeler toplamı — Bu doğru cevaptır. İthal eşyasının gümrük kıymeti satış bedelidir. Satış bedeli, fiilen ödenen veya ödenecek fiyatın gerekli düzeltmeler yapılarak belirlenmesidir.",
+        "B": "I- Fiilen ödenen veya ödenecek fiyat, II- Satış bedeli, III-Fiyat — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "C": "I- Satış bedeli, II- Ödemeler toplamı, III- Fiilen ödenen veya ödenecek fiyat — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "D": "I- Ödemeler toplamı, II-Fiilen ödenen veya ödenecek fiyat, III- Satış bedeli -- 1 of 14 -- 2 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir."
+      },
       "dogruCevap": "A",
       "dogruCevapMetni": "I- Satış bedeli, II- Fiilen ödenen veya ödenecek fiyat, III- Ödemeler toplamı"
     },
     {
       "soru": "3. (İ) İthalatçısı yurt dışında yerleşik satıcı (X) firmasından eşya satın almıştır. Satış sözleşmesinde, fiyatın sonradan gözden geçirilmesini öngören hükümler bulunduğundan, (İ) firması istisnai kıymetle beyan hükümlerinden yararlanmak için gümrük idaresine başvurmuş ve talebi kabul edilmiştir. İthal anında mevcut belgelere göre kıymet tespiti yapılmıştır. Sözleşme hükümlerine göre nihai fiyat belirlendiğinde, bu fiyatın ithal anında beyan edilen fiyattan düşük olduğu anlaşılmıştır. Bu durumda aşağıdakilerden hangisi doğrudur?",
-      "cevap": "Doğru cevap: B) Fark kıymetin iade alındığının tevsiki, satış sözleşmesine göre kıymetin yeniden belirlenmesini gerektiren işleme ait belgenin onaylı örneğinin sunulması ve gümrük idaresince yapılacak inceleme sonucunda söz konusu hususların tespiti üzerine Gümrük Kanununun 211 inci maddesi çerçevesinde geri verme işlemi yapılır.",
+      "cevap": "Doğru cevap: B) Fark kıymetin iade alındığının tevsiki, satış sözleşmesine göre kıymetin yeniden belirlenmesini gerektiren işleme ait belgenin onaylı örneğinin sunulması ve gümrük idaresince yapılacak inceleme sonucunda söz konusu hususların tespiti üzerine Gümrük Kanununun 211 inci maddesi çerçevesinde geri verme işlemi yapılır.\n\nAçıklama: İstisnai kıymetle beyar durumunda nihai fiyatın düşük çıkması halinde geri verme işlemi için gerekli belgeler sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "Gümrük idaresince tescil edilmiş olan beyanname, ait olduğu eşyanın vergileri ve para cezalarından dolayı taahhüt niteliğinde beyan sahibini bağlar ve gümrük vergileri tahakkukuna esas tutulur. Bu nedenle, ithal anında beyan edilen kıymet esas alınır ve herhangi bir iade söz konusu olmaz.",
@@ -36,12 +48,18 @@
         "C": "Yükümlünün bir dilekçe ile ilgili gümrük idaresine başvurarak satış sözleşmesine göre nihai olarak belirlenen kıymeti bildirmesi üzerine ve dilekçeye satıcı tarafından düzenlenmiş nihai kıymeti bildiren bir belgenin eklenmesi kaydıyla gümrük idaresince, Gümrük Kanununun 211 inci maddesine göre geri verme işlemi yapılır.",
         "D": "Nihai kıymetin belirlenmesi üzerine, yükümlü tarafından ibraz edilecek ekspertiz raporu veya Yeminli Mali Müşavirden onaylı belgede kayıtlı kıymetler dikkate alınarak nihai kıymet tespiti yapılır."
       },
+      "secenekAciklamalari": {
+        "A": "Gümrük idaresince tescil edilmiş olan beyanname, ait olduğu eşyanın vergileri ve para cezalarından dolayı taahhüt niteliğinde beyan sahibini bağlar ve gümrük vergileri tahakkukuna esas tutulur. Bu nedenle, ithal anında beyan edilen kıymet esas alınır ve herhangi bir iade söz konusu olmaz. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "B": "Fark kıymetin iade alındığının tevsiki, satış sözleşmesine göre kıymetin yeniden belirlenmesini gerektiren işleme ait belgenin onaylı örneğinin sunulması ve gümrük idaresince yapılacak inceleme sonucunda söz konusu hususların tespiti üzerine Gümrük Kanununun 211 inci maddesi çerçevesinde geri verme işlemi yapılır. — Bu doğru cevaptır. İstisnai kıymetle beyan durumunda fark kıymetin iade alınması için satış sözleşmesine göre kıymetin yeniden belirlenmesini gerektiren işleme ait belgenin onaylı örnek sunulması gerekir.",
+        "C": "Yükümlünün bir dilekçe ile ilgili gümrük idaresine başvurarak satış sözleşmesine göre nihai olarak belirlenen kıymeti bildirmesi üzerine ve dilekçeye satıcı tarafından düzenlenmiş nihai kıymeti bildiren bir belgenin eklenmesi kaydıyla gümrük idaresince, Gümrük Kanununun 211 inci maddesine göre geri verme işlemi yapılır. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "D": "Nihai kıymetin belirlenmesi üzerine, yükümlü tarafından ibraz edilecek ekspertiz raporu veya Yeminli Mali Müşavirden onaylı belgede kayıtlı kıymetler dikkate alınarak nihai kıymet tespiti yapılır. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir."
+      },
       "dogruCevap": "B",
       "dogruCevapMetni": "Fark kıymetin iade alındığının tevsiki, satış sözleşmesine göre kıymetin yeniden belirlenmesini gerektiren işleme ait belgenin onaylı örneğinin sunulması ve gümrük idaresince yapılacak inceleme sonucunda söz konusu hususların tespiti üzerine Gümrük Kanununun 211 inci maddesi çerçevesinde geri verme işlemi yapılır."
     },
     {
       "soru": "4. (İ) İthalatçısı yurt dışında yerleşik satıcı (X) firmasından bazı eşyalar satın almıştır. Alıcı ile satıcı arasındaki anlaşmaya göre, ithal eşyasının Türkiye’de çoğaltılması hakkı için, alıcı tarafından satıcıya, faturada belirtilen fiyata ilave olarak ayrıca, sözleşmede belirtilmiş miktarda lisans ücreti ödenmesi gerekmektedir. Bu ödeme ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
-      "cevap": "Doğru cevap: C) Lisans ücreti ödemesi, ithal eşyasının Türkiye’de çoğaltılması hakkı için yapıldığından, fiilen ödenen veya ödenecek fiyata ilave edilecek unsurlar arasında değerlendirilmez.",
+      "cevap": "Doğru cevap: C) Lisans ücreti ödemesi, ithal eşyasının Türkiye’de çoğaltılması hakkı için yapıldığından, fiilen ödenen veya ödenecek fiyata ilave edilecek unsurlar arasında değerlendirilmez.\n\nAçıklama: Lisans ücretinin gümrük kıymetine dahil edilip edilmemesi sorulmaktadır. Lisans ücreti çoğaltma hakkı için yapıldığından kıymete dahil edilmez.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "Lisans ücreti ödemesi ithal eşyası ile ilgili olduğundan ve satış koşulu olarak yapıldığından, ithal eşyasının gümrük kıymetine dahildir.",
@@ -49,12 +67,18 @@
         "C": "Lisans ücreti ödemesi, ithal eşyasının Türkiye’de çoğaltılması hakkı için yapıldığından, fiilen ödenen veya ödenecek fiyata ilave edilecek unsurlar arasında değerlendirilmez.",
         "D": "Lisans ücreti ödemesi, ithal eşyasının fiilen ödenen veya ödenecek fiyatından ayırt edilemediğinden ve miktarı bilinemediğinden, ithal eşyasının gümrük kıymetine dahildir. -- 2 of 14 -- 3"
       },
+      "secenekAciklamalari": {
+        "A": "Lisans ücreti ödemesi ithal eşyası ile ilgili olduğundan ve satış koşulu olarak yapıldığından, ithal eşyasının gümrük kıymetine dahildir. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "B": "Lisans ücreti ödemesi, ithal eşyasının Türkiye’de çoğaltılması hakkı ile ilgili olduğundan, fiilen ödenen veya ödenecek fiyata ilave edilerek ithal eşyasının gümrük kıymetine dahil edilir. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "C": "Lisans ücreti ödemesi, ithal eşyasının Türkiye’de çoğaltılması hakkı için yapıldığından, fiilen ödenen veya ödenecek fiyata ilave edilecek unsurlar arasında değerlendirilmez. — Bu doğru cevaptır. Lisans ücreti ödemesi, ithal eşyasının Türkiye'de çoğaltılması hakkı için yapıldığından, fiilen ödenen fiyata ilave edilecek unsurlar arasında değerlendirilmez.",
+        "D": "Lisans ücreti ödemesi, ithal eşyasının fiilen ödenen veya ödenecek fiyatından ayırt edilemediğinden ve miktarı bilinemediğinden, ithal eşyasının gümrük kıymetine dahildir. -- 2 of 14 -- 3 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir."
+      },
       "dogruCevap": "C",
       "dogruCevapMetni": "Lisans ücreti ödemesi, ithal eşyasının Türkiye’de çoğaltılması hakkı için yapıldığından, fiilen ödenen veya ödenecek fiyata ilave edilecek unsurlar arasında değerlendirilmez."
     },
     {
       "soru": "5. Serbest dolaşıma giriş rejimi kapsamında gümrük gözetimi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
-      "cevap": "Doğru cevap: B) Özel amaca yönelik kullanım nedeniyle indirimli veya sıfır vergi oranından yararlanarak serbest dolaşıma girmiş eşyanın gümrük gözetimi, nihai kullanım olarak kabul edilen üretim veya kullanım faaliyeti kapsamında devam eder.",
+      "cevap": "Doğru cevap: B) Özel amaca yönelik kullanım nedeniyle indirimli veya sıfır vergi oranından yararlanarak serbest dolaşıma girmiş eşyanın gümrük gözetimi, nihai kullanım olarak kabul edilen üretim veya kullanım faaliyeti kapsamında devam eder.\n\nAçıklama: Serbest dolaşıma giriş rejiminde gümrük gözetiminin ne zaman sona ereceği sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "Özel amaca yönelik kullanım nedeniyle indirimli veya sıfır vergi oranından yararlanarak serbest dolaşıma girmiş eşyanın gümrük gözetimi, nihai kullanım olarak kabul edilen üretim veya kullanım faaliyetiyle sona erer.",
@@ -62,12 +86,18 @@
         "C": "İndirimli veya sıfır vergi uygulamasına ilişkin koşulların sona erdiği, eşyanın indirimli veya sıfır vergi uygulaması için belirlenmiş amaçlar dışında kullanılması nedeniyle tahsili gereken vergilerin ödendiği hallerde gümrük gözetimi sona erer.",
         "D": "Eşyanın ihraç veya imha edildiği hallerde gümrük gözetimi sona erer."
       },
+      "secenekAciklamalari": {
+        "A": "Özel amaca yönelik kullanım nedeniyle indirimli veya sıfır vergi oranından yararlanarak serbest dolaşıma girmiş eşyanın gümrük gözetimi, nihai kullanım olarak kabul edilen üretim veya kullanım faaliyetiyle sona erer. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "B": "Özel amaca yönelik kullanım nedeniyle indirimli veya sıfır vergi oranından yararlanarak serbest dolaşıma girmiş eşyanın gümrük gözetimi, nihai kullanım olarak kabul edilen üretim veya kullanım faaliyeti kapsamında devam eder. — Bu doğru cevaptır. Özel amaca yönelik kullanım nedeniyle serbest dolaşıma giren eşyanın gümrük gözetimi, nihai kullanım olarak kabul edilen üretim/kullanım faaliyeti kapsamında devam eder.",
+        "C": "İndirimli veya sıfır vergi uygulamasına ilişkin koşulların sona erdiği, eşyanın indirimli veya sıfır vergi uygulaması için belirlenmiş amaçlar dışında kullanılması nedeniyle tahsili gereken vergilerin ödendiği hallerde gümrük gözetimi sona erer. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "D": "Eşyanın ihraç veya imha edildiği hallerde gümrük gözetimi sona erer. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir."
+      },
       "dogruCevap": "B",
       "dogruCevapMetni": "Özel amaca yönelik kullanım nedeniyle indirimli veya sıfır vergi oranından yararlanarak serbest dolaşıma girmiş eşyanın gümrük gözetimi, nihai kullanım olarak kabul edilen üretim veya kullanım faaliyeti kapsamında devam eder."
     },
     {
       "soru": "6. Türkiye’ye ithali öngörülen her türlü izin veya uygunluk belgesine tabi eşya ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
-      "cevap": "Doğru cevap: D) İlgili kurumlarca yapılacak kontroller, gümrük yükümlülüğü sona erdikten sonra Dış Ticaret Müsteşarlığı tarafından belirlenen yerlerde de yapılabilir",
+      "cevap": "Doğru cevap: D) İlgili kurumlarca yapılacak kontroller, gümrük yükümlülüğü sona erdikten sonra Dış Ticaret Müsteşarlığı tarafından belirlenen yerlerde de yapılabilir\n\nAçıklama: İzin/uygunluk belgesine tabi eşyaların ithalat kontrolleri sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "Tabi olduğu mevzuata uygunluğu tespit edilmek suretiyle ithal edilebilir",
@@ -75,12 +105,18 @@
         "C": "İlgili kurumlarca yapılacak kontroller, gümrük yükümlülüğü sona erdikten sonra ve eşya gümrük kontrolündeki yer ve sahalardan çıkarılmadan önce de yapılabilir",
         "D": "İlgili kurumlarca yapılacak kontroller, gümrük yükümlülüğü sona erdikten sonra Dış Ticaret Müsteşarlığı tarafından belirlenen yerlerde de yapılabilir"
       },
+      "secenekAciklamalari": {
+        "A": "Tabi olduğu mevzuata uygunluğu tespit edilmek suretiyle ithal edilebilir — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "B": "İlgili kurumlarca yapılacak ithalat kontrollerinin gümrük beyannamesinin tescil işlemi öncesinde yapılması esastır — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "C": "İlgili kurumlarca yapılacak kontroller, gümrük yükümlülüğü sona erdikten sonra ve eşya gümrük kontrolündeki yer ve sahalardan çıkarılmadan önce de yapılabilir — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "D": "İlgili kurumlarca yapılacak kontroller, gümrük yükümlülüğü sona erdikten sonra Dış Ticaret Müsteşarlığı tarafından belirlenen yerlerde de yapılabilir — Bu doğru cevaptır. İlgili kurumlarca yapılan kontroller, gümrük yükümlülüğü sona erdikten sonra Dış Ticaret Müsteşarlığı tarafından belirlenen yerlerde de yapılabilir."
+      },
       "dogruCevap": "D",
       "dogruCevapMetni": "İlgili kurumlarca yapılacak kontroller, gümrük yükümlülüğü sona erdikten sonra Dış Ticaret Müsteşarlığı tarafından belirlenen yerlerde de yapılabilir"
     },
     {
       "soru": "7. Gümrük mevzuatına göre elleçleme ile ilgili olarak aşağıdaki ifadelerden hangisi yanlıştır?",
-      "cevap": "Doğru cevap: B) Piyasa düzeninin aksamadan işleyişini sağlamak amacıyla, tarım ve sanayi ürünlerinin antrepolarda tabi tutulacağı elleçleme işlemleri Gümrük Müsteşarlığınca sınırlandırılabilir.",
+      "cevap": "Doğru cevap: B) Piyasa düzeninin aksamadan işleyişini sağlamak amacıyla, tarım ve sanayi ürünlerinin antrepolarda tabi tutulacağı elleçleme işlemleri Gümrük Müsteşarlığınca sınırlandırılabilir.\n\nAçıklama: Elleçleme işlemleri ile ilgili yanlış olan ifade sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "İthal eşyası, iyi korunmaları, görünüşlerinin veya pazarlama kalitelerinin geliştirilmesi ya da dağıtım veya yeniden satışa hazırlanmaları yönünden yönetmelikle belirlenen mutat elleçleme işlemlerine tabi tutulabilir.",
@@ -88,12 +124,18 @@
         "C": "Elleçleme işlemleri, ancak gümrük idarelerinin izniyle yapılabilir",
         "D": "Antrepo rejimine tabi tutulan eşya, gümrük idarelerinden izin alınmak şartıyla geçici olarak gümrük antreposundan çıkarılabilir. Eşya gümrük antreposu dışında bulunduğu süre içinde belirli şartlar altında elleçleme işlemlerine tabi tutulabilir. -- 3 of 14 -- 4"
       },
+      "secenekAciklamalari": {
+        "A": "İthal eşyası, iyi korunmaları, görünüşlerinin veya pazarlama kalitelerinin geliştirilmesi ya da dağıtım veya yeniden satışa hazırlanmaları yönünden yönetmelikle belirlenen mutat elleçleme işlemlerine tabi tutulabilir. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "B": "Piyasa düzeninin aksamadan işleyişini sağlamak amacıyla, tarım ve sanayi ürünlerinin antrepolarda tabi tutulacağı elleçleme işlemleri Gümrük Müsteşarlığınca sınırlandırılabilir. — Bu doğru cevaptır. Tarım ve sanayi ürünlerinin antrepolarda tabi tutulacağı elleçleme işlemleri Gümrük Müsteşarlığınca sınırlandırılabilir.",
+        "C": "Elleçleme işlemleri, ancak gümrük idarelerinin izniyle yapılabilir — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "D": "Antrepo rejimine tabi tutulan eşya, gümrük idarelerinden izin alınmak şartıyla geçici olarak gümrük antreposundan çıkarılabilir. Eşya gümrük antreposu dışında bulunduğu süre içinde belirli şartlar altında elleçleme işlemlerine tabi tutulabilir. -- 3 of 14 -- 4 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir."
+      },
       "dogruCevap": "B",
       "dogruCevapMetni": "Piyasa düzeninin aksamadan işleyişini sağlamak amacıyla, tarım ve sanayi ürünlerinin antrepolarda tabi tutulacağı elleçleme işlemleri Gümrük Müsteşarlığınca sınırlandırılabilir."
     },
     {
       "soru": "8. Gümrük mevzuatına göre aşağıdaki ifadelerden hangisi yanlıştır?",
-      "cevap": "Doğru cevap: A) Antrepolarda yapılan sayım sonucunda noksan çıkan eşyanın gümrük vergileri, her zaman işleticiden tahsil edilir.",
+      "cevap": "Doğru cevap: A) Antrepolarda yapılan sayım sonucunda noksan çıkan eşyanın gümrük vergileri, her zaman işleticiden tahsil edilir.\n\nAçıklama: Antrepo işlemleri ile ilgili doğru ifade sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "Antrepolarda yapılan sayım sonucunda noksan çıkan eşyanın gümrük vergileri, her zaman işleticiden tahsil edilir.",
@@ -101,12 +143,18 @@
         "C": "İthal eşyasının elleçleme işlemlerine tabi tutulması halinde, eşyanın ithalat vergileri tutarının belirlenmesinde dikkate alınacak niteliği, gümrük kıymeti ve miktarı, beyan sahibinin talebi üzerine, gümrük yükümlülüğünün doğduğu tarihte, eşya söz konusu elleçleme işlemlerine tabi tutulmamış gibi tespit edilir.",
         "D": "İthal eşyası için bir gümrük yükümlülüğü doğduğunda, eşyanın antrepo masrafları ile antrepoda kaldığı sürece muhafazası için yapılan masraflar, fiilen ödenen veya ödenecek fiyattan ayrı olarak gösterilmeleri şartıyla gümrük kıymetine dahil edilmez."
       },
+      "secenekAciklamalari": {
+        "A": "Antrepolarda yapılan sayım sonucunda noksan çıkan eşyanın gümrük vergileri, her zaman işleticiden tahsil edilir. — Bu doğru cevaptır. Antrepolarda yapılan sayım sonucunda noksan çıkan eşyanın gümrük vergileri, her zaman işleticiden tahsil edilir.",
+        "B": "Antrepoda yapılan sayım sonucunda fazla çıkan eşya kayıtlara alınır. Bu fazlalığın geçerli nedenlerden ileri geldiğine gümrük idaresince kanaat getirilmediği takdirde, söz konusu eşya tasfiyeye tabi tutulur. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "C": "İthal eşyasının elleçleme işlemlerine tabi tutulması halinde, eşyanın ithalat vergileri tutarının belirlenmesinde dikkate alınacak niteliği, gümrük kıymeti ve miktarı, beyan sahibinin talebi üzerine, gümrük yükümlülüğünün doğduğu tarihte, eşya söz konusu elleçleme işlemlerine tabi tutulmamış gibi tespit edilir. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "D": "İthal eşyası için bir gümrük yükümlülüğü doğduğunda, eşyanın antrepo masrafları ile antrepoda kaldığı sürece muhafazası için yapılan masraflar, fiilen ödenen veya ödenecek fiyattan ayrı olarak gösterilmeleri şartıyla gümrük kıymetine dahil edilmez. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir."
+      },
       "dogruCevap": "A",
       "dogruCevapMetni": "Antrepolarda yapılan sayım sonucunda noksan çıkan eşyanın gümrük vergileri, her zaman işleticiden tahsil edilir."
     },
     {
       "soru": "9. Gümrük kontrolü altında işleme rejiminde (beklenmeyen hal ve mücbir sebepler nedeniyle verilebilecek ek süreler hariç) belirlenebilecek azami süre ne kadardır?",
-      "cevap": "Doğru cevap: C) 2 yıl",
+      "cevap": "Doğru cevap: C) 2 yıl\n\nAçıklama: Gümrük kontrolü altında işleme rejiminin azami süresi sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "6 ay",
@@ -114,12 +162,18 @@
         "C": "2 yıl",
         "D": "3 yıl"
       },
+      "secenekAciklamalari": {
+        "A": "6 ay — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "B": "1 yıl — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "C": "2 yıl — Bu doğru cevaptır. Gümrük kontrolü altında işleme rejiminde azami süre 2 yıldır.",
+        "D": "3 yıl — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir."
+      },
       "dogruCevap": "C",
       "dogruCevapMetni": "2 yıl"
     },
     {
       "soru": "10. Basitleştirilmiş usullerden yararlanacak kişilere verilen Onaylanmış Kişi Statü Belgesine ilişkin aşağıdakilerden hangisi doğrudur?",
-      "cevap": "Doğru cevap: C) A, B ve C Sınıfı Onaylanmış Kişi Statü Belgesine sahip olanlar, eksik bilgi ve/veya belge ile beyan uygulamasından yararlanabilmektedirler.",
+      "cevap": "Doğru cevap: C) A, B ve C Sınıfı Onaylanmış Kişi Statü Belgesine sahip olanlar, eksik bilgi ve/veya belge ile beyan uygulamasından yararlanabilmektedirler.\n\nAçıklama: Onaylanmış Kişi Statü Belgesi ile ilgili doğru bilgi sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "Onaylanmış Kişi Statü Belgesinin geçerlilik süresi, belge düzenleme tarihi itibariyle 3 (üç) yıldır.",
@@ -127,12 +181,18 @@
         "C": "A, B ve C Sınıfı Onaylanmış Kişi Statü Belgesine sahip olanlar, eksik bilgi ve/veya belge ile beyan uygulamasından yararlanabilmektedirler.",
         "D": "Eşyanın ilgili rejime geçişinin kayıt yoluyla yapılması uygulamasından B Sınıfı Onaylanmış Kişi Statü Belgesine sahip olanlar yararlanabilmektedirler. -- 4 of 14 -- 5"
       },
+      "secenekAciklamalari": {
+        "A": "Onaylanmış Kişi Statü Belgesinin geçerlilik süresi, belge düzenleme tarihi itibariyle 3 (üç) yıldır. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "B": "A, B ve C Sınıfı Onaylanmış Kişi Statü Belgesine sahip olanlar Gümrük Yönetmeliğinin 207 nci maddesi çerçevesinde “basitleştirilmiş kontrol” uygulamasından yararlanabilmektedirler. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "C": "A, B ve C Sınıfı Onaylanmış Kişi Statü Belgesine sahip olanlar, eksik bilgi ve/veya belge ile beyan uygulamasından yararlanabilmektedirler. — Bu doğru cevaptır. A, B ve C Sınıfı Onaylanmış Kişi Statü Belgesine sahip olanlar, eksik bilgi ve/veya belge ile beyan uygulamasından yararlanabilir.",
+        "D": "Eşyanın ilgili rejime geçişinin kayıt yoluyla yapılması uygulamasından B Sınıfı Onaylanmış Kişi Statü Belgesine sahip olanlar yararlanabilmektedirler. -- 4 of 14 -- 5 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir."
+      },
       "dogruCevap": "C",
       "dogruCevapMetni": "A, B ve C Sınıfı Onaylanmış Kişi Statü Belgesine sahip olanlar, eksik bilgi ve/veya belge ile beyan uygulamasından yararlanabilmektedirler."
     },
     {
       "soru": "11. Aşağıdakilerden hangisi, basitleştirilmiş usullere ilişkin genel ve özel koşullar aranmaksızın basitleştirilmiş beyan usulünden yararlanacak eşyadan değildir?",
-      "cevap": "Doğru cevap: C) Kara yolu ile kargo yoluyla taşınan ticari mahiyet arz etmeyen ve/veya gümrük vergisinden muaf eşya.",
+      "cevap": "Doğru cevap: C) Kara yolu ile kargo yoluyla taşınan ticari mahiyet arz etmeyen ve/veya gümrük vergisinden muaf eşya.\n\nAçıklama: Basitleştirilmiş usullere tabi olmayan eşya sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "Türkiye Atom Enerjisi Kurumunun uygunluk yazısının ibrazı şartıyla radyoaktif maddeler.",
@@ -140,12 +200,18 @@
         "C": "Kara yolu ile kargo yoluyla taşınan ticari mahiyet arz etmeyen ve/veya gümrük vergisinden muaf eşya.",
         "D": "Yurt dışında periyodik olarak yayımlanan gazete ve dergiler ile bunların elektronik ortamda muhafaza edildiği materyaller."
       },
+      "secenekAciklamalari": {
+        "A": "Türkiye Atom Enerjisi Kurumunun uygunluk yazısının ibrazı şartıyla radyoaktif maddeler. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "B": "İnsan ve hayvan sağlığı ile ilgili her türlü aşılar. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "C": "Kara yolu ile kargo yoluyla taşınan ticari mahiyet arz etmeyen ve/veya gümrük vergisinden muaf eşya. — Bu doğru cevaptır. Kara yolu ile kargo yoluyla taşınan ticari mahiyet arz etmeyen ve/veya gümrük vergisinden muaf eşya, basitleştirilmiş usullere tabi değildir.",
+        "D": "Yurt dışında periyodik olarak yayımlanan gazete ve dergiler ile bunların elektronik ortamda muhafaza edildiği materyaller. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir."
+      },
       "dogruCevap": "C",
       "dogruCevapMetni": "Kara yolu ile kargo yoluyla taşınan ticari mahiyet arz etmeyen ve/veya gümrük vergisinden muaf eşya."
     },
     {
       "soru": "12. Dahilde işleme rejimine ilişkin ihracat taahhüdü ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
-      "cevap": "Doğru cevap: A) Dahilde işleme rejimi kapsamında elde edilen işlem görmüş ürünün serbest bölgelere ihraç edilmesi ihracat taahhüdünün kapatılması açısından yeterlidir.",
+      "cevap": "Doğru cevap: A) Dahilde işleme rejimi kapsamında elde edilen işlem görmüş ürünün serbest bölgelere ihraç edilmesi ihracat taahhüdünün kapatılması açısından yeterlidir.\n\nAçıklama: Dahilde işleme ihracat taahhüdünün kapatılması ile ilgili yanlış ifade sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "Dahilde işleme rejimi kapsamında elde edilen işlem görmüş ürünün serbest bölgelere ihraç edilmesi ihracat taahhüdünün kapatılması açısından yeterlidir.",
@@ -153,12 +219,18 @@
         "C": "Kapatma müracaatı yapmayan firmaların belgeleri/izinleri resen kapatılır.",
         "D": "Dahilde İşleme İzin şartlarına göre ithal edilen eşyanın ihraç edildiğinin tespiti kaydıyla, izin ihracat taahhüdü izni veren gümrük idaresince kapatılır."
       },
+      "secenekAciklamalari": {
+        "A": "Dahilde işleme rejimi kapsamında elde edilen işlem görmüş ürünün serbest bölgelere ihraç edilmesi ihracat taahhüdünün kapatılması açısından yeterlidir. — Bu doğru cevaptır. Dahilde işleme rejimi kapsamında elde edilen işlem görmüş ürünün serbest bölgelere ihraç edilmesi, ihracat taahhüdünün kapatılması açısından yeterlidir.",
+        "B": "Belge ihracat taahhüdünü kapatmak için en geç belge süresi sonundan itibaren 3 (üç) ay içerisinde İhracatçı Birlikleri Genel Sekreterliğine; Dahilde İşleme İzni ihracat taahhüdünü kapatmak için en geç izin süresi sonundan itibaren 1 (bir) ay içerisinde ilgili gümrük idaresine müracaat edilmesi gerekir. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "C": "Kapatma müracaatı yapmayan firmaların belgeleri/izinleri resen kapatılır. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "D": "Dahilde İşleme İzin şartlarına göre ithal edilen eşyanın ihraç edildiğinin tespiti kaydıyla, izin ihracat taahhüdü izni veren gümrük idaresince kapatılır. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir."
+      },
       "dogruCevap": "A",
       "dogruCevapMetni": "Dahilde işleme rejimi kapsamında elde edilen işlem görmüş ürünün serbest bölgelere ihraç edilmesi ihracat taahhüdünün kapatılması açısından yeterlidir."
     },
     {
       "soru": "13. Tedarikçi beyanının doğruluğu hangi belge ile ispatlanır?",
-      "cevap": "Doğru cevap: A) INF 4 Belgesi",
+      "cevap": "Doğru cevap: A) INF 4 Belgesi\n\nAçıklama: Tedarikçi beyanının doğruluğunun hangi belge ile ispatlandığı sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "INF 4 Belgesi",
@@ -166,12 +238,18 @@
         "C": "INF 3 Belgesi",
         "D": "Menşe şahadetnamesi"
       },
+      "secenekAciklamalari": {
+        "A": "INF 4 Belgesi — Bu doğru cevaptır. Tedarikçi beyanının doğruluğu INF 4 Belgesi ile ispatlanır.",
+        "B": "INF 2 Belgesi — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "C": "INF 3 Belgesi — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "D": "Menşe şahadetnamesi — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir."
+      },
       "dogruCevap": "A",
       "dogruCevapMetni": "INF 4 Belgesi"
     },
     {
       "soru": "14. Türkiye ile AB arasındaki tarım ürünleri ticaretinde tercihli rejimden faydalanmak için ibraz edilmesi gereken belge hangisidir?",
-      "cevap": "Doğru cevap: A) EUR. 1 Dolaşım Sertifikası",
+      "cevap": "Doğru cevap: A) EUR. 1 Dolaşım Sertifikası\n\nAçıklama: Türkiye-AB tarım ticaretinde tercihli rejim belgesi sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "EUR. 1 Dolaşım Sertifikası",
@@ -179,12 +257,18 @@
         "C": "Form A Menşe şahadetnamesi",
         "D": "Tedarikçi Beyanı -- 5 of 14 -- 6"
       },
+      "secenekAciklamalari": {
+        "A": "EUR. 1 Dolaşım Sertifikası — Bu doğru cevaptır. Türkiye-AB arası tarım ürünleri ticaretinde tercihli rejim için EUR.1 Dolaşım Sertifikası ibraz edilir.",
+        "B": "A.TR Dolaşım Belgesi — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "C": "Form A Menşe şahadetnamesi — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "D": "Tedarikçi Beyanı -- 5 of 14 -- 6 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir."
+      },
       "dogruCevap": "A",
       "dogruCevapMetni": "EUR. 1 Dolaşım Sertifikası"
     },
     {
       "soru": "15. TIR karnelerinin geçerlilik süreleri ne kadardır?",
-      "cevap": "Doğru cevap: D) Kefil kuruluş tarafından belirlenir",
+      "cevap": "Doğru cevap: D) Kefil kuruluş tarafından belirlenir\n\nAçıklama: TIR karnelerinin geçerlilik süresi sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "1 ay",
@@ -192,12 +276,18 @@
         "C": "6 ay",
         "D": "Kefil kuruluş tarafından belirlenir"
       },
+      "secenekAciklamalari": {
+        "A": "1 ay — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "B": "3 ay — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "C": "6 ay — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "D": "Kefil kuruluş tarafından belirlenir — Bu doğru cevaptır. TIR karnelerinin geçerlilik süresi kefil kuruluş tarafından belirlenir."
+      },
       "dogruCevap": "D",
       "dogruCevapMetni": "Kefil kuruluş tarafından belirlenir"
     },
     {
       "soru": "16. Teslim şekilleri ile ilgili olarak, aşağıdaki tablodaki I ve II numaralı sütunların doğru eşleşmesini gösteren cevap seçeneği hangisidir?",
-      "cevap": "Doğru cevap: C) I-D, II-C, III-B, IV-A",
+      "cevap": "Doğru cevap: C) I-D, II-C, III-B, IV-A\n\nAçıklama: Teslim şekilleri (INCOTERMS) ile açıklamaların eşleştirilmesi sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "I-C, II-D, III-A, IV-B",
@@ -205,12 +295,18 @@
         "C": "I-D, II-C, III-B, IV-A",
         "D": "I-C, II-A, III-D, IV-B"
       },
+      "secenekAciklamalari": {
+        "A": "I-C, II-D, III-A, IV-B — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "B": "I-D, II-B, III-C, IV-A — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "C": "I-D, II-C, III-B, IV-A — Bu doğru cevaptır. Teslim şekilleri: I-EXW: İşyerinde teslim, II-DAF: Sınırda teslim, III-DDP: Vergisi ödenmiş teslim, IV-CIF: Mal bedeli+navlun+sigorta.",
+        "D": "I-C, II-A, III-D, IV-B — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir."
+      },
       "dogruCevap": "C",
       "dogruCevapMetni": "I-D, II-C, III-B, IV-A"
     },
     {
       "soru": "17. Aşağıdakilerden hangisi Türkiye’nin Genelleştirilmiş Tercihler Sistemi rejiminin özelliklerinden biri değildir?",
-      "cevap": "Doğru cevap: A) Gümrük vergisi tavizlerinin karşılıklı olması",
+      "cevap": "Doğru cevap: A) Gümrük vergisi tavizlerinin karşılıklı olması\n\nAçıklama: Genelleştirilmiş Tercihler Sistemi özelliklerinden olmayan sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "Gümrük vergisi tavizlerinin karşılıklı olması",
@@ -218,12 +314,18 @@
         "C": "Tercihlerin kısmen veya tümüyle kaldırılabilmesi",
         "D": "Tek taraflı veya uluslararası müzakereler sonucunda yapılacak en çok kayrılan ülke esasına dayalı tarife indirimlerini engelleyici olmaması"
       },
+      "secenekAciklamalari": {
+        "A": "Gümrük vergisi tavizlerinin karşılıklı olması — Bu doğru cevaptır. Genelleştirilmiş Tercihler Sistemi gümrük vergisi tavizlerinin karşılıklı olması esasına dayanır.",
+        "B": "Tavizlerin verilişlerinin bağlayıcı olmaması — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "C": "Tercihlerin kısmen veya tümüyle kaldırılabilmesi — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "D": "Tek taraflı veya uluslararası müzakereler sonucunda yapılacak en çok kayrılan ülke esasına dayalı tarife indirimlerini engelleyici olmaması — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir."
+      },
       "dogruCevap": "A",
       "dogruCevapMetni": "Gümrük vergisi tavizlerinin karşılıklı olması"
     },
     {
       "soru": "18. İthalat Rejimi kapsamında aşağıdakilerden hangisi uyarınca bir malın ithali yasaklanabilir ?",
-      "cevap": "Doğru cevap: C) Kamu ahlakı, kamu düzeni, kamu güvenliği, insan, hayvan ve bitki sağlık ve hayatlarının korunması",
+      "cevap": "Doğru cevap: C) Kamu ahlakı, kamu düzeni, kamu güvenliği, insan, hayvan ve bitki sağlık ve hayatlarının korunması\n\nAçıklama: İthalatın yasaklanma nedenleri sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "Yerli sanayiciyi korumak",
@@ -231,12 +333,18 @@
         "C": "Kamu ahlakı, kamu düzeni, kamu güvenliği, insan, hayvan ve bitki sağlık ve hayatlarının korunması",
         "D": "Ekonomik dengeleri düzeltmek"
       },
+      "secenekAciklamalari": {
+        "A": "Yerli sanayiciyi korumak — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "B": "Döviz kaynaklarını korumak — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "C": "Kamu ahlakı, kamu düzeni, kamu güvenliği, insan, hayvan ve bitki sağlık ve hayatlarının korunması — Bu doğru cevaptır. İthalat Rejimi kapsamında kamu ahlakı, kamu düzeni, kamu güvenliği, insan/hayvan/bitki sağlığının korunması nedeniyle ithalat yasaklanabilir.",
+        "D": "Ekonomik dengeleri düzeltmek — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir."
+      },
       "dogruCevap": "C",
       "dogruCevapMetni": "Kamu ahlakı, kamu düzeni, kamu güvenliği, insan, hayvan ve bitki sağlık ve hayatlarının korunması"
     },
     {
       "soru": "19. Avrupa Birliği ile oluşturulan Gümrük Birliğinin sağlıklı bir şekilde işlemesini teminen, aşağıdaki ilkelerden hangisine göre İthalat Politikaları belirlenmemektedir?",
-      "cevap": "Doğru cevap: B) Farklılık",
+      "cevap": "Doğru cevap: B) Farklılık\n\nAçıklama: Gümrük Birliği ilkelerinden olmayan sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "Serbestlik",
@@ -244,12 +352,18 @@
         "C": "Basitlik",
         "D": "Açıklık -- 6 of 14 -- 7"
       },
+      "secenekAciklamalari": {
+        "A": "Serbestlik — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "B": "Farklılık — Bu doğru cevaptır. Gümrük Birliğinin işlemesinde \"Farklılık\" ilkesi uygulanmaz. İlkeler: Serbestlik, Basitlik, Açıklık.",
+        "C": "Basitlik — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "D": "Açıklık -- 6 of 14 -- 7 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir."
+      },
       "dogruCevap": "B",
       "dogruCevapMetni": "Farklılık"
     },
     {
       "soru": "20. Finansal Kiralama yoluyla yapılacak ithalat için hangi kuruma başvuru yapılır ?",
-      "cevap": "Doğru cevap: D) Bankacılık Düzenleme ve Denetleme Kurulu",
+      "cevap": "Doğru cevap: D) Bankacılık Düzenleme ve Denetleme Kurulu\n\nAçıklama: Finansal kiralama ithalatı için başvuru kurumu sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "Sanayi ve Ticaret Bakanlığı",
@@ -257,12 +371,18 @@
         "C": "Hazine Müsteşarlığı",
         "D": "Bankacılık Düzenleme ve Denetleme Kurulu"
       },
+      "secenekAciklamalari": {
+        "A": "Sanayi ve Ticaret Bakanlığı — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "B": "Dış Ticaret Müsteşarlığı — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "C": "Hazine Müsteşarlığı — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "D": "Bankacılık Düzenleme ve Denetleme Kurulu — Bu doğru cevaptır. Finansal kiralama yoluyla ithalat için Bankacılık Düzenleme ve Denetleme Kurulu'na başvuru yapılır."
+      },
       "dogruCevap": "D",
       "dogruCevapMetni": "Bankacılık Düzenleme ve Denetleme Kurulu"
     },
     {
       "soru": "21. Firmaların mal ve hizmet satışlarından doğmuş veya doğacak vadeli, fatura veya fatura yerine geçen bir belgeye dayanan alacakların (çek, senet) bir şirket tarafından temlik alınması yoluyla, finansman, garanti ve tahsilat hizmetlerinin sunulduğu finansal ürün aşağıdakilerden hangisidir ?",
-      "cevap": "Doğru cevap: C) Factoring",
+      "cevap": "Doğru cevap: C) Factoring\n\nAçıklama: Alacakların temlik yoluyla finansman ürünü sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "Aval",
@@ -270,12 +390,18 @@
         "C": "Factoring",
         "D": "Switch"
       },
+      "secenekAciklamalari": {
+        "A": "Aval — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "B": "Swap — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "C": "Factoring — Bu doğru cevaptır. Fatura ve fatura yerine geçen belgelere dayanan alacakların bir şirket tarafından temlik alınması finansmanı \"Factoring\"dir.",
+        "D": "Switch — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir."
+      },
       "dogruCevap": "C",
       "dogruCevapMetni": "Factoring"
     },
     {
       "soru": "22. Kamu kurum ve kuruluşları, kamu ortaklıkları ve kamu iştirakleri tarafından açılan uluslar arası ihaleler neticesinde, ihalelerin açıldığı ülkeden çıkacak dövizi telafi etmek ve bu ülkelerin ihracat potansiyelini arttırmak amacıyla, ihaleyi kazanan yabancı firma tarafından ana ihale anlaşmasına ek olarak verilen taahhütler ve endüstriyel işbirliğine ne denir ?",
-      "cevap": "Doğru cevap: A) Offset",
+      "cevap": "Doğru cevap: A) Offset\n\nAçıklama: Uluslararası ihalelerde endüstriy işbirliği taahhütlerine verilen isim sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "Offset",
@@ -283,12 +409,18 @@
         "C": "Bağlı Muamele",
         "D": "Ticari Kiralama"
       },
+      "secenekAciklamalari": {
+        "A": "Offset — Bu doğru cevaptır. Uluslararası ihalelerde yabancı firmanın verdiği endüstriyel işbirliği taahhütlerine \"Offset\" denir.",
+        "B": "Takas — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "C": "Bağlı Muamele — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "D": "Ticari Kiralama — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir."
+      },
       "dogruCevap": "A",
       "dogruCevapMetni": "Offset"
     },
     {
       "soru": "23. İhracat bedeli dövizlerin yurda getirilmesine ilişkin olarak,Türk Parası Kıymetini Koruma Hakkında 32 Sayılı Kararda Değişiklik Yapılmasına Dair,8 ıubat 2008 tarihli ve 26781 sayılı Resmi Gazete’de yayımlanarak yürürlüğe girmiş bulunan Bakanlar Kurulu Kararı’yla;",
-      "cevap": "Doğru cevap: B) İhracat bedellerinin tasarrufu serbesttir.",
+      "cevap": "Doğru cevap: B) İhracat bedellerinin tasarrufu serbesttir.\n\nAçıklama: İhracat bedellerinin yurda getirilmesi ile ilgili 2008 düzenlemesi sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "İhracat bedellerinin %50’sinin,90 gün içinde yurda getirilmesi zorunludur",
@@ -296,12 +428,18 @@
         "C": "İhracat bedellerinin %50’sinin,180 gün içinde yurda getirilmesi zorunludur",
         "D": "İhracat bedellerinin %50’sinin tasarrufu serbesttir"
       },
+      "secenekAciklamalari": {
+        "A": "İhracat bedellerinin %50’sinin,90 gün içinde yurda getirilmesi zorunludur — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "B": "İhracat bedellerinin tasarrufu serbesttir. — Bu doğru cevaptır. 2008 düzenlemesiyle ihracat bedellerinin tasarrufu serbesttir.",
+        "C": "İhracat bedellerinin %50’sinin,180 gün içinde yurda getirilmesi zorunludur — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "D": "İhracat bedellerinin %50’sinin tasarrufu serbesttir — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir."
+      },
       "dogruCevap": "B",
       "dogruCevapMetni": "İhracat bedellerinin tasarrufu serbesttir."
     },
     {
       "soru": "24. Ticari kiralama yoluyla yapılacak ihracata ilişkin 12/07/2008 tarihli ve 26934 sayılı Resmi Gazete’de yayımlanan ihracat 2008/9 sayılı tebliğ ile;ihracat 2006/3 sayılı tebliğe ilişkin olarak;",
-      "cevap": "Doğru cevap: A) İhracat 2006/3 sayılı Tebliğ yürürlükten kaldırılmıştır.",
+      "cevap": "Doğru cevap: A) İhracat 2006/3 sayılı Tebliğ yürürlükten kaldırılmıştır.\n\nAçıklama: 2008 tebliği ile 2006 tebliğinin durumu sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "İhracat 2006/3 sayılı Tebliğ yürürlükten kaldırılmıştır.",
@@ -309,12 +447,18 @@
         "C": "İhracat 2006/3 sayılı Tebliğ’de belirtilen süreler 9 ay uzatılmıştır.",
         "D": "İhracat 2006/3 sayılı Tebliğ’de belirtilen süreler 12 ay uzatılmıştır -- 7 of 14 -- 8"
       },
+      "secenekAciklamalari": {
+        "A": "İhracat 2006/3 sayılı Tebliğ yürürlükten kaldırılmıştır. — Bu doğru cevaptır. İhracat 2008/9 sayılı tebliğ ile ihracat 2006/3 sayılı tebliğ yürürlükten kaldırılmıştır.",
+        "B": "İhracat 2006/3 sayılı Tebliğ’de belirtilen süreler 6 ay uzatılmıştır. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "C": "İhracat 2006/3 sayılı Tebliğ’de belirtilen süreler 9 ay uzatılmıştır. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "D": "İhracat 2006/3 sayılı Tebliğ’de belirtilen süreler 12 ay uzatılmıştır -- 7 of 14 -- 8 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir."
+      },
       "dogruCevap": "A",
       "dogruCevapMetni": "İhracat 2006/3 sayılı Tebliğ yürürlükten kaldırılmıştır."
     },
     {
       "soru": "25. Katma Değer Vergisi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
-      "cevap": "Doğru cevap: C) İthalat sırasında ödenen her türlü vergi, resim, harç ve paylar matraha dahildir.",
+      "cevap": "Doğru cevap: C) İthalat sırasında ödenen her türlü vergi, resim, harç ve paylar matraha dahildir.\n\nAçıklama: KDV ile ilgili doğru ifade sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "Katma Değer Vergisi Kanununa göre genel vergi oranı % 8’dir.",
@@ -322,12 +466,18 @@
         "C": "İthalat sırasında ödenen her türlü vergi, resim, harç ve paylar matraha dahildir.",
         "D": "İlk iktisabında veya ithalinde KDV ödenen malların daha sonraki teslimlerinde vergi uygulanmaz."
       },
+      "secenekAciklamalari": {
+        "A": "Katma Değer Vergisi Kanununa göre genel vergi oranı % 8’dir. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "B": "Diğer kanunlardaki istisna hükümleri bu vergi bakımından da geçerlidir. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "C": "İthalat sırasında ödenen her türlü vergi, resim, harç ve paylar matraha dahildir. — Bu doğru cevaptır. KDV'na göre ithalat sırasında ödenen her türlü vergi, resim, harç ve paylar KDV matraha dahildir.",
+        "D": "İlk iktisabında veya ithalinde KDV ödenen malların daha sonraki teslimlerinde vergi uygulanmaz. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir."
+      },
       "dogruCevap": "C",
       "dogruCevapMetni": "İthalat sırasında ödenen her türlü vergi, resim, harç ve paylar matraha dahildir."
     },
     {
       "soru": "26. Özel Tüketim Vergisi Kanununa ekli (II) sayılı listedeki kayıt ve tescile tâbi mallardan, münhasıran aracı sakatlığına uygun hareket ettirici özel tertibatı bulunanların malûl ve sakatlar tarafından bizzat kullanılmak üzere ithalinde kaç yıllık sürede bir muafiyet hakkı verilmiştir?",
-      "cevap": "Doğru cevap: D) 5",
+      "cevap": "Doğru cevap: D) 5\n\nAçıklama: Özürlü ve sakatlar için muafiyet süresi sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "2",
@@ -335,12 +485,18 @@
         "C": "4",
         "D": "5"
       },
+      "secenekAciklamalari": {
+        "A": "2 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "B": "3 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "C": "4 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "D": "5 — Bu doğru cevaptır. Özürlü ve sakatlar tarafından kullanılmak üzere ithalatta 5 yıllık sürede bir muafiyet hakkı verilmiştir."
+      },
       "dogruCevap": "D",
       "dogruCevapMetni": "5"
     },
     {
       "soru": "27. Özel Tüketim Vergisi Kanununa göre aşağıdakilerden hangisinde ihracat istisnası uygulanması mümkün değildir?",
-      "cevap": "Doğru cevap: C) Malın ihraç edilmeden önce yurt dışındaki alıcı adına hareket edenlere veya bizzat alıcıya işlenmek ya da herhangi bir şekilde değerlendirilmek üzere yurt içinde teslim edilmesi halinde.",
+      "cevap": "Doğru cevap: C) Malın ihraç edilmeden önce yurt dışındaki alıcı adına hareket edenlere veya bizzat alıcıya işlenmek ya da herhangi bir şekilde değerlendirilmek üzere yurt içinde teslim edilmesi halinde.\n\nAçıklama: ÖTV ihracat istisnasının uygulanmadığı durum sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "Teslimin yurtdışındaki bir müşteriye yapılmış olması halinde.",
@@ -348,12 +504,18 @@
         "C": "Malın ihraç edilmeden önce yurt dışındaki alıcı adına hareket edenlere veya bizzat alıcıya işlenmek ya da herhangi bir şekilde değerlendirilmek üzere yurt içinde teslim edilmesi halinde.",
         "D": "Teslimin, yurt içinde bulunan bir işletmenin yurt dışında faaliyet gösteren şubesine yapılması halinde."
       },
+      "secenekAciklamalari": {
+        "A": "Teslimin yurtdışındaki bir müşteriye yapılmış olması halinde. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "B": "Teslim konusu malın, Türkiye Cumhuriyeti Gümrük Bölgesinden çıkmış olması halinde. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "C": "Malın ihraç edilmeden önce yurt dışındaki alıcı adına hareket edenlere veya bizzat alıcıya işlenmek ya da herhangi bir şekilde değerlendirilmek üzere yurt içinde teslim edilmesi halinde. — Bu doğru cevaptır. Malın yurt içinde teslim edilmesi halinde (ihraç edilmeden önce) ihracat istisnası uygulanamaz.",
+        "D": "Teslimin, yurt içinde bulunan bir işletmenin yurt dışında faaliyet gösteren şubesine yapılması halinde. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir."
+      },
       "dogruCevap": "C",
       "dogruCevapMetni": "Malın ihraç edilmeden önce yurt dışındaki alıcı adına hareket edenlere veya bizzat alıcıya işlenmek ya da herhangi bir şekilde değerlendirilmek üzere yurt içinde teslim edilmesi halinde."
     },
     {
       "soru": "28. Aşağıdaki transit taşımalardan hangisinde teminat aranmaz?",
-      "cevap": "Doğru cevap: D) Serbest dolaşımda bulunmayan eşyanın TIR Karnesi ile yurtdışı edilmek üzere bir sınır gümrük idaresine transitinde -- 8 of 14 -- 9",
+      "cevap": "Doğru cevap: D) Serbest dolaşımda bulunmayan eşyanın TIR Karnesi ile yurtdışı edilmek üzere bir sınır gümrük idaresine transitinde -- 8 of 14 -- 9\n\nAçıklama: Transit taşımalarında teminat aranmayan durum sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "Denizyolu ile gelen serbest dolaşımda bulunmayan eşyanın karayolu ile bir iç gümrük idaresine transitinde",
@@ -361,12 +523,18 @@
         "C": "Geçici depolama yerinden çıkartılan serbest dolaşımda bulunmayan eşyanın yurtdışı edilmek üzere bir sınır gümrük idaresine transitinde",
         "D": "Serbest dolaşımda bulunmayan eşyanın TIR Karnesi ile yurtdışı edilmek üzere bir sınır gümrük idaresine transitinde -- 8 of 14 -- 9"
       },
+      "secenekAciklamalari": {
+        "A": "Denizyolu ile gelen serbest dolaşımda bulunmayan eşyanın karayolu ile bir iç gümrük idaresine transitinde — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "B": "Serbest dolaşımda bulunmayan “Motorin” cinsi eşyanın demiryolu ile transitinde — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "C": "Geçici depolama yerinden çıkartılan serbest dolaşımda bulunmayan eşyanın yurtdışı edilmek üzere bir sınır gümrük idaresine transitinde — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "D": "Serbest dolaşımda bulunmayan eşyanın TIR Karnesi ile yurtdışı edilmek üzere bir sınır gümrük idaresine transitinde -- 8 of 14 -- 9 — Bu doğru cevaptır. TIR Karnesi ile yapılan transit taşımalarında teminat aranmaz."
+      },
       "dogruCevap": "D",
       "dogruCevapMetni": "Serbest dolaşımda bulunmayan eşyanın TIR Karnesi ile yurtdışı edilmek üzere bir sınır gümrük idaresine transitinde -- 8 of 14 -- 9"
     },
     {
       "soru": "29. Aşağıda yer alan eşyadan hangisinin “zati eşya” kapsamında ithali mümkün değildir?",
-      "cevap": "Doğru cevap: C) Keçi",
+      "cevap": "Doğru cevap: C) Keçi\n\nAçıklama: Zati eşya kapsamında ithali mümkün olmayan eşya sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "37 ekran televizyon",
@@ -374,12 +542,18 @@
         "C": "Keçi",
         "D": "Diz üstü bilgisayar"
       },
+      "secenekAciklamalari": {
+        "A": "37 ekran televizyon — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "B": "Köpek — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "C": "Keçi — Bu doğru cevaptır. Keçi \"zati eşya\" kapsamında ithalatı mümkün değildir.",
+        "D": "Diz üstü bilgisayar — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir."
+      },
       "dogruCevap": "C",
       "dogruCevapMetni": "Keçi"
     },
     {
       "soru": "30. 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun uyarınca özel kanunlarında ödeme zamanı belirlenmemiş amme alacakları tebliğinden itibaren ne kadar süre içinde ödenmesi gerekir?",
-      "cevap": "Doğru cevap: C) 1 ay",
+      "cevap": "Doğru cevap: C) 1 ay\n\nAçıklama: Amme alacaklarının ödeme süresi sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "7 gün",
@@ -387,12 +561,18 @@
         "C": "1 ay",
         "D": "2 ay"
       },
+      "secenekAciklamalari": {
+        "A": "7 gün — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "B": "10 gün — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "C": "1 ay — Bu doğru cevaptır. Amme alacakları tebliğinden itibaren 1 ay içinde ödenmesi gerekir.",
+        "D": "2 ay — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir."
+      },
       "dogruCevap": "C",
       "dogruCevapMetni": "1 ay"
     },
     {
       "soru": "31. Aşağıdakilerden hangisi A.TR Dolaşım Belgelerinin “teknik nedenlerle kabul edilmeme” gerekçelerinden biri değildir?",
-      "cevap": "Doğru cevap: D) A.TR Dolaşım Belgesinin ticari mahiyette olmayan bir yolcu eşyasına düzenlenmiş olması",
+      "cevap": "Doğru cevap: D) A.TR Dolaşım Belgesinin ticari mahiyette olmayan bir yolcu eşyasına düzenlenmiş olması\n\nAçıklama: A.TR belgesinin kabul edilmeme nedenlerinden olmayan sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "A.TR Dolaşım Belgesinin yeşil meneviş desenli zemin üzerine basılmamış olması",
@@ -400,12 +580,18 @@
         "C": "A.TR Dolaşım Belgesinin yetkili olmayan bir makam tarafından onaylanması",
         "D": "A.TR Dolaşım Belgesinin ticari mahiyette olmayan bir yolcu eşyasına düzenlenmiş olması"
       },
+      "secenekAciklamalari": {
+        "A": "A.TR Dolaşım Belgesinin yeşil meneviş desenli zemin üzerine basılmamış olması — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "B": "A.TR Dolaşım Belgesinin 12 no.lu kutusunun mühürlenip imzalanmaması — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "C": "A.TR Dolaşım Belgesinin yetkili olmayan bir makam tarafından onaylanması — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "D": "A.TR Dolaşım Belgesinin ticari mahiyette olmayan bir yolcu eşyasına düzenlenmiş olması — Bu doğru cevaptır. A.TR Dolaşım Belgesi ticari mahiyette olmayan yolcu eşyasına düzenlenemez (teknik neden)."
+      },
       "dogruCevap": "D",
       "dogruCevapMetni": "A.TR Dolaşım Belgesinin ticari mahiyette olmayan bir yolcu eşyasına düzenlenmiş olması"
     },
     {
       "soru": "32. Yürürlükteki İthalat Rejimi Kararı eki eşya listeleri ile ilgili olarak aşağıda belirtilen ifadelerden hangisi doğrudur?",
-      "cevap": "Doğru cevap: A) I sayılı liste, tarım ürünlerini; II sayılı liste, sanayi mallarını; III sayılı liste, işlenmiş tarım ürünlerini; IV sayılı liste, balık ve diğer su ürünlerini; V sayılı liste, gümrük vergisi askıya alınan ürünleri içermektedir.",
+      "cevap": "Doğru cevap: A) I sayılı liste, tarım ürünlerini; II sayılı liste, sanayi mallarını; III sayılı liste, işlenmiş tarım ürünlerini; IV sayılı liste, balık ve diğer su ürünlerini; V sayılı liste, gümrük vergisi askıya alınan ürünleri içermektedir.\n\nAçıklama: İthalat Rejimi Kararı eşya listelerinin içeriği sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "I sayılı liste, tarım ürünlerini; II sayılı liste, sanayi mallarını; III sayılı liste, işlenmiş tarım ürünlerini; IV sayılı liste, balık ve diğer su ürünlerini; V sayılı liste, gümrük vergisi askıya alınan ürünleri içermektedir.",
@@ -413,12 +599,18 @@
         "C": "I sayılı liste, tarım ürünlerini; II sayılı liste, sanayi mallarını; III sayılı liste, işlenmiş tarım ürünlerini; IV sayılı liste, gümrük vergisi askıya alınan ürünleri; V sayılı liste, balık ve diğer su ürünlerini içermektedir.",
         "D": "I sayılı liste, işlenmiş tarım ürünlerini; II sayılı liste, sanayi mallarını; III sayılı liste, tarım ürünlerini; IV sayılı liste, balık ve diğer su ürünlerini; V sayılı liste, gümrük vergisi askıya alınan ürünleri içermektedir. -- 9 of 14 -- 10"
       },
+      "secenekAciklamalari": {
+        "A": "I sayılı liste, tarım ürünlerini; II sayılı liste, sanayi mallarını; III sayılı liste, işlenmiş tarım ürünlerini; IV sayılı liste, balık ve diğer su ürünlerini; V sayılı liste, gümrük vergisi askıya alınan ürünleri içermektedir. — Bu doğru cevaptır. İthalat Rejimi Kararı listeleri: I-Tarım, II-Sanayi, III-İşlenmiş tarım, IV-Balık, V-Vergi askıya alınan.",
+        "B": "I sayılı liste, sanayi mallarını; II sayılı liste, tarım ürünlerini; III sayılı liste, işlenmiş tarım ürünlerini; IV sayılı liste, balık ve diğer su ürünlerini; V sayılı liste, gümrük vergisi askıya alınan ürünleri içermektedir. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "C": "I sayılı liste, tarım ürünlerini; II sayılı liste, sanayi mallarını; III sayılı liste, işlenmiş tarım ürünlerini; IV sayılı liste, gümrük vergisi askıya alınan ürünleri; V sayılı liste, balık ve diğer su ürünlerini içermektedir. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "D": "I sayılı liste, işlenmiş tarım ürünlerini; II sayılı liste, sanayi mallarını; III sayılı liste, tarım ürünlerini; IV sayılı liste, balık ve diğer su ürünlerini; V sayılı liste, gümrük vergisi askıya alınan ürünleri içermektedir. -- 9 of 14 -- 10 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir."
+      },
       "dogruCevap": "A",
       "dogruCevapMetni": "I sayılı liste, tarım ürünlerini; II sayılı liste, sanayi mallarını; III sayılı liste, işlenmiş tarım ürünlerini; IV sayılı liste, balık ve diğer su ürünlerini; V sayılı liste, gümrük vergisi askıya alınan ürünleri içermektedir."
     },
     {
       "soru": "33. 4703 sayılı Ürünlere İlişkin Teknik Mevzuatın Hazırlanması ve Uygulanmasına Dair Kanun (Çerçeve Kanun) ile ilgili uygulama usul ve esaslarını belirleyen yönetmelikler arasında aşağıdaki yönetmeliklerden hangisi yer almaz?",
-      "cevap": "Doğru cevap: C) Dış Ticarette Teknik Düzenlemeler ve Standardizasyon Yönetmeliği",
+      "cevap": "Doğru cevap: C) Dış Ticarette Teknik Düzenlemeler ve Standardizasyon Yönetmeliği\n\nAçıklama: Çerçeve Kanun yönetmelikleri arasında yer almayan sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "Ürünlerin Piyasa Gözetimi ve Denetimine Dair Yönetmelik",
@@ -426,12 +618,18 @@
         "C": "Dış Ticarette Teknik Düzenlemeler ve Standardizasyon Yönetmeliği",
         "D": "Uygunluk Değerlendirme Kuruluşları ile Onaylanmış Kuruluşlara Dair Yönetmelik"
       },
+      "secenekAciklamalari": {
+        "A": "Ürünlerin Piyasa Gözetimi ve Denetimine Dair Yönetmelik — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "B": "CE Uygunluk İşaretinin Ürüne İliştirilmesine ve Kullanılmasına Dair Yönetmelik — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "C": "Dış Ticarette Teknik Düzenlemeler ve Standardizasyon Yönetmeliği — Bu doğru cevaptır. Çerçeve Kanun yönetmelikleri arasında \"Dış Ticarette Teknik Düzenlemeler ve Standardizasyon Yönetmeliği\" yer almaz.",
+        "D": "Uygunluk Değerlendirme Kuruluşları ile Onaylanmış Kuruluşlara Dair Yönetmelik — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir."
+      },
       "dogruCevap": "C",
       "dogruCevapMetni": "Dış Ticarette Teknik Düzenlemeler ve Standardizasyon Yönetmeliği"
     },
     {
       "soru": "34. Aşağıdakilerden hangisi “Kayda Bağlı” ihracat şekli için doğru bir ifade değildir?",
-      "cevap": "Doğru cevap: B) Kayda bağlı olarak ihraç edilen eşyanın fiili ihraç tarihinden itibaren 1 yıl içinde kesin satışının yapılması gereklidir.",
+      "cevap": "Doğru cevap: B) Kayda bağlı olarak ihraç edilen eşyanın fiili ihraç tarihinden itibaren 1 yıl içinde kesin satışının yapılması gereklidir.\n\nAçıklama: Kayda bağlı ihracat ile ilgili yanlış ifade sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "Kayda bağlı ihracat gümrük beyannamesinin, ihracattan önce İhracatçı Birlikleri Genel Sekreterliğince kayda alındığı ihracat şeklidir",
@@ -439,12 +637,18 @@
         "C": "Kayda bağlı ihracatta ihracatçılar, gümrük beyannamesi ile birlikte kayıt için İhracatçı Birliklerine müracaat ederler.",
         "D": "İhracatçı Birliklerinin onaylayıp kayıt meşruhatı verdiği beyannamelerin 30 gün içinde gümrük idarelerine verilmesi gereklidir."
       },
+      "secenekAciklamalari": {
+        "A": "Kayda bağlı ihracat gümrük beyannamesinin, ihracattan önce İhracatçı Birlikleri Genel Sekreterliğince kayda alındığı ihracat şeklidir — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "B": "Kayda bağlı olarak ihraç edilen eşyanın fiili ihraç tarihinden itibaren 1 yıl içinde kesin satışının yapılması gereklidir. — Bu doğru cevaptır. Kayda bağlı ihracatta fiili ihraç tarihinden itibaren 1 yıl içinde kesin satış yapılması gerekir.",
+        "C": "Kayda bağlı ihracatta ihracatçılar, gümrük beyannamesi ile birlikte kayıt için İhracatçı Birliklerine müracaat ederler. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "D": "İhracatçı Birliklerinin onaylayıp kayıt meşruhatı verdiği beyannamelerin 30 gün içinde gümrük idarelerine verilmesi gereklidir. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir."
+      },
       "dogruCevap": "B",
       "dogruCevapMetni": "Kayda bağlı olarak ihraç edilen eşyanın fiili ihraç tarihinden itibaren 1 yıl içinde kesin satışının yapılması gereklidir."
     },
     {
       "soru": "35. Aşağıdakilerden hangisi gümrük mevzuatının fikri ve sınai mülkiyet haklarının korunmasına ilişkin hükümlerine göre doğrudur?",
-      "cevap": "Doğru cevap: B) Fikri ve sınai mülkiyet haklarının ihlal edildiği gerekçesi ile gümrük idaresine yapılan başvurunun kabul edildiği tarihte şikayet konusu eşya serbest dolaşıma girmiş ise, söz konusu durum hak sahibince gümrük idaresinden tazminat alma hakkı doğurmaz.",
+      "cevap": "Doğru cevap: B) Fikri ve sınai mülkiyet haklarının ihlal edildiği gerekçesi ile gümrük idaresine yapılan başvurunun kabul edildiği tarihte şikayet konusu eşya serbest dolaşıma girmiş ise, söz konusu durum hak sahibince gümrük idaresinden tazminat alma hakkı doğurmaz.\n\nAçıklama: Fikri mülkiyet haklarının korunması ile ilgili doğru ifade sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "Gümrük idareleri hak sahibinin geçerli bir başvuruda bulunmasını teminen 10 iş günü boyunca sahte olduğu tespit edilen eşyanın işlemlerini durdurmaya ve eşyaya el koymaya yetkilidirler.",
@@ -452,12 +656,18 @@
         "C": "Gümrük idaresi eşya ve sahibi hakkındaki tüm bilgileri talepte bulunan hak sahibine verir.",
         "D": "Gümrük idaresi sahte veya taklit eşya tanımına uyan eşyanın gümrük işlemlerini durdurup, durumu eşya ve başvuru sahibine 3 iş günü içerisinde bildirir."
       },
+      "secenekAciklamalari": {
+        "A": "Gümrük idareleri hak sahibinin geçerli bir başvuruda bulunmasını teminen 10 iş günü boyunca sahte olduğu tespit edilen eşyanın işlemlerini durdurmaya ve eşyaya el koymaya yetkilidirler. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "B": "Fikri ve sınai mülkiyet haklarının ihlal edildiği gerekçesi ile gümrük idaresine yapılan başvurunun kabul edildiği tarihte şikayet konusu eşya serbest dolaşıma girmiş ise, söz konusu durum hak sahibince gümrük idaresinden tazminat alma hakkı doğurmaz. — Bu doğru cevaptır. Gümrük idaresi eşya sahibine bilgi vermez; sadece hak sahibine bildirir.",
+        "C": "Gümrük idaresi eşya ve sahibi hakkındaki tüm bilgileri talepte bulunan hak sahibine verir. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "D": "Gümrük idaresi sahte veya taklit eşya tanımına uyan eşyanın gümrük işlemlerini durdurup, durumu eşya ve başvuru sahibine 3 iş günü içerisinde bildirir. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir."
+      },
       "dogruCevap": "B",
       "dogruCevapMetni": "Fikri ve sınai mülkiyet haklarının ihlal edildiği gerekçesi ile gümrük idaresine yapılan başvurunun kabul edildiği tarihte şikayet konusu eşya serbest dolaşıma girmiş ise, söz konusu durum hak sahibince gümrük idaresinden tazminat alma hakkı doğurmaz."
     },
     {
       "soru": "36. Aşağıdaki fiillerden hangisi kaçakçılık fiili değildir?",
-      "cevap": "Doğru cevap: D) İthali ticaret politikası önlemlerine tabi olan eşyayı dahilde işleme rejimi kapsamında ülkeye sokmak, -- 10 of 14 -- 11",
+      "cevap": "Doğru cevap: D) İthali ticaret politikası önlemlerine tabi olan eşyayı dahilde işleme rejimi kapsamında ülkeye sokmak, -- 10 of 14 -- 11\n\nAçıklama: Kaçakçılık fiili olmayan durum sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "Eşyayı, gümrük işlemlerine tâbi tutmaksızın Türkiye’ye ithal etmek,",
@@ -465,12 +675,18 @@
         "C": "İhracı kanun gereği yasak olan eşyayı Türkiye’den ihraç etmek,",
         "D": "İthali ticaret politikası önlemlerine tabi olan eşyayı dahilde işleme rejimi kapsamında ülkeye sokmak, -- 10 of 14 -- 11"
       },
+      "secenekAciklamalari": {
+        "A": "Eşyayı, gümrük işlemlerine tâbi tutmaksızın Türkiye’ye ithal etmek, — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "B": "Transit rejimi çerçevesinde taşınan serbest dolaşımda bulunmayan eşyayı, rejim hükümlerine aykırı olarak gümrük bölgesinde bırakmak, — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "C": "İhracı kanun gereği yasak olan eşyayı Türkiye’den ihraç etmek, — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "D": "İthali ticaret politikası önlemlerine tabi olan eşyayı dahilde işleme rejimi kapsamında ülkeye sokmak, -- 10 of 14 -- 11 — Bu doğru cevaptır. İthali ticaret politikası önlemlerine tabi eşyahı dahilde işleme rejimi kapsamında ülkeye sokmak kaçakçılık fiili değildir."
+      },
       "dogruCevap": "D",
       "dogruCevapMetni": "İthali ticaret politikası önlemlerine tabi olan eşyayı dahilde işleme rejimi kapsamında ülkeye sokmak, -- 10 of 14 -- 11"
     },
     {
       "soru": "37. 5607 sayılı Kanunda tanımlanan suçların işlenmesinde kullanılan taşıtlara, Ceza Muhakemesi Kanununun 128 inci maddesinin dördüncü fıkrası hükmüne göre elkonulacağı belirtilmektedir. Elkoyma işlemi nasıl gerçekleştirilir?",
-      "cevap": "Doğru cevap: A) Araçların kayıtlı bulunduğu sicile şerh verilmek suretiyle",
+      "cevap": "Doğru cevap: A) Araçların kayıtlı bulunduğu sicile şerh verilmek suretiyle\n\nAçıklama: 5607 sayılı Kanunda elkoyma işlemi sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "Araçların kayıtlı bulunduğu sicile şerh verilmek suretiyle",
@@ -478,12 +694,18 @@
         "C": "Aracın kasko değeri kadar teminat alınmak suretiyle",
         "D": "Aracın yeddi emin hükümleri çerçevesinde ruhsat sahibine iadesi suretiyle"
       },
+      "secenekAciklamalari": {
+        "A": "Araçların kayıtlı bulunduğu sicile şerh verilmek suretiyle — Bu doğru cevaptır. 5607 sayılı Kanunda elkoyma işlemi, araçların kayıtlı bulunduğu sicile şerh verilmek suretiyle gerçekleştirilir.",
+        "B": "Araç gümrüklü sahada zapt edilmek suretiyle — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "C": "Aracın kasko değeri kadar teminat alınmak suretiyle — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "D": "Aracın yeddi emin hükümleri çerçevesinde ruhsat sahibine iadesi suretiyle — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir."
+      },
       "dogruCevap": "A",
       "dogruCevapMetni": "Araçların kayıtlı bulunduğu sicile şerh verilmek suretiyle"
     },
     {
       "soru": "38. Aşağıdakilerden hangisi 42.02 tarife pozisyonunda sınıflandırılmaz?",
-      "cevap": "Doğru cevap: C) Ahşap mücevher kutusu",
+      "cevap": "Doğru cevap: C) Ahşap mücevher kutusu\n\nAçıklama: 42.02 tarife pozisyonunda sınıflandırılmayan eşya sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "Timsah derisinden para kesesi",
@@ -491,12 +713,18 @@
         "C": "Ahşap mücevher kutusu",
         "D": "Kalıplanmış plastik maddeden mamul okul çantası"
       },
+      "secenekAciklamalari": {
+        "A": "Timsah derisinden para kesesi — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "B": "Dış yüzü dokumaya elverişli maddelerden mamul tekerlekli, çekme kollu valiz — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "C": "Ahşap mücevher kutusu — Bu doğru cevaptır. 42.02 tarife pozisyonunda ahşap mücevher kutusu sınıflandırılmaz.",
+        "D": "Kalıplanmış plastik maddeden mamul okul çantası — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir."
+      },
       "dogruCevap": "C",
       "dogruCevapMetni": "Ahşap mücevher kutusu"
     },
     {
       "soru": "39. Alüminyumdan mamul su terazisinin tarife alt pozisyonu nedir?",
-      "cevap": "Doğru cevap: C) 9031.80",
+      "cevap": "Doğru cevap: C) 9031.80\n\nAçıklama: Alüminyum su terazisinin tarife pozisyonu sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "2202.10",
@@ -504,12 +732,18 @@
         "C": "9031.80",
         "D": "9305.10"
       },
+      "secenekAciklamalari": {
+        "A": "2202.10 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "B": "7607.11 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "C": "9031.80 — Bu doğru cevaptır. Alüminyumdan mamul su terazisi 9031.80 tarife pozisyonundadır.",
+        "D": "9305.10 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir."
+      },
       "dogruCevap": "C",
       "dogruCevapMetni": "9031.80"
     },
     {
       "soru": "40. Perakende satılacak şekilde hazırlanmış kontak lens solüsyonları hangi tarife pozisyonundadır?",
-      "cevap": "Doğru cevap: C) 33.07",
+      "cevap": "Doğru cevap: C) 33.07\n\nAçıklama: Kontak lens solüsyonlarının tarife pozisyonu sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "38.24",
@@ -517,12 +751,18 @@
         "C": "33.07",
         "D": "34.01"
       },
+      "secenekAciklamalari": {
+        "A": "38.24 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "B": "34.02 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "C": "33.07 — Bu doğru cevaptır. Kontak lens solüsyonları 33.07 tarife pozisyonundadır.",
+        "D": "34.01 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir."
+      },
       "dogruCevap": "C",
       "dogruCevapMetni": "33.07"
     },
     {
       "soru": "41. Bir traktöre takılmak üzere getirilen ve toprağı işlemede kullanılan kültivatörler ne şekilde sınıflandırılır?",
-      "cevap": "Doğru cevap: C) 84.32",
+      "cevap": "Doğru cevap: C) 84.32\n\nAçıklama: Kültivatörün tarife pozisyonu sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "87.01",
@@ -530,12 +770,18 @@
         "C": "84.32",
         "D": "84.33"
       },
+      "secenekAciklamalari": {
+        "A": "87.01 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "B": "84.24 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "C": "84.32 — Bu doğru cevaptır. Kültivatörler 84.32 tarife pozisyonunda sınıflandırılır.",
+        "D": "84.33 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir."
+      },
       "dogruCevap": "C",
       "dogruCevapMetni": "84.32"
     },
     {
       "soru": "42. Aşağıdakilerden hangisi platin tabirine girmez?",
-      "cevap": "Doğru cevap: D) Berilyum -- 11 of 14 -- 12",
+      "cevap": "Doğru cevap: D) Berilyum -- 11 of 14 -- 12\n\nAçıklama: Platin tabrine girmeyen metal sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "Osmiyum",
@@ -543,12 +789,18 @@
         "C": "Paladyum",
         "D": "Berilyum -- 11 of 14 -- 12"
       },
+      "secenekAciklamalari": {
+        "A": "Osmiyum — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "B": "Rodyum — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "C": "Paladyum — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "D": "Berilyum -- 11 of 14 -- 12 — Bu doğru cevaptır. Berilyum platin tabrine girmez."
+      },
       "dogruCevap": "D",
       "dogruCevapMetni": "Berilyum -- 11 of 14 -- 12"
     },
     {
       "soru": "43. Aşağıdakilerden hangisi yanlıştır?",
-      "cevap": "Doğru cevap: B) Tüm kurallar hiyerarşik olarak uygulanır. Yani önce 1. kural uygulanır, bu kuralın uygulanmasıyla eşyanın tarifedeki yeri tespit edilemiyorsa, sırasıyla 2, 3, 4, 5 ve 6 ncı kurallar uygulanır.",
+      "cevap": "Doğru cevap: B) Tüm kurallar hiyerarşik olarak uygulanır. Yani önce 1. kural uygulanır, bu kuralın uygulanmasıyla eşyanın tarifedeki yeri tespit edilemiyorsa, sırasıyla 2, 3, 4, 5 ve 6 ncı kurallar uygulanır.\n\nAçıklama: Genel Yorum Kuralları ile ilgili yanlış ifade sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "6 adet Genel Yorum Kuralı bulunmaktadır.",
@@ -556,12 +808,18 @@
         "C": "1 ila 5 inci kurallar tarife pozisyonu yani dört rakamlı kodlar seviyesinde sınıflandırmayı düzenler,",
         "D": "6 nolu kural tarife alt pozisyonu ve daha ileri düzeydeki açılımlar seviyesinde sınıflandırmayı düzenlemektedir."
       },
+      "secenekAciklamalari": {
+        "A": "6 adet Genel Yorum Kuralı bulunmaktadır. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "B": "Tüm kurallar hiyerarşik olarak uygulanır. Yani önce 1. kural uygulanır, bu kuralın uygulanmasıyla eşyanın tarifedeki yeri tespit edilemiyorsa, sırasıyla 2, 3, 4, 5 ve 6 ncı kurallar uygulanır. — Bu doğru cevaptır. 6 adet Genel Yorum Kuralı, hiyerarşik olarak değil, sırayla uygulanır (önce 1, sonra 2, vs.).",
+        "C": "1 ila 5 inci kurallar tarife pozisyonu yani dört rakamlı kodlar seviyesinde sınıflandırmayı düzenler, — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "D": "6 nolu kural tarife alt pozisyonu ve daha ileri düzeydeki açılımlar seviyesinde sınıflandırmayı düzenlemektedir. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir."
+      },
       "dogruCevap": "B",
       "dogruCevapMetni": "Tüm kurallar hiyerarşik olarak uygulanır. Yani önce 1. kural uygulanır, bu kuralın uygulanmasıyla eşyanın tarifedeki yeri tespit edilemiyorsa, sırasıyla 2, 3, 4, 5 ve 6 ncı kurallar uygulanır."
     },
     {
       "soru": "44. Bitkisel çay yapımında kullanılacak ada çayı aşağıdaki tarife pozisyonlarının hangisinde sınıflandırılır?",
-      "cevap": "Doğru cevap: C) 12.11",
+      "cevap": "Doğru cevap: C) 12.11\n\nAçıklama: Ada çayının tarife pozisyonu sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "09.02",
@@ -569,12 +827,18 @@
         "C": "12.11",
         "D": "07.12"
       },
+      "secenekAciklamalari": {
+        "A": "09.02 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "B": "09.10 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "C": "12.11 — Bu doğru cevaptır. Ada çayı 12.11 tarife pozisyonunda sınıflandırılır.",
+        "D": "07.12 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir."
+      },
       "dogruCevap": "C",
       "dogruCevapMetni": "12.11"
     },
     {
       "soru": "45. Meursing (Bileşim) Tablosu uygulaması grubu İthalat Rejim Kararı eki listelerden hangisi ile alakalıdır?",
-      "cevap": "Doğru cevap: C) III sayılı liste",
+      "cevap": "Doğru cevap: C) III sayılı liste\n\nAçıklama: Meursing Tablosu hangi liste ile alakalı sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "I sayılı liste",
@@ -582,12 +846,18 @@
         "C": "III sayılı liste",
         "D": "IV sayılı liste"
       },
+      "secenekAciklamalari": {
+        "A": "I sayılı liste — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "B": "II sayılı liste — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "C": "III sayılı liste — Bu doğru cevaptır. Meursing Tablosu III sayılı liste (işlenmiş tarım ürünleri) ile alakalıdır.",
+        "D": "IV sayılı liste — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir."
+      },
       "dogruCevap": "C",
       "dogruCevapMetni": "III sayılı liste"
     },
     {
       "soru": "46. Aşağıdakilerden hangisi Tük Gümrük Tarife Cetvelinde aynı fasılda sınıflandırılmaz?",
-      "cevap": "Doğru cevap: D) Jelatin- sertleştirilmiş protein- enzim -- 12 of 14 -- 13",
+      "cevap": "Doğru cevap: D) Jelatin- sertleştirilmiş protein- enzim -- 12 of 14 -- 13\n\nAçıklama: Aynı fasılda sınıflandırılmayan eşya grubu sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "Bira mayası- kavrulmuş hindiba- çemen",
@@ -595,12 +865,18 @@
         "C": "Elektrik enerjisi- vazelin- turb",
         "D": "Jelatin- sertleştirilmiş protein- enzim -- 12 of 14 -- 13"
       },
+      "secenekAciklamalari": {
+        "A": "Bira mayası- kavrulmuş hindiba- çemen — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "B": "Mikroorganizma kültürü-ilk yardım çantası- steril dikiş malzemesi — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "C": "Elektrik enerjisi- vazelin- turb — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "D": "Jelatin- sertleştirilmiş protein- enzim -- 12 of 14 -- 13 — Bu doğru cevaptır. Jelatin, sertleştirilmiş protein ve enzim aynı fasılda sınıflandırılmaz."
+      },
       "dogruCevap": "D",
       "dogruCevapMetni": "Jelatin- sertleştirilmiş protein- enzim -- 12 of 14 -- 13"
     },
     {
       "soru": "47. Çelikten mamul boş yangın söndürme cihazı Türk Gümrük Tarife Cetvelinde hangi tarife pozisyonunda sınıflandırılır?",
-      "cevap": "Doğru cevap: C) 84.24",
+      "cevap": "Doğru cevap: C) 84.24\n\nAçıklama: Çelikten mamul yangın söndürme cihazının tarife pozisyonu sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "73.26",
@@ -608,12 +884,18 @@
         "C": "84.24",
         "D": "84.79"
       },
+      "secenekAciklamalari": {
+        "A": "73.26 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "B": "83.07 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "C": "84.24 — Bu doğru cevaptır. Çelikten mamul boğ yangın söndürme cihazı 84.24 tarife pozisyonundadır.",
+        "D": "84.79 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir."
+      },
       "dogruCevap": "C",
       "dogruCevapMetni": "84.24"
     },
     {
       "soru": "48. Aşağıdakilerden hangisi Türk Gümrük Tarife Cetvelinde 85.28 tarife pozisyonunda sınıflandırılmaz?",
-      "cevap": "Doğru cevap: D) Katot ışınlı TV görüntü tüpü",
+      "cevap": "Doğru cevap: D) Katot ışınlı TV görüntü tüpü\n\nAçıklama: 85.28 tarife pozisyonunda sınıflandırılmayan sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "Bilgisayar monitörü",
@@ -621,12 +903,18 @@
         "C": "TV alıcı cihazları",
         "D": "Katot ışınlı TV görüntü tüpü"
       },
+      "secenekAciklamalari": {
+        "A": "Bilgisayar monitörü — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "B": "Video monitörü — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "C": "TV alıcı cihazları — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "D": "Katot ışınlı TV görüntü tüpü — Bu doğru cevaptır. Katot ışınlı TV görüntü tüpü 85.28 tarife pozisyonunda sınıflandırılmaz."
+      },
       "dogruCevap": "D",
       "dogruCevapMetni": "Katot ışınlı TV görüntü tüpü"
     },
     {
       "soru": "49. Otomobillerde kullanılan elektrik motorlu cam siliciler hangi tarife pozisyonunda sınıflandırılır?",
-      "cevap": "Doğru cevap: C) 85.12",
+      "cevap": "Doğru cevap: C) 85.12\n\nAçıklama: Otomobil cam sileceklerinin tarife pozisyonu sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "87.08",
@@ -634,12 +922,18 @@
         "C": "85.12",
         "D": "39.26"
       },
+      "secenekAciklamalari": {
+        "A": "87.08 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "B": "40.16 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "C": "85.12 — Bu doğru cevaptır. Otomobilde elektrik motorlu cam silecekleri 85.12 tarife pozisyonundadır.",
+        "D": "39.26 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir."
+      },
       "dogruCevap": "C",
       "dogruCevapMetni": "85.12"
     },
     {
       "soru": "50. Basılı ve rölyef halindeki dünya haritası hangi tarife alt pozisyonundadır?",
-      "cevap": "Doğru cevap: C) 9023.00",
+      "cevap": "Doğru cevap: C) 9023.00\n\nAçıklama: Dünya haritasının tarife alt pozisyonu sorulmaktadır.",
       "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
       "secenekler": {
         "A": "4905.91",
@@ -647,8 +941,1414 @@
         "C": "9023.00",
         "D": "4906.00 -- 13 of 14 -- 14 GÜMRÜK MÜıAVİRLİĞİ MESLEKİ YETERLİLİK SINAVI SORU CEVAP SORU CEVAP 1 D 26 D 2 A 27 C 3 B 28 D 4 C 29 C 5 B 30 C 6 D 31 D 7 B 32 A 8 A 33 C 9 C 34 B 10 C 35 B 11 C 36 D 12 A 37 A 13 A 38 C 14 A 39 C 15 D 40 C 16 C 41 C 17 A 42 D 18 C 43 B 19 B 44 C 20 D 45 C 21 C 46 D 22 A 47 C 23 B 48 D 24 A 49 C 25 C 50 C -- 14 of 14 --"
       },
+      "secenekAciklamalari": {
+        "A": "4905.91 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "B": "4905.99 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+        "C": "9023.00 — Bu doğru cevaptır. Basılı ve rölyef halindeki dünya haritası 4905.91 tarife alt pozisyonundadır.",
+        "D": "4906.00 -- 13 of 14 -- 14 GÜMRÜK MÜıAVİRLİĞİ MESLEKİ YETERLİLİK SINAVI SORU CEVAP SORU CEVAP 1 D 26 D 2 A 27 C 3 B 28 D 4 C 29 C 5 B 30 C 6 D 31 D 7 B 32 A 8 A 33 C 9 C 34 B 10 C 35 B 11 C 36 D 12 A 37 A 13 A 38 C 14 A 39 C 15 D 40 C 16 C 41 C 17 A 42 D 18 C 43 B 19 B 44 C 20 D 45 C 21 C 46 D 22 A 47 C 23 B 48 D 24 A 49 C 25 C 50 C -- 14 of 14 -- — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir."
+      },
       "dogruCevap": "C",
       "dogruCevapMetni": "9023.00"
+    },
+    {
+      "soru": "1. soru - A seçeneği: \"Götürü teminat sisteminden, A ve B Sınıfı Onaylanm\" ne demek?",
+      "cevap": "Götürü teminat sisteminden, A ve B Sınıfı Onaylanmış Kişi Statüsüne sahip olan yükümlüler ile Müsteşarlıkça belirlenen şartları taşıyan antrepo işleticileri yararlanabilir. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 1,
+      "secenek": "A"
+    },
+    {
+      "soru": "1. soru - B seçeneği: \"4760 sayılı Özel Tüketim Vergisi Kanununun eki (I)\" ne demek?",
+      "cevap": "4760 sayılı Özel Tüketim Vergisi Kanununun eki (I) sayılı listede yer alan eşyanın ithaliyle ilgili Maliye Bakanlığınca yapılan düzenlemeler saklı kalmak kaydıyla, gümrük rejimlerine ilişkin tüm kamu alacakları için geçerlidir — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 1,
+      "secenek": "B"
+    },
+    {
+      "soru": "1. soru - C seçeneği: \"Götürü teminat sisteminden yararlanmak için verile\" ne demek?",
+      "cevap": "Götürü teminat sisteminden yararlanmak için verilecek teminat tutarı bir önceki yılda gümrük işlemleri nedeniyle teminat konusu olan toplam değerin %10’udur. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 1,
+      "secenek": "C"
+    },
+    {
+      "soru": "1. soru - D seçeneği: \"Götürü teminat mektuplarının vadesi en az 3 yıl ol\" ne demek?",
+      "cevap": "Götürü teminat mektuplarının vadesi en az 3 yıl olmalıdır. — Bu doğru cevaptır. Götürü teminat mektuplarının vadesi en az 3 yıl olmalıdır. Gümrük mevzuatına göre götürü teminat mektuplarının vade sınırı 2 yıldır, 3 yıl değil.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 1,
+      "secenek": "D"
+    },
+    {
+      "soru": "2. soru - A seçeneği: \"I- Satış bedeli, II- Fiilen ödenen veya ödenecek f\" ne demek?",
+      "cevap": "I- Satış bedeli, II- Fiilen ödenen veya ödenecek fiyat, III- Ödemeler toplamı — Bu doğru cevaptır. İthal eşyasının gümrük kıymeti satış bedelidir. Satış bedeli, fiilen ödenen veya ödenecek fiyatın gerekli düzeltmeler yapılarak belirlenmesidir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 2,
+      "secenek": "A"
+    },
+    {
+      "soru": "2. soru - B seçeneği: \"I- Fiilen ödenen veya ödenecek fiyat, II- Satış be\" ne demek?",
+      "cevap": "I- Fiilen ödenen veya ödenecek fiyat, II- Satış bedeli, III-Fiyat — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 2,
+      "secenek": "B"
+    },
+    {
+      "soru": "2. soru - C seçeneği: \"I- Satış bedeli, II- Ödemeler toplamı, III- Fiilen\" ne demek?",
+      "cevap": "I- Satış bedeli, II- Ödemeler toplamı, III- Fiilen ödenen veya ödenecek fiyat — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 2,
+      "secenek": "C"
+    },
+    {
+      "soru": "2. soru - D seçeneği: \"I- Ödemeler toplamı, II-Fiilen ödenen veya ödenece\" ne demek?",
+      "cevap": "I- Ödemeler toplamı, II-Fiilen ödenen veya ödenecek fiyat, III- Satış bedeli -- 1 of 14 -- 2 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 2,
+      "secenek": "D"
+    },
+    {
+      "soru": "3. soru - A seçeneği: \"Gümrük idaresince tescil edilmiş olan beyanname, a\" ne demek?",
+      "cevap": "Gümrük idaresince tescil edilmiş olan beyanname, ait olduğu eşyanın vergileri ve para cezalarından dolayı taahhüt niteliğinde beyan sahibini bağlar ve gümrük vergileri tahakkukuna esas tutulur. Bu nedenle, ithal anında beyan edilen kıymet esas alınır ve herhangi bir iade söz konusu olmaz. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 3,
+      "secenek": "A"
+    },
+    {
+      "soru": "3. soru - B seçeneği: \"Fark kıymetin iade alındığının tevsiki, satış sözl\" ne demek?",
+      "cevap": "Fark kıymetin iade alındığının tevsiki, satış sözleşmesine göre kıymetin yeniden belirlenmesini gerektiren işleme ait belgenin onaylı örneğinin sunulması ve gümrük idaresince yapılacak inceleme sonucunda söz konusu hususların tespiti üzerine Gümrük Kanununun 211 inci maddesi çerçevesinde geri verme işlemi yapılır. — Bu doğru cevaptır. İstisnai kıymetle beyan durumunda fark kıymetin iade alınması için satış sözleşmesine göre kıymetin yeniden belirlenmesini gerektiren işleme ait belgenin onaylı örnek sunulması gerekir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 3,
+      "secenek": "B"
+    },
+    {
+      "soru": "3. soru - C seçeneği: \"Yükümlünün bir dilekçe ile ilgili gümrük idaresine\" ne demek?",
+      "cevap": "Yükümlünün bir dilekçe ile ilgili gümrük idaresine başvurarak satış sözleşmesine göre nihai olarak belirlenen kıymeti bildirmesi üzerine ve dilekçeye satıcı tarafından düzenlenmiş nihai kıymeti bildiren bir belgenin eklenmesi kaydıyla gümrük idaresince, Gümrük Kanununun 211 inci maddesine göre geri verme işlemi yapılır. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 3,
+      "secenek": "C"
+    },
+    {
+      "soru": "3. soru - D seçeneği: \"Nihai kıymetin belirlenmesi üzerine, yükümlü taraf\" ne demek?",
+      "cevap": "Nihai kıymetin belirlenmesi üzerine, yükümlü tarafından ibraz edilecek ekspertiz raporu veya Yeminli Mali Müşavirden onaylı belgede kayıtlı kıymetler dikkate alınarak nihai kıymet tespiti yapılır. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 3,
+      "secenek": "D"
+    },
+    {
+      "soru": "4. soru - A seçeneği: \"Lisans ücreti ödemesi ithal eşyası ile ilgili oldu\" ne demek?",
+      "cevap": "Lisans ücreti ödemesi ithal eşyası ile ilgili olduğundan ve satış koşulu olarak yapıldığından, ithal eşyasının gümrük kıymetine dahildir. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 4,
+      "secenek": "A"
+    },
+    {
+      "soru": "4. soru - B seçeneği: \"Lisans ücreti ödemesi, ithal eşyasının Türkiye’de \" ne demek?",
+      "cevap": "Lisans ücreti ödemesi, ithal eşyasının Türkiye’de çoğaltılması hakkı ile ilgili olduğundan, fiilen ödenen veya ödenecek fiyata ilave edilerek ithal eşyasının gümrük kıymetine dahil edilir. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 4,
+      "secenek": "B"
+    },
+    {
+      "soru": "4. soru - C seçeneği: \"Lisans ücreti ödemesi, ithal eşyasının Türkiye’de \" ne demek?",
+      "cevap": "Lisans ücreti ödemesi, ithal eşyasının Türkiye’de çoğaltılması hakkı için yapıldığından, fiilen ödenen veya ödenecek fiyata ilave edilecek unsurlar arasında değerlendirilmez. — Bu doğru cevaptır. Lisans ücreti ödemesi, ithal eşyasının Türkiye'de çoğaltılması hakkı için yapıldığından, fiilen ödenen fiyata ilave edilecek unsurlar arasında değerlendirilmez.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 4,
+      "secenek": "C"
+    },
+    {
+      "soru": "4. soru - D seçeneği: \"Lisans ücreti ödemesi, ithal eşyasının fiilen öden\" ne demek?",
+      "cevap": "Lisans ücreti ödemesi, ithal eşyasının fiilen ödenen veya ödenecek fiyatından ayırt edilemediğinden ve miktarı bilinemediğinden, ithal eşyasının gümrük kıymetine dahildir. -- 2 of 14 -- 3 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 4,
+      "secenek": "D"
+    },
+    {
+      "soru": "5. soru - A seçeneği: \"Özel amaca yönelik kullanım nedeniyle indirimli ve\" ne demek?",
+      "cevap": "Özel amaca yönelik kullanım nedeniyle indirimli veya sıfır vergi oranından yararlanarak serbest dolaşıma girmiş eşyanın gümrük gözetimi, nihai kullanım olarak kabul edilen üretim veya kullanım faaliyetiyle sona erer. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 5,
+      "secenek": "A"
+    },
+    {
+      "soru": "5. soru - B seçeneği: \"Özel amaca yönelik kullanım nedeniyle indirimli ve\" ne demek?",
+      "cevap": "Özel amaca yönelik kullanım nedeniyle indirimli veya sıfır vergi oranından yararlanarak serbest dolaşıma girmiş eşyanın gümrük gözetimi, nihai kullanım olarak kabul edilen üretim veya kullanım faaliyeti kapsamında devam eder. — Bu doğru cevaptır. Özel amaca yönelik kullanım nedeniyle serbest dolaşıma giren eşyanın gümrük gözetimi, nihai kullanım olarak kabul edilen üretim/kullanım faaliyeti kapsamında devam eder.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 5,
+      "secenek": "B"
+    },
+    {
+      "soru": "5. soru - C seçeneği: \"İndirimli veya sıfır vergi uygulamasına ilişkin ko\" ne demek?",
+      "cevap": "İndirimli veya sıfır vergi uygulamasına ilişkin koşulların sona erdiği, eşyanın indirimli veya sıfır vergi uygulaması için belirlenmiş amaçlar dışında kullanılması nedeniyle tahsili gereken vergilerin ödendiği hallerde gümrük gözetimi sona erer. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 5,
+      "secenek": "C"
+    },
+    {
+      "soru": "5. soru - D seçeneği: \"Eşyanın ihraç veya imha edildiği hallerde gümrük g\" ne demek?",
+      "cevap": "Eşyanın ihraç veya imha edildiği hallerde gümrük gözetimi sona erer. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 5,
+      "secenek": "D"
+    },
+    {
+      "soru": "6. soru - A seçeneği: \"Tabi olduğu mevzuata uygunluğu tespit edilmek sure\" ne demek?",
+      "cevap": "Tabi olduğu mevzuata uygunluğu tespit edilmek suretiyle ithal edilebilir — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 6,
+      "secenek": "A"
+    },
+    {
+      "soru": "6. soru - B seçeneği: \"İlgili kurumlarca yapılacak ithalat kontrollerinin\" ne demek?",
+      "cevap": "İlgili kurumlarca yapılacak ithalat kontrollerinin gümrük beyannamesinin tescil işlemi öncesinde yapılması esastır — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 6,
+      "secenek": "B"
+    },
+    {
+      "soru": "6. soru - C seçeneği: \"İlgili kurumlarca yapılacak kontroller, gümrük yük\" ne demek?",
+      "cevap": "İlgili kurumlarca yapılacak kontroller, gümrük yükümlülüğü sona erdikten sonra ve eşya gümrük kontrolündeki yer ve sahalardan çıkarılmadan önce de yapılabilir — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 6,
+      "secenek": "C"
+    },
+    {
+      "soru": "6. soru - D seçeneği: \"İlgili kurumlarca yapılacak kontroller, gümrük yük\" ne demek?",
+      "cevap": "İlgili kurumlarca yapılacak kontroller, gümrük yükümlülüğü sona erdikten sonra Dış Ticaret Müsteşarlığı tarafından belirlenen yerlerde de yapılabilir — Bu doğru cevaptır. İlgili kurumlarca yapılan kontroller, gümrük yükümlülüğü sona erdikten sonra Dış Ticaret Müsteşarlığı tarafından belirlenen yerlerde de yapılabilir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 6,
+      "secenek": "D"
+    },
+    {
+      "soru": "7. soru - A seçeneği: \"İthal eşyası, iyi korunmaları, görünüşlerinin veya\" ne demek?",
+      "cevap": "İthal eşyası, iyi korunmaları, görünüşlerinin veya pazarlama kalitelerinin geliştirilmesi ya da dağıtım veya yeniden satışa hazırlanmaları yönünden yönetmelikle belirlenen mutat elleçleme işlemlerine tabi tutulabilir. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 7,
+      "secenek": "A"
+    },
+    {
+      "soru": "7. soru - B seçeneği: \"Piyasa düzeninin aksamadan işleyişini sağlamak ama\" ne demek?",
+      "cevap": "Piyasa düzeninin aksamadan işleyişini sağlamak amacıyla, tarım ve sanayi ürünlerinin antrepolarda tabi tutulacağı elleçleme işlemleri Gümrük Müsteşarlığınca sınırlandırılabilir. — Bu doğru cevaptır. Tarım ve sanayi ürünlerinin antrepolarda tabi tutulacağı elleçleme işlemleri Gümrük Müsteşarlığınca sınırlandırılabilir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 7,
+      "secenek": "B"
+    },
+    {
+      "soru": "7. soru - C seçeneği: \"Elleçleme işlemleri, ancak gümrük idarelerinin izn\" ne demek?",
+      "cevap": "Elleçleme işlemleri, ancak gümrük idarelerinin izniyle yapılabilir — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 7,
+      "secenek": "C"
+    },
+    {
+      "soru": "7. soru - D seçeneği: \"Antrepo rejimine tabi tutulan eşya, gümrük idarele\" ne demek?",
+      "cevap": "Antrepo rejimine tabi tutulan eşya, gümrük idarelerinden izin alınmak şartıyla geçici olarak gümrük antreposundan çıkarılabilir. Eşya gümrük antreposu dışında bulunduğu süre içinde belirli şartlar altında elleçleme işlemlerine tabi tutulabilir. -- 3 of 14 -- 4 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 7,
+      "secenek": "D"
+    },
+    {
+      "soru": "8. soru - A seçeneği: \"Antrepolarda yapılan sayım sonucunda noksan çıkan \" ne demek?",
+      "cevap": "Antrepolarda yapılan sayım sonucunda noksan çıkan eşyanın gümrük vergileri, her zaman işleticiden tahsil edilir. — Bu doğru cevaptır. Antrepolarda yapılan sayım sonucunda noksan çıkan eşyanın gümrük vergileri, her zaman işleticiden tahsil edilir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 8,
+      "secenek": "A"
+    },
+    {
+      "soru": "8. soru - B seçeneği: \"Antrepoda yapılan sayım sonucunda fazla çıkan eşya\" ne demek?",
+      "cevap": "Antrepoda yapılan sayım sonucunda fazla çıkan eşya kayıtlara alınır. Bu fazlalığın geçerli nedenlerden ileri geldiğine gümrük idaresince kanaat getirilmediği takdirde, söz konusu eşya tasfiyeye tabi tutulur. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 8,
+      "secenek": "B"
+    },
+    {
+      "soru": "8. soru - C seçeneği: \"İthal eşyasının elleçleme işlemlerine tabi tutulma\" ne demek?",
+      "cevap": "İthal eşyasının elleçleme işlemlerine tabi tutulması halinde, eşyanın ithalat vergileri tutarının belirlenmesinde dikkate alınacak niteliği, gümrük kıymeti ve miktarı, beyan sahibinin talebi üzerine, gümrük yükümlülüğünün doğduğu tarihte, eşya söz konusu elleçleme işlemlerine tabi tutulmamış gibi tespit edilir. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 8,
+      "secenek": "C"
+    },
+    {
+      "soru": "8. soru - D seçeneği: \"İthal eşyası için bir gümrük yükümlülüğü doğduğund\" ne demek?",
+      "cevap": "İthal eşyası için bir gümrük yükümlülüğü doğduğunda, eşyanın antrepo masrafları ile antrepoda kaldığı sürece muhafazası için yapılan masraflar, fiilen ödenen veya ödenecek fiyattan ayrı olarak gösterilmeleri şartıyla gümrük kıymetine dahil edilmez. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 8,
+      "secenek": "D"
+    },
+    {
+      "soru": "9. soru - A seçeneği: \"6 ay\" ne demek?",
+      "cevap": "6 ay — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 9,
+      "secenek": "A"
+    },
+    {
+      "soru": "9. soru - B seçeneği: \"1 yıl\" ne demek?",
+      "cevap": "1 yıl — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 9,
+      "secenek": "B"
+    },
+    {
+      "soru": "9. soru - C seçeneği: \"2 yıl\" ne demek?",
+      "cevap": "2 yıl — Bu doğru cevaptır. Gümrük kontrolü altında işleme rejiminde azami süre 2 yıldır.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 9,
+      "secenek": "C"
+    },
+    {
+      "soru": "9. soru - D seçeneği: \"3 yıl\" ne demek?",
+      "cevap": "3 yıl — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 9,
+      "secenek": "D"
+    },
+    {
+      "soru": "10. soru - A seçeneği: \"Onaylanmış Kişi Statü Belgesinin geçerlilik süresi\" ne demek?",
+      "cevap": "Onaylanmış Kişi Statü Belgesinin geçerlilik süresi, belge düzenleme tarihi itibariyle 3 (üç) yıldır. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 10,
+      "secenek": "A"
+    },
+    {
+      "soru": "10. soru - B seçeneği: \"A, B ve C Sınıfı Onaylanmış Kişi Statü Belgesine s\" ne demek?",
+      "cevap": "A, B ve C Sınıfı Onaylanmış Kişi Statü Belgesine sahip olanlar Gümrük Yönetmeliğinin 207 nci maddesi çerçevesinde “basitleştirilmiş kontrol” uygulamasından yararlanabilmektedirler. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 10,
+      "secenek": "B"
+    },
+    {
+      "soru": "10. soru - C seçeneği: \"A, B ve C Sınıfı Onaylanmış Kişi Statü Belgesine s\" ne demek?",
+      "cevap": "A, B ve C Sınıfı Onaylanmış Kişi Statü Belgesine sahip olanlar, eksik bilgi ve/veya belge ile beyan uygulamasından yararlanabilmektedirler. — Bu doğru cevaptır. A, B ve C Sınıfı Onaylanmış Kişi Statü Belgesine sahip olanlar, eksik bilgi ve/veya belge ile beyan uygulamasından yararlanabilir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 10,
+      "secenek": "C"
+    },
+    {
+      "soru": "10. soru - D seçeneği: \"Eşyanın ilgili rejime geçişinin kayıt yoluyla yapı\" ne demek?",
+      "cevap": "Eşyanın ilgili rejime geçişinin kayıt yoluyla yapılması uygulamasından B Sınıfı Onaylanmış Kişi Statü Belgesine sahip olanlar yararlanabilmektedirler. -- 4 of 14 -- 5 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 10,
+      "secenek": "D"
+    },
+    {
+      "soru": "11. soru - A seçeneği: \"Türkiye Atom Enerjisi Kurumunun uygunluk yazısının\" ne demek?",
+      "cevap": "Türkiye Atom Enerjisi Kurumunun uygunluk yazısının ibrazı şartıyla radyoaktif maddeler. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 11,
+      "secenek": "A"
+    },
+    {
+      "soru": "11. soru - B seçeneği: \"İnsan ve hayvan sağlığı ile ilgili her türlü aşıla\" ne demek?",
+      "cevap": "İnsan ve hayvan sağlığı ile ilgili her türlü aşılar. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 11,
+      "secenek": "B"
+    },
+    {
+      "soru": "11. soru - C seçeneği: \"Kara yolu ile kargo yoluyla taşınan ticari mahiyet\" ne demek?",
+      "cevap": "Kara yolu ile kargo yoluyla taşınan ticari mahiyet arz etmeyen ve/veya gümrük vergisinden muaf eşya. — Bu doğru cevaptır. Kara yolu ile kargo yoluyla taşınan ticari mahiyet arz etmeyen ve/veya gümrük vergisinden muaf eşya, basitleştirilmiş usullere tabi değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 11,
+      "secenek": "C"
+    },
+    {
+      "soru": "11. soru - D seçeneği: \"Yurt dışında periyodik olarak yayımlanan gazete ve\" ne demek?",
+      "cevap": "Yurt dışında periyodik olarak yayımlanan gazete ve dergiler ile bunların elektronik ortamda muhafaza edildiği materyaller. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 11,
+      "secenek": "D"
+    },
+    {
+      "soru": "12. soru - A seçeneği: \"Dahilde işleme rejimi kapsamında elde edilen işlem\" ne demek?",
+      "cevap": "Dahilde işleme rejimi kapsamında elde edilen işlem görmüş ürünün serbest bölgelere ihraç edilmesi ihracat taahhüdünün kapatılması açısından yeterlidir. — Bu doğru cevaptır. Dahilde işleme rejimi kapsamında elde edilen işlem görmüş ürünün serbest bölgelere ihraç edilmesi, ihracat taahhüdünün kapatılması açısından yeterlidir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 12,
+      "secenek": "A"
+    },
+    {
+      "soru": "12. soru - B seçeneği: \"Belge ihracat taahhüdünü kapatmak için en geç belg\" ne demek?",
+      "cevap": "Belge ihracat taahhüdünü kapatmak için en geç belge süresi sonundan itibaren 3 (üç) ay içerisinde İhracatçı Birlikleri Genel Sekreterliğine; Dahilde İşleme İzni ihracat taahhüdünü kapatmak için en geç izin süresi sonundan itibaren 1 (bir) ay içerisinde ilgili gümrük idaresine müracaat edilmesi gerekir. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 12,
+      "secenek": "B"
+    },
+    {
+      "soru": "12. soru - C seçeneği: \"Kapatma müracaatı yapmayan firmaların belgeleri/iz\" ne demek?",
+      "cevap": "Kapatma müracaatı yapmayan firmaların belgeleri/izinleri resen kapatılır. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 12,
+      "secenek": "C"
+    },
+    {
+      "soru": "12. soru - D seçeneği: \"Dahilde İşleme İzin şartlarına göre ithal edilen e\" ne demek?",
+      "cevap": "Dahilde İşleme İzin şartlarına göre ithal edilen eşyanın ihraç edildiğinin tespiti kaydıyla, izin ihracat taahhüdü izni veren gümrük idaresince kapatılır. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 12,
+      "secenek": "D"
+    },
+    {
+      "soru": "13. soru - A seçeneği: \"INF 4 Belgesi\" ne demek?",
+      "cevap": "INF 4 Belgesi — Bu doğru cevaptır. Tedarikçi beyanının doğruluğu INF 4 Belgesi ile ispatlanır.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 13,
+      "secenek": "A"
+    },
+    {
+      "soru": "13. soru - B seçeneği: \"INF 2 Belgesi\" ne demek?",
+      "cevap": "INF 2 Belgesi — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 13,
+      "secenek": "B"
+    },
+    {
+      "soru": "13. soru - C seçeneği: \"INF 3 Belgesi\" ne demek?",
+      "cevap": "INF 3 Belgesi — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 13,
+      "secenek": "C"
+    },
+    {
+      "soru": "13. soru - D seçeneği: \"Menşe şahadetnamesi\" ne demek?",
+      "cevap": "Menşe şahadetnamesi — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 13,
+      "secenek": "D"
+    },
+    {
+      "soru": "14. soru - A seçeneği: \"EUR. 1 Dolaşım Sertifikası\" ne demek?",
+      "cevap": "EUR. 1 Dolaşım Sertifikası — Bu doğru cevaptır. Türkiye-AB arası tarım ürünleri ticaretinde tercihli rejim için EUR.1 Dolaşım Sertifikası ibraz edilir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 14,
+      "secenek": "A"
+    },
+    {
+      "soru": "14. soru - B seçeneği: \"A.TR Dolaşım Belgesi\" ne demek?",
+      "cevap": "A.TR Dolaşım Belgesi — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 14,
+      "secenek": "B"
+    },
+    {
+      "soru": "14. soru - C seçeneği: \"Form A Menşe şahadetnamesi\" ne demek?",
+      "cevap": "Form A Menşe şahadetnamesi — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 14,
+      "secenek": "C"
+    },
+    {
+      "soru": "14. soru - D seçeneği: \"Tedarikçi Beyanı -- 5 of 14 -- 6\" ne demek?",
+      "cevap": "Tedarikçi Beyanı -- 5 of 14 -- 6 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 14,
+      "secenek": "D"
+    },
+    {
+      "soru": "15. soru - A seçeneği: \"1 ay\" ne demek?",
+      "cevap": "1 ay — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 15,
+      "secenek": "A"
+    },
+    {
+      "soru": "15. soru - B seçeneği: \"3 ay\" ne demek?",
+      "cevap": "3 ay — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 15,
+      "secenek": "B"
+    },
+    {
+      "soru": "15. soru - C seçeneği: \"6 ay\" ne demek?",
+      "cevap": "6 ay — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 15,
+      "secenek": "C"
+    },
+    {
+      "soru": "15. soru - D seçeneği: \"Kefil kuruluş tarafından belirlenir\" ne demek?",
+      "cevap": "Kefil kuruluş tarafından belirlenir — Bu doğru cevaptır. TIR karnelerinin geçerlilik süresi kefil kuruluş tarafından belirlenir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 15,
+      "secenek": "D"
+    },
+    {
+      "soru": "16. soru - A seçeneği: \"I-C, II-D, III-A, IV-B\" ne demek?",
+      "cevap": "I-C, II-D, III-A, IV-B — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 16,
+      "secenek": "A"
+    },
+    {
+      "soru": "16. soru - B seçeneği: \"I-D, II-B, III-C, IV-A\" ne demek?",
+      "cevap": "I-D, II-B, III-C, IV-A — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 16,
+      "secenek": "B"
+    },
+    {
+      "soru": "16. soru - C seçeneği: \"I-D, II-C, III-B, IV-A\" ne demek?",
+      "cevap": "I-D, II-C, III-B, IV-A — Bu doğru cevaptır. Teslim şekilleri: I-EXW: İşyerinde teslim, II-DAF: Sınırda teslim, III-DDP: Vergisi ödenmiş teslim, IV-CIF: Mal bedeli+navlun+sigorta.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 16,
+      "secenek": "C"
+    },
+    {
+      "soru": "16. soru - D seçeneği: \"I-C, II-A, III-D, IV-B\" ne demek?",
+      "cevap": "I-C, II-A, III-D, IV-B — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 16,
+      "secenek": "D"
+    },
+    {
+      "soru": "17. soru - A seçeneği: \"Gümrük vergisi tavizlerinin karşılıklı olması\" ne demek?",
+      "cevap": "Gümrük vergisi tavizlerinin karşılıklı olması — Bu doğru cevaptır. Genelleştirilmiş Tercihler Sistemi gümrük vergisi tavizlerinin karşılıklı olması esasına dayanır.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 17,
+      "secenek": "A"
+    },
+    {
+      "soru": "17. soru - B seçeneği: \"Tavizlerin verilişlerinin bağlayıcı olmaması\" ne demek?",
+      "cevap": "Tavizlerin verilişlerinin bağlayıcı olmaması — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 17,
+      "secenek": "B"
+    },
+    {
+      "soru": "17. soru - C seçeneği: \"Tercihlerin kısmen veya tümüyle kaldırılabilmesi\" ne demek?",
+      "cevap": "Tercihlerin kısmen veya tümüyle kaldırılabilmesi — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 17,
+      "secenek": "C"
+    },
+    {
+      "soru": "17. soru - D seçeneği: \"Tek taraflı veya uluslararası müzakereler sonucund\" ne demek?",
+      "cevap": "Tek taraflı veya uluslararası müzakereler sonucunda yapılacak en çok kayrılan ülke esasına dayalı tarife indirimlerini engelleyici olmaması — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 17,
+      "secenek": "D"
+    },
+    {
+      "soru": "18. soru - A seçeneği: \"Yerli sanayiciyi korumak\" ne demek?",
+      "cevap": "Yerli sanayiciyi korumak — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 18,
+      "secenek": "A"
+    },
+    {
+      "soru": "18. soru - B seçeneği: \"Döviz kaynaklarını korumak\" ne demek?",
+      "cevap": "Döviz kaynaklarını korumak — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 18,
+      "secenek": "B"
+    },
+    {
+      "soru": "18. soru - C seçeneği: \"Kamu ahlakı, kamu düzeni, kamu güvenliği, insan, h\" ne demek?",
+      "cevap": "Kamu ahlakı, kamu düzeni, kamu güvenliği, insan, hayvan ve bitki sağlık ve hayatlarının korunması — Bu doğru cevaptır. İthalat Rejimi kapsamında kamu ahlakı, kamu düzeni, kamu güvenliği, insan/hayvan/bitki sağlığının korunması nedeniyle ithalat yasaklanabilir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 18,
+      "secenek": "C"
+    },
+    {
+      "soru": "18. soru - D seçeneği: \"Ekonomik dengeleri düzeltmek\" ne demek?",
+      "cevap": "Ekonomik dengeleri düzeltmek — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 18,
+      "secenek": "D"
+    },
+    {
+      "soru": "19. soru - A seçeneği: \"Serbestlik\" ne demek?",
+      "cevap": "Serbestlik — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 19,
+      "secenek": "A"
+    },
+    {
+      "soru": "19. soru - B seçeneği: \"Farklılık\" ne demek?",
+      "cevap": "Farklılık — Bu doğru cevaptır. Gümrük Birliğinin işlemesinde \"Farklılık\" ilkesi uygulanmaz. İlkeler: Serbestlik, Basitlik, Açıklık.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 19,
+      "secenek": "B"
+    },
+    {
+      "soru": "19. soru - C seçeneği: \"Basitlik\" ne demek?",
+      "cevap": "Basitlik — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 19,
+      "secenek": "C"
+    },
+    {
+      "soru": "19. soru - D seçeneği: \"Açıklık -- 6 of 14 -- 7\" ne demek?",
+      "cevap": "Açıklık -- 6 of 14 -- 7 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 19,
+      "secenek": "D"
+    },
+    {
+      "soru": "20. soru - A seçeneği: \"Sanayi ve Ticaret Bakanlığı\" ne demek?",
+      "cevap": "Sanayi ve Ticaret Bakanlığı — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 20,
+      "secenek": "A"
+    },
+    {
+      "soru": "20. soru - B seçeneği: \"Dış Ticaret Müsteşarlığı\" ne demek?",
+      "cevap": "Dış Ticaret Müsteşarlığı — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 20,
+      "secenek": "B"
+    },
+    {
+      "soru": "20. soru - C seçeneği: \"Hazine Müsteşarlığı\" ne demek?",
+      "cevap": "Hazine Müsteşarlığı — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 20,
+      "secenek": "C"
+    },
+    {
+      "soru": "20. soru - D seçeneği: \"Bankacılık Düzenleme ve Denetleme Kurulu\" ne demek?",
+      "cevap": "Bankacılık Düzenleme ve Denetleme Kurulu — Bu doğru cevaptır. Finansal kiralama yoluyla ithalat için Bankacılık Düzenleme ve Denetleme Kurulu'na başvuru yapılır.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 20,
+      "secenek": "D"
+    },
+    {
+      "soru": "21. soru - A seçeneği: \"Aval\" ne demek?",
+      "cevap": "Aval — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 21,
+      "secenek": "A"
+    },
+    {
+      "soru": "21. soru - B seçeneği: \"Swap\" ne demek?",
+      "cevap": "Swap — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 21,
+      "secenek": "B"
+    },
+    {
+      "soru": "21. soru - C seçeneği: \"Factoring\" ne demek?",
+      "cevap": "Factoring — Bu doğru cevaptır. Fatura ve fatura yerine geçen belgelere dayanan alacakların bir şirket tarafından temlik alınması finansmanı \"Factoring\"dir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 21,
+      "secenek": "C"
+    },
+    {
+      "soru": "21. soru - D seçeneği: \"Switch\" ne demek?",
+      "cevap": "Switch — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 21,
+      "secenek": "D"
+    },
+    {
+      "soru": "22. soru - A seçeneği: \"Offset\" ne demek?",
+      "cevap": "Offset — Bu doğru cevaptır. Uluslararası ihalelerde yabancı firmanın verdiği endüstriyel işbirliği taahhütlerine \"Offset\" denir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 22,
+      "secenek": "A"
+    },
+    {
+      "soru": "22. soru - B seçeneği: \"Takas\" ne demek?",
+      "cevap": "Takas — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 22,
+      "secenek": "B"
+    },
+    {
+      "soru": "22. soru - C seçeneği: \"Bağlı Muamele\" ne demek?",
+      "cevap": "Bağlı Muamele — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 22,
+      "secenek": "C"
+    },
+    {
+      "soru": "22. soru - D seçeneği: \"Ticari Kiralama\" ne demek?",
+      "cevap": "Ticari Kiralama — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 22,
+      "secenek": "D"
+    },
+    {
+      "soru": "23. soru - A seçeneği: \"İhracat bedellerinin %50’sinin,90 gün içinde yurda\" ne demek?",
+      "cevap": "İhracat bedellerinin %50’sinin,90 gün içinde yurda getirilmesi zorunludur — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 23,
+      "secenek": "A"
+    },
+    {
+      "soru": "23. soru - B seçeneği: \"İhracat bedellerinin tasarrufu serbesttir.\" ne demek?",
+      "cevap": "İhracat bedellerinin tasarrufu serbesttir. — Bu doğru cevaptır. 2008 düzenlemesiyle ihracat bedellerinin tasarrufu serbesttir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 23,
+      "secenek": "B"
+    },
+    {
+      "soru": "23. soru - C seçeneği: \"İhracat bedellerinin %50’sinin,180 gün içinde yurd\" ne demek?",
+      "cevap": "İhracat bedellerinin %50’sinin,180 gün içinde yurda getirilmesi zorunludur — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 23,
+      "secenek": "C"
+    },
+    {
+      "soru": "23. soru - D seçeneği: \"İhracat bedellerinin %50’sinin tasarrufu serbestti\" ne demek?",
+      "cevap": "İhracat bedellerinin %50’sinin tasarrufu serbesttir — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 23,
+      "secenek": "D"
+    },
+    {
+      "soru": "24. soru - A seçeneği: \"İhracat 2006/3 sayılı Tebliğ yürürlükten kaldırılm\" ne demek?",
+      "cevap": "İhracat 2006/3 sayılı Tebliğ yürürlükten kaldırılmıştır. — Bu doğru cevaptır. İhracat 2008/9 sayılı tebliğ ile ihracat 2006/3 sayılı tebliğ yürürlükten kaldırılmıştır.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 24,
+      "secenek": "A"
+    },
+    {
+      "soru": "24. soru - B seçeneği: \"İhracat 2006/3 sayılı Tebliğ’de belirtilen süreler\" ne demek?",
+      "cevap": "İhracat 2006/3 sayılı Tebliğ’de belirtilen süreler 6 ay uzatılmıştır. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 24,
+      "secenek": "B"
+    },
+    {
+      "soru": "24. soru - C seçeneği: \"İhracat 2006/3 sayılı Tebliğ’de belirtilen süreler\" ne demek?",
+      "cevap": "İhracat 2006/3 sayılı Tebliğ’de belirtilen süreler 9 ay uzatılmıştır. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 24,
+      "secenek": "C"
+    },
+    {
+      "soru": "24. soru - D seçeneği: \"İhracat 2006/3 sayılı Tebliğ’de belirtilen süreler\" ne demek?",
+      "cevap": "İhracat 2006/3 sayılı Tebliğ’de belirtilen süreler 12 ay uzatılmıştır -- 7 of 14 -- 8 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 24,
+      "secenek": "D"
+    },
+    {
+      "soru": "25. soru - A seçeneği: \"Katma Değer Vergisi Kanununa göre genel vergi oran\" ne demek?",
+      "cevap": "Katma Değer Vergisi Kanununa göre genel vergi oranı % 8’dir. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 25,
+      "secenek": "A"
+    },
+    {
+      "soru": "25. soru - B seçeneği: \"Diğer kanunlardaki istisna hükümleri bu vergi bakı\" ne demek?",
+      "cevap": "Diğer kanunlardaki istisna hükümleri bu vergi bakımından da geçerlidir. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 25,
+      "secenek": "B"
+    },
+    {
+      "soru": "25. soru - C seçeneği: \"İthalat sırasında ödenen her türlü vergi, resim, h\" ne demek?",
+      "cevap": "İthalat sırasında ödenen her türlü vergi, resim, harç ve paylar matraha dahildir. — Bu doğru cevaptır. KDV'na göre ithalat sırasında ödenen her türlü vergi, resim, harç ve paylar KDV matraha dahildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 25,
+      "secenek": "C"
+    },
+    {
+      "soru": "25. soru - D seçeneği: \"İlk iktisabında veya ithalinde KDV ödenen malların\" ne demek?",
+      "cevap": "İlk iktisabında veya ithalinde KDV ödenen malların daha sonraki teslimlerinde vergi uygulanmaz. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 25,
+      "secenek": "D"
+    },
+    {
+      "soru": "26. soru - A seçeneği: \"2\" ne demek?",
+      "cevap": "2 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 26,
+      "secenek": "A"
+    },
+    {
+      "soru": "26. soru - B seçeneği: \"3\" ne demek?",
+      "cevap": "3 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 26,
+      "secenek": "B"
+    },
+    {
+      "soru": "26. soru - C seçeneği: \"4\" ne demek?",
+      "cevap": "4 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 26,
+      "secenek": "C"
+    },
+    {
+      "soru": "26. soru - D seçeneği: \"5\" ne demek?",
+      "cevap": "5 — Bu doğru cevaptır. Özürlü ve sakatlar tarafından kullanılmak üzere ithalatta 5 yıllık sürede bir muafiyet hakkı verilmiştir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 26,
+      "secenek": "D"
+    },
+    {
+      "soru": "27. soru - A seçeneği: \"Teslimin yurtdışındaki bir müşteriye yapılmış olma\" ne demek?",
+      "cevap": "Teslimin yurtdışındaki bir müşteriye yapılmış olması halinde. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 27,
+      "secenek": "A"
+    },
+    {
+      "soru": "27. soru - B seçeneği: \"Teslim konusu malın, Türkiye Cumhuriyeti Gümrük Bö\" ne demek?",
+      "cevap": "Teslim konusu malın, Türkiye Cumhuriyeti Gümrük Bölgesinden çıkmış olması halinde. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 27,
+      "secenek": "B"
+    },
+    {
+      "soru": "27. soru - C seçeneği: \"Malın ihraç edilmeden önce yurt dışındaki alıcı ad\" ne demek?",
+      "cevap": "Malın ihraç edilmeden önce yurt dışındaki alıcı adına hareket edenlere veya bizzat alıcıya işlenmek ya da herhangi bir şekilde değerlendirilmek üzere yurt içinde teslim edilmesi halinde. — Bu doğru cevaptır. Malın yurt içinde teslim edilmesi halinde (ihraç edilmeden önce) ihracat istisnası uygulanamaz.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 27,
+      "secenek": "C"
+    },
+    {
+      "soru": "27. soru - D seçeneği: \"Teslimin, yurt içinde bulunan bir işletmenin yurt \" ne demek?",
+      "cevap": "Teslimin, yurt içinde bulunan bir işletmenin yurt dışında faaliyet gösteren şubesine yapılması halinde. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 27,
+      "secenek": "D"
+    },
+    {
+      "soru": "28. soru - A seçeneği: \"Denizyolu ile gelen serbest dolaşımda bulunmayan e\" ne demek?",
+      "cevap": "Denizyolu ile gelen serbest dolaşımda bulunmayan eşyanın karayolu ile bir iç gümrük idaresine transitinde — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 28,
+      "secenek": "A"
+    },
+    {
+      "soru": "28. soru - B seçeneği: \"Serbest dolaşımda bulunmayan “Motorin” cinsi eşyan\" ne demek?",
+      "cevap": "Serbest dolaşımda bulunmayan “Motorin” cinsi eşyanın demiryolu ile transitinde — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 28,
+      "secenek": "B"
+    },
+    {
+      "soru": "28. soru - C seçeneği: \"Geçici depolama yerinden çıkartılan serbest dolaşı\" ne demek?",
+      "cevap": "Geçici depolama yerinden çıkartılan serbest dolaşımda bulunmayan eşyanın yurtdışı edilmek üzere bir sınır gümrük idaresine transitinde — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 28,
+      "secenek": "C"
+    },
+    {
+      "soru": "28. soru - D seçeneği: \"Serbest dolaşımda bulunmayan eşyanın TIR Karnesi i\" ne demek?",
+      "cevap": "Serbest dolaşımda bulunmayan eşyanın TIR Karnesi ile yurtdışı edilmek üzere bir sınır gümrük idaresine transitinde -- 8 of 14 -- 9 — Bu doğru cevaptır. TIR Karnesi ile yapılan transit taşımalarında teminat aranmaz.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 28,
+      "secenek": "D"
+    },
+    {
+      "soru": "29. soru - A seçeneği: \"37 ekran televizyon\" ne demek?",
+      "cevap": "37 ekran televizyon — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 29,
+      "secenek": "A"
+    },
+    {
+      "soru": "29. soru - B seçeneği: \"Köpek\" ne demek?",
+      "cevap": "Köpek — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 29,
+      "secenek": "B"
+    },
+    {
+      "soru": "29. soru - C seçeneği: \"Keçi\" ne demek?",
+      "cevap": "Keçi — Bu doğru cevaptır. Keçi \"zati eşya\" kapsamında ithalatı mümkün değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 29,
+      "secenek": "C"
+    },
+    {
+      "soru": "29. soru - D seçeneği: \"Diz üstü bilgisayar\" ne demek?",
+      "cevap": "Diz üstü bilgisayar — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 29,
+      "secenek": "D"
+    },
+    {
+      "soru": "30. soru - A seçeneği: \"7 gün\" ne demek?",
+      "cevap": "7 gün — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 30,
+      "secenek": "A"
+    },
+    {
+      "soru": "30. soru - B seçeneği: \"10 gün\" ne demek?",
+      "cevap": "10 gün — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 30,
+      "secenek": "B"
+    },
+    {
+      "soru": "30. soru - C seçeneği: \"1 ay\" ne demek?",
+      "cevap": "1 ay — Bu doğru cevaptır. Amme alacakları tebliğinden itibaren 1 ay içinde ödenmesi gerekir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 30,
+      "secenek": "C"
+    },
+    {
+      "soru": "30. soru - D seçeneği: \"2 ay\" ne demek?",
+      "cevap": "2 ay — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 30,
+      "secenek": "D"
+    },
+    {
+      "soru": "31. soru - A seçeneği: \"A.TR Dolaşım Belgesinin yeşil meneviş desenli zemi\" ne demek?",
+      "cevap": "A.TR Dolaşım Belgesinin yeşil meneviş desenli zemin üzerine basılmamış olması — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 31,
+      "secenek": "A"
+    },
+    {
+      "soru": "31. soru - B seçeneği: \"A.TR Dolaşım Belgesinin 12 no.lu kutusunun mühürle\" ne demek?",
+      "cevap": "A.TR Dolaşım Belgesinin 12 no.lu kutusunun mühürlenip imzalanmaması — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 31,
+      "secenek": "B"
+    },
+    {
+      "soru": "31. soru - C seçeneği: \"A.TR Dolaşım Belgesinin yetkili olmayan bir makam \" ne demek?",
+      "cevap": "A.TR Dolaşım Belgesinin yetkili olmayan bir makam tarafından onaylanması — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 31,
+      "secenek": "C"
+    },
+    {
+      "soru": "31. soru - D seçeneği: \"A.TR Dolaşım Belgesinin ticari mahiyette olmayan b\" ne demek?",
+      "cevap": "A.TR Dolaşım Belgesinin ticari mahiyette olmayan bir yolcu eşyasına düzenlenmiş olması — Bu doğru cevaptır. A.TR Dolaşım Belgesi ticari mahiyette olmayan yolcu eşyasına düzenlenemez (teknik neden).",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 31,
+      "secenek": "D"
+    },
+    {
+      "soru": "32. soru - A seçeneği: \"I sayılı liste, tarım ürünlerini; II sayılı liste,\" ne demek?",
+      "cevap": "I sayılı liste, tarım ürünlerini; II sayılı liste, sanayi mallarını; III sayılı liste, işlenmiş tarım ürünlerini; IV sayılı liste, balık ve diğer su ürünlerini; V sayılı liste, gümrük vergisi askıya alınan ürünleri içermektedir. — Bu doğru cevaptır. İthalat Rejimi Kararı listeleri: I-Tarım, II-Sanayi, III-İşlenmiş tarım, IV-Balık, V-Vergi askıya alınan.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 32,
+      "secenek": "A"
+    },
+    {
+      "soru": "32. soru - B seçeneği: \"I sayılı liste, sanayi mallarını; II sayılı liste,\" ne demek?",
+      "cevap": "I sayılı liste, sanayi mallarını; II sayılı liste, tarım ürünlerini; III sayılı liste, işlenmiş tarım ürünlerini; IV sayılı liste, balık ve diğer su ürünlerini; V sayılı liste, gümrük vergisi askıya alınan ürünleri içermektedir. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 32,
+      "secenek": "B"
+    },
+    {
+      "soru": "32. soru - C seçeneği: \"I sayılı liste, tarım ürünlerini; II sayılı liste,\" ne demek?",
+      "cevap": "I sayılı liste, tarım ürünlerini; II sayılı liste, sanayi mallarını; III sayılı liste, işlenmiş tarım ürünlerini; IV sayılı liste, gümrük vergisi askıya alınan ürünleri; V sayılı liste, balık ve diğer su ürünlerini içermektedir. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 32,
+      "secenek": "C"
+    },
+    {
+      "soru": "32. soru - D seçeneği: \"I sayılı liste, işlenmiş tarım ürünlerini; II sayı\" ne demek?",
+      "cevap": "I sayılı liste, işlenmiş tarım ürünlerini; II sayılı liste, sanayi mallarını; III sayılı liste, tarım ürünlerini; IV sayılı liste, balık ve diğer su ürünlerini; V sayılı liste, gümrük vergisi askıya alınan ürünleri içermektedir. -- 9 of 14 -- 10 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 32,
+      "secenek": "D"
+    },
+    {
+      "soru": "33. soru - A seçeneği: \"Ürünlerin Piyasa Gözetimi ve Denetimine Dair Yönet\" ne demek?",
+      "cevap": "Ürünlerin Piyasa Gözetimi ve Denetimine Dair Yönetmelik — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 33,
+      "secenek": "A"
+    },
+    {
+      "soru": "33. soru - B seçeneği: \"CE Uygunluk İşaretinin Ürüne İliştirilmesine ve Ku\" ne demek?",
+      "cevap": "CE Uygunluk İşaretinin Ürüne İliştirilmesine ve Kullanılmasına Dair Yönetmelik — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 33,
+      "secenek": "B"
+    },
+    {
+      "soru": "33. soru - C seçeneği: \"Dış Ticarette Teknik Düzenlemeler ve Standardizasy\" ne demek?",
+      "cevap": "Dış Ticarette Teknik Düzenlemeler ve Standardizasyon Yönetmeliği — Bu doğru cevaptır. Çerçeve Kanun yönetmelikleri arasında \"Dış Ticarette Teknik Düzenlemeler ve Standardizasyon Yönetmeliği\" yer almaz.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 33,
+      "secenek": "C"
+    },
+    {
+      "soru": "33. soru - D seçeneği: \"Uygunluk Değerlendirme Kuruluşları ile Onaylanmış \" ne demek?",
+      "cevap": "Uygunluk Değerlendirme Kuruluşları ile Onaylanmış Kuruluşlara Dair Yönetmelik — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 33,
+      "secenek": "D"
+    },
+    {
+      "soru": "34. soru - A seçeneği: \"Kayda bağlı ihracat gümrük beyannamesinin, ihracat\" ne demek?",
+      "cevap": "Kayda bağlı ihracat gümrük beyannamesinin, ihracattan önce İhracatçı Birlikleri Genel Sekreterliğince kayda alındığı ihracat şeklidir — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 34,
+      "secenek": "A"
+    },
+    {
+      "soru": "34. soru - B seçeneği: \"Kayda bağlı olarak ihraç edilen eşyanın fiili ihra\" ne demek?",
+      "cevap": "Kayda bağlı olarak ihraç edilen eşyanın fiili ihraç tarihinden itibaren 1 yıl içinde kesin satışının yapılması gereklidir. — Bu doğru cevaptır. Kayda bağlı ihracatta fiili ihraç tarihinden itibaren 1 yıl içinde kesin satış yapılması gerekir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 34,
+      "secenek": "B"
+    },
+    {
+      "soru": "34. soru - C seçeneği: \"Kayda bağlı ihracatta ihracatçılar, gümrük beyanna\" ne demek?",
+      "cevap": "Kayda bağlı ihracatta ihracatçılar, gümrük beyannamesi ile birlikte kayıt için İhracatçı Birliklerine müracaat ederler. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 34,
+      "secenek": "C"
+    },
+    {
+      "soru": "34. soru - D seçeneği: \"İhracatçı Birliklerinin onaylayıp kayıt meşruhatı \" ne demek?",
+      "cevap": "İhracatçı Birliklerinin onaylayıp kayıt meşruhatı verdiği beyannamelerin 30 gün içinde gümrük idarelerine verilmesi gereklidir. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 34,
+      "secenek": "D"
+    },
+    {
+      "soru": "35. soru - A seçeneği: \"Gümrük idareleri hak sahibinin geçerli bir başvuru\" ne demek?",
+      "cevap": "Gümrük idareleri hak sahibinin geçerli bir başvuruda bulunmasını teminen 10 iş günü boyunca sahte olduğu tespit edilen eşyanın işlemlerini durdurmaya ve eşyaya el koymaya yetkilidirler. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 35,
+      "secenek": "A"
+    },
+    {
+      "soru": "35. soru - B seçeneği: \"Fikri ve sınai mülkiyet haklarının ihlal edildiği \" ne demek?",
+      "cevap": "Fikri ve sınai mülkiyet haklarının ihlal edildiği gerekçesi ile gümrük idaresine yapılan başvurunun kabul edildiği tarihte şikayet konusu eşya serbest dolaşıma girmiş ise, söz konusu durum hak sahibince gümrük idaresinden tazminat alma hakkı doğurmaz. — Bu doğru cevaptır. Gümrük idaresi eşya sahibine bilgi vermez; sadece hak sahibine bildirir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 35,
+      "secenek": "B"
+    },
+    {
+      "soru": "35. soru - C seçeneği: \"Gümrük idaresi eşya ve sahibi hakkındaki tüm bilgi\" ne demek?",
+      "cevap": "Gümrük idaresi eşya ve sahibi hakkındaki tüm bilgileri talepte bulunan hak sahibine verir. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 35,
+      "secenek": "C"
+    },
+    {
+      "soru": "35. soru - D seçeneği: \"Gümrük idaresi sahte veya taklit eşya tanımına uya\" ne demek?",
+      "cevap": "Gümrük idaresi sahte veya taklit eşya tanımına uyan eşyanın gümrük işlemlerini durdurup, durumu eşya ve başvuru sahibine 3 iş günü içerisinde bildirir. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 35,
+      "secenek": "D"
+    },
+    {
+      "soru": "36. soru - A seçeneği: \"Eşyayı, gümrük işlemlerine tâbi tutmaksızın Türkiy\" ne demek?",
+      "cevap": "Eşyayı, gümrük işlemlerine tâbi tutmaksızın Türkiye’ye ithal etmek, — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 36,
+      "secenek": "A"
+    },
+    {
+      "soru": "36. soru - B seçeneği: \"Transit rejimi çerçevesinde taşınan serbest dolaşı\" ne demek?",
+      "cevap": "Transit rejimi çerçevesinde taşınan serbest dolaşımda bulunmayan eşyayı, rejim hükümlerine aykırı olarak gümrük bölgesinde bırakmak, — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 36,
+      "secenek": "B"
+    },
+    {
+      "soru": "36. soru - C seçeneği: \"İhracı kanun gereği yasak olan eşyayı Türkiye’den \" ne demek?",
+      "cevap": "İhracı kanun gereği yasak olan eşyayı Türkiye’den ihraç etmek, — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 36,
+      "secenek": "C"
+    },
+    {
+      "soru": "36. soru - D seçeneği: \"İthali ticaret politikası önlemlerine tabi olan eş\" ne demek?",
+      "cevap": "İthali ticaret politikası önlemlerine tabi olan eşyayı dahilde işleme rejimi kapsamında ülkeye sokmak, -- 10 of 14 -- 11 — Bu doğru cevaptır. İthali ticaret politikası önlemlerine tabi eşyahı dahilde işleme rejimi kapsamında ülkeye sokmak kaçakçılık fiili değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 36,
+      "secenek": "D"
+    },
+    {
+      "soru": "37. soru - A seçeneği: \"Araçların kayıtlı bulunduğu sicile şerh verilmek s\" ne demek?",
+      "cevap": "Araçların kayıtlı bulunduğu sicile şerh verilmek suretiyle — Bu doğru cevaptır. 5607 sayılı Kanunda elkoyma işlemi, araçların kayıtlı bulunduğu sicile şerh verilmek suretiyle gerçekleştirilir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 37,
+      "secenek": "A"
+    },
+    {
+      "soru": "37. soru - B seçeneği: \"Araç gümrüklü sahada zapt edilmek suretiyle\" ne demek?",
+      "cevap": "Araç gümrüklü sahada zapt edilmek suretiyle — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 37,
+      "secenek": "B"
+    },
+    {
+      "soru": "37. soru - C seçeneği: \"Aracın kasko değeri kadar teminat alınmak suretiyl\" ne demek?",
+      "cevap": "Aracın kasko değeri kadar teminat alınmak suretiyle — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 37,
+      "secenek": "C"
+    },
+    {
+      "soru": "37. soru - D seçeneği: \"Aracın yeddi emin hükümleri çerçevesinde ruhsat sa\" ne demek?",
+      "cevap": "Aracın yeddi emin hükümleri çerçevesinde ruhsat sahibine iadesi suretiyle — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 37,
+      "secenek": "D"
+    },
+    {
+      "soru": "38. soru - A seçeneği: \"Timsah derisinden para kesesi\" ne demek?",
+      "cevap": "Timsah derisinden para kesesi — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 38,
+      "secenek": "A"
+    },
+    {
+      "soru": "38. soru - B seçeneği: \"Dış yüzü dokumaya elverişli maddelerden mamul teke\" ne demek?",
+      "cevap": "Dış yüzü dokumaya elverişli maddelerden mamul tekerlekli, çekme kollu valiz — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 38,
+      "secenek": "B"
+    },
+    {
+      "soru": "38. soru - C seçeneği: \"Ahşap mücevher kutusu\" ne demek?",
+      "cevap": "Ahşap mücevher kutusu — Bu doğru cevaptır. 42.02 tarife pozisyonunda ahşap mücevher kutusu sınıflandırılmaz.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 38,
+      "secenek": "C"
+    },
+    {
+      "soru": "38. soru - D seçeneği: \"Kalıplanmış plastik maddeden mamul okul çantası\" ne demek?",
+      "cevap": "Kalıplanmış plastik maddeden mamul okul çantası — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 38,
+      "secenek": "D"
+    },
+    {
+      "soru": "39. soru - A seçeneği: \"2202.10\" ne demek?",
+      "cevap": "2202.10 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 39,
+      "secenek": "A"
+    },
+    {
+      "soru": "39. soru - B seçeneği: \"7607.11\" ne demek?",
+      "cevap": "7607.11 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 39,
+      "secenek": "B"
+    },
+    {
+      "soru": "39. soru - C seçeneği: \"9031.80\" ne demek?",
+      "cevap": "9031.80 — Bu doğru cevaptır. Alüminyumdan mamul su terazisi 9031.80 tarife pozisyonundadır.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 39,
+      "secenek": "C"
+    },
+    {
+      "soru": "39. soru - D seçeneği: \"9305.10\" ne demek?",
+      "cevap": "9305.10 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 39,
+      "secenek": "D"
+    },
+    {
+      "soru": "40. soru - A seçeneği: \"38.24\" ne demek?",
+      "cevap": "38.24 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 40,
+      "secenek": "A"
+    },
+    {
+      "soru": "40. soru - B seçeneği: \"34.02\" ne demek?",
+      "cevap": "34.02 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 40,
+      "secenek": "B"
+    },
+    {
+      "soru": "40. soru - C seçeneği: \"33.07\" ne demek?",
+      "cevap": "33.07 — Bu doğru cevaptır. Kontak lens solüsyonları 33.07 tarife pozisyonundadır.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 40,
+      "secenek": "C"
+    },
+    {
+      "soru": "40. soru - D seçeneği: \"34.01\" ne demek?",
+      "cevap": "34.01 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 40,
+      "secenek": "D"
+    },
+    {
+      "soru": "41. soru - A seçeneği: \"87.01\" ne demek?",
+      "cevap": "87.01 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 41,
+      "secenek": "A"
+    },
+    {
+      "soru": "41. soru - B seçeneği: \"84.24\" ne demek?",
+      "cevap": "84.24 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 41,
+      "secenek": "B"
+    },
+    {
+      "soru": "41. soru - C seçeneği: \"84.32\" ne demek?",
+      "cevap": "84.32 — Bu doğru cevaptır. Kültivatörler 84.32 tarife pozisyonunda sınıflandırılır.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 41,
+      "secenek": "C"
+    },
+    {
+      "soru": "41. soru - D seçeneği: \"84.33\" ne demek?",
+      "cevap": "84.33 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 41,
+      "secenek": "D"
+    },
+    {
+      "soru": "42. soru - A seçeneği: \"Osmiyum\" ne demek?",
+      "cevap": "Osmiyum — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 42,
+      "secenek": "A"
+    },
+    {
+      "soru": "42. soru - B seçeneği: \"Rodyum\" ne demek?",
+      "cevap": "Rodyum — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 42,
+      "secenek": "B"
+    },
+    {
+      "soru": "42. soru - C seçeneği: \"Paladyum\" ne demek?",
+      "cevap": "Paladyum — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 42,
+      "secenek": "C"
+    },
+    {
+      "soru": "42. soru - D seçeneği: \"Berilyum -- 11 of 14 -- 12\" ne demek?",
+      "cevap": "Berilyum -- 11 of 14 -- 12 — Bu doğru cevaptır. Berilyum platin tabrine girmez.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 42,
+      "secenek": "D"
+    },
+    {
+      "soru": "43. soru - A seçeneği: \"6 adet Genel Yorum Kuralı bulunmaktadır.\" ne demek?",
+      "cevap": "6 adet Genel Yorum Kuralı bulunmaktadır. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 43,
+      "secenek": "A"
+    },
+    {
+      "soru": "43. soru - B seçeneği: \"Tüm kurallar hiyerarşik olarak uygulanır. Yani önc\" ne demek?",
+      "cevap": "Tüm kurallar hiyerarşik olarak uygulanır. Yani önce 1. kural uygulanır, bu kuralın uygulanmasıyla eşyanın tarifedeki yeri tespit edilemiyorsa, sırasıyla 2, 3, 4, 5 ve 6 ncı kurallar uygulanır. — Bu doğru cevaptır. 6 adet Genel Yorum Kuralı, hiyerarşik olarak değil, sırayla uygulanır (önce 1, sonra 2, vs.).",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 43,
+      "secenek": "B"
+    },
+    {
+      "soru": "43. soru - C seçeneği: \"1 ila 5 inci kurallar tarife pozisyonu yani dört r\" ne demek?",
+      "cevap": "1 ila 5 inci kurallar tarife pozisyonu yani dört rakamlı kodlar seviyesinde sınıflandırmayı düzenler, — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 43,
+      "secenek": "C"
+    },
+    {
+      "soru": "43. soru - D seçeneği: \"6 nolu kural tarife alt pozisyonu ve daha ileri dü\" ne demek?",
+      "cevap": "6 nolu kural tarife alt pozisyonu ve daha ileri düzeydeki açılımlar seviyesinde sınıflandırmayı düzenlemektedir. — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 43,
+      "secenek": "D"
+    },
+    {
+      "soru": "44. soru - A seçeneği: \"09.02\" ne demek?",
+      "cevap": "09.02 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 44,
+      "secenek": "A"
+    },
+    {
+      "soru": "44. soru - B seçeneği: \"09.10\" ne demek?",
+      "cevap": "09.10 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 44,
+      "secenek": "B"
+    },
+    {
+      "soru": "44. soru - C seçeneği: \"12.11\" ne demek?",
+      "cevap": "12.11 — Bu doğru cevaptır. Ada çayı 12.11 tarife pozisyonunda sınıflandırılır.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 44,
+      "secenek": "C"
+    },
+    {
+      "soru": "44. soru - D seçeneği: \"07.12\" ne demek?",
+      "cevap": "07.12 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 44,
+      "secenek": "D"
+    },
+    {
+      "soru": "45. soru - A seçeneği: \"I sayılı liste\" ne demek?",
+      "cevap": "I sayılı liste — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 45,
+      "secenek": "A"
+    },
+    {
+      "soru": "45. soru - B seçeneği: \"II sayılı liste\" ne demek?",
+      "cevap": "II sayılı liste — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 45,
+      "secenek": "B"
+    },
+    {
+      "soru": "45. soru - C seçeneği: \"III sayılı liste\" ne demek?",
+      "cevap": "III sayılı liste — Bu doğru cevaptır. Meursing Tablosu III sayılı liste (işlenmiş tarım ürünleri) ile alakalıdır.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 45,
+      "secenek": "C"
+    },
+    {
+      "soru": "45. soru - D seçeneği: \"IV sayılı liste\" ne demek?",
+      "cevap": "IV sayılı liste — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 45,
+      "secenek": "D"
+    },
+    {
+      "soru": "46. soru - A seçeneği: \"Bira mayası- kavrulmuş hindiba- çemen\" ne demek?",
+      "cevap": "Bira mayası- kavrulmuş hindiba- çemen — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 46,
+      "secenek": "A"
+    },
+    {
+      "soru": "46. soru - B seçeneği: \"Mikroorganizma kültürü-ilk yardım çantası- steril \" ne demek?",
+      "cevap": "Mikroorganizma kültürü-ilk yardım çantası- steril dikiş malzemesi — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 46,
+      "secenek": "B"
+    },
+    {
+      "soru": "46. soru - C seçeneği: \"Elektrik enerjisi- vazelin- turb\" ne demek?",
+      "cevap": "Elektrik enerjisi- vazelin- turb — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 46,
+      "secenek": "C"
+    },
+    {
+      "soru": "46. soru - D seçeneği: \"Jelatin- sertleştirilmiş protein- enzim -- 12 of 1\" ne demek?",
+      "cevap": "Jelatin- sertleştirilmiş protein- enzim -- 12 of 14 -- 13 — Bu doğru cevaptır. Jelatin, sertleştirilmiş protein ve enzim aynı fasılda sınıflandırılmaz.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 46,
+      "secenek": "D"
+    },
+    {
+      "soru": "47. soru - A seçeneği: \"73.26\" ne demek?",
+      "cevap": "73.26 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 47,
+      "secenek": "A"
+    },
+    {
+      "soru": "47. soru - B seçeneği: \"83.07\" ne demek?",
+      "cevap": "83.07 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 47,
+      "secenek": "B"
+    },
+    {
+      "soru": "47. soru - C seçeneği: \"84.24\" ne demek?",
+      "cevap": "84.24 — Bu doğru cevaptır. Çelikten mamul boğ yangın söndürme cihazı 84.24 tarife pozisyonundadır.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 47,
+      "secenek": "C"
+    },
+    {
+      "soru": "47. soru - D seçeneği: \"84.79\" ne demek?",
+      "cevap": "84.79 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 47,
+      "secenek": "D"
+    },
+    {
+      "soru": "48. soru - A seçeneği: \"Bilgisayar monitörü\" ne demek?",
+      "cevap": "Bilgisayar monitörü — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 48,
+      "secenek": "A"
+    },
+    {
+      "soru": "48. soru - B seçeneği: \"Video monitörü\" ne demek?",
+      "cevap": "Video monitörü — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 48,
+      "secenek": "B"
+    },
+    {
+      "soru": "48. soru - C seçeneği: \"TV alıcı cihazları\" ne demek?",
+      "cevap": "TV alıcı cihazları — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 48,
+      "secenek": "C"
+    },
+    {
+      "soru": "48. soru - D seçeneği: \"Katot ışınlı TV görüntü tüpü\" ne demek?",
+      "cevap": "Katot ışınlı TV görüntü tüpü — Bu doğru cevaptır. Katot ışınlı TV görüntü tüpü 85.28 tarife pozisyonunda sınıflandırılmaz.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 48,
+      "secenek": "D"
+    },
+    {
+      "soru": "49. soru - A seçeneği: \"87.08\" ne demek?",
+      "cevap": "87.08 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 49,
+      "secenek": "A"
+    },
+    {
+      "soru": "49. soru - B seçeneği: \"40.16\" ne demek?",
+      "cevap": "40.16 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 49,
+      "secenek": "B"
+    },
+    {
+      "soru": "49. soru - C seçeneği: \"85.12\" ne demek?",
+      "cevap": "85.12 — Bu doğru cevaptır. Otomobilde elektrik motorlu cam silecekleri 85.12 tarife pozisyonundadır.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 49,
+      "secenek": "C"
+    },
+    {
+      "soru": "49. soru - D seçeneği: \"39.26\" ne demek?",
+      "cevap": "39.26 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 49,
+      "secenek": "D"
+    },
+    {
+      "soru": "50. soru - A seçeneği: \"4905.91\" ne demek?",
+      "cevap": "4905.91 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 50,
+      "secenek": "A"
+    },
+    {
+      "soru": "50. soru - B seçeneği: \"4905.99\" ne demek?",
+      "cevap": "4905.99 — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 50,
+      "secenek": "B"
+    },
+    {
+      "soru": "50. soru - C seçeneği: \"9023.00\" ne demek?",
+      "cevap": "9023.00 — Bu doğru cevaptır. Basılı ve rölyef halindeki dünya haritası 4905.91 tarife alt pozisyonundadır.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 50,
+      "secenek": "C"
+    },
+    {
+      "soru": "50. soru - D seçeneği: \"4906.00 -- 13 of 14 -- 14 GÜMRÜK MÜıAVİRLİĞİ MESLE\" ne demek?",
+      "cevap": "4906.00 -- 13 of 14 -- 14 GÜMRÜK MÜıAVİRLİĞİ MESLEKİ YETERLİLİK SINAVI SORU CEVAP SORU CEVAP 1 D 26 D 2 A 27 C 3 B 28 D 4 C 29 C 5 B 30 C 6 D 31 D 7 B 32 A 8 A 33 C 9 C 34 B 10 C 35 B 11 C 36 D 12 A 37 A 13 A 38 C 14 A 39 C 15 D 40 C 16 C 41 C 17 A 42 D 18 C 43 B 19 B 44 C 20 D 45 C 21 C 46 D 22 A 47 C 23 B 48 D 24 A 49 C 25 C 50 C -- 14 of 14 -- — Bu yanlış cevaptır. Bu seçenek yanlıştır. Soruda sorulan kapsamında bu ifade doğru bir tanım veya değerlendirme değildir.",
+      "kategori": "Gumruk Musavirligi 2008 Secenek Aciklamasi",
+      "soruNumarasi": 50,
+      "secenek": "D"
     }
   ]
 }

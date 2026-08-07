@@ -15,7 +15,7 @@ sorulan sorulara cevap verir. Bilmedigi sorulari WhatsApp uzerinden uzmana ileti
 - **Konsol arayuzu:** Python veya Node.js ile terminalde calisir.
 - **Acik kaynak veri:** Tum bilgi bankasi `hasinder-ai-data/` klasorundeki
   acik JSON/Markdown dosyalarindan gelir - kolayca genisletilebilir.
-- **Genisletilmis bilgi bankasi:** 592 soru-cevap, 112 terim, 81 sehir bilgisi.
+- **Genisletilmis bilgi bankasi:** 1035 soru-cevap, 112 terim, 81 sehir bilgisi.
 - **WhatsApp yonlendirme:** Cevap bulunamayan sorular WhatsApp uzerinden
   uzmana iletilir (wa.me/905333715577).
 
@@ -34,8 +34,8 @@ sorulan sorulara cevap verir. Bilmedigi sorulari WhatsApp uzerinden uzmana ileti
     ├── hasinder-platform-dataset.json # Hasinder/Goodbuy/Akademi platform verisi
     ├── gumruk-dis-ticaret-dataset.json # Gumruk ve dis ticaret mevzuati
     ├── gayrimenkul-hukuk-dataset.json # Tapu, imar ve gayrimenkul hukuku
-    ├── gumruk-musavirligi-2006-sinav.json # 2006 Gümrük Müşavirliği Ön Eleme Sınavı (100 soru)
-    ├── gumruk-musavirligi-2008-sinav.json # 2008 Gümrük Müşavirliği Mesleki Yeterlilik Sınavı (50 soru)
+    ├── gumruk-musavirligi-2006-sinav.json # 2006 Gümrük Müşavirliği Ön Eleme Sınavı (100 soru + seçenek açıklamalı)
+    ├── gumruk-musavirligi-2008-sinav.json # 2008 Gümrük Müşavirliği Mesleki Yeterlilik Sınavı (50 soru + seçenek açıklamalı)
     ├── b2b-ticaret-dataset.json # B2B ticaret, tedarik zinciri, sozlesmeler
     ├── lojistik-tasimacilik-dataset.json # Lojistik ve tasimacilik
     ├── finans-vergi-dataset.json # Finans ve vergi mevzuati
@@ -61,7 +61,7 @@ sorulan sorulara cevap verir. Bilmedigi sorulari WhatsApp uzerinden uzmana ileti
 | Sirket/Is Hukuku | Kurulus sureci, kidem/ihbar tazminati, ISG |
 | Turkiye Ekonomisi | Ihracat/ithalat, enflasyon, faiz, GSYH |
 | Emlak Yatirim | Kira verimi, GYO/GYF, konut kredisi, tapu masraflari |
-| Sınavlar | 2006 Ön Eleme (100 soru), 2008 Mesleki Yeterlilik (50 soru) — cevap anahtarlı |
+| Sınavlar | 2006 Ön Eleme (100 soru), 2008 Mesleki Yeterlilik (50 soru) — her seçeneğin açıklaması ayrı konu olarak eklendi |
 | Tapu/Imar/Hukuk | Tapu islemleri, ipotek, imar, kentsel donusum, kira hukuku |
 | Sehirler | 81 il, populer bolgeler, arazi fiyatlari |
 

@@ -5,6 +5,7 @@
       "cevap": "Doğru cevap: D) ",
       "kategori": "Gumruk Musavirligi 2006 On Eleme",
       "secenekler": {},
+      "secenekAciklamalari": {},
       "dogruCevap": "D",
       "dogruCevapMetni": ""
     },
@@ -15,6 +16,10 @@
       "secenekler": {
         "C": "CIV",
         "D": "Kumanya listesi değildir?"
+      },
+      "secenekAciklamalari": {
+        "C": "CIV — Bu yanlış cevaptır.",
+        "D": "Kumanya listesi değildir? — Bu doğru cevaptır."
       },
       "dogruCevap": "D",
       "dogruCevapMetni": "Kumanya listesi değildir?"
@@ -29,6 +34,12 @@
         "B": "CIM",
         "D": "ATA Karnesi"
       },
+      "secenekAciklamalari": {
+        "A": "Serbest bölge işlem formu çantaları — Bu yanlış cevaptır.",
+        "B": "CIM — Bu yanlış cevaptır.",
+        "C": "TIR Karnesi ciliklerinin binaları için inşaat malzemesi — Bu yanlış cevaptır.",
+        "D": "ATA Karnesi — Bu doğru cevaptır."
+      },
       "dogruCevap": "D",
       "dogruCevapMetni": "ATA Karnesi"
     },
@@ -38,6 +49,9 @@
       "kategori": "Gumruk Musavirligi 2006 On Eleme",
       "secenekler": {
         "D": "Bilgisayar veri işleme tekniği yoluyla beyan lll- Beyan ile muayene sonucu bulunan vergi . iğ - farkı o 5'i geçerse durum bir tutanakla tespit"
+      },
+      "secenekAciklamalari": {
+        "D": "Bilgisayar veri işleme tekniği yoluyla beyan lll- Beyan ile muayene sonucu bulunan vergi . iğ - farkı o 5'i geçerse durum bir tutanakla tespit — Bu yanlış cevaptır."
       },
       "dogruCevap": "B",
       "dogruCevapMetni": ""
@@ -50,6 +64,11 @@
         "A": "Kesin ihracat",
         "D": "ll ve lll",
         "B": "Kesin ithalat"
+      },
+      "secenekAciklamalari": {
+        "A": "Kesin ihracat — Bu yanlış cevaptır.",
+        "B": "Kesin ithalat — Bu yanlış cevaptır.",
+        "D": "ll ve lll — Bu yanlış cevaptır."
       },
       "dogruCevap": "C",
       "dogruCevapMetni": ""
@@ -64,6 +83,12 @@
         "C": "Yükümlüden İhracatı",
         "D": "Temsilciden öz"
       },
+      "secenekAciklamalari": {
+        "A": "Beyan sahibinden kapsamında serbest dolaşım ile eş zamanlı — Bu yanlış cevaptır.",
+        "B": "İşletici veya kullanıcıdan yurt içi kullanıma giren eşyanın yeniden — Bu doğru cevaptır.",
+        "C": "Yükümlüden İhracatı — Bu yanlış cevaptır.",
+        "D": "Temsilciden öz — Bu yanlış cevaptır."
+      },
       "dogruCevap": "B",
       "dogruCevapMetni": "İşletici veya kullanıcıdan yurt içi kullanıma giren eşyanın yeniden"
     },
@@ -76,6 +101,12 @@
         "C": "E işareti",
         "D": "CE işareti İzninin verilmesi mümkün bulunmamaktadır\" s Ae",
         "A": "Türkiye'de üretilen ve ihraç edilecek ayakka-"
+      },
+      "secenekAciklamalari": {
+        "A": "Türkiye'de üretilen ve ihraç edilecek ayakka- — Bu doğru cevaptır.",
+        "B": "e işareti ilgili olarak gümrük idarelerince Dahilde İşleme ilmesi mümkün bul dır? — Bu yanlış cevaptır.",
+        "C": "E işareti — Bu yanlış cevaptır.",
+        "D": "CE işareti İzninin verilmesi mümkün bulunmamaktadır\" s Ae — Bu yanlış cevaptır."
       },
       "dogruCevap": "A",
       "dogruCevapMetni": "Türkiye'de üretilen ve ihraç edilecek ayakka-"
@@ -90,6 +121,12 @@
         "A": "CIM",
         "B": "Konşimento"
       },
+      "secenekAciklamalari": {
+        "A": "CIM — Bu doğru cevaptır.",
+        "B": "Konşimento — Bu yanlış cevaptır.",
+        "C": "Eşyanın gümrüğe sunulması yerine geçen belgedir? — Bu yanlış cevaptır.",
+        "D": "Gümrük beyanı — Bu yanlış cevaptır."
+      },
       "dogruCevap": "A",
       "dogruCevapMetni": "CIM"
     },
@@ -102,6 +139,11 @@
         "B": "Yabancı devlet başkanları ve aileleri efradı ile refakatlerinde memur olanların getirdikleri",
         "D": "Form A"
       },
+      "secenekAciklamalari": {
+        "A": "Hızlı kargo taşımacılığı yoluyla gelen eşya — Bu doğru cevaptır.",
+        "B": "Yabancı devlet başkanları ve aileleri efradı ile refakatlerinde memur olanların getirdikleri — Bu yanlış cevaptır.",
+        "D": "Form A — Bu yanlış cevaptır."
+      },
       "dogruCevap": "A",
       "dogruCevapMetni": "Hızlı kargo taşımacılığı yoluyla gelen eşya"
     },
@@ -110,6 +152,7 @@
       "cevap": "Doğru cevap: C) ",
       "kategori": "Gumruk Musavirligi 2006 On Eleme",
       "secenekler": {},
+      "secenekAciklamalari": {},
       "dogruCevap": "C",
       "dogruCevapMetni": ""
     },
@@ -118,6 +161,7 @@
       "cevap": "Doğru cevap: D) ",
       "kategori": "Gumruk Musavirligi 2006 On Eleme",
       "secenekler": {},
+      "secenekAciklamalari": {},
       "dogruCevap": "D",
       "dogruCevapMetni": ""
     },
@@ -134,6 +178,7 @@
       "cevap": "Doğru cevap: A) ",
       "kategori": "Gumruk Musavirligi 2006 On Eleme",
       "secenekler": {},
+      "secenekAciklamalari": {},
       "dogruCevap": "A",
       "dogruCevapMetni": ""
     },
@@ -146,6 +191,11 @@
         "A": "Taşıt giriş çıkış formu Ma giriş rejimi hükümleri uygulanır.",
         "B": "Triptik karnesi"
       },
+      "secenekAciklamalari": {
+        "A": "Taşıt giriş çıkış formu Ma giriş rejimi hükümleri uygulanır. — Bu doğru cevaptır.",
+        "B": "Triptik karnesi — Bu yanlış cevaptır.",
+        "D": "Serbest dolaşımda bulunmayan yakıt ve nen belge aşağıdakilerden hangisidir? kumanyanın, gemilerden indirilerek ithal edilmek istenilmesi hâlinde, serbest dolaşı- — Bu yanlış cevaptır."
+      },
       "dogruCevap": "A",
       "dogruCevapMetni": "Taşıt giriş çıkış formu Ma giriş rejimi hükümleri uygulanır."
     },
@@ -154,6 +204,7 @@
       "cevap": "Doğru cevap: C) ",
       "kategori": "Gumruk Musavirligi 2006 On Eleme",
       "secenekler": {},
+      "secenekAciklamalari": {},
       "dogruCevap": "C",
       "dogruCevapMetni": ""
     },
@@ -166,6 +217,12 @@
         "A": "Dahilde işleme veya geçici ithalat rejimlerin-",
         "C": "Gümrük başmüdürlüklerine intikal eden iti- den faydalanmak üzere posta yolu ile gelen razlar otuz gün içinde karara bağlanır. eşya için ilgili rejim hükümleri uygulanır.",
         "D": "Müsteşarlığa intikal eden itirazlar kırk beş"
+      },
+      "secenekAciklamalari": {
+        "A": "Dahilde işleme veya geçici ithalat rejimlerin- — Bu yanlış cevaptır.",
+        "B": "Ticari nitelikteki eşya, sahipleri tarafından gün içinde karara bağlanır. beyanname ile beyan olunur. — Bu yanlış cevaptır.",
+        "C": "Gümrük başmüdürlüklerine intikal eden iti- den faydalanmak üzere posta yolu ile gelen razlar otuz gün içinde karara bağlanır. eşya için ilgili rejim hükümleri uygulanır. — Bu yanlış cevaptır.",
+        "D": "Müsteşarlığa intikal eden itirazlar kırk beş — Bu doğru cevaptır."
       },
       "dogruCevap": "D",
       "dogruCevapMetni": "Müsteşarlığa intikal eden itirazlar kırk beş"
@@ -180,6 +237,12 @@
         "C": "Türk bandıralı gemilerden düzenli yurt dışı Mrs Tal . seferli olanlarının, yabancı limandan sonra",
         "D": "Eş değer eşya uygulaması yoktur."
       },
+      "secenekAciklamalari": {
+        "A": "İthal eşyası için teminat uygulaması yoktur. cat hükmünde deniz ve hava taşıtlarına — Bu yanlış cevaptır.",
+        "B": "Serbest dolaşımda bulunmayan yakıt ve — Bu yanlış cevaptır.",
+        "C": "Türk bandıralı gemilerden düzenli yurt dışı Mrs Tal . seferli olanlarının, yabancı limandan sonra — Bu doğru cevaptır.",
+        "D": "Eş değer eşya uygulaması yoktur. — Bu yanlış cevaptır."
+      },
       "dogruCevap": "C",
       "dogruCevapMetni": "Türk bandıralı gemilerden düzenli yurt dışı Mrs Tal . seferli olanlarının, yabancı limandan sonra"
     },
@@ -189,6 +252,9 @@
       "kategori": "Gumruk Musavirligi 2006 On Eleme",
       "secenekler": {
         "D": "Yabancı taşıtlar için geçici giriş karnesi talebine ilişkin itirazların karara bağlanarak ilgili kişiye tebliğ edilme süresi kaç gündür?"
+      },
+      "secenekAciklamalari": {
+        "D": "Yabancı taşıtlar için geçici giriş karnesi talebine ilişkin itirazların karara bağlanarak ilgili kişiye tebliğ edilme süresi kaç gündür? — Bu yanlış cevaptır."
       },
       "dogruCevap": "B",
       "dogruCevapMetni": ""
@@ -201,6 +267,11 @@
         "B": "Vergilerin kaldırılmasına karar verilmesi Hoş n iha tRğZ",
         "C": "Vergilerin geri verilmesine karar verilmesi a En Tae ra LR Yararli ve",
         "D": "Gümrük beyannamesinin iptal edilmesi cezalara karşı on beş gün içinde itiraz edebi- Ber ARR . lirler."
+      },
+      "secenekAciklamalari": {
+        "B": "Vergilerin kaldırılmasına karar verilmesi Hoş n iha tRğZ — Bu yanlış cevaptır.",
+        "C": "Vergilerin geri verilmesine karar verilmesi a En Tae ra LR Yararli ve — Bu yanlış cevaptır.",
+        "D": "Gümrük beyannamesinin iptal edilmesi cezalara karşı on beş gün içinde itiraz edebi- Ber ARR . lirler. — Bu yanlış cevaptır."
       },
       "dogruCevap": "A",
       "dogruCevapMetni": ""
@@ -215,6 +286,12 @@
         "B": "Suçüstü şeklindeki hırsızlıklar, hazırlık tahki- katı üzerine Cumhuriyet savcılığınca verilen belge ile kanıtlanır.",
         "C": "Telef veya kayıp herkesçe bilinen ve duyulan başka olaylar yüzünden olmuşsa o yere en yakın Gümrük ve Muhafaza Başmüdürü tara- fından verilecek belge ile kanıtlanır."
       },
+      "secenekAciklamalari": {
+        "A": "Söz konusu telef ve kayıp, idarenin de taraf olarak bulunduğu mahkeme kararı ile kanıt- lanır, — Bu yanlış cevaptır.",
+        "B": "Suçüstü şeklindeki hırsızlıklar, hazırlık tahki- katı üzerine Cumhuriyet savcılığınca verilen belge ile kanıtlanır. — Bu yanlış cevaptır.",
+        "C": "Telef veya kayıp herkesçe bilinen ve duyulan başka olaylar yüzünden olmuşsa o yere en yakın Gümrük ve Muhafaza Başmüdürü tara- fından verilecek belge ile kanıtlanır. — Bu doğru cevaptır.",
+        "D": "Trafik kazaları, trafik kaza raporuna göre ve en yakın gümrük idaresi tarafından yapılan tespit sonucunda gümrük idare amirinin vereceği belge ile kanıtlanır. dü; — Bu yanlış cevaptır."
+      },
       "dogruCevap": "C",
       "dogruCevapMetni": "Telef veya kayıp herkesçe bilinen ve duyulan başka olaylar yüzünden olmuşsa o yere en yakın Gümrük ve Muhafaza Başmüdürü tara- fından verilecek belge ile kanıtlanır."
     },
@@ -223,6 +300,7 @@
       "cevap": "Doğru cevap: B) ",
       "kategori": "Gumruk Musavirligi 2006 On Eleme",
       "secenekler": {},
+      "secenekAciklamalari": {},
       "dogruCevap": "B",
       "dogruCevapMetni": ""
     },
@@ -236,6 +314,12 @@
         "C": "İhracat rejiminde beyanname yerine ticari ve eşyayı kabul eden taşıyıcı idari belgeyle beyan uygulamasından yarar- lanma talebi değerlendirilirken, Gümrük",
         "D": "Transit rejimine göre taşındığını bilerek"
       },
+      "secenekAciklamalari": {
+        "A": "Transit rejimi hak sahibi olan kişiler edenlerin bu yöndeki talebi kabul edilir. — Bu yanlış cevaptır.",
+        "B": "Aynı gümrük idaresinden sürekli ve periyodik eşyayı gönderen satıcı olarak gemilere kumanya, yağ, yakıt ve diğer — Bu doğru cevaptır.",
+        "C": "İhracat rejiminde beyanname yerine ticari ve eşyayı kabul eden taşıyıcı idari belgeyle beyan uygulamasından yarar- lanma talebi değerlendirilirken, Gümrük — Bu yanlış cevaptır.",
+        "D": "Transit rejimine göre taşındığını bilerek — Bu yanlış cevaptır."
+      },
       "dogruCevap": "B",
       "dogruCevapMetni": "Aynı gümrük idaresinden sürekli ve periyodik eşyayı gönderen satıcı olarak gemilere kumanya, yağ, yakıt ve diğer"
     },
@@ -247,6 +331,11 @@
         "A": "Onaylanmış Kişi Statü Belgesinin geçerlilik",
         "D": "Bu usulle gerçekleşen ihracata ilişkin ticari süresi, belge düzenleme tarihi itibariyle üç veya idari belgede; ihracat konusu eşyanın yıldır. teşhisini mümkün kılacak bütün bilgilerin ve",
         "B": "A ve B Sınıfı Onaylanmış Kişi Statü Belge- “Basitleştirilmiş İhracat” ifadesinin yer sine sahip olanlar, Gümrük Yönetmeliğinin alması gerekir. 207'nci maddesi çerçevesinde “basitleştiril-"
+      },
+      "secenekAciklamalari": {
+        "A": "Onaylanmış Kişi Statü Belgesinin geçerlilik — Bu yanlış cevaptır.",
+        "B": "A ve B Sınıfı Onaylanmış Kişi Statü Belge- “Basitleştirilmiş İhracat” ifadesinin yer sine sahip olanlar, Gümrük Yönetmeliğinin alması gerekir. 207'nci maddesi çerçevesinde “basitleştiril- — Bu yanlış cevaptır.",
+        "D": "Bu usulle gerçekleşen ihracata ilişkin ticari süresi, belge düzenleme tarihi itibariyle üç veya idari belgede; ihracat konusu eşyanın yıldır. teşhisini mümkün kılacak bütün bilgilerin ve — Bu doğru cevaptır."
       },
       "dogruCevap": "D",
       "dogruCevapMetni": "Bu usulle gerçekleşen ihracata ilişkin ticari süresi, belge düzenleme tarihi itibariyle üç veya idari belgede; ihracat konusu eşyanın yıldır. teşhisini mümkün kılacak bütün bilgilerin ve"
@@ -261,6 +350,12 @@
         "C": "Sahip veya acenteleri adına tescil edilmiş rından aralarında vasıtalı veya vasıtasız bulunan ve düzenli sefer yapmakta olan şirket ilişkisi bulunan aynı gruba ait imalatçı altmış rüsum tonilatodan fazla deniz taşıtla- firmaların dış ticaret işlemlerini gerçekleş- rıyla yapılan taşımalarda teminat aranmaz. tiren yine bu gruba ait olan dış ticaret veya",
         "D": "Her türlü eşyanın demir yolu ile taşınmasında pazarlama şirketi olması teminat aranmaz."
       },
+      "secenekAciklamalari": {
+        "A": "Sektörel dış ticaret şirketi olması transitte aranmaz. — Bu doğru cevaptır.",
+        "B": "Boru hattı ile yapılan taşımalarda teminat — Bu yanlış cevaptır.",
+        "C": "Sahip veya acenteleri adına tescil edilmiş rından aralarında vasıtalı veya vasıtasız bulunan ve düzenli sefer yapmakta olan şirket ilişkisi bulunan aynı gruba ait imalatçı altmış rüsum tonilatodan fazla deniz taşıtla- firmaların dış ticaret işlemlerini gerçekleş- rıyla yapılan taşımalarda teminat aranmaz. tiren yine bu gruba ait olan dış ticaret veya — Bu yanlış cevaptır.",
+        "D": "Her türlü eşyanın demir yolu ile taşınmasında pazarlama şirketi olması teminat aranmaz. — Bu yanlış cevaptır."
+      },
       "dogruCevap": "A",
       "dogruCevapMetni": "Sektörel dış ticaret şirketi olması transitte aranmaz."
     },
@@ -269,6 +364,7 @@
       "cevap": "Doğru cevap: C) ",
       "kategori": "Gumruk Musavirligi 2006 On Eleme",
       "secenekler": {},
+      "secenekAciklamalari": {},
       "dogruCevap": "C",
       "dogruCevapMetni": ""
     },
@@ -282,6 +378,12 @@
         "D": "İmalatçı olanlar için başvuru tarihinden geriye dönük bir ay içinde en az 200işçi istihdam ediyor olması 4",
         "B": "Bir önceki takvim yılı veya başvuru yılı içinde lanmış Kişi Statü Belgesine sahip olanlar gerçekleştirilen ithalat ve ihracat toplamının yararlanabilmektedirler. asgari 100 milyon ABD Doları kıymetiride olması"
       },
+      "secenekAciklamalari": {
+        "A": "Bir önceki takvim yılı veya başvuru yılı içinde tedirler. asgari 25 milyon FOB/ABD Doları kıyrnetinde — Bu yanlış cevaptır.",
+        "B": "Bir önceki takvim yılı veya başvuru yılı içinde lanmış Kişi Statü Belgesine sahip olanlar gerçekleştirilen ithalat ve ihracat toplamının yararlanabilmektedirler. asgari 100 milyon ABD Doları kıymetiride olması — Bu yanlış cevaptır.",
+        "C": "Dış Ticaret Sermaye şirketi olması — Bu yanlış cevaptır.",
+        "D": "İmalatçı olanlar için başvuru tarihinden geriye dönük bir ay içinde en az 200işçi istihdam ediyor olması 4 — Bu doğru cevaptır."
+      },
       "dogruCevap": "D",
       "dogruCevapMetni": "İmalatçı olanlar için başvuru tarihinden geriye dönük bir ay içinde en az 200işçi istihdam ediyor olması 4"
     },
@@ -290,6 +392,7 @@
       "cevap": "Doğru cevap: A) ",
       "kategori": "Gumruk Musavirligi 2006 On Eleme",
       "secenekler": {},
+      "secenekAciklamalari": {},
       "dogruCevap": "A",
       "dogruCevapMetni": ""
     },
@@ -299,6 +402,9 @@
       "kategori": "Gumruk Musavirligi 2006 On Eleme",
       "secenekler": {
         "D": "Basitleştirilmiş usule göre yapılan işleme kişilere ait kullanılmış motorlu veya motorsuz ilişkin tamamlayıcı beyanın, üç ay içinde özel kara nakil vasıtalarının ithali koşulları ile verilmesi zorunludur. ilgili olarak aşağıdakilerden hangisi doğrudur?"
+      },
+      "secenekAciklamalari": {
+        "D": "Basitleştirilmiş usule göre yapılan işleme kişilere ait kullanılmış motorlu veya motorsuz ilişkin tamamlayıcı beyanın, üç ay içinde özel kara nakil vasıtalarının ithali koşulları ile verilmesi zorunludur. ilgili olarak aşağıdakilerden hangisi doğrudur? — Bu yanlış cevaptır."
       },
       "dogruCevap": "B",
       "dogruCevapMetni": ""
@@ -313,6 +419,12 @@
         "A": "Alkol ürünleri için bu kapsamda muafiyet Ayn ikmüe HEDE eyl ANNAN Ve uygulanmaz. A ren Li KELa iz",
         "D": "Muafiyet, mücbir sebepler saklı kalmak kay- dıyla, veraset ilamı tarihinden itibaren 6 ay içinde tek seferde veya aynı süre içinde birden fazla partide getirilen eşya için tanınır. B"
       },
+      "secenekAciklamalari": {
+        "A": "Alkol ürünleri için bu kapsamda muafiyet Ayn ikmüe HEDE eyl ANNAN Ve uygulanmaz. A ren Li KELa iz — Bu yanlış cevaptır.",
+        "B": "Motorlu ticari araçlar için bu kapsamda mua- — Bu yanlış cevaptır.",
+        "C": "Ham madde stokları ve mamul veya yarıma- özellik ve unsurları bulunan ve aynı ül kede mul ürünler için bu kapsamda muafiyet üretilmiş eşya uygulanmaz. — Bu yanlış cevaptır.",
+        "D": "Muafiyet, mücbir sebepler saklı kalmak kay- dıyla, veraset ilamı tarihinden itibaren 6 ay içinde tek seferde veya aynı süre içinde birden fazla partide getirilen eşya için tanınır. B — Bu doğru cevaptır."
+      },
       "dogruCevap": "D",
       "dogruCevapMetni": "Muafiyet, mücbir sebepler saklı kalmak kay- dıyla, veraset ilamı tarihinden itibaren 6 ay içinde tek seferde veya aynı süre içinde birden fazla partide getirilen eşya için tanınır. B"
     },
@@ -325,6 +437,12 @@
         "B": "Bir ay içinde gerçekleştirilen basitleştirilmiş malıdır. usule göre yapılan işlemlere ilişkin",
         "C": "Basitleştirilmiş usule göre yapılan işleme malıdır. ilişkin tamamlayıcı beyanın, bir ay içinde verilmesi zorunludur.",
         "D": "Getirildiği tarihte üç yaşından büyük olma-"
+      },
+      "secenekAciklamalari": {
+        "A": "AladIğI tarihte üç yaşından büyük olma- içinde verilmesi zorunludur. — Bu doğru cevaptır.",
+        "B": "Bir ay içinde gerçekleştirilen basitleştirilmiş malıdır. usule göre yapılan işlemlere ilişkin — Bu yanlış cevaptır.",
+        "C": "Basitleştirilmiş usule göre yapılan işleme malıdır. ilişkin tamamlayıcı beyanın, bir ay içinde verilmesi zorunludur. — Bu yanlış cevaptır.",
+        "D": "Getirildiği tarihte üç yaşından büyük olma- — Bu yanlış cevaptır."
       },
       "dogruCevap": "A",
       "dogruCevapMetni": "AladIğI tarihte üç yaşından büyük olma- içinde verilmesi zorunludur."
@@ -339,6 +457,12 @@
         "C": "Satış bedeli yöntemi - Son yöntem görevlilerinin Türkiye Gümrük Bölgesi dışın-",
         "D": "Aynı eşyanın satış bedeli yöntemi -Hesap- da en az 24 ay ikamet etmiş olmaları gerek- lanmış kıymet yöntemi mektedir."
       },
+      "secenekAciklamalari": {
+        "A": "i vö i ati KAMİEİNE iz ynı eşyanın satış bedeli yöntemi — Benzer la YEK OLA e le saka rak. eşyanın satış bedeli yöntemi mektedir. “5 OMKAK Üretilmiş olmanı gerek — Bu yanlış cevaptır.",
+        "B": "İndirgeme yöntemi — Hesaplanmış kıymet ARICI l öntemi — Bu doğru cevaptır.",
+        "C": "Satış bedeli yöntemi - Son yöntem görevlilerinin Türkiye Gümrük Bölgesi dışın- — Bu yanlış cevaptır.",
+        "D": "Aynı eşyanın satış bedeli yöntemi -Hesap- da en az 24 ay ikamet etmiş olmaları gerek- lanmış kıymet yöntemi mektedir. — Bu yanlış cevaptır."
+      },
       "dogruCevap": "B",
       "dogruCevapMetni": "İndirgeme yöntemi — Hesaplanmış kıymet ARICI l öntemi"
     },
@@ -349,6 +473,9 @@
       "secenekler": {
         "A": "Fiziksel özellik, aynı işlevi görmeleri, tanın- dığı özellikler dahil olmak üzere her hususta"
       },
+      "secenekAciklamalari": {
+        "A": "Fiziksel özellik, aynı işlevi görmeleri, tanın- dığı özellikler dahil olmak üzere her hususta — Bu yanlış cevaptır."
+      },
       "dogruCevap": "C",
       "dogruCevapMetni": ""
     },
@@ -357,6 +484,7 @@
       "cevap": "Doğru cevap: A) ",
       "kategori": "Gumruk Musavirligi 2006 On Eleme",
       "secenekler": {},
+      "secenekAciklamalari": {},
       "dogruCevap": "A",
       "dogruCevapMetni": ""
     },
@@ -369,6 +497,11 @@
         "C": "İthal eşyasının satışıyla ilgili olarak bir finans- olması gerekir. man anlaşması uyarınca alıcı tarafından",
         "D": "Finansmanın satıcı veya bir başka kişi tara- kurma, montaj, bakım veya taknık yardıma fından sağlanmış olmasına bakılmaz. Finans- Hadimi, man anlaşmasının yazılı olarak yapılmış ilişkin giderler l ki"
       },
+      "secenekAciklamalari": {
+        "B": "Finansmanın satıcı tarafından sağlanmış ödenen veya ödenecek fiyatından ayırt edi- olması zorunludur. Finansman anlaşmasının lebilmeleri koşuluyla gümrük kıymetine dahil yazılı olarak yapılmış olması gerekir. edilmeyecek unsurlardan değildir? — Bu yanlış cevaptır.",
+        "C": "İthal eşyasının satışıyla ilgili olarak bir finans- olması gerekir. man anlaşması uyarınca alıcı tarafından — Bu yanlış cevaptır.",
+        "D": "Finansmanın satıcı veya bir başka kişi tara- kurma, montaj, bakım veya taknık yardıma fından sağlanmış olmasına bakılmaz. Finans- Hadimi, man anlaşmasının yazılı olarak yapılmış ilişkin giderler l ki — Bu doğru cevaptır."
+      },
       "dogruCevap": "D",
       "dogruCevapMetni": "Finansmanın satıcı veya bir başka kişi tara- kurma, montaj, bakım veya taknık yardıma fından sağlanmış olmasına bakılmaz. Finans- Hadimi, man anlaşmasının yazılı olarak yapılmış ilişkin giderler l ki"
     },
@@ -380,6 +513,11 @@
         "B": "15",
         "C": "30 D)60",
         "A": "Aynı ailenin üyeleri olmaları a ihâ isi “"
+      },
+      "secenekAciklamalari": {
+        "A": "Aynı ailenin üyeleri olmaları a ihâ isi “ — Bu yanlış cevaptır.",
+        "B": "15 — Bu doğru cevaptır.",
+        "C": "30 D)60 — Bu yanlış cevaptır."
       },
       "dogruCevap": "B",
       "dogruCevapMetni": "15"
@@ -394,6 +532,12 @@
         "C": "Ödemenin kıymeti belirlenecek eşya ile ilgili kullanıma tabi tutulması nedeniyle, gümrük olması ve söz konusu eşyanın satış koşulu vergilerinin geri verilmesi veya kaldırılması olarak yapılması kaydıyla, royalti veya lisans ücreti ödemeleri fiilen ödenen veya öde- necek fiyata ilave edilir.",
         "D": "Royalti veya lisans ücreti ödemeleri, fiilen ödenen veya ödenecek fiyattan ayırt edile- bilmeleri kaydıyla gümrük kıymetine dahil edilmez. 4-"
       },
+      "secenekAciklamalari": {
+        "A": "Ödemenin kıymeti belirlenecek eşya ile ilgili vergilerinin geri verilmesi veya kaldırılması olması koşuluyla, royalti veya lisans ücreti — Bu yanlış cevaptır.",
+        "B": "Royalti veya lisans ücreti ödemeleri, her du- kaldırılması rumda fiilen ödenen veya ödenecek fiyata — Bu yanlış cevaptır.",
+        "C": "Ödemenin kıymeti belirlenecek eşya ile ilgili kullanıma tabi tutulması nedeniyle, gümrük olması ve söz konusu eşyanın satış koşulu vergilerinin geri verilmesi veya kaldırılması olarak yapılması kaydıyla, royalti veya lisans ücreti ödemeleri fiilen ödenen veya öde- necek fiyata ilave edilir. — Bu doğru cevaptır.",
+        "D": "Royalti veya lisans ücreti ödemeleri, fiilen ödenen veya ödenecek fiyattan ayırt edile- bilmeleri kaydıyla gümrük kıymetine dahil edilmez. 4- — Bu yanlış cevaptır."
+      },
       "dogruCevap": "C",
       "dogruCevapMetni": "Ödemenin kıymeti belirlenecek eşya ile ilgili kullanıma tabi tutulması nedeniyle, gümrük olması ve söz konusu eşyanın satış koşulu vergilerinin geri verilmesi veya kaldırılması olarak yapılması kaydıyla, royalti veya lisans ücreti ödemeleri fiilen ödenen veya öde- necek fiyata ilave edilir."
     },
@@ -407,6 +551,12 @@
         "C": "Türkiye'de üretilen eşyanın, Türkiye içindeki satış fiyatı",
         "D": "Asgari gümrük kıymetleri olması zorunludur. Finansman anlaşmasının yazılı olarak yapılmış olması zorunlu değildir."
       },
+      "secenekAciklamalari": {
+        "A": "Finansmanın bir banka tarafından sağlanmış — Bu yanlış cevaptır.",
+        "B": "Eşyanın, ihraç ülkesindeki iç piyasa fiyatı delerden hangisi doğrudur? — Bu yanlış cevaptır.",
+        "C": "Türkiye'de üretilen eşyanın, Türkiye içindeki satış fiyatı — Bu yanlış cevaptır.",
+        "D": "Asgari gümrük kıymetleri olması zorunludur. Finansman anlaşmasının yazılı olarak yapılmış olması zorunlu değildir. — Bu doğru cevaptır."
+      },
       "dogruCevap": "D",
       "dogruCevapMetni": "Asgari gümrük kıymetleri olması zorunludur. Finansman anlaşmasının yazılı olarak yapılmış olması zorunlu değildir."
     },
@@ -416,6 +566,9 @@
       "kategori": "Gumruk Musavirligi 2006 On Eleme",
       "secenekler": {
         "D": "İthal eşyasına katılan malzeme, aksam, parça muhtemel bir hak tecavüzünün önlenmesi ve benzerleri amacıyla fikri ve sınai mülkiyet haklarının korunmasına ilişkin yapılan başvurularda güm-"
+      },
+      "secenekAciklamalari": {
+        "D": "İthal eşyasına katılan malzeme, aksam, parça muhtemel bir hak tecavüzünün önlenmesi ve benzerleri amacıyla fikri ve sınai mülkiyet haklarının korunmasına ilişkin yapılan başvurularda güm- — Bu yanlış cevaptır."
       },
       "dogruCevap": "C",
       "dogruCevapMetni": ""
@@ -429,6 +582,11 @@
         "D": "Birbirlerinin yasal ortakları olmaları Bİ EE",
         "A": "Serbest dolaşıma giriş beyannamesinin iptal"
       },
+      "secenekAciklamalari": {
+        "A": "Serbest dolaşıma giriş beyannamesinin iptal — Bu yanlış cevaptır.",
+        "C": "Birinin diğerini dolaylı veya dolaysız olarak YAK DİP Beyanln bu #tatisünü kaybetmesine kontrol atmesi neden olan hâllerden biri değildir? — Bu yanlış cevaptır.",
+        "D": "Birbirlerinin yasal ortakları olmaları Bİ EE — Bu yanlış cevaptır."
+      },
       "dogruCevap": "B",
       "dogruCevapMetni": ""
     },
@@ -437,6 +595,7 @@
       "cevap": "Doğru cevap: A) ",
       "kategori": "Gumruk Musavirligi 2006 On Eleme",
       "secenekler": {},
+      "secenekAciklamalari": {},
       "dogruCevap": "A",
       "dogruCevapMetni": ""
     },
@@ -450,6 +609,12 @@
         "C": "Belli bir dönem içinde belli malların belirle- taşıtların çıkışlarında, Gümrük Geçiş Karnesi nen değer ya da miktar için ithalatta ve ihra- ibraz edilmesi zorunludur. catta normal gümrük vergisi oranında bir",
         "D": "İki ya da daha çok ülkenin yaptıkları ticaret yapıldığı durumda, kaydın kapatılması için anlaşması uyarınca aralarındaki ticarette kar- 2'nci nüsha beyanname çıkış işlemini yapan şılıklı olarak ya da bir ülkenin belli ülke ya da gümrük idaresine gönderilir. toprak parçaları menşeli eşyaya tek taraflı"
       },
+      "secenekAciklamalari": {
+        "A": "Bir takvim yılı içinde veya muayyen bir dö- Bölgesi Dışına Çıkan Taşıtlara İlişkin Geçici nem itibarıyla yapılmasına izin verilen itha- İhracat Beyannamesi ve Taahhütnamesi latın miktar ve/veya değerine denir. ihracat işlemini yapan gümrük idaresine — Bu yanlış cevaptır.",
+        "B": "Bir mal ya da mal grubunun gümrük vergisi ibraz edilir. oranlarında belli bir miktar veya değer için — Bu doğru cevaptır.",
+        "C": "Belli bir dönem içinde belli malların belirle- taşıtların çıkışlarında, Gümrük Geçiş Karnesi nen değer ya da miktar için ithalatta ve ihra- ibraz edilmesi zorunludur. catta normal gümrük vergisi oranında bir — Bu yanlış cevaptır.",
+        "D": "İki ya da daha çok ülkenin yaptıkları ticaret yapıldığı durumda, kaydın kapatılması için anlaşması uyarınca aralarındaki ticarette kar- 2'nci nüsha beyanname çıkış işlemini yapan şılıklı olarak ya da bir ülkenin belli ülke ya da gümrük idaresine gönderilir. toprak parçaları menşeli eşyaya tek taraflı — Bu yanlış cevaptır."
+      },
       "dogruCevap": "B",
       "dogruCevapMetni": "Bir mal ya da mal grubunun gümrük vergisi ibraz edilir. oranlarında belli bir miktar veya değer için"
     },
@@ -461,6 +626,11 @@
         "A": "İkametgâhı Türkiye'de bulunan Türk ve — sahibinin gümrük vergilerinin hesaplanmasını yabancı gerçek ve tüzel kişilerin yabancı bir talep etmesi halinde vergilerin hesabında ülkeye geçici olarak çıkaracakları ve en geç yararlanılmak üzere aşağıdakilerden hangisi Üç yıl içerisinde geri getirecekleri kendilerine külün? ait taşıtları için 'Triptik' veya 'Gümrük Geçiş Karnesi' beyanname olarak kabul olunur. aa e",
         "B": "İkametgâhı Türkiye'de bulunan Türk ve A)INF 8 Bilgi Formu — B)INF 7 Bilgi Formu yabancı gerçek Ve'tüzel kişilerin Triptik veya",
         "C": "INF 6 Bilgi Formu — D)INF 9 Bilgi Formu Gümrük Geçiş Karnesi ibraz etmemeleri hâlinde, en geç üç yıl içerisinde aynen geri"
+      },
+      "secenekAciklamalari": {
+        "A": "İkametgâhı Türkiye'de bulunan Türk ve — sahibinin gümrük vergilerinin hesaplanmasını yabancı gerçek ve tüzel kişilerin yabancı bir talep etmesi halinde vergilerin hesabında ülkeye geçici olarak çıkaracakları ve en geç yararlanılmak üzere aşağıdakilerden hangisi Üç yıl içerisinde geri getirecekleri kendilerine külün? ait taşıtları için 'Triptik' veya 'Gümrük Geçiş Karnesi' beyanname olarak kabul olunur. aa e — Bu yanlış cevaptır.",
+        "B": "İkametgâhı Türkiye'de bulunan Türk ve A)INF 8 Bilgi Formu — B)INF 7 Bilgi Formu yabancı gerçek Ve'tüzel kişilerin Triptik veya — Bu yanlış cevaptır.",
+        "C": "INF 6 Bilgi Formu — D)INF 9 Bilgi Formu Gümrük Geçiş Karnesi ibraz etmemeleri hâlinde, en geç üç yıl içerisinde aynen geri — Bu doğru cevaptır."
       },
       "dogruCevap": "C",
       "dogruCevapMetni": "INF 6 Bilgi Formu — D)INF 9 Bilgi Formu Gümrük Geçiş Karnesi ibraz etmemeleri hâlinde, en geç üç yıl içerisinde aynen geri"
@@ -475,6 +645,12 @@
         "C": "Sadece eşya net ağırlıkları esas alınır.",
         "D": "Ambalaj ağırlığı eşit miktarda bölünerek eşya net ağırlıklarına ilave edilir. 7."
       },
+      "secenekAciklamalari": {
+        "A": "Bütün ağırlık unsurları toplanarak ortalama ağırlık bulunur. — Bu yanlış cevaptır.",
+        "B": "Eşya net ağırlıklarına ambalaj ağırlığı orantılı olarak ilave edilir. — Bu doğru cevaptır.",
+        "C": "Sadece eşya net ağırlıkları esas alınır. — Bu yanlış cevaptır.",
+        "D": "Ambalaj ağırlığı eşit miktarda bölünerek eşya net ağırlıklarına ilave edilir. 7. — Bu yanlış cevaptır."
+      },
       "dogruCevap": "B",
       "dogruCevapMetni": "Eşya net ağırlıklarına ambalaj ağırlığı orantılı olarak ilave edilir."
     },
@@ -483,6 +659,7 @@
       "cevap": "Doğru cevap: A) ",
       "kategori": "Gumruk Musavirligi 2006 On Eleme",
       "secenekler": {},
+      "secenekAciklamalari": {},
       "dogruCevap": "A",
       "dogruCevapMetni": ""
     },
@@ -495,6 +672,11 @@
         "B": "Antrepo rellimie tabi tutulmuş esyarım 5İr kalabileceği süre ne kadardır? gümrük antreposundan diğerine nakli, güm- rük idarelerinin iznine bağlıdır. A)tay — B)4ögün C)3ay — D)Süresiz",
         "C": "Antrepolarda yapılan sayım sonucunda fazla çıkan eşyanın gümrük vergileri, duruma göre z SE z işletici veya kullanıcıdan tahsil edilir."
       },
+      "secenekAciklamalari": {
+        "A": "Antrepo rejimine tabi tutulan eşya, gümrük veya kullanıma tabi tutuluncaya kadar, eşyanın idarelerinden izin alınmak şartıyla geçici geçici depolama yeri mahiyetinde konulduğu olğrak gümrük antreposundan çıkanlabllır. yolcu salonlarındaki gümrük ambarlarında — Bu yanlış cevaptır.",
+        "B": "Antrepo rellimie tabi tutulmuş esyarım 5İr kalabileceği süre ne kadardır? gümrük antreposundan diğerine nakli, güm- rük idarelerinin iznine bağlıdır. A)tay — B)4ögün C)3ay — D)Süresiz — Bu yanlış cevaptır.",
+        "C": "Antrepolarda yapılan sayım sonucunda fazla çıkan eşyanın gümrük vergileri, duruma göre z SE z işletici veya kullanıcıdan tahsil edilir. — Bu doğru cevaptır."
+      },
       "dogruCevap": "C",
       "dogruCevapMetni": "Antrepolarda yapılan sayım sonucunda fazla çıkan eşyanın gümrük vergileri, duruma göre z SE z işletici veya kullanıcıdan tahsil edilir."
     },
@@ -505,6 +687,10 @@
       "secenekler": {
         "D": "Eşyanın antrepo rejimi altında kalış süresi bir ithalatla ilgili olarak fazla alınan 175.000.- ELA üklü 4 ka YTL'nin iadesi söz konusu olmuştur. Bu durum- Görülen Hallarda Be vaya Sümük aaa naE da geri verme işlemini yapmaya aşağıdaki > YUA İNU BE Ray Kull ilan iğ birimlerden hangisi yetkilidir? anmış: yeni bir Işlam Veya kullanım tayin edilmesi için bir süre belirlenebilir.",
         "A": "İlgili Gümrük Müdürlüğü"
+      },
+      "secenekAciklamalari": {
+        "A": "İlgili Gümrük Müdürlüğü — Bu yanlış cevaptır.",
+        "D": "Eşyanın antrepo rejimi altında kalış süresi bir ithalatla ilgili olarak fazla alınan 175.000.- ELA üklü 4 ka YTL'nin iadesi söz konusu olmuştur. Bu durum- Görülen Hallarda Be vaya Sümük aaa naE da geri verme işlemini yapmaya aşağıdaki > YUA İNU BE Ray Kull ilan iğ birimlerden hangisi yetkilidir? anmış: yeni bir Işlam Veya kullanım tayin edilmesi için bir süre belirlenebilir. — Bu doğru cevaptır."
       },
       "dogruCevap": "D",
       "dogruCevapMetni": "Eşyanın antrepo rejimi altında kalış süresi bir ithalatla ilgili olarak fazla alınan 175.000.- ELA üklü 4 ka YTL'nin iadesi söz konusu olmuştur. Bu durum- Görülen Hallarda Be vaya Sümük aaa naE da geri verme işlemini yapmaya aşağıdaki > YUA İNU BE Ray Kull ilan iğ birimlerden hangisi yetkilidir? anmış: yeni bir Işlam Veya kullanım tayin edilmesi için bir süre belirlenebilir."
@@ -519,6 +705,12 @@
         "D": "Yükümlü",
         "C": "Gümrük kontrolü altında işleme rejimi çerçe- - Ni - vesinde ithal edilen veya bunun kullanılması"
       },
+      "secenekAciklamalari": {
+        "A": "İzin hak sahibi — Bu yanlış cevaptır.",
+        "B": "Rejim hak sahibi kullanmak veya satmak veya bilerek satın a m ni almak ©) Bayan sahibi — Bu doğru cevaptır.",
+        "C": "Gümrük kontrolü altında işleme rejimi çerçe- - Ni - vesinde ithal edilen veya bunun kullanılması — Bu yanlış cevaptır.",
+        "D": "Yükümlü — Bu yanlış cevaptır."
+      },
       "dogruCevap": "B",
       "dogruCevapMetni": "Rejim hak sahibi kullanmak veya satmak veya bilerek satın a m ni almak ©) Bayan sahibi"
     },
@@ -531,6 +723,12 @@
         "A": "Kamu ahlakı, kamu düzeni, kamu güvenliği, fazla farklılık çıkması insan, hayvan ve bitki sağlık ve hayatlarının korunması",
         "B": "Ulusal firmaların uluslararası ticarette haksız rekabetten korunması",
         "C": "Fikri ve sınai mülkiyet haklarının korunması"
+      },
+      "secenekAciklamalari": {
+        "A": "Kamu ahlakı, kamu düzeni, kamu güvenliği, fazla farklılık çıkması insan, hayvan ve bitki sağlık ve hayatlarının korunması — Bu yanlış cevaptır.",
+        "B": "Ulusal firmaların uluslararası ticarette haksız rekabetten korunması — Bu doğru cevaptır.",
+        "C": "Fikri ve sınai mülkiyet haklarının korunması — Bu yanlış cevaptır.",
+        "D": "Sanatsal, tarihi veya arkeolojik değeri olan ulusal hazinelerin korunması 8- — Bu yanlış cevaptır."
       },
       "dogruCevap": "B",
       "dogruCevapMetni": "Ulusal firmaların uluslararası ticarette haksız rekabetten korunması"
@@ -545,6 +743,12 @@
         "C": "Değeri 300 EURO' yu geçmemek üzere yolcu- c) Parça hâlindeki ürünlerden birleştirmek lar tarafından ithal edilen hediyelik eşya suretiyle tam ürün oluşturacak şekilde basit",
         "D": "Tozun giderilmesi, kalburlama, ayıklama, türlü kullanılmamış ev eşyası sınıflandırma, eşleştirme, yıkama, kesme gibi"
       },
+      "secenekAciklamalari": {
+        "A": "Değeri 100 EURO' yu geçmeyen eşya ve eylemin o ülkede yapılması N — Bu yanlış cevaptır.",
+        "B": "ARE TER a ve montajında;deği- — Bu yanlış cevaptır.",
+        "C": "Değeri 300 EURO' yu geçmemek üzere yolcu- c) Parça hâlindeki ürünlerden birleştirmek lar tarafından ithal edilen hediyelik eşya suretiyle tam ürün oluşturacak şekilde basit — Bu yanlış cevaptır.",
+        "D": "Tozun giderilmesi, kalburlama, ayıklama, türlü kullanılmamış ev eşyası sınıflandırma, eşleştirme, yıkama, kesme gibi — Bu doğru cevaptır."
+      },
       "dogruCevap": "D",
       "dogruCevapMetni": "Tozun giderilmesi, kalburlama, ayıklama, türlü kullanılmamış ev eşyası sınıflandırma, eşleştirme, yıkama, kesme gibi"
     },
@@ -553,6 +757,7 @@
       "cevap": "Doğru cevap: C) ",
       "kategori": "Gumruk Musavirligi 2006 On Eleme",
       "secenekler": {},
+      "secenekAciklamalari": {},
       "dogruCevap": "C",
       "dogruCevapMetni": ""
     },
@@ -565,6 +770,11 @@
         "D": "İlgili Gümrük ve Muhafaza Başmüdürlüğü )İlg BR EEE",
         "A": "Gerçeğe aykırı belge ile gümrük idaresini"
       },
+      "secenekAciklamalari": {
+        "A": "Gerçeğe aykırı belge ile gümrük idaresini — Bu yanlış cevaptır.",
+        "C": "Gümrükler Genel Müdürlüğü fiili aşağıdakilerden hangisidir? — Bu doğru cevaptır.",
+        "D": "İlgili Gümrük ve Muhafaza Başmüdürlüğü )İlg BR EEE — Bu yanlış cevaptır."
+      },
       "dogruCevap": "C",
       "dogruCevapMetni": "Gümrükler Genel Müdürlüğü fiili aşağıdakilerden hangisidir?"
     },
@@ -573,6 +783,7 @@
       "cevap": "Doğru cevap: C) ",
       "kategori": "Gumruk Musavirligi 2006 On Eleme",
       "secenekler": {},
+      "secenekAciklamalari": {},
       "dogruCevap": "C",
       "dogruCevapMetni": ""
     },
@@ -585,6 +796,11 @@
         "D": "Bu fiil ile Gümrük Kanunu, Kaçakçılıkla",
         "A": "Eşyaya el konulur, eşya sahibine eşyanın Mücadele Kanunu ve Türk Ceza Kanunu gümrüklenmiş değeri kadar para cezası hükümleri ihlal edilmiştir. uygulanır."
       },
+      "secenekAciklamalari": {
+        "A": "Eşyaya el konulur, eşya sahibine eşyanın Mücadele Kanunu ve Türk Ceza Kanunu gümrüklenmiş değeri kadar para cezası hükümleri ihlal edilmiştir. uygulanır. — Bu yanlış cevaptır.",
+        "C": "Kaçakçılıkla Mücadele Kanunu'nda, söz sında çıkan ya da başkasına ait olduğu hâlde, konusu fiillere ilişkin, failler hakkında ağır kendi zati eşyasıymış gibi gösterdikleri eşyaya para cezası ve hapis cezası, eşya ile ilgili ilişkin yapılacak işlemle ilgili olarak aşağıdaki olarak ise zoralımına karar verilmesi ifadelerden hangisi doğrudur? öngörülmüştür. — Bu yanlış cevaptır.",
+        "D": "Bu fiil ile Gümrük Kanunu, Kaçakçılıkla — Bu yanlış cevaptır."
+      },
       "dogruCevap": "B",
       "dogruCevapMetni": ""
     },
@@ -596,6 +812,11 @@
         "A": "Gümrük Başmüdürü veya yetkilendireceği — tarafından yurt içinde satılmış, ihraç taahhütleri başmüdür yardımcısı başkanlığında beş kişi- ise, sahte olarak düzenlenen ihracat beyanna- öy Gümeli KonÜR TERRA meleri ile kapatılmıştır. Bu olay ile ilgili olarak tebliğ tanhildeğ itibaren yedi gün İçinde aşağıda yer alan ifadelerden hangisi doğrudur? Da a aaa ea ale RABİ. | a) Geçte olarak getirilen eşyanın yurtiçinde dımcısının başkanlığında mahallin ticaret ve biratilması kaçakçılık Tl olarak:düzenlen- sanayi odası ile mülki amirin görevlendire- mediğinden, Gümrük Kanunu hükümlerine ceği birer temsilci olmak üzere üç kişiden göre söz konusu eşyaya ilişkin gümrük oluşur. vergileri tahsil edilir, ayrıca bu vergilerin iki",
         "D": "Bir gümrük müdürü veya yetkilendireceği katı para cezası alınır. yardımcısının başkanlığında, bir gümrük",
         "B": "İhracat beyannameleri sahte olarak düzen- görevlisi ile mahallin ticaret ve sanayi lendiğinden, ortada bir eşya olmaması nede- odalarınca görevlendirilen iki temsilciden niyle, sadece Türk Ceza Kanunu'nda yer alan oluşur. “Belgede sahtecilik” fiili işlenmiştir. Ayrıca, Dahilde İşleme Rejimi yönünden gerekli idari"
+      },
+      "secenekAciklamalari": {
+        "A": "Gümrük Başmüdürü veya yetkilendireceği — tarafından yurt içinde satılmış, ihraç taahhütleri başmüdür yardımcısı başkanlığında beş kişi- ise, sahte olarak düzenlenen ihracat beyanna- öy Gümeli KonÜR TERRA meleri ile kapatılmıştır. Bu olay ile ilgili olarak tebliğ tanhildeğ itibaren yedi gün İçinde aşağıda yer alan ifadelerden hangisi doğrudur? Da a aaa ea ale RABİ. | a) Geçte olarak getirilen eşyanın yurtiçinde dımcısının başkanlığında mahallin ticaret ve biratilması kaçakçılık Tl olarak:düzenlen- sanayi odası ile mülki amirin görevlendire- mediğinden, Gümrük Kanunu hükümlerine ceği birer temsilci olmak üzere üç kişiden göre söz konusu eşyaya ilişkin gümrük oluşur. vergileri tahsil edilir, ayrıca bu vergilerin iki — Bu yanlış cevaptır.",
+        "B": "İhracat beyannameleri sahte olarak düzen- görevlisi ile mahallin ticaret ve sanayi lendiğinden, ortada bir eşya olmaması nede- odalarınca görevlendirilen iki temsilciden niyle, sadece Türk Ceza Kanunu'nda yer alan oluşur. “Belgede sahtecilik” fiili işlenmiştir. Ayrıca, Dahilde İşleme Rejimi yönünden gerekli idari — Bu yanlış cevaptır.",
+        "D": "Bir gümrük müdürü veya yetkilendireceği katı para cezası alınır. yardımcısının başkanlığında, bir gümrük — Bu doğru cevaptır."
       },
       "dogruCevap": "D",
       "dogruCevapMetni": "Bir gümrük müdürü veya yetkilendireceği katı para cezası alınır. yardımcısının başkanlığında, bir gümrük"
@@ -610,6 +831,12 @@
         "A": "Bu kişiler hakkında ilgili maddelerde belir- gümrüklenmiş değerinin iki katı kadar da tilen ağır KETE cezaları yarısı miktarında para cezası uygulanır. artırılarak hükmolunur. iğ",
         "B": "Söz konusu fiillere ilişkin cezalar bir kat artı- rılmak suretiyle uygulanır."
       },
+      "secenekAciklamalari": {
+        "A": "Bu kişiler hakkında ilgili maddelerde belir- gümrüklenmiş değerinin iki katı kadar da tilen ağır KETE cezaları yarısı miktarında para cezası uygulanır. artırılarak hükmolunur. iğ — Bu yanlış cevaptır.",
+        "B": "Söz konusu fiillere ilişkin cezalar bir kat artı- rılmak suretiyle uygulanır. — Bu doğru cevaptır.",
+        "C": "Bu kişiler hakkında ilgili maddelerde belir- tilen üst sınırı geçmemek üzere hürriyeti bağlayıcı cezaya yarısı miktarında artırılarak hükmolunur. — Bu yanlış cevaptır.",
+        "D": "Failim memur olması durumunda, ilgili mad- delerde yazılı olan cezalar yarısı oranında artırılarak hükmolunur. -9- — Bu yanlış cevaptır."
+      },
       "dogruCevap": "B",
       "dogruCevapMetni": "Söz konusu fiillere ilişkin cezalar bir kat artı- rılmak suretiyle uygulanır."
     },
@@ -618,12 +845,13 @@
       "cevap": "Doğru cevap: D) ",
       "kategori": "Gumruk Musavirligi 2006 On Eleme",
       "secenekler": {},
+      "secenekAciklamalari": {},
       "dogruCevap": "D",
       "dogruCevapMetni": ""
     },
     {
       "soru": "4926 sayılı Kaçakçılıkla Mücadele Kanunu'na YARIYACAK olani Belgeler bülünürsa, sahibinin göre suç sayılan fiillerin toplu olarak işlenmesi vaya mümeyyiz ak âbalarının; bunlarda. hâlinde ilgili maddelerdeki cezalar nasıl uygu- bulunmadığı takdirde mahalde bulunan iki lanır? kişinin huzurunda mühürlenir ve aramayı yapan kimselerce alınarak tutanakla birlikte",
-      "cevap": "Doğru cevap mevcut değil.",
+      "cevap": "Doğru cevap: ) ",
       "kategori": "Gumruk Musavirligi 2006 On Eleme",
       "secenekler": {
         "A": "Yarısı kadar arttırılarak uygulanır. soruşturmayı yapanlara verilir.",
@@ -631,18 +859,30 @@
         "D": "İki kat arttırılarak uygulanır. daki eşyaya el konulması bu Kanun'da öngö- rülen suçların işlenmesinin önlenmesi ama-",
         "C": "Bir kat arttırılarak uygulanır. ile eklentilerinde arama yapılması ve buralar-"
       },
+      "secenekAciklamalari": {
+        "A": "Yarısı kadar arttırılarak uygulanır. soruşturmayı yapanlara verilir. — Bu yanlış cevaptır.",
+        "B": "Yarısı kadar azaltılarak uygulanır. — Bu yanlış cevaptır.",
+        "C": "Bir kat arttırılarak uygulanır. ile eklentilerinde arama yapılması ve buralar- — Bu yanlış cevaptır.",
+        "D": "İki kat arttırılarak uygulanır. daki eşyaya el konulması bu Kanun'da öngö- rülen suçların işlenmesinin önlenmesi ama- — Bu yanlış cevaptır."
+      },
       "dogruCevap": "",
       "dogruCevapMetni": ""
     },
     {
       "soru": "4926 sayılı Kaçakçılıkla Mücadele Kanunu hü- cıyla usulüne göre verilmiş hâkim kararı; bu kümlerine göre aşağıdakilerden hangisi kaçak- sebebe bağlı olarak gecikmesinde sakınca çılığı önleme, izleme ve soruşturmakla görevli bulunan hâllerde ise o yerin en büyük mülki olanlar arasında yer almamaktadır? amirinin veya Cumhuriyet savcısının yazılı AŞEECTT YEN emri ile yapılır.",
-      "cevap": "Doğru cevap mevcut değil.",
+      "cevap": "Doğru cevap: ) ",
       "kategori": "Gumruk Musavirligi 2006 On Eleme",
       "secenekler": {
         "A": "Cumhuriyet başsavcısı",
         "B": "Mülki amirler",
         "C": "Jandarma",
         "D": "Sahil Güvenlik Komutanlığına bağlı personel -40- GÜMRÜK MÜUŞAVİRLİĞİ ÖN ELEME SINAVI A"
+      },
+      "secenekAciklamalari": {
+        "A": "Cumhuriyet başsavcısı — Bu yanlış cevaptır.",
+        "B": "Mülki amirler — Bu yanlış cevaptır.",
+        "C": "Jandarma — Bu yanlış cevaptır.",
+        "D": "Sahil Güvenlik Komutanlığına bağlı personel -40- GÜMRÜK MÜUŞAVİRLİĞİ ÖN ELEME SINAVI A — Bu yanlış cevaptır."
       },
       "dogruCevap": "",
       "dogruCevapMetni": ""
@@ -657,6 +897,12 @@
         "C": "Bir menfaat karşılığı olsun veya olmasın",
         "D": "Kaçakçılık suçlarının memurlar tarafından sağlam teminat altında geldiği yere veya işlenmesi diğer bir yabancı yere iade ve sevk olunur."
       },
+      "secenekAciklamalari": {
+        "A": "Gemi kaptanı tarafından limana girişlerinden kaçakçılık suçu işleyenlerin hâl ve sıfatlarını hemen sonra Gümrük İdaresine yazılı olarak bilerek yardım edilmesi bilgi verilmesi nedeniyle, söz konusu eşya — Bu yanlış cevaptır.",
+        "B": "Kanunun suç saydığı fiillerin iki veya daha M Dcaale Kanın hükümlere göre, Yağa da fazla kişi tarafından teşekkül oluşturmaksızın Pr caBtr ni a toplu olarak işlenmesi 2 yer alan hangi işlemin ikmal edilmesi gerekir? — Bu yanlış cevaptır.",
+        "C": "Bir menfaat karşılığı olsun veya olmasın — Bu doğru cevaptır.",
+        "D": "Kaçakçılık suçlarının memurlar tarafından sağlam teminat altında geldiği yere veya işlenmesi diğer bir yabancı yere iade ve sevk olunur. — Bu yanlış cevaptır."
+      },
       "dogruCevap": "C",
       "dogruCevapMetni": "Bir menfaat karşılığı olsun veya olmasın"
     },
@@ -670,6 +916,12 @@
         "B": "Kacak öeyalarama TşlerindöRünun'A Aykın",
         "D": "Taşıyanlar hakkında Kaçakçılıkla Mücadele gak Ceya'arama İyi KENE KAÇAN. Kanunu hükümlerine göre takibat başlatıl- hareket edenler hakkında Ceza Muhakemesi makla birlikte, eşyanın zoralımına karar veril- Katunu Kökümleri uygulanır. İ meyip, geldiği yere sevk olunur."
       },
+      "secenekAciklamalari": {
+        "A": "Gümrük salonları ve gümrük kapılarında — Bu yanlış cevaptır.",
+        "B": "Kacak öeyalarama TşlerindöRünun'A Aykın — Bu doğru cevaptır.",
+        "C": "Arama sırasında kaçakçılık suçunun işlen- diğini gösteren veya suçun kanıtlanmasına — Bu yanlış cevaptır.",
+        "D": "Taşıyanlar hakkında Kaçakçılıkla Mücadele gak Ceya'arama İyi KENE KAÇAN. Kanunu hükümlerine göre takibat başlatıl- hareket edenler hakkında Ceza Muhakemesi makla birlikte, eşyanın zoralımına karar veril- Katunu Kökümleri uygulanır. İ meyip, geldiği yere sevk olunur. — Bu yanlış cevaptır."
+      },
       "dogruCevap": "B",
       "dogruCevapMetni": "Kacak öeyalarama TşlerindöRünun'A Aykın"
     },
@@ -678,6 +930,7 @@
       "cevap": "Doğru cevap: A) ",
       "kategori": "Gumruk Musavirligi 2006 On Eleme",
       "secenekler": {},
+      "secenekAciklamalari": {},
       "dogruCevap": "A",
       "dogruCevapMetni": ""
     },
@@ -690,6 +943,12 @@
         "B": "1, ll, IV ve V şüphe edilen her türlü kap, ambalaj veya",
         "C": "1, Ni, İl ve V",
         "D": "1, Ni, İl, ve İV taşımaya yarayan diğer araçlarda arama"
+      },
+      "secenekAciklamalari": {
+        "A": "1, Ji, İl, İV ve V — Bu yanlış cevaptır.",
+        "B": "1, ll, IV ve V şüphe edilen her türlü kap, ambalaj veya — Bu yanlış cevaptır.",
+        "C": "1, Ni, İl ve V — Bu doğru cevaptır.",
+        "D": "1, Ni, İl, ve İV taşımaya yarayan diğer araçlarda arama — Bu yanlış cevaptır."
       },
       "dogruCevap": "C",
       "dogruCevapMetni": "1, Ni, İl ve V"
@@ -704,6 +963,12 @@
         "B": "Brandalı taşıtlar",
         "C": "Römork veya yarı römorklar"
       },
+      "secenekAciklamalari": {
+        "A": "Kamyonlar A)FOB. B)CER. C)CİF — Bu yanlış cevaptır.",
+        "B": "Brandalı taşıtlar — Bu yanlış cevaptır.",
+        "C": "Römork veya yarı römorklar — Bu yanlış cevaptır.",
+        "D": "Çekiciler 41. — Bu doğru cevaptır."
+      },
       "dogruCevap": "D",
       "dogruCevapMetni": "Çekiciler 41."
     },
@@ -717,6 +982,12 @@
         "C": "Tütün içeren purolar sanıkların yurt dışına çıkmalarının geçici",
         "D": "İçilen tütün, herhangi bir oranda tütün yerine olarak yasaklanmasına hazırlık soruşturması geçen maddeler içersin içermesin sırasında hâkim, yargılama safhasında ise"
       },
+      "secenekAciklamalari": {
+        "A": "4926 sayılı Kaçakçılıkla Mücadele Kanunu — Bu yanlış cevaptır.",
+        "B": "Ham tütün kapsamına giren suçlarda, şüpheli veya — Bu doğru cevaptır.",
+        "C": "Tütün içeren purolar sanıkların yurt dışına çıkmalarının geçici — Bu yanlış cevaptır.",
+        "D": "İçilen tütün, herhangi bir oranda tütün yerine olarak yasaklanmasına hazırlık soruşturması geçen maddeler içersin içermesin sırasında hâkim, yargılama safhasında ise — Bu yanlış cevaptır."
+      },
       "dogruCevap": "B",
       "dogruCevapMetni": "Ham tütün kapsamına giren suçlarda, şüpheli veya"
     },
@@ -728,6 +999,11 @@
         "B": "4926 sayili Kaçakçılıkla Mücadele Kani: iç güvenlik ihtiyaçları için uçak, helikopter, ge- nu'nun Suç saydığı filler nedeniyle Türk mi, denizaltı, tank, panzer, zırhlı personel taşı- Ceza Kanunu veya ceza öngören diğer ka- yıcı, roket, füze ve benzeri araçlar, silah, mü- nunlarda yazılı cürümleri işleyenler hakkın- himmat, silah malzeme, teçhizat ve sistemleri da, içtima kuralı uygulanır. ile bunların araştırma-geliştirme, yazılım, üre-",
         "C": "Gümrük komisyonlarınca verilen kararlara tim, montaj, yedek parça, bakım-onarım ve tebliğ tarihinden itibara ön kaş gün içinde modernizasyonuna ilişkin olarak yapılan teslim asliye ceza mahkemelerine itiraz olunabilir. Va'hizmetler ve bu teslim ve hizmetleri gerçek;",
         "D": "Zoralım hakkı düşen veya takibi zamanaşı- leştirenlere bu kapsamda yapılacak olan tes- mına uğrayan eşyanın bedel ve vergilerinin limler, KDV den müstesnadır? davalıdan tahsili gerekir. . er 1- Milli Savunma Bakanlığı"
+      },
+      "secenekAciklamalari": {
+        "B": "4926 sayili Kaçakçılıkla Mücadele Kani: iç güvenlik ihtiyaçları için uçak, helikopter, ge- nu'nun Suç saydığı filler nedeniyle Türk mi, denizaltı, tank, panzer, zırhlı personel taşı- Ceza Kanunu veya ceza öngören diğer ka- yıcı, roket, füze ve benzeri araçlar, silah, mü- nunlarda yazılı cürümleri işleyenler hakkın- himmat, silah malzeme, teçhizat ve sistemleri da, içtima kuralı uygulanır. ile bunların araştırma-geliştirme, yazılım, üre- — Bu yanlış cevaptır.",
+        "C": "Gümrük komisyonlarınca verilen kararlara tim, montaj, yedek parça, bakım-onarım ve tebliğ tarihinden itibara ön kaş gün içinde modernizasyonuna ilişkin olarak yapılan teslim asliye ceza mahkemelerine itiraz olunabilir. Va'hizmetler ve bu teslim ve hizmetleri gerçek; — Bu doğru cevaptır.",
+        "D": "Zoralım hakkı düşen veya takibi zamanaşı- leştirenlere bu kapsamda yapılacak olan tes- mına uğrayan eşyanın bedel ve vergilerinin limler, KDV den müstesnadır? davalıdan tahsili gerekir. . er 1- Milli Savunma Bakanlığı — Bu yanlış cevaptır."
       },
       "dogruCevap": "C",
       "dogruCevapMetni": "Gümrük komisyonlarınca verilen kararlara tim, montaj, yedek parça, bakım-onarım ve tebliğ tarihinden itibara ön kaş gün içinde modernizasyonuna ilişkin olarak yapılan teslim asliye ceza mahkemelerine itiraz olunabilir. Va'hizmetler ve bu teslim ve hizmetleri gerçek;"
@@ -741,6 +1017,11 @@
         "C": "li, İl ve IV",
         "D": "li, IV ve V huriyet savcısının yazılı emri ile arama yapı- * : labilir. l »"
       },
+      "secenekAciklamalari": {
+        "B": "li, li, IV ve V © yerin en büyük mülki amirinin veya Cum- — Bu yanlış cevaptır.",
+        "C": "li, İl ve IV — Bu yanlış cevaptır.",
+        "D": "li, IV ve V huriyet savcısının yazılı emri ile arama yapı- * : labilir. l » — Bu yanlış cevaptır."
+      },
       "dogruCevap": "A",
       "dogruCevapMetni": ""
     },
@@ -749,6 +1030,7 @@
       "cevap": "Doğru cevap: B) ",
       "kategori": "Gumruk Musavirligi 2006 On Eleme",
       "secenekler": {},
+      "secenekAciklamalari": {},
       "dogruCevap": "B",
       "dogruCevapMetni": ""
     },
@@ -757,6 +1039,7 @@
       "cevap": "Doğru cevap: D) ",
       "kategori": "Gumruk Musavirligi 2006 On Eleme",
       "secenekler": {},
+      "secenekAciklamalari": {},
       "dogruCevap": "D",
       "dogruCevapMetni": ""
     },
@@ -765,6 +1048,7 @@
       "cevap": "Doğru cevap: C) ",
       "kategori": "Gumruk Musavirligi 2006 On Eleme",
       "secenekler": {},
+      "secenekAciklamalari": {},
       "dogruCevap": "C",
       "dogruCevapMetni": ""
     },
@@ -777,6 +1061,12 @@
         "B": "1, ll ve lll C)1, Ül ve IV",
         "C": "Menşe sapması —",
         "D": "A, İl ve İV A2."
+      },
+      "secenekAciklamalari": {
+        "A": "1, İl, İl ve IV — Bu yanlış cevaptır.",
+        "B": "1, ll ve lll C)1, Ül ve IV — Bu doğru cevaptır.",
+        "C": "Menşe sapması — — Bu yanlış cevaptır.",
+        "D": "A, İl ve İV A2. — Bu yanlış cevaptır."
       },
       "dogruCevap": "B",
       "dogruCevapMetni": "1, ll ve lll C)1, Ül ve IV"
@@ -791,6 +1081,12 @@
         "C": "Yabancı taşıtlar ile yabancı ülkelere sefer göre, bu ithalat işlemi ile ilgili olarak aşağıdaki- yapan yerli taşıtlara verilen kumanya bedel- lerden hangi işlemin ikmal edilmesi gerekir? leri",
         "D": "Transit ticarette alış bedeli"
       },
+      "secenekAciklamalari": {
+        "A": "Ödenen bu bedel Gümrük Vergisi matrahının — Bu yanlış cevaptır.",
+        "B": "Türkiye'de ikamet etmeyenlere özel fatura ile İdaresine beyan edilmemiştir. Gümrük Kanunu yapılan satış bedeli ve Katma Değer Vergisi Kanunu hükümlerine — Bu yanlış cevaptır.",
+        "C": "Yabancı taşıtlar ile yabancı ülkelere sefer göre, bu ithalat işlemi ile ilgili olarak aşağıdaki- yapan yerli taşıtlara verilen kumanya bedel- lerden hangi işlemin ikmal edilmesi gerekir? leri — Bu doğru cevaptır.",
+        "D": "Transit ticarette alış bedeli — Bu yanlış cevaptır."
+      },
       "dogruCevap": "C",
       "dogruCevapMetni": "Yabancı taşıtlar ile yabancı ülkelere sefer göre, bu ithalat işlemi ile ilgili olarak aşağıdaki- yapan yerli taşıtlara verilen kumanya bedel- lerden hangi işlemin ikmal edilmesi gerekir? leri"
     },
@@ -803,6 +1099,12 @@
         "A": "En çok 5.000.- ABD Doları karşılığı Türk olmadığından, bu konuda Gümrük İdaresi parası ile en çok 15.000.- ABD Doları veya tarafından herhangi bir işlem yapılmasına eşitine kadar efektifi yurt dışına çıkarabilirler. gerek bulunmamaktadır.",
         "C": "En çok 5.000.- ABD Doları karşılığı Türk",
         "D": "Yolcuların beraberlerinde yurtdışına çıkara- Vergisi matrahına dahil olduğundan bu bilecekleri Türk parası ve efektif miktarı ile yönde gerekli işlemler ikmal edilir. ilgili olarak herhangi bir sınırlama bulun- mamaktadır."
+      },
+      "secenekAciklamalari": {
+        "A": "En çok 5.000.- ABD Doları karşılığı Türk olmadığından, bu konuda Gümrük İdaresi parası ile en çok 15.000.- ABD Doları veya tarafından herhangi bir işlem yapılmasına eşitine kadar efektifi yurt dışına çıkarabilirler. gerek bulunmamaktadır. — Bu yanlış cevaptır.",
+        "B": "En çok 50.000.- ABD Doları karşılığı Türk — Bu yanlış cevaptır.",
+        "C": "En çok 5.000.- ABD Doları karşılığı Türk — Bu doğru cevaptır.",
+        "D": "Yolcuların beraberlerinde yurtdışına çıkara- Vergisi matrahına dahil olduğundan bu bilecekleri Türk parası ve efektif miktarı ile yönde gerekli işlemler ikmal edilir. ilgili olarak herhangi bir sınırlama bulun- mamaktadır. — Bu yanlış cevaptır."
       },
       "dogruCevap": "C",
       "dogruCevapMetni": "En çok 5.000.- ABD Doları karşılığı Türk"
@@ -817,6 +1119,12 @@
         "C": "Transfer fiyatlandırması kullanıcı tarafından mallar isteğe bağlı olarak",
         "D": "Transit ticaret ihracat işlemine tabi tutulmayabilir. Il- Bir parti olarak toplam fatura bedeli 500"
       },
+      "secenekAciklamalari": {
+        "A": "Arbitraj müdürlüğü veya bölge müdürlüğü onayı ile — Bu yanlış cevaptır.",
+        "B": "Factoring işletici veya bölge kullanıcı işleticisi ya da — Bu yanlış cevaptır.",
+        "C": "Transfer fiyatlandırması kullanıcı tarafından mallar isteğe bağlı olarak — Bu yanlış cevaptır.",
+        "D": "Transit ticaret ihracat işlemine tabi tutulmayabilir. Il- Bir parti olarak toplam fatura bedeli 500 — Bu doğru cevaptır."
+      },
       "dogruCevap": "D",
       "dogruCevapMetni": "Transit ticaret ihracat işlemine tabi tutulmayabilir. Il- Bir parti olarak toplam fatura bedeli 500"
     },
@@ -825,6 +1133,7 @@
       "cevap": "Doğru cevap: C) ",
       "kategori": "Gumruk Musavirligi 2006 On Eleme",
       "secenekler": {},
+      "secenekAciklamalari": {},
       "dogruCevap": "C",
       "dogruCevapMetni": ""
     },
@@ -838,6 +1147,12 @@
         "C": "Tarife kontenjanı, belirli bir dönem itibariyle",
         "D": "Sanayi malları idaresine ibraz edilir."
       },
+      "secenekAciklamalari": {
+        "A": "Tarım ürünleri latta Dış Ticaret Müsteşarlığınca düzenlenen — Bu yanlış cevaptır.",
+        "B": "İşlenmiş tarım ürünleri ithal lisansı gümrük yükümlülüğünün doğ- — Bu doğru cevaptır.",
+        "C": "Tarife kontenjanı, belirli bir dönem itibariyle — Bu yanlış cevaptır.",
+        "D": "Sanayi malları idaresine ibraz edilir. — Bu yanlış cevaptır."
+      },
       "dogruCevap": "B",
       "dogruCevapMetni": "İşlenmiş tarım ürünleri ithal lisansı gümrük yükümlülüğünün doğ-"
     },
@@ -848,6 +1163,10 @@
       "secenekler": {
         "D": "Kullanılmayan veya dağıtılamayan kota ve luşun “Kontrol Belgesi” aranmaktadır? tarife kontenjanları yeniden dağıtıma tabi tutulmazlar.",
         "A": "Sanayi ve Ticaret Bakanlığı — Dış Ticaret"
+      },
+      "secenekAciklamalari": {
+        "A": "Sanayi ve Ticaret Bakanlığı — Dış Ticaret — Bu yanlış cevaptır.",
+        "D": "Kullanılmayan veya dağıtılamayan kota ve luşun “Kontrol Belgesi” aranmaktadır? tarife kontenjanları yeniden dağıtıma tabi tutulmazlar. — Bu doğru cevaptır."
       },
       "dogruCevap": "D",
       "dogruCevapMetni": "Kullanılmayan veya dağıtılamayan kota ve luşun “Kontrol Belgesi” aranmaktadır? tarife kontenjanları yeniden dağıtıma tabi tutulmazlar."
@@ -862,6 +1181,12 @@
         "C": "Dampinge karşı vergi tutarı, damping marjı dikkate alınarak tespit edilir.",
         "D": "Damping marjı, dampinge karşı uygulanacak vergi oranı göz önüne alınarak tespit edilir. 413-"
       },
+      "secenekAciklamalari": {
+        "A": "Kota uygulaması fiyatıyla mukayese edilerek tespit edilir. — Bu yanlış cevaptır.",
+        "B": "Damping marjı, menşe ülkedeki üretim mali- — Bu yanlış cevaptır.",
+        "C": "Dampinge karşı vergi tutarı, damping marjı dikkate alınarak tespit edilir. — Bu yanlış cevaptır.",
+        "D": "Damping marjı, dampinge karşı uygulanacak vergi oranı göz önüne alınarak tespit edilir. 413- — Bu doğru cevaptır."
+      },
       "dogruCevap": "D",
       "dogruCevapMetni": "Damping marjı, dampinge karşı uygulanacak vergi oranı göz önüne alınarak tespit edilir. 413-"
     },
@@ -875,6 +1200,12 @@
         "C": "ll ve V sayılı listelerde belirtilen gümrük gümrük idarelerince, Enerji ve Tabii Kaynak- vergisi oranlarından daha düşük olanı lar Bakanlığının (Petrol İşleri Genel Müdür- uygulanır. lüğü) uygunluk yazısı aranır.",
         "D": "Sivil hava taşıtlarında kullanılmaya mahsus vergisi oranlarından daha yüksek olanı maddelerin ithalinde gümrük idarelerince uygulanır. Ulaştırma Bakanlığının (Sivil Havacılık Genel"
       },
+      "secenekAciklamalari": {
+        "A": "sayılı listede belirtilen gümrük vergisi oranı — Bu yanlış cevaptır.",
+        "B": "V sayılı listede belirtilen gümrük vergisi oranı yazısı aranır. uygulanır. — Bu doğru cevaptır.",
+        "C": "ll ve V sayılı listelerde belirtilen gümrük gümrük idarelerince, Enerji ve Tabii Kaynak- vergisi oranlarından daha düşük olanı lar Bakanlığının (Petrol İşleri Genel Müdür- uygulanır. lüğü) uygunluk yazısı aranır. — Bu yanlış cevaptır.",
+        "D": "Sivil hava taşıtlarında kullanılmaya mahsus vergisi oranlarından daha yüksek olanı maddelerin ithalinde gümrük idarelerince uygulanır. Ulaştırma Bakanlığının (Sivil Havacılık Genel — Bu yanlış cevaptır."
+      },
       "dogruCevap": "B",
       "dogruCevapMetni": "V sayılı listede belirtilen gümrük vergisi oranı yazısı aranır. uygulanır."
     },
@@ -883,6 +1214,7 @@
       "cevap": "Doğru cevap: D) ",
       "kategori": "Gumruk Musavirligi 2006 On Eleme",
       "secenekler": {},
+      "secenekAciklamalari": {},
       "dogruCevap": "D",
       "dogruCevapMetni": ""
     },
@@ -895,6 +1227,11 @@
         "C": "Tarım ve Köyişleri Bakanlığı — Devlet Planla- ülkenin iç piyasasında satış hacminin düşük ma Teşkilatı Müsteşarlığı — Sağlık Bakanlığı olması veya pazarın özel durumu nedeniyle, bu",
         "D": "Tarım ve Köyişleri Bakanlığı - Sağlık Bakan- satışlar uygun bir karşılaştırma yapmaya olanak lığı - Çevre Bakanlığı sağlamadığında, damping marjı ile ilgili olarak aşağıdaki ifadelerden hangisi yanlıştır?"
       },
+      "secenekAciklamalari": {
+        "B": "Sağlık Bakanlığı — Çevre Bakanlığı — Hazine piyasasında, dampinge konu ürünün veya ben- Müsteşarlığı zer ürünün satışı yapılmadığında veya ihracatçı — Bu yanlış cevaptır.",
+        "C": "Tarım ve Köyişleri Bakanlığı — Devlet Planla- ülkenin iç piyasasında satış hacminin düşük ma Teşkilatı Müsteşarlığı — Sağlık Bakanlığı olması veya pazarın özel durumu nedeniyle, bu — Bu yanlış cevaptır.",
+        "D": "Tarım ve Köyişleri Bakanlığı - Sağlık Bakan- satışlar uygun bir karşılaştırma yapmaya olanak lığı - Çevre Bakanlığı sağlamadığında, damping marjı ile ilgili olarak aşağıdaki ifadelerden hangisi yanlıştır? — Bu doğru cevaptır."
+      },
       "dogruCevap": "D",
       "dogruCevapMetni": "Tarım ve Köyişleri Bakanlığı - Sağlık Bakan- satışlar uygun bir karşılaştırma yapmaya olanak lığı - Çevre Bakanlığı sağlamadığında, damping marjı ile ilgili olarak aşağıdaki ifadelerden hangisi yanlıştır?"
     },
@@ -903,6 +1240,7 @@
       "cevap": "Doğru cevap: B) ",
       "kategori": "Gumruk Musavirligi 2006 On Eleme",
       "secenekler": {},
+      "secenekAciklamalari": {},
       "dogruCevap": "B",
       "dogruCevapMetni": ""
     },
@@ -915,6 +1253,12 @@
         "B": "Bedelsiz olarak ihraç edilecek eşya standar- ihraş ürününün tamamını ya da bir kısmını dizasyon kontrolüne tabidir. —— üreten, belgede kayıtlı ancak belge sahibi",
         "C": "İhracında Destekleme ve Fiyat İstikrar Fo- olmayan firma nu'na prim kesintisi yapılan mallar bedelsiz Szİşlem görmüş drünün tamamını vaya Bİr olarak lragadilemez. Bek kısmını üreten ve bu ürünün ihracatını",
         "D": "İhracı ön izne bağlı bir mal ilgili merciin ön kendisi ve/veya aracı ihracatçı vasıtasıyla izni alınmak koşuluyla bedelsiz olarak ihraç gerçekleştiren dahilde işleme izin belgesi sdilabilir. sahibi firma"
+      },
+      "secenekAciklamalari": {
+        "A": "Bedelsiz ihracat izinleri 1 yıl süre ile geçer- Sek SHerseklesFen Balda sahibi olmayan lidir. PERT Pe R rai <üPE N in 2- Dahilde işleme izin belgesinde taahhüt edilen — Bu yanlış cevaptır.",
+        "B": "Bedelsiz olarak ihraç edilecek eşya standar- ihraş ürününün tamamını ya da bir kısmını dizasyon kontrolüne tabidir. —— üreten, belgede kayıtlı ancak belge sahibi — Bu yanlış cevaptır.",
+        "C": "İhracında Destekleme ve Fiyat İstikrar Fo- olmayan firma nu'na prim kesintisi yapılan mallar bedelsiz Szİşlem görmüş drünün tamamını vaya Bİr olarak lragadilemez. Bek kısmını üreten ve bu ürünün ihracatını — Bu yanlış cevaptır.",
+        "D": "İhracı ön izne bağlı bir mal ilgili merciin ön kendisi ve/veya aracı ihracatçı vasıtasıyla izni alınmak koşuluyla bedelsiz olarak ihraç gerçekleştiren dahilde işleme izin belgesi sdilabilir. sahibi firma — Bu doğru cevaptır."
       },
       "dogruCevap": "D",
       "dogruCevapMetni": "İhracı ön izne bağlı bir mal ilgili merciin ön kendisi ve/veya aracı ihracatçı vasıtasıyla izni alınmak koşuluyla bedelsiz olarak ihraç gerçekleştiren dahilde işleme izin belgesi sdilabilir. sahibi firma"
@@ -929,6 +1273,12 @@
         "C": "Aracı ihracatçı — Fason imalatçı — Yan Bu Talimatlar Temelinde Verilen Onayların sanayici Karşılıklı Tanınması Koşullarına Dair Anlaşma”",
         "D": "İhracatçı — İmalatçı ihracatçı - Yan sanayici kapsamında verilen ve otomotiv ürünlerinin"
       },
+      "secenekAciklamalari": {
+        "A": "Aracı ihracatçı — Yan sanayici — İmalatçı zasyon uygulamalarıyla ilgili olarak, 20/3/1958 ihracatçı tarihli “Tekerlekli Araçların, Araçlara Takılan — Bu yanlış cevaptır.",
+        "B": "İhracatçı — Fason imalatçı — Belge sahibi velveya Araçlarda Kullanılan Aksam ve Parça- firma ların Müşterek Teknik Talimatlarının Kabulü ve — Bu yanlış cevaptır.",
+        "C": "Aracı ihracatçı — Fason imalatçı — Yan Bu Talimatlar Temelinde Verilen Onayların sanayici Karşılıklı Tanınması Koşullarına Dair Anlaşma” — Bu doğru cevaptır.",
+        "D": "İhracatçı — İmalatçı ihracatçı - Yan sanayici kapsamında verilen ve otomotiv ürünlerinin — Bu yanlış cevaptır."
+      },
       "dogruCevap": "C",
       "dogruCevapMetni": "Aracı ihracatçı — Fason imalatçı — Yan Bu Talimatlar Temelinde Verilen Onayların sanayici Karşılıklı Tanınması Koşullarına Dair Anlaşma”"
     },
@@ -941,6 +1291,12 @@
         "A": "İthalatın belirli süreyle durdurulması",
         "C": "Gümrük vergisinde artış yapılması",
         "D": "Miktar/değer kısıtlamasına gidilmesi üzere buğday ithalatı 44-"
+      },
+      "secenekAciklamalari": {
+        "A": "İthalatın belirli süreyle durdurulması — Bu doğru cevaptır.",
+        "B": "Tarife kontenjanı uygulanması TV ithalatı — Bu yanlış cevaptır.",
+        "C": "Gümrük vergisinde artış yapılması — Bu yanlış cevaptır.",
+        "D": "Miktar/değer kısıtlamasına gidilmesi üzere buğday ithalatı 44- — Bu yanlış cevaptır."
       },
       "dogruCevap": "A",
       "dogruCevapMetni": "İthalatın belirli süreyle durdurulması"
@@ -955,6 +1311,12 @@
         "C": "İthalat Rejimi Kararı Eki tüm listelerde yer Hariçte İşleme İzin süresi azami 12 aydır. alan tüm ürünlere uygulanır. Ayrıca ek süre verilemez.",
         "D": "Hariçte İşleme İzin Belgesi süresi azami 6 ay, fasılları dışındaki tüm ürünlere uygulanır. Hariçte İşleme İzin süresi azami 12 aydır."
       },
+      "secenekAciklamalari": {
+        "A": "Hariçte İşleme İzin Belgesi/Hariçte İşleme İzin alan tüm ürünlere uygulanır. süresi azami 12 aydır. Ayrıca, ek süre verile- — Bu yanlış cevaptır.",
+        "B": "Hariçte İşleme İzin Belgesi/Hariçte İşleme İzin Topluluğu (AKÇT) ürünleri hariç) yer alan süresi azami 12 aydır. Ayrıca, ilgilinin gerek- Gümrük Birliği kapsamındaki eşyaya uygu- çeli talebi üzerine ek süre verilebilir. lanır. — Bu doğru cevaptır.",
+        "C": "İthalat Rejimi Kararı Eki tüm listelerde yer Hariçte İşleme İzin süresi azami 12 aydır. alan tüm ürünlere uygulanır. Ayrıca ek süre verilemez. — Bu yanlış cevaptır.",
+        "D": "Hariçte İşleme İzin Belgesi süresi azami 6 ay, fasılları dışındaki tüm ürünlere uygulanır. Hariçte İşleme İzin süresi azami 12 aydır. — Bu yanlış cevaptır."
+      },
       "dogruCevap": "B",
       "dogruCevapMetni": "Hariçte İşleme İzin Belgesi/Hariçte İşleme İzin Topluluğu (AKÇT) ürünleri hariç) yer alan süresi azami 12 aydır. Ayrıca, ilgilinin gerek- Gümrük Birliği kapsamındaki eşyaya uygu- çeli talebi üzerine ek süre verilebilir. lanır."
     },
@@ -963,6 +1325,7 @@
       "cevap": "Doğru cevap: A) ",
       "kategori": "Gumruk Musavirligi 2006 On Eleme",
       "secenekler": {},
+      "secenekAciklamalari": {},
       "dogruCevap": "A",
       "dogruCevapMetni": ""
     },
@@ -979,6 +1342,7 @@
       "cevap": "Doğru cevap: D) ",
       "kategori": "Gumruk Musavirligi 2006 On Eleme",
       "secenekler": {},
+      "secenekAciklamalari": {},
       "dogruCevap": "D",
       "dogruCevapMetni": ""
     },
@@ -992,6 +1356,12 @@
         "C": "GMP Belgesi",
         "D": "Menşe Şahadetnamesi"
       },
+      "secenekAciklamalari": {
+        "A": "Uygunluk Belgesi — — Bu yanlış cevaptır.",
+        "B": "ACAP Belgesi — Bu doğru cevaptır.",
+        "C": "GMP Belgesi — Bu yanlış cevaptır.",
+        "D": "Menşe Şahadetnamesi — Bu yanlış cevaptır."
+      },
       "dogruCevap": "B",
       "dogruCevapMetni": "ACAP Belgesi"
     },
@@ -1000,6 +1370,7 @@
       "cevap": "Doğru cevap: C) ",
       "kategori": "Gumruk Musavirligi 2006 On Eleme",
       "secenekler": {},
+      "secenekAciklamalari": {},
       "dogruCevap": "C",
       "dogruCevapMetni": ""
     },
@@ -1008,6 +1379,7 @@
       "cevap": "Doğru cevap: D) ",
       "kategori": "Gumruk Musavirligi 2006 On Eleme",
       "secenekler": {},
+      "secenekAciklamalari": {},
       "dogruCevap": "D",
       "dogruCevapMetni": ""
     },
@@ -1020,6 +1392,12 @@
         "B": "30 C)45",
         "C": "Gelişmekte olan ülkelere teknik yardımda izni veren İhracatçı Birlikleri Genel Sekreter- bulunma liğine ve aracı bankaya kaç gün içinde bildir-",
         "D": "60 -15-"
+      },
+      "secenekAciklamalari": {
+        "A": "15 — Bu yanlış cevaptır.",
+        "B": "30 C)45 — Bu doğru cevaptır.",
+        "C": "Gelişmekte olan ülkelere teknik yardımda izni veren İhracatçı Birlikleri Genel Sekreter- bulunma liğine ve aracı bankaya kaç gün içinde bildir- — Bu yanlış cevaptır.",
+        "D": "60 -15- — Bu yanlış cevaptır."
       },
       "dogruCevap": "B",
       "dogruCevapMetni": "30 C)45"
@@ -1034,6 +1412,12 @@
         "C": "60",
         "D": "90"
       },
+      "secenekAciklamalari": {
+        "A": "30 B)45 — Bu yanlış cevaptır.",
+        "B": "Romanya — Bu yanlış cevaptır.",
+        "C": "60 — Bu doğru cevaptır.",
+        "D": "90 — Bu yanlış cevaptır."
+      },
       "dogruCevap": "C",
       "dogruCevapMetni": "60"
     },
@@ -1042,6 +1426,7 @@
       "cevap": "Doğru cevap: A) ",
       "kategori": "Gumruk Musavirligi 2006 On Eleme",
       "secenekler": {},
+      "secenekAciklamalari": {},
       "dogruCevap": "A",
       "dogruCevapMetni": ""
     },
@@ -1054,6 +1439,12 @@
         "B": "Teknik Belge kutusuna anlaşmaya taraf olmayan ülkeler-",
         "C": "Kontrol Belgesi den birinin yazılması",
         "D": "EUR.1 Dolaşım Sertifikasının yetkili olmayan bir makam tarafından onaylanması"
+      },
+      "secenekAciklamalari": {
+        "A": "Uygunluk Belgesi — Bu yanlış cevaptır.",
+        "B": "Teknik Belge kutusuna anlaşmaya taraf olmayan ülkeler- — Bu doğru cevaptır.",
+        "C": "Kontrol Belgesi den birinin yazılması — Bu yanlış cevaptır.",
+        "D": "EUR.1 Dolaşım Sertifikasının yetkili olmayan bir makam tarafından onaylanması — Bu yanlış cevaptır."
       },
       "dogruCevap": "B",
       "dogruCevapMetni": "Teknik Belge kutusuna anlaşmaya taraf olmayan ülkeler-"
@@ -1068,6 +1459,12 @@
         "C": "Ham lületaşı ve taslak pipo",
         "D": "Nükleer Tedarikçiler Grubu kapsamındaki"
       },
+      "secenekAciklamalari": {
+        "A": "100 B)1000 — C)1200 — — Bu yanlış cevaptır.",
+        "B": "Orijinal bağırsak — Bu yanlış cevaptır.",
+        "C": "Ham lületaşı ve taslak pipo — Bu doğru cevaptır.",
+        "D": "Nükleer Tedarikçiler Grubu kapsamındaki — Bu yanlış cevaptır."
+      },
       "dogruCevap": "C",
       "dogruCevapMetni": "Ham lületaşı ve taslak pipo"
     },
@@ -1076,6 +1473,7 @@
       "cevap": "Doğru cevap: D) ",
       "kategori": "Gumruk Musavirligi 2006 On Eleme",
       "secenekler": {},
+      "secenekAciklamalari": {},
       "dogruCevap": "D",
       "dogruCevapMetni": ""
     },
@@ -1088,6 +1486,12 @@
         "B": "Ankara Anlaşması",
         "C": "Roma Anlaşması",
         "D": "Helsinki Kararı"
+      },
+      "secenekAciklamalari": {
+        "A": "2/69 sayılı Ortaklık Konseyi Kararı — Bu doğru cevaptır.",
+        "B": "Ankara Anlaşması — Bu yanlış cevaptır.",
+        "C": "Roma Anlaşması — Bu yanlış cevaptır.",
+        "D": "Helsinki Kararı — Bu yanlış cevaptır."
       },
       "dogruCevap": "A",
       "dogruCevapMetni": "2/69 sayılı Ortaklık Konseyi Kararı"
@@ -1102,6 +1506,12 @@
         "C": "Şili",
         "D": "Tunus CEVAPLARINIZI KONTROL EDİNİZ. -16-"
       },
+      "secenekAciklamalari": {
+        "A": "Moğolistan — Bu yanlış cevaptır.",
+        "B": "Çad — Bu doğru cevaptır.",
+        "C": "Şili — Bu yanlış cevaptır.",
+        "D": "Tunus CEVAPLARINIZI KONTROL EDİNİZ. -16- — Bu yanlış cevaptır."
+      },
       "dogruCevap": "B",
       "dogruCevapMetni": "Çad"
     },
@@ -1112,6 +1522,1707 @@
       "secenekler": {},
       "dogruCevap": "B",
       "dogruCevapMetni": ""
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"CIV\" ne demek?",
+      "cevap": "CIV — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"Kumanya listesi değildir?\" ne demek?",
+      "cevap": "Kumanya listesi değildir? — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"Serbest bölge işlem formu çantaları\" ne demek?",
+      "cevap": "Serbest bölge işlem formu çantaları — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"CIM\" ne demek?",
+      "cevap": "CIM — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"TIR Karnesi ciliklerinin binaları için inşaat malz\" ne demek?",
+      "cevap": "TIR Karnesi ciliklerinin binaları için inşaat malzemesi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"ATA Karnesi\" ne demek?",
+      "cevap": "ATA Karnesi — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"Bilgisayar veri işleme tekniği yoluyla beyan lll- \" ne demek?",
+      "cevap": "Bilgisayar veri işleme tekniği yoluyla beyan lll- Beyan ile muayene sonucu bulunan vergi . iğ - farkı o 5'i geçerse durum bir tutanakla tespit — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"Kesin ihracat\" ne demek?",
+      "cevap": "Kesin ihracat — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"Kesin ithalat\" ne demek?",
+      "cevap": "Kesin ithalat — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"ll ve lll\" ne demek?",
+      "cevap": "ll ve lll — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"Beyan sahibinden kapsamında serbest dolaşım ile eş\" ne demek?",
+      "cevap": "Beyan sahibinden kapsamında serbest dolaşım ile eş zamanlı — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"İşletici veya kullanıcıdan yurt içi kullanıma gire\" ne demek?",
+      "cevap": "İşletici veya kullanıcıdan yurt içi kullanıma giren eşyanın yeniden — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"Yükümlüden İhracatı\" ne demek?",
+      "cevap": "Yükümlüden İhracatı — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"Temsilciden öz\" ne demek?",
+      "cevap": "Temsilciden öz — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"Türkiye'de üretilen ve ihraç edilecek ayakka-\" ne demek?",
+      "cevap": "Türkiye'de üretilen ve ihraç edilecek ayakka- — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"e işareti ilgili olarak gümrük idarelerince Dahild\" ne demek?",
+      "cevap": "e işareti ilgili olarak gümrük idarelerince Dahilde İşleme ilmesi mümkün bul dır? — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"E işareti\" ne demek?",
+      "cevap": "E işareti — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"CE işareti İzninin verilmesi mümkün bulunmamaktadı\" ne demek?",
+      "cevap": "CE işareti İzninin verilmesi mümkün bulunmamaktadır\" s Ae — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"CIM\" ne demek?",
+      "cevap": "CIM — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"Konşimento\" ne demek?",
+      "cevap": "Konşimento — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"Eşyanın gümrüğe sunulması yerine geçen belgedir?\" ne demek?",
+      "cevap": "Eşyanın gümrüğe sunulması yerine geçen belgedir? — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"Gümrük beyanı\" ne demek?",
+      "cevap": "Gümrük beyanı — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"Hızlı kargo taşımacılığı yoluyla gelen eşya\" ne demek?",
+      "cevap": "Hızlı kargo taşımacılığı yoluyla gelen eşya — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"Yabancı devlet başkanları ve aileleri efradı ile r\" ne demek?",
+      "cevap": "Yabancı devlet başkanları ve aileleri efradı ile refakatlerinde memur olanların getirdikleri — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"Form A\" ne demek?",
+      "cevap": "Form A — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"Taşıt giriş çıkış formu Ma giriş rejimi hükümleri \" ne demek?",
+      "cevap": "Taşıt giriş çıkış formu Ma giriş rejimi hükümleri uygulanır. — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"Triptik karnesi\" ne demek?",
+      "cevap": "Triptik karnesi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"Serbest dolaşımda bulunmayan yakıt ve nen belge aş\" ne demek?",
+      "cevap": "Serbest dolaşımda bulunmayan yakıt ve nen belge aşağıdakilerden hangisidir? kumanyanın, gemilerden indirilerek ithal edilmek istenilmesi hâlinde, serbest dolaşı- — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"Dahilde işleme veya geçici ithalat rejimlerin-\" ne demek?",
+      "cevap": "Dahilde işleme veya geçici ithalat rejimlerin- — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"Ticari nitelikteki eşya, sahipleri tarafından gün \" ne demek?",
+      "cevap": "Ticari nitelikteki eşya, sahipleri tarafından gün içinde karara bağlanır. beyanname ile beyan olunur. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"Gümrük başmüdürlüklerine intikal eden iti- den fay\" ne demek?",
+      "cevap": "Gümrük başmüdürlüklerine intikal eden iti- den faydalanmak üzere posta yolu ile gelen razlar otuz gün içinde karara bağlanır. eşya için ilgili rejim hükümleri uygulanır. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"Müsteşarlığa intikal eden itirazlar kırk beş\" ne demek?",
+      "cevap": "Müsteşarlığa intikal eden itirazlar kırk beş — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"İthal eşyası için teminat uygulaması yoktur. cat h\" ne demek?",
+      "cevap": "İthal eşyası için teminat uygulaması yoktur. cat hükmünde deniz ve hava taşıtlarına — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"Serbest dolaşımda bulunmayan yakıt ve\" ne demek?",
+      "cevap": "Serbest dolaşımda bulunmayan yakıt ve — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"Türk bandıralı gemilerden düzenli yurt dışı Mrs Ta\" ne demek?",
+      "cevap": "Türk bandıralı gemilerden düzenli yurt dışı Mrs Tal . seferli olanlarının, yabancı limandan sonra — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"Eş değer eşya uygulaması yoktur.\" ne demek?",
+      "cevap": "Eş değer eşya uygulaması yoktur. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"Yabancı taşıtlar için geçici giriş karnesi talebin\" ne demek?",
+      "cevap": "Yabancı taşıtlar için geçici giriş karnesi talebine ilişkin itirazların karara bağlanarak ilgili kişiye tebliğ edilme süresi kaç gündür? — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"Vergilerin kaldırılmasına karar verilmesi Hoş n ih\" ne demek?",
+      "cevap": "Vergilerin kaldırılmasına karar verilmesi Hoş n iha tRğZ — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"Vergilerin geri verilmesine karar verilmesi a En T\" ne demek?",
+      "cevap": "Vergilerin geri verilmesine karar verilmesi a En Tae ra LR Yararli ve — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"Gümrük beyannamesinin iptal edilmesi cezalara karş\" ne demek?",
+      "cevap": "Gümrük beyannamesinin iptal edilmesi cezalara karşı on beş gün içinde itiraz edebi- Ber ARR . lirler. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"Söz konusu telef ve kayıp, idarenin de taraf olara\" ne demek?",
+      "cevap": "Söz konusu telef ve kayıp, idarenin de taraf olarak bulunduğu mahkeme kararı ile kanıt- lanır, — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"Suçüstü şeklindeki hırsızlıklar, hazırlık tahki- k\" ne demek?",
+      "cevap": "Suçüstü şeklindeki hırsızlıklar, hazırlık tahki- katı üzerine Cumhuriyet savcılığınca verilen belge ile kanıtlanır. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"Telef veya kayıp herkesçe bilinen ve duyulan başka\" ne demek?",
+      "cevap": "Telef veya kayıp herkesçe bilinen ve duyulan başka olaylar yüzünden olmuşsa o yere en yakın Gümrük ve Muhafaza Başmüdürü tara- fından verilecek belge ile kanıtlanır. — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"Trafik kazaları, trafik kaza raporuna göre ve en y\" ne demek?",
+      "cevap": "Trafik kazaları, trafik kaza raporuna göre ve en yakın gümrük idaresi tarafından yapılan tespit sonucunda gümrük idare amirinin vereceği belge ile kanıtlanır. dü; — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"Transit rejimi hak sahibi olan kişiler edenlerin b\" ne demek?",
+      "cevap": "Transit rejimi hak sahibi olan kişiler edenlerin bu yöndeki talebi kabul edilir. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"Aynı gümrük idaresinden sürekli ve periyodik eşyay\" ne demek?",
+      "cevap": "Aynı gümrük idaresinden sürekli ve periyodik eşyayı gönderen satıcı olarak gemilere kumanya, yağ, yakıt ve diğer — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"İhracat rejiminde beyanname yerine ticari ve eşyay\" ne demek?",
+      "cevap": "İhracat rejiminde beyanname yerine ticari ve eşyayı kabul eden taşıyıcı idari belgeyle beyan uygulamasından yarar- lanma talebi değerlendirilirken, Gümrük — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"Transit rejimine göre taşındığını bilerek\" ne demek?",
+      "cevap": "Transit rejimine göre taşındığını bilerek — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"Onaylanmış Kişi Statü Belgesinin geçerlilik\" ne demek?",
+      "cevap": "Onaylanmış Kişi Statü Belgesinin geçerlilik — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"A ve B Sınıfı Onaylanmış Kişi Statü Belge- “Basitl\" ne demek?",
+      "cevap": "A ve B Sınıfı Onaylanmış Kişi Statü Belge- “Basitleştirilmiş İhracat” ifadesinin yer sine sahip olanlar, Gümrük Yönetmeliğinin alması gerekir. 207'nci maddesi çerçevesinde “basitleştiril- — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"Bu usulle gerçekleşen ihracata ilişkin ticari süre\" ne demek?",
+      "cevap": "Bu usulle gerçekleşen ihracata ilişkin ticari süresi, belge düzenleme tarihi itibariyle üç veya idari belgede; ihracat konusu eşyanın yıldır. teşhisini mümkün kılacak bütün bilgilerin ve — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"Sektörel dış ticaret şirketi olması transitte aran\" ne demek?",
+      "cevap": "Sektörel dış ticaret şirketi olması transitte aranmaz. — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"Boru hattı ile yapılan taşımalarda teminat\" ne demek?",
+      "cevap": "Boru hattı ile yapılan taşımalarda teminat — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"Sahip veya acenteleri adına tescil edilmiş rından \" ne demek?",
+      "cevap": "Sahip veya acenteleri adına tescil edilmiş rından aralarında vasıtalı veya vasıtasız bulunan ve düzenli sefer yapmakta olan şirket ilişkisi bulunan aynı gruba ait imalatçı altmış rüsum tonilatodan fazla deniz taşıtla- firmaların dış ticaret işlemlerini gerçekleş- rıyla yapılan taşımalarda teminat aranmaz. tiren yine bu gruba ait olan dış ticaret veya — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"Her türlü eşyanın demir yolu ile taşınmasında paza\" ne demek?",
+      "cevap": "Her türlü eşyanın demir yolu ile taşınmasında pazarlama şirketi olması teminat aranmaz. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"Bir önceki takvim yılı veya başvuru yılı içinde te\" ne demek?",
+      "cevap": "Bir önceki takvim yılı veya başvuru yılı içinde tedirler. asgari 25 milyon FOB/ABD Doları kıyrnetinde — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"Bir önceki takvim yılı veya başvuru yılı içinde la\" ne demek?",
+      "cevap": "Bir önceki takvim yılı veya başvuru yılı içinde lanmış Kişi Statü Belgesine sahip olanlar gerçekleştirilen ithalat ve ihracat toplamının yararlanabilmektedirler. asgari 100 milyon ABD Doları kıymetiride olması — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"Dış Ticaret Sermaye şirketi olması\" ne demek?",
+      "cevap": "Dış Ticaret Sermaye şirketi olması — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"İmalatçı olanlar için başvuru tarihinden geriye dö\" ne demek?",
+      "cevap": "İmalatçı olanlar için başvuru tarihinden geriye dönük bir ay içinde en az 200işçi istihdam ediyor olması 4 — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"Basitleştirilmiş usule göre yapılan işleme kişiler\" ne demek?",
+      "cevap": "Basitleştirilmiş usule göre yapılan işleme kişilere ait kullanılmış motorlu veya motorsuz ilişkin tamamlayıcı beyanın, üç ay içinde özel kara nakil vasıtalarının ithali koşulları ile verilmesi zorunludur. ilgili olarak aşağıdakilerden hangisi doğrudur? — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"Alkol ürünleri için bu kapsamda muafiyet Ayn ikmüe\" ne demek?",
+      "cevap": "Alkol ürünleri için bu kapsamda muafiyet Ayn ikmüe HEDE eyl ANNAN Ve uygulanmaz. A ren Li KELa iz — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"Motorlu ticari araçlar için bu kapsamda mua-\" ne demek?",
+      "cevap": "Motorlu ticari araçlar için bu kapsamda mua- — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"Ham madde stokları ve mamul veya yarıma- özellik v\" ne demek?",
+      "cevap": "Ham madde stokları ve mamul veya yarıma- özellik ve unsurları bulunan ve aynı ül kede mul ürünler için bu kapsamda muafiyet üretilmiş eşya uygulanmaz. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"Muafiyet, mücbir sebepler saklı kalmak kay- dıyla,\" ne demek?",
+      "cevap": "Muafiyet, mücbir sebepler saklı kalmak kay- dıyla, veraset ilamı tarihinden itibaren 6 ay içinde tek seferde veya aynı süre içinde birden fazla partide getirilen eşya için tanınır. B — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"AladIğI tarihte üç yaşından büyük olma- içinde ver\" ne demek?",
+      "cevap": "AladIğI tarihte üç yaşından büyük olma- içinde verilmesi zorunludur. — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"Bir ay içinde gerçekleştirilen basitleştirilmiş ma\" ne demek?",
+      "cevap": "Bir ay içinde gerçekleştirilen basitleştirilmiş malıdır. usule göre yapılan işlemlere ilişkin — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"Basitleştirilmiş usule göre yapılan işleme malıdır\" ne demek?",
+      "cevap": "Basitleştirilmiş usule göre yapılan işleme malıdır. ilişkin tamamlayıcı beyanın, bir ay içinde verilmesi zorunludur. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"Getirildiği tarihte üç yaşından büyük olma-\" ne demek?",
+      "cevap": "Getirildiği tarihte üç yaşından büyük olma- — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"i vö i ati KAMİEİNE iz ynı eşyanın satış bedeli yö\" ne demek?",
+      "cevap": "i vö i ati KAMİEİNE iz ynı eşyanın satış bedeli yöntemi — Benzer la YEK OLA e le saka rak. eşyanın satış bedeli yöntemi mektedir. “5 OMKAK Üretilmiş olmanı gerek — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"İndirgeme yöntemi — Hesaplanmış kıymet ARICI l önt\" ne demek?",
+      "cevap": "İndirgeme yöntemi — Hesaplanmış kıymet ARICI l öntemi — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"Satış bedeli yöntemi - Son yöntem görevlilerinin T\" ne demek?",
+      "cevap": "Satış bedeli yöntemi - Son yöntem görevlilerinin Türkiye Gümrük Bölgesi dışın- — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"Aynı eşyanın satış bedeli yöntemi -Hesap- da en az\" ne demek?",
+      "cevap": "Aynı eşyanın satış bedeli yöntemi -Hesap- da en az 24 ay ikamet etmiş olmaları gerek- lanmış kıymet yöntemi mektedir. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"Fiziksel özellik, aynı işlevi görmeleri, tanın- dı\" ne demek?",
+      "cevap": "Fiziksel özellik, aynı işlevi görmeleri, tanın- dığı özellikler dahil olmak üzere her hususta — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"Finansmanın satıcı tarafından sağlanmış ödenen vey\" ne demek?",
+      "cevap": "Finansmanın satıcı tarafından sağlanmış ödenen veya ödenecek fiyatından ayırt edi- olması zorunludur. Finansman anlaşmasının lebilmeleri koşuluyla gümrük kıymetine dahil yazılı olarak yapılmış olması gerekir. edilmeyecek unsurlardan değildir? — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"İthal eşyasının satışıyla ilgili olarak bir finans\" ne demek?",
+      "cevap": "İthal eşyasının satışıyla ilgili olarak bir finans- olması gerekir. man anlaşması uyarınca alıcı tarafından — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"Finansmanın satıcı veya bir başka kişi tara- kurma\" ne demek?",
+      "cevap": "Finansmanın satıcı veya bir başka kişi tara- kurma, montaj, bakım veya taknık yardıma fından sağlanmış olmasına bakılmaz. Finans- Hadimi, man anlaşmasının yazılı olarak yapılmış ilişkin giderler l ki — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"Aynı ailenin üyeleri olmaları a ihâ isi “\" ne demek?",
+      "cevap": "Aynı ailenin üyeleri olmaları a ihâ isi “ — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"15\" ne demek?",
+      "cevap": "15 — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"30 D)60\" ne demek?",
+      "cevap": "30 D)60 — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"Ödemenin kıymeti belirlenecek eşya ile ilgili verg\" ne demek?",
+      "cevap": "Ödemenin kıymeti belirlenecek eşya ile ilgili vergilerinin geri verilmesi veya kaldırılması olması koşuluyla, royalti veya lisans ücreti — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"Royalti veya lisans ücreti ödemeleri, her du- kald\" ne demek?",
+      "cevap": "Royalti veya lisans ücreti ödemeleri, her du- kaldırılması rumda fiilen ödenen veya ödenecek fiyata — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"Ödemenin kıymeti belirlenecek eşya ile ilgili kull\" ne demek?",
+      "cevap": "Ödemenin kıymeti belirlenecek eşya ile ilgili kullanıma tabi tutulması nedeniyle, gümrük olması ve söz konusu eşyanın satış koşulu vergilerinin geri verilmesi veya kaldırılması olarak yapılması kaydıyla, royalti veya lisans ücreti ödemeleri fiilen ödenen veya öde- necek fiyata ilave edilir. — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"Royalti veya lisans ücreti ödemeleri, fiilen ödene\" ne demek?",
+      "cevap": "Royalti veya lisans ücreti ödemeleri, fiilen ödenen veya ödenecek fiyattan ayırt edile- bilmeleri kaydıyla gümrük kıymetine dahil edilmez. 4- — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"Finansmanın bir banka tarafından sağlanmış\" ne demek?",
+      "cevap": "Finansmanın bir banka tarafından sağlanmış — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"Eşyanın, ihraç ülkesindeki iç piyasa fiyatı delerd\" ne demek?",
+      "cevap": "Eşyanın, ihraç ülkesindeki iç piyasa fiyatı delerden hangisi doğrudur? — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"Türkiye'de üretilen eşyanın, Türkiye içindeki satı\" ne demek?",
+      "cevap": "Türkiye'de üretilen eşyanın, Türkiye içindeki satış fiyatı — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"Asgari gümrük kıymetleri olması zorunludur. Finans\" ne demek?",
+      "cevap": "Asgari gümrük kıymetleri olması zorunludur. Finansman anlaşmasının yazılı olarak yapılmış olması zorunlu değildir. — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"İthal eşyasına katılan malzeme, aksam, parça muhte\" ne demek?",
+      "cevap": "İthal eşyasına katılan malzeme, aksam, parça muhtemel bir hak tecavüzünün önlenmesi ve benzerleri amacıyla fikri ve sınai mülkiyet haklarının korunmasına ilişkin yapılan başvurularda güm- — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"Serbest dolaşıma giriş beyannamesinin iptal\" ne demek?",
+      "cevap": "Serbest dolaşıma giriş beyannamesinin iptal — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"Birinin diğerini dolaylı veya dolaysız olarak YAK \" ne demek?",
+      "cevap": "Birinin diğerini dolaylı veya dolaysız olarak YAK DİP Beyanln bu #tatisünü kaybetmesine kontrol atmesi neden olan hâllerden biri değildir? — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"Birbirlerinin yasal ortakları olmaları Bİ EE\" ne demek?",
+      "cevap": "Birbirlerinin yasal ortakları olmaları Bİ EE — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"Bir takvim yılı içinde veya muayyen bir dö- Bölges\" ne demek?",
+      "cevap": "Bir takvim yılı içinde veya muayyen bir dö- Bölgesi Dışına Çıkan Taşıtlara İlişkin Geçici nem itibarıyla yapılmasına izin verilen itha- İhracat Beyannamesi ve Taahhütnamesi latın miktar ve/veya değerine denir. ihracat işlemini yapan gümrük idaresine — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"Bir mal ya da mal grubunun gümrük vergisi ibraz ed\" ne demek?",
+      "cevap": "Bir mal ya da mal grubunun gümrük vergisi ibraz edilir. oranlarında belli bir miktar veya değer için — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"Belli bir dönem içinde belli malların belirle- taş\" ne demek?",
+      "cevap": "Belli bir dönem içinde belli malların belirle- taşıtların çıkışlarında, Gümrük Geçiş Karnesi nen değer ya da miktar için ithalatta ve ihra- ibraz edilmesi zorunludur. catta normal gümrük vergisi oranında bir — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"İki ya da daha çok ülkenin yaptıkları ticaret yapı\" ne demek?",
+      "cevap": "İki ya da daha çok ülkenin yaptıkları ticaret yapıldığı durumda, kaydın kapatılması için anlaşması uyarınca aralarındaki ticarette kar- 2'nci nüsha beyanname çıkış işlemini yapan şılıklı olarak ya da bir ülkenin belli ülke ya da gümrük idaresine gönderilir. toprak parçaları menşeli eşyaya tek taraflı — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"İkametgâhı Türkiye'de bulunan Türk ve — sahibinin \" ne demek?",
+      "cevap": "İkametgâhı Türkiye'de bulunan Türk ve — sahibinin gümrük vergilerinin hesaplanmasını yabancı gerçek ve tüzel kişilerin yabancı bir talep etmesi halinde vergilerin hesabında ülkeye geçici olarak çıkaracakları ve en geç yararlanılmak üzere aşağıdakilerden hangisi Üç yıl içerisinde geri getirecekleri kendilerine külün? ait taşıtları için 'Triptik' veya 'Gümrük Geçiş Karnesi' beyanname olarak kabul olunur. aa e — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"İkametgâhı Türkiye'de bulunan Türk ve A)INF 8 Bilg\" ne demek?",
+      "cevap": "İkametgâhı Türkiye'de bulunan Türk ve A)INF 8 Bilgi Formu — B)INF 7 Bilgi Formu yabancı gerçek Ve'tüzel kişilerin Triptik veya — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"INF 6 Bilgi Formu — D)INF 9 Bilgi Formu Gümrük Geç\" ne demek?",
+      "cevap": "INF 6 Bilgi Formu — D)INF 9 Bilgi Formu Gümrük Geçiş Karnesi ibraz etmemeleri hâlinde, en geç üç yıl içerisinde aynen geri — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "120. soru - A seçeneği: \"Bütün ağırlık unsurları toplanarak ortalama ağırlı\" ne demek?",
+      "cevap": "Bütün ağırlık unsurları toplanarak ortalama ağırlık bulunur. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 120,
+      "secenek": "A"
+    },
+    {
+      "soru": "120. soru - B seçeneği: \"Eşya net ağırlıklarına ambalaj ağırlığı orantılı o\" ne demek?",
+      "cevap": "Eşya net ağırlıklarına ambalaj ağırlığı orantılı olarak ilave edilir. — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 120,
+      "secenek": "B"
+    },
+    {
+      "soru": "120. soru - C seçeneği: \"Sadece eşya net ağırlıkları esas alınır.\" ne demek?",
+      "cevap": "Sadece eşya net ağırlıkları esas alınır. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 120,
+      "secenek": "C"
+    },
+    {
+      "soru": "120. soru - D seçeneği: \"Ambalaj ağırlığı eşit miktarda bölünerek eşya net \" ne demek?",
+      "cevap": "Ambalaj ağırlığı eşit miktarda bölünerek eşya net ağırlıklarına ilave edilir. 7. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 120,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"Antrepo rejimine tabi tutulan eşya, gümrük veya ku\" ne demek?",
+      "cevap": "Antrepo rejimine tabi tutulan eşya, gümrük veya kullanıma tabi tutuluncaya kadar, eşyanın idarelerinden izin alınmak şartıyla geçici geçici depolama yeri mahiyetinde konulduğu olğrak gümrük antreposundan çıkanlabllır. yolcu salonlarındaki gümrük ambarlarında — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"Antrepo rellimie tabi tutulmuş esyarım 5İr kalabil\" ne demek?",
+      "cevap": "Antrepo rellimie tabi tutulmuş esyarım 5İr kalabileceği süre ne kadardır? gümrük antreposundan diğerine nakli, güm- rük idarelerinin iznine bağlıdır. A)tay — B)4ögün C)3ay — D)Süresiz — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"Antrepolarda yapılan sayım sonucunda fazla çıkan e\" ne demek?",
+      "cevap": "Antrepolarda yapılan sayım sonucunda fazla çıkan eşyanın gümrük vergileri, duruma göre z SE z işletici veya kullanıcıdan tahsil edilir. — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"İlgili Gümrük Müdürlüğü\" ne demek?",
+      "cevap": "İlgili Gümrük Müdürlüğü — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"Eşyanın antrepo rejimi altında kalış süresi bir it\" ne demek?",
+      "cevap": "Eşyanın antrepo rejimi altında kalış süresi bir ithalatla ilgili olarak fazla alınan 175.000.- ELA üklü 4 ka YTL'nin iadesi söz konusu olmuştur. Bu durum- Görülen Hallarda Be vaya Sümük aaa naE da geri verme işlemini yapmaya aşağıdaki > YUA İNU BE Ray Kull ilan iğ birimlerden hangisi yetkilidir? anmış: yeni bir Işlam Veya kullanım tayin edilmesi için bir süre belirlenebilir. — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "4458. soru - A seçeneği: \"İzin hak sahibi\" ne demek?",
+      "cevap": "İzin hak sahibi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 4458,
+      "secenek": "A"
+    },
+    {
+      "soru": "4458. soru - B seçeneği: \"Rejim hak sahibi kullanmak veya satmak veya bilere\" ne demek?",
+      "cevap": "Rejim hak sahibi kullanmak veya satmak veya bilerek satın a m ni almak ©) Bayan sahibi — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 4458,
+      "secenek": "B"
+    },
+    {
+      "soru": "4458. soru - C seçeneği: \"Gümrük kontrolü altında işleme rejimi çerçe- - Ni \" ne demek?",
+      "cevap": "Gümrük kontrolü altında işleme rejimi çerçe- - Ni - vesinde ithal edilen veya bunun kullanılması — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 4458,
+      "secenek": "C"
+    },
+    {
+      "soru": "4458. soru - D seçeneği: \"Yükümlü\" ne demek?",
+      "cevap": "Yükümlü — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 4458,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"Kamu ahlakı, kamu düzeni, kamu güvenliği, fazla fa\" ne demek?",
+      "cevap": "Kamu ahlakı, kamu düzeni, kamu güvenliği, fazla farklılık çıkması insan, hayvan ve bitki sağlık ve hayatlarının korunması — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"Ulusal firmaların uluslararası ticarette haksız re\" ne demek?",
+      "cevap": "Ulusal firmaların uluslararası ticarette haksız rekabetten korunması — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"Fikri ve sınai mülkiyet haklarının korunması\" ne demek?",
+      "cevap": "Fikri ve sınai mülkiyet haklarının korunması — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"Sanatsal, tarihi veya arkeolojik değeri olan ulusa\" ne demek?",
+      "cevap": "Sanatsal, tarihi veya arkeolojik değeri olan ulusal hazinelerin korunması 8- — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"Değeri 100 EURO' yu geçmeyen eşya ve eylemin o ülk\" ne demek?",
+      "cevap": "Değeri 100 EURO' yu geçmeyen eşya ve eylemin o ülkede yapılması N — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"ARE TER a ve montajında;deği-\" ne demek?",
+      "cevap": "ARE TER a ve montajında;deği- — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"Değeri 300 EURO' yu geçmemek üzere yolcu- c) Parça\" ne demek?",
+      "cevap": "Değeri 300 EURO' yu geçmemek üzere yolcu- c) Parça hâlindeki ürünlerden birleştirmek lar tarafından ithal edilen hediyelik eşya suretiyle tam ürün oluşturacak şekilde basit — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"Tozun giderilmesi, kalburlama, ayıklama, türlü kul\" ne demek?",
+      "cevap": "Tozun giderilmesi, kalburlama, ayıklama, türlü kullanılmamış ev eşyası sınıflandırma, eşleştirme, yıkama, kesme gibi — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"Gerçeğe aykırı belge ile gümrük idaresini\" ne demek?",
+      "cevap": "Gerçeğe aykırı belge ile gümrük idaresini — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"Gümrükler Genel Müdürlüğü fiili aşağıdakilerden ha\" ne demek?",
+      "cevap": "Gümrükler Genel Müdürlüğü fiili aşağıdakilerden hangisidir? — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"İlgili Gümrük ve Muhafaza Başmüdürlüğü )İlg BR EEE\" ne demek?",
+      "cevap": "İlgili Gümrük ve Muhafaza Başmüdürlüğü )İlg BR EEE — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"Eşyaya el konulur, eşya sahibine eşyanın Mücadele \" ne demek?",
+      "cevap": "Eşyaya el konulur, eşya sahibine eşyanın Mücadele Kanunu ve Türk Ceza Kanunu gümrüklenmiş değeri kadar para cezası hükümleri ihlal edilmiştir. uygulanır. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"Kaçakçılıkla Mücadele Kanunu'nda, söz sında çıkan \" ne demek?",
+      "cevap": "Kaçakçılıkla Mücadele Kanunu'nda, söz sında çıkan ya da başkasına ait olduğu hâlde, konusu fiillere ilişkin, failler hakkında ağır kendi zati eşyasıymış gibi gösterdikleri eşyaya para cezası ve hapis cezası, eşya ile ilgili ilişkin yapılacak işlemle ilgili olarak aşağıdaki olarak ise zoralımına karar verilmesi ifadelerden hangisi doğrudur? öngörülmüştür. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"Bu fiil ile Gümrük Kanunu, Kaçakçılıkla\" ne demek?",
+      "cevap": "Bu fiil ile Gümrük Kanunu, Kaçakçılıkla — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"Gümrük Başmüdürü veya yetkilendireceği — tarafında\" ne demek?",
+      "cevap": "Gümrük Başmüdürü veya yetkilendireceği — tarafından yurt içinde satılmış, ihraç taahhütleri başmüdür yardımcısı başkanlığında beş kişi- ise, sahte olarak düzenlenen ihracat beyanna- öy Gümeli KonÜR TERRA meleri ile kapatılmıştır. Bu olay ile ilgili olarak tebliğ tanhildeğ itibaren yedi gün İçinde aşağıda yer alan ifadelerden hangisi doğrudur? Da a aaa ea ale RABİ. | a) Geçte olarak getirilen eşyanın yurtiçinde dımcısının başkanlığında mahallin ticaret ve biratilması kaçakçılık Tl olarak:düzenlen- sanayi odası ile mülki amirin görevlendire- mediğinden, Gümrük Kanunu hükümlerine ceği birer temsilci olmak üzere üç kişiden göre söz konusu eşyaya ilişkin gümrük oluşur. vergileri tahsil edilir, ayrıca bu vergilerin iki — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"İhracat beyannameleri sahte olarak düzen- görevlis\" ne demek?",
+      "cevap": "İhracat beyannameleri sahte olarak düzen- görevlisi ile mahallin ticaret ve sanayi lendiğinden, ortada bir eşya olmaması nede- odalarınca görevlendirilen iki temsilciden niyle, sadece Türk Ceza Kanunu'nda yer alan oluşur. “Belgede sahtecilik” fiili işlenmiştir. Ayrıca, Dahilde İşleme Rejimi yönünden gerekli idari — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"Bir gümrük müdürü veya yetkilendireceği katı para \" ne demek?",
+      "cevap": "Bir gümrük müdürü veya yetkilendireceği katı para cezası alınır. yardımcısının başkanlığında, bir gümrük — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"Bu kişiler hakkında ilgili maddelerde belir- gümrü\" ne demek?",
+      "cevap": "Bu kişiler hakkında ilgili maddelerde belir- gümrüklenmiş değerinin iki katı kadar da tilen ağır KETE cezaları yarısı miktarında para cezası uygulanır. artırılarak hükmolunur. iğ — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"Söz konusu fiillere ilişkin cezalar bir kat artı- \" ne demek?",
+      "cevap": "Söz konusu fiillere ilişkin cezalar bir kat artı- rılmak suretiyle uygulanır. — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"Bu kişiler hakkında ilgili maddelerde belir- tilen\" ne demek?",
+      "cevap": "Bu kişiler hakkında ilgili maddelerde belir- tilen üst sınırı geçmemek üzere hürriyeti bağlayıcı cezaya yarısı miktarında artırılarak hükmolunur. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"Failim memur olması durumunda, ilgili mad- delerde\" ne demek?",
+      "cevap": "Failim memur olması durumunda, ilgili mad- delerde yazılı olan cezalar yarısı oranında artırılarak hükmolunur. -9- — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "4926. soru - A seçeneği: \"Yarısı kadar arttırılarak uygulanır. soruşturmayı \" ne demek?",
+      "cevap": "Yarısı kadar arttırılarak uygulanır. soruşturmayı yapanlara verilir. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 4926,
+      "secenek": "A"
+    },
+    {
+      "soru": "4926. soru - B seçeneği: \"Yarısı kadar azaltılarak uygulanır.\" ne demek?",
+      "cevap": "Yarısı kadar azaltılarak uygulanır. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 4926,
+      "secenek": "B"
+    },
+    {
+      "soru": "4926. soru - C seçeneği: \"Bir kat arttırılarak uygulanır. ile eklentilerinde\" ne demek?",
+      "cevap": "Bir kat arttırılarak uygulanır. ile eklentilerinde arama yapılması ve buralar- — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 4926,
+      "secenek": "C"
+    },
+    {
+      "soru": "4926. soru - D seçeneği: \"İki kat arttırılarak uygulanır. daki eşyaya el kon\" ne demek?",
+      "cevap": "İki kat arttırılarak uygulanır. daki eşyaya el konulması bu Kanun'da öngö- rülen suçların işlenmesinin önlenmesi ama- — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 4926,
+      "secenek": "D"
+    },
+    {
+      "soru": "4926. soru - A seçeneği: \"Cumhuriyet başsavcısı\" ne demek?",
+      "cevap": "Cumhuriyet başsavcısı — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 4926,
+      "secenek": "A"
+    },
+    {
+      "soru": "4926. soru - B seçeneği: \"Mülki amirler\" ne demek?",
+      "cevap": "Mülki amirler — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 4926,
+      "secenek": "B"
+    },
+    {
+      "soru": "4926. soru - C seçeneği: \"Jandarma\" ne demek?",
+      "cevap": "Jandarma — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 4926,
+      "secenek": "C"
+    },
+    {
+      "soru": "4926. soru - D seçeneği: \"Sahil Güvenlik Komutanlığına bağlı personel -40- G\" ne demek?",
+      "cevap": "Sahil Güvenlik Komutanlığına bağlı personel -40- GÜMRÜK MÜUŞAVİRLİĞİ ÖN ELEME SINAVI A — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 4926,
+      "secenek": "D"
+    },
+    {
+      "soru": "4926. soru - A seçeneği: \"Gemi kaptanı tarafından limana girişlerinden kaçak\" ne demek?",
+      "cevap": "Gemi kaptanı tarafından limana girişlerinden kaçakçılık suçu işleyenlerin hâl ve sıfatlarını hemen sonra Gümrük İdaresine yazılı olarak bilerek yardım edilmesi bilgi verilmesi nedeniyle, söz konusu eşya — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 4926,
+      "secenek": "A"
+    },
+    {
+      "soru": "4926. soru - B seçeneği: \"Kanunun suç saydığı fiillerin iki veya daha M Dcaa\" ne demek?",
+      "cevap": "Kanunun suç saydığı fiillerin iki veya daha M Dcaale Kanın hükümlere göre, Yağa da fazla kişi tarafından teşekkül oluşturmaksızın Pr caBtr ni a toplu olarak işlenmesi 2 yer alan hangi işlemin ikmal edilmesi gerekir? — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 4926,
+      "secenek": "B"
+    },
+    {
+      "soru": "4926. soru - C seçeneği: \"Bir menfaat karşılığı olsun veya olmasın\" ne demek?",
+      "cevap": "Bir menfaat karşılığı olsun veya olmasın — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 4926,
+      "secenek": "C"
+    },
+    {
+      "soru": "4926. soru - D seçeneği: \"Kaçakçılık suçlarının memurlar tarafından sağlam t\" ne demek?",
+      "cevap": "Kaçakçılık suçlarının memurlar tarafından sağlam teminat altında geldiği yere veya işlenmesi diğer bir yabancı yere iade ve sevk olunur. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 4926,
+      "secenek": "D"
+    },
+    {
+      "soru": "4926. soru - A seçeneği: \"Gümrük salonları ve gümrük kapılarında\" ne demek?",
+      "cevap": "Gümrük salonları ve gümrük kapılarında — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 4926,
+      "secenek": "A"
+    },
+    {
+      "soru": "4926. soru - B seçeneği: \"Kacak öeyalarama TşlerindöRünun'A Aykın\" ne demek?",
+      "cevap": "Kacak öeyalarama TşlerindöRünun'A Aykın — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 4926,
+      "secenek": "B"
+    },
+    {
+      "soru": "4926. soru - C seçeneği: \"Arama sırasında kaçakçılık suçunun işlen- diğini g\" ne demek?",
+      "cevap": "Arama sırasında kaçakçılık suçunun işlen- diğini gösteren veya suçun kanıtlanmasına — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 4926,
+      "secenek": "C"
+    },
+    {
+      "soru": "4926. soru - D seçeneği: \"Taşıyanlar hakkında Kaçakçılıkla Mücadele gak Ceya\" ne demek?",
+      "cevap": "Taşıyanlar hakkında Kaçakçılıkla Mücadele gak Ceya'arama İyi KENE KAÇAN. Kanunu hükümlerine göre takibat başlatıl- hareket edenler hakkında Ceza Muhakemesi makla birlikte, eşyanın zoralımına karar veril- Katunu Kökümleri uygulanır. İ meyip, geldiği yere sevk olunur. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 4926,
+      "secenek": "D"
+    },
+    {
+      "soru": "4926. soru - A seçeneği: \"1, Ji, İl, İV ve V\" ne demek?",
+      "cevap": "1, Ji, İl, İV ve V — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 4926,
+      "secenek": "A"
+    },
+    {
+      "soru": "4926. soru - B seçeneği: \"1, ll, IV ve V şüphe edilen her türlü kap, ambalaj\" ne demek?",
+      "cevap": "1, ll, IV ve V şüphe edilen her türlü kap, ambalaj veya — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 4926,
+      "secenek": "B"
+    },
+    {
+      "soru": "4926. soru - C seçeneği: \"1, Ni, İl ve V\" ne demek?",
+      "cevap": "1, Ni, İl ve V — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 4926,
+      "secenek": "C"
+    },
+    {
+      "soru": "4926. soru - D seçeneği: \"1, Ni, İl, ve İV taşımaya yarayan diğer araçlarda \" ne demek?",
+      "cevap": "1, Ni, İl, ve İV taşımaya yarayan diğer araçlarda arama — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 4926,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"Kamyonlar A)FOB. B)CER. C)CİF\" ne demek?",
+      "cevap": "Kamyonlar A)FOB. B)CER. C)CİF — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"Brandalı taşıtlar\" ne demek?",
+      "cevap": "Brandalı taşıtlar — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"Römork veya yarı römorklar\" ne demek?",
+      "cevap": "Römork veya yarı römorklar — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"Çekiciler 41.\" ne demek?",
+      "cevap": "Çekiciler 41. — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"4926 sayılı Kaçakçılıkla Mücadele Kanunu\" ne demek?",
+      "cevap": "4926 sayılı Kaçakçılıkla Mücadele Kanunu — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"Ham tütün kapsamına giren suçlarda, şüpheli veya\" ne demek?",
+      "cevap": "Ham tütün kapsamına giren suçlarda, şüpheli veya — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"Tütün içeren purolar sanıkların yurt dışına çıkmal\" ne demek?",
+      "cevap": "Tütün içeren purolar sanıkların yurt dışına çıkmalarının geçici — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"İçilen tütün, herhangi bir oranda tütün yerine ola\" ne demek?",
+      "cevap": "İçilen tütün, herhangi bir oranda tütün yerine olarak yasaklanmasına hazırlık soruşturması geçen maddeler içersin içermesin sırasında hâkim, yargılama safhasında ise — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"4926 sayili Kaçakçılıkla Mücadele Kani: iç güvenli\" ne demek?",
+      "cevap": "4926 sayili Kaçakçılıkla Mücadele Kani: iç güvenlik ihtiyaçları için uçak, helikopter, ge- nu'nun Suç saydığı filler nedeniyle Türk mi, denizaltı, tank, panzer, zırhlı personel taşı- Ceza Kanunu veya ceza öngören diğer ka- yıcı, roket, füze ve benzeri araçlar, silah, mü- nunlarda yazılı cürümleri işleyenler hakkın- himmat, silah malzeme, teçhizat ve sistemleri da, içtima kuralı uygulanır. ile bunların araştırma-geliştirme, yazılım, üre- — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"Gümrük komisyonlarınca verilen kararlara tim, mont\" ne demek?",
+      "cevap": "Gümrük komisyonlarınca verilen kararlara tim, montaj, yedek parça, bakım-onarım ve tebliğ tarihinden itibara ön kaş gün içinde modernizasyonuna ilişkin olarak yapılan teslim asliye ceza mahkemelerine itiraz olunabilir. Va'hizmetler ve bu teslim ve hizmetleri gerçek; — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"Zoralım hakkı düşen veya takibi zamanaşı- leştiren\" ne demek?",
+      "cevap": "Zoralım hakkı düşen veya takibi zamanaşı- leştirenlere bu kapsamda yapılacak olan tes- mına uğrayan eşyanın bedel ve vergilerinin limler, KDV den müstesnadır? davalıdan tahsili gerekir. . er 1- Milli Savunma Bakanlığı — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "3065. soru - B seçeneği: \"li, li, IV ve V © yerin en büyük mülki amirinin ve\" ne demek?",
+      "cevap": "li, li, IV ve V © yerin en büyük mülki amirinin veya Cum- — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 3065,
+      "secenek": "B"
+    },
+    {
+      "soru": "3065. soru - C seçeneği: \"li, İl ve IV\" ne demek?",
+      "cevap": "li, İl ve IV — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 3065,
+      "secenek": "C"
+    },
+    {
+      "soru": "3065. soru - D seçeneği: \"li, IV ve V huriyet savcısının yazılı emri ile ara\" ne demek?",
+      "cevap": "li, IV ve V huriyet savcısının yazılı emri ile arama yapı- * : labilir. l » — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 3065,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"1, İl, İl ve IV\" ne demek?",
+      "cevap": "1, İl, İl ve IV — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"1, ll ve lll C)1, Ül ve IV\" ne demek?",
+      "cevap": "1, ll ve lll C)1, Ül ve IV — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"Menşe sapması —\" ne demek?",
+      "cevap": "Menşe sapması — — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"A, İl ve İV A2.\" ne demek?",
+      "cevap": "A, İl ve İV A2. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"Ödenen bu bedel Gümrük Vergisi matrahının\" ne demek?",
+      "cevap": "Ödenen bu bedel Gümrük Vergisi matrahının — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"Türkiye'de ikamet etmeyenlere özel fatura ile İdar\" ne demek?",
+      "cevap": "Türkiye'de ikamet etmeyenlere özel fatura ile İdaresine beyan edilmemiştir. Gümrük Kanunu yapılan satış bedeli ve Katma Değer Vergisi Kanunu hükümlerine — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"Yabancı taşıtlar ile yabancı ülkelere sefer göre, \" ne demek?",
+      "cevap": "Yabancı taşıtlar ile yabancı ülkelere sefer göre, bu ithalat işlemi ile ilgili olarak aşağıdaki- yapan yerli taşıtlara verilen kumanya bedel- lerden hangi işlemin ikmal edilmesi gerekir? leri — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"Transit ticarette alış bedeli\" ne demek?",
+      "cevap": "Transit ticarette alış bedeli — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"En çok 5.000.- ABD Doları karşılığı Türk olmadığın\" ne demek?",
+      "cevap": "En çok 5.000.- ABD Doları karşılığı Türk olmadığından, bu konuda Gümrük İdaresi parası ile en çok 15.000.- ABD Doları veya tarafından herhangi bir işlem yapılmasına eşitine kadar efektifi yurt dışına çıkarabilirler. gerek bulunmamaktadır. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"En çok 50.000.- ABD Doları karşılığı Türk\" ne demek?",
+      "cevap": "En çok 50.000.- ABD Doları karşılığı Türk — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"En çok 5.000.- ABD Doları karşılığı Türk\" ne demek?",
+      "cevap": "En çok 5.000.- ABD Doları karşılığı Türk — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"Yolcuların beraberlerinde yurtdışına çıkara- Vergi\" ne demek?",
+      "cevap": "Yolcuların beraberlerinde yurtdışına çıkara- Vergisi matrahına dahil olduğundan bu bilecekleri Türk parası ve efektif miktarı ile yönde gerekli işlemler ikmal edilir. ilgili olarak herhangi bir sınırlama bulun- mamaktadır. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"Arbitraj müdürlüğü veya bölge müdürlüğü onayı ile\" ne demek?",
+      "cevap": "Arbitraj müdürlüğü veya bölge müdürlüğü onayı ile — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"Factoring işletici veya bölge kullanıcı işleticisi\" ne demek?",
+      "cevap": "Factoring işletici veya bölge kullanıcı işleticisi ya da — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"Transfer fiyatlandırması kullanıcı tarafından mall\" ne demek?",
+      "cevap": "Transfer fiyatlandırması kullanıcı tarafından mallar isteğe bağlı olarak — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"Transit ticaret ihracat işlemine tabi tutulmayabil\" ne demek?",
+      "cevap": "Transit ticaret ihracat işlemine tabi tutulmayabilir. Il- Bir parti olarak toplam fatura bedeli 500 — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"Tarım ürünleri latta Dış Ticaret Müsteşarlığınca d\" ne demek?",
+      "cevap": "Tarım ürünleri latta Dış Ticaret Müsteşarlığınca düzenlenen — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"İşlenmiş tarım ürünleri ithal lisansı gümrük yüküm\" ne demek?",
+      "cevap": "İşlenmiş tarım ürünleri ithal lisansı gümrük yükümlülüğünün doğ- — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"Tarife kontenjanı, belirli bir dönem itibariyle\" ne demek?",
+      "cevap": "Tarife kontenjanı, belirli bir dönem itibariyle — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"Sanayi malları idaresine ibraz edilir.\" ne demek?",
+      "cevap": "Sanayi malları idaresine ibraz edilir. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"Sanayi ve Ticaret Bakanlığı — Dış Ticaret\" ne demek?",
+      "cevap": "Sanayi ve Ticaret Bakanlığı — Dış Ticaret — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"Kullanılmayan veya dağıtılamayan kota ve luşun “Ko\" ne demek?",
+      "cevap": "Kullanılmayan veya dağıtılamayan kota ve luşun “Kontrol Belgesi” aranmaktadır? tarife kontenjanları yeniden dağıtıma tabi tutulmazlar. — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"Kota uygulaması fiyatıyla mukayese edilerek tespit\" ne demek?",
+      "cevap": "Kota uygulaması fiyatıyla mukayese edilerek tespit edilir. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"Damping marjı, menşe ülkedeki üretim mali-\" ne demek?",
+      "cevap": "Damping marjı, menşe ülkedeki üretim mali- — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"Dampinge karşı vergi tutarı, damping marjı dikkate\" ne demek?",
+      "cevap": "Dampinge karşı vergi tutarı, damping marjı dikkate alınarak tespit edilir. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"Damping marjı, dampinge karşı uygulanacak vergi or\" ne demek?",
+      "cevap": "Damping marjı, dampinge karşı uygulanacak vergi oranı göz önüne alınarak tespit edilir. 413- — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"sayılı listede belirtilen gümrük vergisi oranı\" ne demek?",
+      "cevap": "sayılı listede belirtilen gümrük vergisi oranı — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"V sayılı listede belirtilen gümrük vergisi oranı y\" ne demek?",
+      "cevap": "V sayılı listede belirtilen gümrük vergisi oranı yazısı aranır. uygulanır. — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"ll ve V sayılı listelerde belirtilen gümrük gümrük\" ne demek?",
+      "cevap": "ll ve V sayılı listelerde belirtilen gümrük gümrük idarelerince, Enerji ve Tabii Kaynak- vergisi oranlarından daha düşük olanı lar Bakanlığının (Petrol İşleri Genel Müdür- uygulanır. lüğü) uygunluk yazısı aranır. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"Sivil hava taşıtlarında kullanılmaya mahsus vergis\" ne demek?",
+      "cevap": "Sivil hava taşıtlarında kullanılmaya mahsus vergisi oranlarından daha yüksek olanı maddelerin ithalinde gümrük idarelerince uygulanır. Ulaştırma Bakanlığının (Sivil Havacılık Genel — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"Sağlık Bakanlığı — Çevre Bakanlığı — Hazine piyasa\" ne demek?",
+      "cevap": "Sağlık Bakanlığı — Çevre Bakanlığı — Hazine piyasasında, dampinge konu ürünün veya ben- Müsteşarlığı zer ürünün satışı yapılmadığında veya ihracatçı — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"Tarım ve Köyişleri Bakanlığı — Devlet Planla- ülke\" ne demek?",
+      "cevap": "Tarım ve Köyişleri Bakanlığı — Devlet Planla- ülkenin iç piyasasında satış hacminin düşük ma Teşkilatı Müsteşarlığı — Sağlık Bakanlığı olması veya pazarın özel durumu nedeniyle, bu — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"Tarım ve Köyişleri Bakanlığı - Sağlık Bakan- satış\" ne demek?",
+      "cevap": "Tarım ve Köyişleri Bakanlığı - Sağlık Bakan- satışlar uygun bir karşılaştırma yapmaya olanak lığı - Çevre Bakanlığı sağlamadığında, damping marjı ile ilgili olarak aşağıdaki ifadelerden hangisi yanlıştır? — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"Bedelsiz ihracat izinleri 1 yıl süre ile geçer- Se\" ne demek?",
+      "cevap": "Bedelsiz ihracat izinleri 1 yıl süre ile geçer- Sek SHerseklesFen Balda sahibi olmayan lidir. PERT Pe R rai <üPE N in 2- Dahilde işleme izin belgesinde taahhüt edilen — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"Bedelsiz olarak ihraç edilecek eşya standar- ihraş\" ne demek?",
+      "cevap": "Bedelsiz olarak ihraç edilecek eşya standar- ihraş ürününün tamamını ya da bir kısmını dizasyon kontrolüne tabidir. —— üreten, belgede kayıtlı ancak belge sahibi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"İhracında Destekleme ve Fiyat İstikrar Fo- olmayan\" ne demek?",
+      "cevap": "İhracında Destekleme ve Fiyat İstikrar Fo- olmayan firma nu'na prim kesintisi yapılan mallar bedelsiz Szİşlem görmüş drünün tamamını vaya Bİr olarak lragadilemez. Bek kısmını üreten ve bu ürünün ihracatını — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"İhracı ön izne bağlı bir mal ilgili merciin ön ken\" ne demek?",
+      "cevap": "İhracı ön izne bağlı bir mal ilgili merciin ön kendisi ve/veya aracı ihracatçı vasıtasıyla izni alınmak koşuluyla bedelsiz olarak ihraç gerçekleştiren dahilde işleme izin belgesi sdilabilir. sahibi firma — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"Aracı ihracatçı — Yan sanayici — İmalatçı zasyon u\" ne demek?",
+      "cevap": "Aracı ihracatçı — Yan sanayici — İmalatçı zasyon uygulamalarıyla ilgili olarak, 20/3/1958 ihracatçı tarihli “Tekerlekli Araçların, Araçlara Takılan — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"İhracatçı — Fason imalatçı — Belge sahibi velveya \" ne demek?",
+      "cevap": "İhracatçı — Fason imalatçı — Belge sahibi velveya Araçlarda Kullanılan Aksam ve Parça- firma ların Müşterek Teknik Talimatlarının Kabulü ve — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"Aracı ihracatçı — Fason imalatçı — Yan Bu Talimatl\" ne demek?",
+      "cevap": "Aracı ihracatçı — Fason imalatçı — Yan Bu Talimatlar Temelinde Verilen Onayların sanayici Karşılıklı Tanınması Koşullarına Dair Anlaşma” — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"İhracatçı — İmalatçı ihracatçı - Yan sanayici kaps\" ne demek?",
+      "cevap": "İhracatçı — İmalatçı ihracatçı - Yan sanayici kapsamında verilen ve otomotiv ürünlerinin — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"İthalatın belirli süreyle durdurulması\" ne demek?",
+      "cevap": "İthalatın belirli süreyle durdurulması — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"Tarife kontenjanı uygulanması TV ithalatı\" ne demek?",
+      "cevap": "Tarife kontenjanı uygulanması TV ithalatı — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"Gümrük vergisinde artış yapılması\" ne demek?",
+      "cevap": "Gümrük vergisinde artış yapılması — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"Miktar/değer kısıtlamasına gidilmesi üzere buğday \" ne demek?",
+      "cevap": "Miktar/değer kısıtlamasına gidilmesi üzere buğday ithalatı 44- — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"Hariçte İşleme İzin Belgesi/Hariçte İşleme İzin al\" ne demek?",
+      "cevap": "Hariçte İşleme İzin Belgesi/Hariçte İşleme İzin alan tüm ürünlere uygulanır. süresi azami 12 aydır. Ayrıca, ek süre verile- — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"Hariçte İşleme İzin Belgesi/Hariçte İşleme İzin To\" ne demek?",
+      "cevap": "Hariçte İşleme İzin Belgesi/Hariçte İşleme İzin Topluluğu (AKÇT) ürünleri hariç) yer alan süresi azami 12 aydır. Ayrıca, ilgilinin gerek- Gümrük Birliği kapsamındaki eşyaya uygu- çeli talebi üzerine ek süre verilebilir. lanır. — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"İthalat Rejimi Kararı Eki tüm listelerde yer Hariç\" ne demek?",
+      "cevap": "İthalat Rejimi Kararı Eki tüm listelerde yer Hariçte İşleme İzin süresi azami 12 aydır. alan tüm ürünlere uygulanır. Ayrıca ek süre verilemez. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"Hariçte İşleme İzin Belgesi süresi azami 6 ay, fas\" ne demek?",
+      "cevap": "Hariçte İşleme İzin Belgesi süresi azami 6 ay, fasılları dışındaki tüm ürünlere uygulanır. Hariçte İşleme İzin süresi azami 12 aydır. — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"Uygunluk Belgesi —\" ne demek?",
+      "cevap": "Uygunluk Belgesi — — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"ACAP Belgesi\" ne demek?",
+      "cevap": "ACAP Belgesi — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"GMP Belgesi\" ne demek?",
+      "cevap": "GMP Belgesi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"Menşe Şahadetnamesi\" ne demek?",
+      "cevap": "Menşe Şahadetnamesi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"15\" ne demek?",
+      "cevap": "15 — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"30 C)45\" ne demek?",
+      "cevap": "30 C)45 — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"Gelişmekte olan ülkelere teknik yardımda izni vere\" ne demek?",
+      "cevap": "Gelişmekte olan ülkelere teknik yardımda izni veren İhracatçı Birlikleri Genel Sekreter- bulunma liğine ve aracı bankaya kaç gün içinde bildir- — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"60 -15-\" ne demek?",
+      "cevap": "60 -15- — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"30 B)45\" ne demek?",
+      "cevap": "30 B)45 — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"Romanya\" ne demek?",
+      "cevap": "Romanya — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"60\" ne demek?",
+      "cevap": "60 — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"90\" ne demek?",
+      "cevap": "90 — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"Uygunluk Belgesi\" ne demek?",
+      "cevap": "Uygunluk Belgesi — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"Teknik Belge kutusuna anlaşmaya taraf olmayan ülke\" ne demek?",
+      "cevap": "Teknik Belge kutusuna anlaşmaya taraf olmayan ülkeler- — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"Kontrol Belgesi den birinin yazılması\" ne demek?",
+      "cevap": "Kontrol Belgesi den birinin yazılması — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"EUR.1 Dolaşım Sertifikasının yetkili olmayan bir m\" ne demek?",
+      "cevap": "EUR.1 Dolaşım Sertifikasının yetkili olmayan bir makam tarafından onaylanması — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"100 B)1000 — C)1200 —\" ne demek?",
+      "cevap": "100 B)1000 — C)1200 — — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"Orijinal bağırsak\" ne demek?",
+      "cevap": "Orijinal bağırsak — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"Ham lületaşı ve taslak pipo\" ne demek?",
+      "cevap": "Ham lületaşı ve taslak pipo — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"Nükleer Tedarikçiler Grubu kapsamındaki\" ne demek?",
+      "cevap": "Nükleer Tedarikçiler Grubu kapsamındaki — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"2/69 sayılı Ortaklık Konseyi Kararı\" ne demek?",
+      "cevap": "2/69 sayılı Ortaklık Konseyi Kararı — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"Ankara Anlaşması\" ne demek?",
+      "cevap": "Ankara Anlaşması — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"Roma Anlaşması\" ne demek?",
+      "cevap": "Roma Anlaşması — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"Helsinki Kararı\" ne demek?",
+      "cevap": "Helsinki Kararı — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
+    },
+    {
+      "soru": "0. soru - A seçeneği: \"Moğolistan\" ne demek?",
+      "cevap": "Moğolistan — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "A"
+    },
+    {
+      "soru": "0. soru - B seçeneği: \"Çad\" ne demek?",
+      "cevap": "Çad — Bu doğru cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "B"
+    },
+    {
+      "soru": "0. soru - C seçeneği: \"Şili\" ne demek?",
+      "cevap": "Şili — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "C"
+    },
+    {
+      "soru": "0. soru - D seçeneği: \"Tunus CEVAPLARINIZI KONTROL EDİNİZ. -16-\" ne demek?",
+      "cevap": "Tunus CEVAPLARINIZI KONTROL EDİNİZ. -16- — Bu yanlış cevaptır.",
+      "kategori": "Gumruk Musavirligi 2006 Secenek Aciklamasi",
+      "soruNumarasi": 0,
+      "secenek": "D"
     }
   ]
 }
