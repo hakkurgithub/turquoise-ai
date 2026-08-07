@@ -1,0 +1,654 @@
+{
+  "dataset": [
+    {
+      "soru": "1. Götürü teminatla ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+      "cevap": "Doğru cevap: D) Götürü teminat mektuplarının vadesi en az 3 yıl olmalıdır.",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "Götürü teminat sisteminden, A ve B Sınıfı Onaylanmış Kişi Statüsüne sahip olan yükümlüler ile Müsteşarlıkça belirlenen şartları taşıyan antrepo işleticileri yararlanabilir.",
+        "B": "4760 sayılı Özel Tüketim Vergisi Kanununun eki (I) sayılı listede yer alan eşyanın ithaliyle ilgili Maliye Bakanlığınca yapılan düzenlemeler saklı kalmak kaydıyla, gümrük rejimlerine ilişkin tüm kamu alacakları için geçerlidir",
+        "C": "Götürü teminat sisteminden yararlanmak için verilecek teminat tutarı bir önceki yılda gümrük işlemleri nedeniyle teminat konusu olan toplam değerin %10’udur.",
+        "D": "Götürü teminat mektuplarının vadesi en az 3 yıl olmalıdır."
+      },
+      "dogruCevap": "D",
+      "dogruCevapMetni": "Götürü teminat mektuplarının vadesi en az 3 yıl olmalıdır."
+    },
+    {
+      "soru": "2. Aşağıda boş bırakılan yerlere gelmesi gereken ifadeler hangileridir?",
+      "cevap": "Doğru cevap: A) I- Satış bedeli, II- Fiilen ödenen veya ödenecek fiyat, III- Ödemeler toplamı",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "I- Satış bedeli, II- Fiilen ödenen veya ödenecek fiyat, III- Ödemeler toplamı",
+        "B": "I- Fiilen ödenen veya ödenecek fiyat, II- Satış bedeli, III-Fiyat",
+        "C": "I- Satış bedeli, II- Ödemeler toplamı, III- Fiilen ödenen veya ödenecek fiyat",
+        "D": "I- Ödemeler toplamı, II-Fiilen ödenen veya ödenecek fiyat, III- Satış bedeli -- 1 of 14 -- 2"
+      },
+      "dogruCevap": "A",
+      "dogruCevapMetni": "I- Satış bedeli, II- Fiilen ödenen veya ödenecek fiyat, III- Ödemeler toplamı"
+    },
+    {
+      "soru": "3. (İ) İthalatçısı yurt dışında yerleşik satıcı (X) firmasından eşya satın almıştır. Satış sözleşmesinde, fiyatın sonradan gözden geçirilmesini öngören hükümler bulunduğundan, (İ) firması istisnai kıymetle beyan hükümlerinden yararlanmak için gümrük idaresine başvurmuş ve talebi kabul edilmiştir. İthal anında mevcut belgelere göre kıymet tespiti yapılmıştır. Sözleşme hükümlerine göre nihai fiyat belirlendiğinde, bu fiyatın ithal anında beyan edilen fiyattan düşük olduğu anlaşılmıştır. Bu durumda aşağıdakilerden hangisi doğrudur?",
+      "cevap": "Doğru cevap: B) Fark kıymetin iade alındığının tevsiki, satış sözleşmesine göre kıymetin yeniden belirlenmesini gerektiren işleme ait belgenin onaylı örneğinin sunulması ve gümrük idaresince yapılacak inceleme sonucunda söz konusu hususların tespiti üzerine Gümrük Kanununun 211 inci maddesi çerçevesinde geri verme işlemi yapılır.",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "Gümrük idaresince tescil edilmiş olan beyanname, ait olduğu eşyanın vergileri ve para cezalarından dolayı taahhüt niteliğinde beyan sahibini bağlar ve gümrük vergileri tahakkukuna esas tutulur. Bu nedenle, ithal anında beyan edilen kıymet esas alınır ve herhangi bir iade söz konusu olmaz.",
+        "B": "Fark kıymetin iade alındığının tevsiki, satış sözleşmesine göre kıymetin yeniden belirlenmesini gerektiren işleme ait belgenin onaylı örneğinin sunulması ve gümrük idaresince yapılacak inceleme sonucunda söz konusu hususların tespiti üzerine Gümrük Kanununun 211 inci maddesi çerçevesinde geri verme işlemi yapılır.",
+        "C": "Yükümlünün bir dilekçe ile ilgili gümrük idaresine başvurarak satış sözleşmesine göre nihai olarak belirlenen kıymeti bildirmesi üzerine ve dilekçeye satıcı tarafından düzenlenmiş nihai kıymeti bildiren bir belgenin eklenmesi kaydıyla gümrük idaresince, Gümrük Kanununun 211 inci maddesine göre geri verme işlemi yapılır.",
+        "D": "Nihai kıymetin belirlenmesi üzerine, yükümlü tarafından ibraz edilecek ekspertiz raporu veya Yeminli Mali Müşavirden onaylı belgede kayıtlı kıymetler dikkate alınarak nihai kıymet tespiti yapılır."
+      },
+      "dogruCevap": "B",
+      "dogruCevapMetni": "Fark kıymetin iade alındığının tevsiki, satış sözleşmesine göre kıymetin yeniden belirlenmesini gerektiren işleme ait belgenin onaylı örneğinin sunulması ve gümrük idaresince yapılacak inceleme sonucunda söz konusu hususların tespiti üzerine Gümrük Kanununun 211 inci maddesi çerçevesinde geri verme işlemi yapılır."
+    },
+    {
+      "soru": "4. (İ) İthalatçısı yurt dışında yerleşik satıcı (X) firmasından bazı eşyalar satın almıştır. Alıcı ile satıcı arasındaki anlaşmaya göre, ithal eşyasının Türkiye’de çoğaltılması hakkı için, alıcı tarafından satıcıya, faturada belirtilen fiyata ilave olarak ayrıca, sözleşmede belirtilmiş miktarda lisans ücreti ödenmesi gerekmektedir. Bu ödeme ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+      "cevap": "Doğru cevap: C) Lisans ücreti ödemesi, ithal eşyasının Türkiye’de çoğaltılması hakkı için yapıldığından, fiilen ödenen veya ödenecek fiyata ilave edilecek unsurlar arasında değerlendirilmez.",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "Lisans ücreti ödemesi ithal eşyası ile ilgili olduğundan ve satış koşulu olarak yapıldığından, ithal eşyasının gümrük kıymetine dahildir.",
+        "B": "Lisans ücreti ödemesi, ithal eşyasının Türkiye’de çoğaltılması hakkı ile ilgili olduğundan, fiilen ödenen veya ödenecek fiyata ilave edilerek ithal eşyasının gümrük kıymetine dahil edilir.",
+        "C": "Lisans ücreti ödemesi, ithal eşyasının Türkiye’de çoğaltılması hakkı için yapıldığından, fiilen ödenen veya ödenecek fiyata ilave edilecek unsurlar arasında değerlendirilmez.",
+        "D": "Lisans ücreti ödemesi, ithal eşyasının fiilen ödenen veya ödenecek fiyatından ayırt edilemediğinden ve miktarı bilinemediğinden, ithal eşyasının gümrük kıymetine dahildir. -- 2 of 14 -- 3"
+      },
+      "dogruCevap": "C",
+      "dogruCevapMetni": "Lisans ücreti ödemesi, ithal eşyasının Türkiye’de çoğaltılması hakkı için yapıldığından, fiilen ödenen veya ödenecek fiyata ilave edilecek unsurlar arasında değerlendirilmez."
+    },
+    {
+      "soru": "5. Serbest dolaşıma giriş rejimi kapsamında gümrük gözetimi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "cevap": "Doğru cevap: B) Özel amaca yönelik kullanım nedeniyle indirimli veya sıfır vergi oranından yararlanarak serbest dolaşıma girmiş eşyanın gümrük gözetimi, nihai kullanım olarak kabul edilen üretim veya kullanım faaliyeti kapsamında devam eder.",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "Özel amaca yönelik kullanım nedeniyle indirimli veya sıfır vergi oranından yararlanarak serbest dolaşıma girmiş eşyanın gümrük gözetimi, nihai kullanım olarak kabul edilen üretim veya kullanım faaliyetiyle sona erer.",
+        "B": "Özel amaca yönelik kullanım nedeniyle indirimli veya sıfır vergi oranından yararlanarak serbest dolaşıma girmiş eşyanın gümrük gözetimi, nihai kullanım olarak kabul edilen üretim veya kullanım faaliyeti kapsamında devam eder.",
+        "C": "İndirimli veya sıfır vergi uygulamasına ilişkin koşulların sona erdiği, eşyanın indirimli veya sıfır vergi uygulaması için belirlenmiş amaçlar dışında kullanılması nedeniyle tahsili gereken vergilerin ödendiği hallerde gümrük gözetimi sona erer.",
+        "D": "Eşyanın ihraç veya imha edildiği hallerde gümrük gözetimi sona erer."
+      },
+      "dogruCevap": "B",
+      "dogruCevapMetni": "Özel amaca yönelik kullanım nedeniyle indirimli veya sıfır vergi oranından yararlanarak serbest dolaşıma girmiş eşyanın gümrük gözetimi, nihai kullanım olarak kabul edilen üretim veya kullanım faaliyeti kapsamında devam eder."
+    },
+    {
+      "soru": "6. Türkiye’ye ithali öngörülen her türlü izin veya uygunluk belgesine tabi eşya ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "cevap": "Doğru cevap: D) İlgili kurumlarca yapılacak kontroller, gümrük yükümlülüğü sona erdikten sonra Dış Ticaret Müsteşarlığı tarafından belirlenen yerlerde de yapılabilir",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "Tabi olduğu mevzuata uygunluğu tespit edilmek suretiyle ithal edilebilir",
+        "B": "İlgili kurumlarca yapılacak ithalat kontrollerinin gümrük beyannamesinin tescil işlemi öncesinde yapılması esastır",
+        "C": "İlgili kurumlarca yapılacak kontroller, gümrük yükümlülüğü sona erdikten sonra ve eşya gümrük kontrolündeki yer ve sahalardan çıkarılmadan önce de yapılabilir",
+        "D": "İlgili kurumlarca yapılacak kontroller, gümrük yükümlülüğü sona erdikten sonra Dış Ticaret Müsteşarlığı tarafından belirlenen yerlerde de yapılabilir"
+      },
+      "dogruCevap": "D",
+      "dogruCevapMetni": "İlgili kurumlarca yapılacak kontroller, gümrük yükümlülüğü sona erdikten sonra Dış Ticaret Müsteşarlığı tarafından belirlenen yerlerde de yapılabilir"
+    },
+    {
+      "soru": "7. Gümrük mevzuatına göre elleçleme ile ilgili olarak aşağıdaki ifadelerden hangisi yanlıştır?",
+      "cevap": "Doğru cevap: B) Piyasa düzeninin aksamadan işleyişini sağlamak amacıyla, tarım ve sanayi ürünlerinin antrepolarda tabi tutulacağı elleçleme işlemleri Gümrük Müsteşarlığınca sınırlandırılabilir.",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "İthal eşyası, iyi korunmaları, görünüşlerinin veya pazarlama kalitelerinin geliştirilmesi ya da dağıtım veya yeniden satışa hazırlanmaları yönünden yönetmelikle belirlenen mutat elleçleme işlemlerine tabi tutulabilir.",
+        "B": "Piyasa düzeninin aksamadan işleyişini sağlamak amacıyla, tarım ve sanayi ürünlerinin antrepolarda tabi tutulacağı elleçleme işlemleri Gümrük Müsteşarlığınca sınırlandırılabilir.",
+        "C": "Elleçleme işlemleri, ancak gümrük idarelerinin izniyle yapılabilir",
+        "D": "Antrepo rejimine tabi tutulan eşya, gümrük idarelerinden izin alınmak şartıyla geçici olarak gümrük antreposundan çıkarılabilir. Eşya gümrük antreposu dışında bulunduğu süre içinde belirli şartlar altında elleçleme işlemlerine tabi tutulabilir. -- 3 of 14 -- 4"
+      },
+      "dogruCevap": "B",
+      "dogruCevapMetni": "Piyasa düzeninin aksamadan işleyişini sağlamak amacıyla, tarım ve sanayi ürünlerinin antrepolarda tabi tutulacağı elleçleme işlemleri Gümrük Müsteşarlığınca sınırlandırılabilir."
+    },
+    {
+      "soru": "8. Gümrük mevzuatına göre aşağıdaki ifadelerden hangisi yanlıştır?",
+      "cevap": "Doğru cevap: A) Antrepolarda yapılan sayım sonucunda noksan çıkan eşyanın gümrük vergileri, her zaman işleticiden tahsil edilir.",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "Antrepolarda yapılan sayım sonucunda noksan çıkan eşyanın gümrük vergileri, her zaman işleticiden tahsil edilir.",
+        "B": "Antrepoda yapılan sayım sonucunda fazla çıkan eşya kayıtlara alınır. Bu fazlalığın geçerli nedenlerden ileri geldiğine gümrük idaresince kanaat getirilmediği takdirde, söz konusu eşya tasfiyeye tabi tutulur.",
+        "C": "İthal eşyasının elleçleme işlemlerine tabi tutulması halinde, eşyanın ithalat vergileri tutarının belirlenmesinde dikkate alınacak niteliği, gümrük kıymeti ve miktarı, beyan sahibinin talebi üzerine, gümrük yükümlülüğünün doğduğu tarihte, eşya söz konusu elleçleme işlemlerine tabi tutulmamış gibi tespit edilir.",
+        "D": "İthal eşyası için bir gümrük yükümlülüğü doğduğunda, eşyanın antrepo masrafları ile antrepoda kaldığı sürece muhafazası için yapılan masraflar, fiilen ödenen veya ödenecek fiyattan ayrı olarak gösterilmeleri şartıyla gümrük kıymetine dahil edilmez."
+      },
+      "dogruCevap": "A",
+      "dogruCevapMetni": "Antrepolarda yapılan sayım sonucunda noksan çıkan eşyanın gümrük vergileri, her zaman işleticiden tahsil edilir."
+    },
+    {
+      "soru": "9. Gümrük kontrolü altında işleme rejiminde (beklenmeyen hal ve mücbir sebepler nedeniyle verilebilecek ek süreler hariç) belirlenebilecek azami süre ne kadardır?",
+      "cevap": "Doğru cevap: C) 2 yıl",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "6 ay",
+        "B": "1 yıl",
+        "C": "2 yıl",
+        "D": "3 yıl"
+      },
+      "dogruCevap": "C",
+      "dogruCevapMetni": "2 yıl"
+    },
+    {
+      "soru": "10. Basitleştirilmiş usullerden yararlanacak kişilere verilen Onaylanmış Kişi Statü Belgesine ilişkin aşağıdakilerden hangisi doğrudur?",
+      "cevap": "Doğru cevap: C) A, B ve C Sınıfı Onaylanmış Kişi Statü Belgesine sahip olanlar, eksik bilgi ve/veya belge ile beyan uygulamasından yararlanabilmektedirler.",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "Onaylanmış Kişi Statü Belgesinin geçerlilik süresi, belge düzenleme tarihi itibariyle 3 (üç) yıldır.",
+        "B": "A, B ve C Sınıfı Onaylanmış Kişi Statü Belgesine sahip olanlar Gümrük Yönetmeliğinin 207 nci maddesi çerçevesinde “basitleştirilmiş kontrol” uygulamasından yararlanabilmektedirler.",
+        "C": "A, B ve C Sınıfı Onaylanmış Kişi Statü Belgesine sahip olanlar, eksik bilgi ve/veya belge ile beyan uygulamasından yararlanabilmektedirler.",
+        "D": "Eşyanın ilgili rejime geçişinin kayıt yoluyla yapılması uygulamasından B Sınıfı Onaylanmış Kişi Statü Belgesine sahip olanlar yararlanabilmektedirler. -- 4 of 14 -- 5"
+      },
+      "dogruCevap": "C",
+      "dogruCevapMetni": "A, B ve C Sınıfı Onaylanmış Kişi Statü Belgesine sahip olanlar, eksik bilgi ve/veya belge ile beyan uygulamasından yararlanabilmektedirler."
+    },
+    {
+      "soru": "11. Aşağıdakilerden hangisi, basitleştirilmiş usullere ilişkin genel ve özel koşullar aranmaksızın basitleştirilmiş beyan usulünden yararlanacak eşyadan değildir?",
+      "cevap": "Doğru cevap: C) Kara yolu ile kargo yoluyla taşınan ticari mahiyet arz etmeyen ve/veya gümrük vergisinden muaf eşya.",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "Türkiye Atom Enerjisi Kurumunun uygunluk yazısının ibrazı şartıyla radyoaktif maddeler.",
+        "B": "İnsan ve hayvan sağlığı ile ilgili her türlü aşılar.",
+        "C": "Kara yolu ile kargo yoluyla taşınan ticari mahiyet arz etmeyen ve/veya gümrük vergisinden muaf eşya.",
+        "D": "Yurt dışında periyodik olarak yayımlanan gazete ve dergiler ile bunların elektronik ortamda muhafaza edildiği materyaller."
+      },
+      "dogruCevap": "C",
+      "dogruCevapMetni": "Kara yolu ile kargo yoluyla taşınan ticari mahiyet arz etmeyen ve/veya gümrük vergisinden muaf eşya."
+    },
+    {
+      "soru": "12. Dahilde işleme rejimine ilişkin ihracat taahhüdü ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+      "cevap": "Doğru cevap: A) Dahilde işleme rejimi kapsamında elde edilen işlem görmüş ürünün serbest bölgelere ihraç edilmesi ihracat taahhüdünün kapatılması açısından yeterlidir.",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "Dahilde işleme rejimi kapsamında elde edilen işlem görmüş ürünün serbest bölgelere ihraç edilmesi ihracat taahhüdünün kapatılması açısından yeterlidir.",
+        "B": "Belge ihracat taahhüdünü kapatmak için en geç belge süresi sonundan itibaren 3 (üç) ay içerisinde İhracatçı Birlikleri Genel Sekreterliğine; Dahilde İşleme İzni ihracat taahhüdünü kapatmak için en geç izin süresi sonundan itibaren 1 (bir) ay içerisinde ilgili gümrük idaresine müracaat edilmesi gerekir.",
+        "C": "Kapatma müracaatı yapmayan firmaların belgeleri/izinleri resen kapatılır.",
+        "D": "Dahilde İşleme İzin şartlarına göre ithal edilen eşyanın ihraç edildiğinin tespiti kaydıyla, izin ihracat taahhüdü izni veren gümrük idaresince kapatılır."
+      },
+      "dogruCevap": "A",
+      "dogruCevapMetni": "Dahilde işleme rejimi kapsamında elde edilen işlem görmüş ürünün serbest bölgelere ihraç edilmesi ihracat taahhüdünün kapatılması açısından yeterlidir."
+    },
+    {
+      "soru": "13. Tedarikçi beyanının doğruluğu hangi belge ile ispatlanır?",
+      "cevap": "Doğru cevap: A) INF 4 Belgesi",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "INF 4 Belgesi",
+        "B": "INF 2 Belgesi",
+        "C": "INF 3 Belgesi",
+        "D": "Menşe şahadetnamesi"
+      },
+      "dogruCevap": "A",
+      "dogruCevapMetni": "INF 4 Belgesi"
+    },
+    {
+      "soru": "14. Türkiye ile AB arasındaki tarım ürünleri ticaretinde tercihli rejimden faydalanmak için ibraz edilmesi gereken belge hangisidir?",
+      "cevap": "Doğru cevap: A) EUR. 1 Dolaşım Sertifikası",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "EUR. 1 Dolaşım Sertifikası",
+        "B": "A.TR Dolaşım Belgesi",
+        "C": "Form A Menşe şahadetnamesi",
+        "D": "Tedarikçi Beyanı -- 5 of 14 -- 6"
+      },
+      "dogruCevap": "A",
+      "dogruCevapMetni": "EUR. 1 Dolaşım Sertifikası"
+    },
+    {
+      "soru": "15. TIR karnelerinin geçerlilik süreleri ne kadardır?",
+      "cevap": "Doğru cevap: D) Kefil kuruluş tarafından belirlenir",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "1 ay",
+        "B": "3 ay",
+        "C": "6 ay",
+        "D": "Kefil kuruluş tarafından belirlenir"
+      },
+      "dogruCevap": "D",
+      "dogruCevapMetni": "Kefil kuruluş tarafından belirlenir"
+    },
+    {
+      "soru": "16. Teslim şekilleri ile ilgili olarak, aşağıdaki tablodaki I ve II numaralı sütunların doğru eşleşmesini gösteren cevap seçeneği hangisidir?",
+      "cevap": "Doğru cevap: C) I-D, II-C, III-B, IV-A",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "I-C, II-D, III-A, IV-B",
+        "B": "I-D, II-B, III-C, IV-A",
+        "C": "I-D, II-C, III-B, IV-A",
+        "D": "I-C, II-A, III-D, IV-B"
+      },
+      "dogruCevap": "C",
+      "dogruCevapMetni": "I-D, II-C, III-B, IV-A"
+    },
+    {
+      "soru": "17. Aşağıdakilerden hangisi Türkiye’nin Genelleştirilmiş Tercihler Sistemi rejiminin özelliklerinden biri değildir?",
+      "cevap": "Doğru cevap: A) Gümrük vergisi tavizlerinin karşılıklı olması",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "Gümrük vergisi tavizlerinin karşılıklı olması",
+        "B": "Tavizlerin verilişlerinin bağlayıcı olmaması",
+        "C": "Tercihlerin kısmen veya tümüyle kaldırılabilmesi",
+        "D": "Tek taraflı veya uluslararası müzakereler sonucunda yapılacak en çok kayrılan ülke esasına dayalı tarife indirimlerini engelleyici olmaması"
+      },
+      "dogruCevap": "A",
+      "dogruCevapMetni": "Gümrük vergisi tavizlerinin karşılıklı olması"
+    },
+    {
+      "soru": "18. İthalat Rejimi kapsamında aşağıdakilerden hangisi uyarınca bir malın ithali yasaklanabilir ?",
+      "cevap": "Doğru cevap: C) Kamu ahlakı, kamu düzeni, kamu güvenliği, insan, hayvan ve bitki sağlık ve hayatlarının korunması",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "Yerli sanayiciyi korumak",
+        "B": "Döviz kaynaklarını korumak",
+        "C": "Kamu ahlakı, kamu düzeni, kamu güvenliği, insan, hayvan ve bitki sağlık ve hayatlarının korunması",
+        "D": "Ekonomik dengeleri düzeltmek"
+      },
+      "dogruCevap": "C",
+      "dogruCevapMetni": "Kamu ahlakı, kamu düzeni, kamu güvenliği, insan, hayvan ve bitki sağlık ve hayatlarının korunması"
+    },
+    {
+      "soru": "19. Avrupa Birliği ile oluşturulan Gümrük Birliğinin sağlıklı bir şekilde işlemesini teminen, aşağıdaki ilkelerden hangisine göre İthalat Politikaları belirlenmemektedir?",
+      "cevap": "Doğru cevap: B) Farklılık",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "Serbestlik",
+        "B": "Farklılık",
+        "C": "Basitlik",
+        "D": "Açıklık -- 6 of 14 -- 7"
+      },
+      "dogruCevap": "B",
+      "dogruCevapMetni": "Farklılık"
+    },
+    {
+      "soru": "20. Finansal Kiralama yoluyla yapılacak ithalat için hangi kuruma başvuru yapılır ?",
+      "cevap": "Doğru cevap: D) Bankacılık Düzenleme ve Denetleme Kurulu",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "Sanayi ve Ticaret Bakanlığı",
+        "B": "Dış Ticaret Müsteşarlığı",
+        "C": "Hazine Müsteşarlığı",
+        "D": "Bankacılık Düzenleme ve Denetleme Kurulu"
+      },
+      "dogruCevap": "D",
+      "dogruCevapMetni": "Bankacılık Düzenleme ve Denetleme Kurulu"
+    },
+    {
+      "soru": "21. Firmaların mal ve hizmet satışlarından doğmuş veya doğacak vadeli, fatura veya fatura yerine geçen bir belgeye dayanan alacakların (çek, senet) bir şirket tarafından temlik alınması yoluyla, finansman, garanti ve tahsilat hizmetlerinin sunulduğu finansal ürün aşağıdakilerden hangisidir ?",
+      "cevap": "Doğru cevap: C) Factoring",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "Aval",
+        "B": "Swap",
+        "C": "Factoring",
+        "D": "Switch"
+      },
+      "dogruCevap": "C",
+      "dogruCevapMetni": "Factoring"
+    },
+    {
+      "soru": "22. Kamu kurum ve kuruluşları, kamu ortaklıkları ve kamu iştirakleri tarafından açılan uluslar arası ihaleler neticesinde, ihalelerin açıldığı ülkeden çıkacak dövizi telafi etmek ve bu ülkelerin ihracat potansiyelini arttırmak amacıyla, ihaleyi kazanan yabancı firma tarafından ana ihale anlaşmasına ek olarak verilen taahhütler ve endüstriyel işbirliğine ne denir ?",
+      "cevap": "Doğru cevap: A) Offset",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "Offset",
+        "B": "Takas",
+        "C": "Bağlı Muamele",
+        "D": "Ticari Kiralama"
+      },
+      "dogruCevap": "A",
+      "dogruCevapMetni": "Offset"
+    },
+    {
+      "soru": "23. İhracat bedeli dövizlerin yurda getirilmesine ilişkin olarak,Türk Parası Kıymetini Koruma Hakkında 32 Sayılı Kararda Değişiklik Yapılmasına Dair,8 ıubat 2008 tarihli ve 26781 sayılı Resmi Gazete’de yayımlanarak yürürlüğe girmiş bulunan Bakanlar Kurulu Kararı’yla;",
+      "cevap": "Doğru cevap: B) İhracat bedellerinin tasarrufu serbesttir.",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "İhracat bedellerinin %50’sinin,90 gün içinde yurda getirilmesi zorunludur",
+        "B": "İhracat bedellerinin tasarrufu serbesttir.",
+        "C": "İhracat bedellerinin %50’sinin,180 gün içinde yurda getirilmesi zorunludur",
+        "D": "İhracat bedellerinin %50’sinin tasarrufu serbesttir"
+      },
+      "dogruCevap": "B",
+      "dogruCevapMetni": "İhracat bedellerinin tasarrufu serbesttir."
+    },
+    {
+      "soru": "24. Ticari kiralama yoluyla yapılacak ihracata ilişkin 12/07/2008 tarihli ve 26934 sayılı Resmi Gazete’de yayımlanan ihracat 2008/9 sayılı tebliğ ile;ihracat 2006/3 sayılı tebliğe ilişkin olarak;",
+      "cevap": "Doğru cevap: A) İhracat 2006/3 sayılı Tebliğ yürürlükten kaldırılmıştır.",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "İhracat 2006/3 sayılı Tebliğ yürürlükten kaldırılmıştır.",
+        "B": "İhracat 2006/3 sayılı Tebliğ’de belirtilen süreler 6 ay uzatılmıştır.",
+        "C": "İhracat 2006/3 sayılı Tebliğ’de belirtilen süreler 9 ay uzatılmıştır.",
+        "D": "İhracat 2006/3 sayılı Tebliğ’de belirtilen süreler 12 ay uzatılmıştır -- 7 of 14 -- 8"
+      },
+      "dogruCevap": "A",
+      "dogruCevapMetni": "İhracat 2006/3 sayılı Tebliğ yürürlükten kaldırılmıştır."
+    },
+    {
+      "soru": "25. Katma Değer Vergisi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "cevap": "Doğru cevap: C) İthalat sırasında ödenen her türlü vergi, resim, harç ve paylar matraha dahildir.",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "Katma Değer Vergisi Kanununa göre genel vergi oranı % 8’dir.",
+        "B": "Diğer kanunlardaki istisna hükümleri bu vergi bakımından da geçerlidir.",
+        "C": "İthalat sırasında ödenen her türlü vergi, resim, harç ve paylar matraha dahildir.",
+        "D": "İlk iktisabında veya ithalinde KDV ödenen malların daha sonraki teslimlerinde vergi uygulanmaz."
+      },
+      "dogruCevap": "C",
+      "dogruCevapMetni": "İthalat sırasında ödenen her türlü vergi, resim, harç ve paylar matraha dahildir."
+    },
+    {
+      "soru": "26. Özel Tüketim Vergisi Kanununa ekli (II) sayılı listedeki kayıt ve tescile tâbi mallardan, münhasıran aracı sakatlığına uygun hareket ettirici özel tertibatı bulunanların malûl ve sakatlar tarafından bizzat kullanılmak üzere ithalinde kaç yıllık sürede bir muafiyet hakkı verilmiştir?",
+      "cevap": "Doğru cevap: D) 5",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "dogruCevap": "D",
+      "dogruCevapMetni": "5"
+    },
+    {
+      "soru": "27. Özel Tüketim Vergisi Kanununa göre aşağıdakilerden hangisinde ihracat istisnası uygulanması mümkün değildir?",
+      "cevap": "Doğru cevap: C) Malın ihraç edilmeden önce yurt dışındaki alıcı adına hareket edenlere veya bizzat alıcıya işlenmek ya da herhangi bir şekilde değerlendirilmek üzere yurt içinde teslim edilmesi halinde.",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "Teslimin yurtdışındaki bir müşteriye yapılmış olması halinde.",
+        "B": "Teslim konusu malın, Türkiye Cumhuriyeti Gümrük Bölgesinden çıkmış olması halinde.",
+        "C": "Malın ihraç edilmeden önce yurt dışındaki alıcı adına hareket edenlere veya bizzat alıcıya işlenmek ya da herhangi bir şekilde değerlendirilmek üzere yurt içinde teslim edilmesi halinde.",
+        "D": "Teslimin, yurt içinde bulunan bir işletmenin yurt dışında faaliyet gösteren şubesine yapılması halinde."
+      },
+      "dogruCevap": "C",
+      "dogruCevapMetni": "Malın ihraç edilmeden önce yurt dışındaki alıcı adına hareket edenlere veya bizzat alıcıya işlenmek ya da herhangi bir şekilde değerlendirilmek üzere yurt içinde teslim edilmesi halinde."
+    },
+    {
+      "soru": "28. Aşağıdaki transit taşımalardan hangisinde teminat aranmaz?",
+      "cevap": "Doğru cevap: D) Serbest dolaşımda bulunmayan eşyanın TIR Karnesi ile yurtdışı edilmek üzere bir sınır gümrük idaresine transitinde -- 8 of 14 -- 9",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "Denizyolu ile gelen serbest dolaşımda bulunmayan eşyanın karayolu ile bir iç gümrük idaresine transitinde",
+        "B": "Serbest dolaşımda bulunmayan “Motorin” cinsi eşyanın demiryolu ile transitinde",
+        "C": "Geçici depolama yerinden çıkartılan serbest dolaşımda bulunmayan eşyanın yurtdışı edilmek üzere bir sınır gümrük idaresine transitinde",
+        "D": "Serbest dolaşımda bulunmayan eşyanın TIR Karnesi ile yurtdışı edilmek üzere bir sınır gümrük idaresine transitinde -- 8 of 14 -- 9"
+      },
+      "dogruCevap": "D",
+      "dogruCevapMetni": "Serbest dolaşımda bulunmayan eşyanın TIR Karnesi ile yurtdışı edilmek üzere bir sınır gümrük idaresine transitinde -- 8 of 14 -- 9"
+    },
+    {
+      "soru": "29. Aşağıda yer alan eşyadan hangisinin “zati eşya” kapsamında ithali mümkün değildir?",
+      "cevap": "Doğru cevap: C) Keçi",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "37 ekran televizyon",
+        "B": "Köpek",
+        "C": "Keçi",
+        "D": "Diz üstü bilgisayar"
+      },
+      "dogruCevap": "C",
+      "dogruCevapMetni": "Keçi"
+    },
+    {
+      "soru": "30. 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun uyarınca özel kanunlarında ödeme zamanı belirlenmemiş amme alacakları tebliğinden itibaren ne kadar süre içinde ödenmesi gerekir?",
+      "cevap": "Doğru cevap: C) 1 ay",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "7 gün",
+        "B": "10 gün",
+        "C": "1 ay",
+        "D": "2 ay"
+      },
+      "dogruCevap": "C",
+      "dogruCevapMetni": "1 ay"
+    },
+    {
+      "soru": "31. Aşağıdakilerden hangisi A.TR Dolaşım Belgelerinin “teknik nedenlerle kabul edilmeme” gerekçelerinden biri değildir?",
+      "cevap": "Doğru cevap: D) A.TR Dolaşım Belgesinin ticari mahiyette olmayan bir yolcu eşyasına düzenlenmiş olması",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "A.TR Dolaşım Belgesinin yeşil meneviş desenli zemin üzerine basılmamış olması",
+        "B": "A.TR Dolaşım Belgesinin 12 no.lu kutusunun mühürlenip imzalanmaması",
+        "C": "A.TR Dolaşım Belgesinin yetkili olmayan bir makam tarafından onaylanması",
+        "D": "A.TR Dolaşım Belgesinin ticari mahiyette olmayan bir yolcu eşyasına düzenlenmiş olması"
+      },
+      "dogruCevap": "D",
+      "dogruCevapMetni": "A.TR Dolaşım Belgesinin ticari mahiyette olmayan bir yolcu eşyasına düzenlenmiş olması"
+    },
+    {
+      "soru": "32. Yürürlükteki İthalat Rejimi Kararı eki eşya listeleri ile ilgili olarak aşağıda belirtilen ifadelerden hangisi doğrudur?",
+      "cevap": "Doğru cevap: A) I sayılı liste, tarım ürünlerini; II sayılı liste, sanayi mallarını; III sayılı liste, işlenmiş tarım ürünlerini; IV sayılı liste, balık ve diğer su ürünlerini; V sayılı liste, gümrük vergisi askıya alınan ürünleri içermektedir.",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "I sayılı liste, tarım ürünlerini; II sayılı liste, sanayi mallarını; III sayılı liste, işlenmiş tarım ürünlerini; IV sayılı liste, balık ve diğer su ürünlerini; V sayılı liste, gümrük vergisi askıya alınan ürünleri içermektedir.",
+        "B": "I sayılı liste, sanayi mallarını; II sayılı liste, tarım ürünlerini; III sayılı liste, işlenmiş tarım ürünlerini; IV sayılı liste, balık ve diğer su ürünlerini; V sayılı liste, gümrük vergisi askıya alınan ürünleri içermektedir.",
+        "C": "I sayılı liste, tarım ürünlerini; II sayılı liste, sanayi mallarını; III sayılı liste, işlenmiş tarım ürünlerini; IV sayılı liste, gümrük vergisi askıya alınan ürünleri; V sayılı liste, balık ve diğer su ürünlerini içermektedir.",
+        "D": "I sayılı liste, işlenmiş tarım ürünlerini; II sayılı liste, sanayi mallarını; III sayılı liste, tarım ürünlerini; IV sayılı liste, balık ve diğer su ürünlerini; V sayılı liste, gümrük vergisi askıya alınan ürünleri içermektedir. -- 9 of 14 -- 10"
+      },
+      "dogruCevap": "A",
+      "dogruCevapMetni": "I sayılı liste, tarım ürünlerini; II sayılı liste, sanayi mallarını; III sayılı liste, işlenmiş tarım ürünlerini; IV sayılı liste, balık ve diğer su ürünlerini; V sayılı liste, gümrük vergisi askıya alınan ürünleri içermektedir."
+    },
+    {
+      "soru": "33. 4703 sayılı Ürünlere İlişkin Teknik Mevzuatın Hazırlanması ve Uygulanmasına Dair Kanun (Çerçeve Kanun) ile ilgili uygulama usul ve esaslarını belirleyen yönetmelikler arasında aşağıdaki yönetmeliklerden hangisi yer almaz?",
+      "cevap": "Doğru cevap: C) Dış Ticarette Teknik Düzenlemeler ve Standardizasyon Yönetmeliği",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "Ürünlerin Piyasa Gözetimi ve Denetimine Dair Yönetmelik",
+        "B": "CE Uygunluk İşaretinin Ürüne İliştirilmesine ve Kullanılmasına Dair Yönetmelik",
+        "C": "Dış Ticarette Teknik Düzenlemeler ve Standardizasyon Yönetmeliği",
+        "D": "Uygunluk Değerlendirme Kuruluşları ile Onaylanmış Kuruluşlara Dair Yönetmelik"
+      },
+      "dogruCevap": "C",
+      "dogruCevapMetni": "Dış Ticarette Teknik Düzenlemeler ve Standardizasyon Yönetmeliği"
+    },
+    {
+      "soru": "34. Aşağıdakilerden hangisi “Kayda Bağlı” ihracat şekli için doğru bir ifade değildir?",
+      "cevap": "Doğru cevap: B) Kayda bağlı olarak ihraç edilen eşyanın fiili ihraç tarihinden itibaren 1 yıl içinde kesin satışının yapılması gereklidir.",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "Kayda bağlı ihracat gümrük beyannamesinin, ihracattan önce İhracatçı Birlikleri Genel Sekreterliğince kayda alındığı ihracat şeklidir",
+        "B": "Kayda bağlı olarak ihraç edilen eşyanın fiili ihraç tarihinden itibaren 1 yıl içinde kesin satışının yapılması gereklidir.",
+        "C": "Kayda bağlı ihracatta ihracatçılar, gümrük beyannamesi ile birlikte kayıt için İhracatçı Birliklerine müracaat ederler.",
+        "D": "İhracatçı Birliklerinin onaylayıp kayıt meşruhatı verdiği beyannamelerin 30 gün içinde gümrük idarelerine verilmesi gereklidir."
+      },
+      "dogruCevap": "B",
+      "dogruCevapMetni": "Kayda bağlı olarak ihraç edilen eşyanın fiili ihraç tarihinden itibaren 1 yıl içinde kesin satışının yapılması gereklidir."
+    },
+    {
+      "soru": "35. Aşağıdakilerden hangisi gümrük mevzuatının fikri ve sınai mülkiyet haklarının korunmasına ilişkin hükümlerine göre doğrudur?",
+      "cevap": "Doğru cevap: B) Fikri ve sınai mülkiyet haklarının ihlal edildiği gerekçesi ile gümrük idaresine yapılan başvurunun kabul edildiği tarihte şikayet konusu eşya serbest dolaşıma girmiş ise, söz konusu durum hak sahibince gümrük idaresinden tazminat alma hakkı doğurmaz.",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "Gümrük idareleri hak sahibinin geçerli bir başvuruda bulunmasını teminen 10 iş günü boyunca sahte olduğu tespit edilen eşyanın işlemlerini durdurmaya ve eşyaya el koymaya yetkilidirler.",
+        "B": "Fikri ve sınai mülkiyet haklarının ihlal edildiği gerekçesi ile gümrük idaresine yapılan başvurunun kabul edildiği tarihte şikayet konusu eşya serbest dolaşıma girmiş ise, söz konusu durum hak sahibince gümrük idaresinden tazminat alma hakkı doğurmaz.",
+        "C": "Gümrük idaresi eşya ve sahibi hakkındaki tüm bilgileri talepte bulunan hak sahibine verir.",
+        "D": "Gümrük idaresi sahte veya taklit eşya tanımına uyan eşyanın gümrük işlemlerini durdurup, durumu eşya ve başvuru sahibine 3 iş günü içerisinde bildirir."
+      },
+      "dogruCevap": "B",
+      "dogruCevapMetni": "Fikri ve sınai mülkiyet haklarının ihlal edildiği gerekçesi ile gümrük idaresine yapılan başvurunun kabul edildiği tarihte şikayet konusu eşya serbest dolaşıma girmiş ise, söz konusu durum hak sahibince gümrük idaresinden tazminat alma hakkı doğurmaz."
+    },
+    {
+      "soru": "36. Aşağıdaki fiillerden hangisi kaçakçılık fiili değildir?",
+      "cevap": "Doğru cevap: D) İthali ticaret politikası önlemlerine tabi olan eşyayı dahilde işleme rejimi kapsamında ülkeye sokmak, -- 10 of 14 -- 11",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "Eşyayı, gümrük işlemlerine tâbi tutmaksızın Türkiye’ye ithal etmek,",
+        "B": "Transit rejimi çerçevesinde taşınan serbest dolaşımda bulunmayan eşyayı, rejim hükümlerine aykırı olarak gümrük bölgesinde bırakmak,",
+        "C": "İhracı kanun gereği yasak olan eşyayı Türkiye’den ihraç etmek,",
+        "D": "İthali ticaret politikası önlemlerine tabi olan eşyayı dahilde işleme rejimi kapsamında ülkeye sokmak, -- 10 of 14 -- 11"
+      },
+      "dogruCevap": "D",
+      "dogruCevapMetni": "İthali ticaret politikası önlemlerine tabi olan eşyayı dahilde işleme rejimi kapsamında ülkeye sokmak, -- 10 of 14 -- 11"
+    },
+    {
+      "soru": "37. 5607 sayılı Kanunda tanımlanan suçların işlenmesinde kullanılan taşıtlara, Ceza Muhakemesi Kanununun 128 inci maddesinin dördüncü fıkrası hükmüne göre elkonulacağı belirtilmektedir. Elkoyma işlemi nasıl gerçekleştirilir?",
+      "cevap": "Doğru cevap: A) Araçların kayıtlı bulunduğu sicile şerh verilmek suretiyle",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "Araçların kayıtlı bulunduğu sicile şerh verilmek suretiyle",
+        "B": "Araç gümrüklü sahada zapt edilmek suretiyle",
+        "C": "Aracın kasko değeri kadar teminat alınmak suretiyle",
+        "D": "Aracın yeddi emin hükümleri çerçevesinde ruhsat sahibine iadesi suretiyle"
+      },
+      "dogruCevap": "A",
+      "dogruCevapMetni": "Araçların kayıtlı bulunduğu sicile şerh verilmek suretiyle"
+    },
+    {
+      "soru": "38. Aşağıdakilerden hangisi 42.02 tarife pozisyonunda sınıflandırılmaz?",
+      "cevap": "Doğru cevap: C) Ahşap mücevher kutusu",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "Timsah derisinden para kesesi",
+        "B": "Dış yüzü dokumaya elverişli maddelerden mamul tekerlekli, çekme kollu valiz",
+        "C": "Ahşap mücevher kutusu",
+        "D": "Kalıplanmış plastik maddeden mamul okul çantası"
+      },
+      "dogruCevap": "C",
+      "dogruCevapMetni": "Ahşap mücevher kutusu"
+    },
+    {
+      "soru": "39. Alüminyumdan mamul su terazisinin tarife alt pozisyonu nedir?",
+      "cevap": "Doğru cevap: C) 9031.80",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "2202.10",
+        "B": "7607.11",
+        "C": "9031.80",
+        "D": "9305.10"
+      },
+      "dogruCevap": "C",
+      "dogruCevapMetni": "9031.80"
+    },
+    {
+      "soru": "40. Perakende satılacak şekilde hazırlanmış kontak lens solüsyonları hangi tarife pozisyonundadır?",
+      "cevap": "Doğru cevap: C) 33.07",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "38.24",
+        "B": "34.02",
+        "C": "33.07",
+        "D": "34.01"
+      },
+      "dogruCevap": "C",
+      "dogruCevapMetni": "33.07"
+    },
+    {
+      "soru": "41. Bir traktöre takılmak üzere getirilen ve toprağı işlemede kullanılan kültivatörler ne şekilde sınıflandırılır?",
+      "cevap": "Doğru cevap: C) 84.32",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "87.01",
+        "B": "84.24",
+        "C": "84.32",
+        "D": "84.33"
+      },
+      "dogruCevap": "C",
+      "dogruCevapMetni": "84.32"
+    },
+    {
+      "soru": "42. Aşağıdakilerden hangisi platin tabirine girmez?",
+      "cevap": "Doğru cevap: D) Berilyum -- 11 of 14 -- 12",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "Osmiyum",
+        "B": "Rodyum",
+        "C": "Paladyum",
+        "D": "Berilyum -- 11 of 14 -- 12"
+      },
+      "dogruCevap": "D",
+      "dogruCevapMetni": "Berilyum -- 11 of 14 -- 12"
+    },
+    {
+      "soru": "43. Aşağıdakilerden hangisi yanlıştır?",
+      "cevap": "Doğru cevap: B) Tüm kurallar hiyerarşik olarak uygulanır. Yani önce 1. kural uygulanır, bu kuralın uygulanmasıyla eşyanın tarifedeki yeri tespit edilemiyorsa, sırasıyla 2, 3, 4, 5 ve 6 ncı kurallar uygulanır.",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "6 adet Genel Yorum Kuralı bulunmaktadır.",
+        "B": "Tüm kurallar hiyerarşik olarak uygulanır. Yani önce 1. kural uygulanır, bu kuralın uygulanmasıyla eşyanın tarifedeki yeri tespit edilemiyorsa, sırasıyla 2, 3, 4, 5 ve 6 ncı kurallar uygulanır.",
+        "C": "1 ila 5 inci kurallar tarife pozisyonu yani dört rakamlı kodlar seviyesinde sınıflandırmayı düzenler,",
+        "D": "6 nolu kural tarife alt pozisyonu ve daha ileri düzeydeki açılımlar seviyesinde sınıflandırmayı düzenlemektedir."
+      },
+      "dogruCevap": "B",
+      "dogruCevapMetni": "Tüm kurallar hiyerarşik olarak uygulanır. Yani önce 1. kural uygulanır, bu kuralın uygulanmasıyla eşyanın tarifedeki yeri tespit edilemiyorsa, sırasıyla 2, 3, 4, 5 ve 6 ncı kurallar uygulanır."
+    },
+    {
+      "soru": "44. Bitkisel çay yapımında kullanılacak ada çayı aşağıdaki tarife pozisyonlarının hangisinde sınıflandırılır?",
+      "cevap": "Doğru cevap: C) 12.11",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "09.02",
+        "B": "09.10",
+        "C": "12.11",
+        "D": "07.12"
+      },
+      "dogruCevap": "C",
+      "dogruCevapMetni": "12.11"
+    },
+    {
+      "soru": "45. Meursing (Bileşim) Tablosu uygulaması grubu İthalat Rejim Kararı eki listelerden hangisi ile alakalıdır?",
+      "cevap": "Doğru cevap: C) III sayılı liste",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "I sayılı liste",
+        "B": "II sayılı liste",
+        "C": "III sayılı liste",
+        "D": "IV sayılı liste"
+      },
+      "dogruCevap": "C",
+      "dogruCevapMetni": "III sayılı liste"
+    },
+    {
+      "soru": "46. Aşağıdakilerden hangisi Tük Gümrük Tarife Cetvelinde aynı fasılda sınıflandırılmaz?",
+      "cevap": "Doğru cevap: D) Jelatin- sertleştirilmiş protein- enzim -- 12 of 14 -- 13",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "Bira mayası- kavrulmuş hindiba- çemen",
+        "B": "Mikroorganizma kültürü-ilk yardım çantası- steril dikiş malzemesi",
+        "C": "Elektrik enerjisi- vazelin- turb",
+        "D": "Jelatin- sertleştirilmiş protein- enzim -- 12 of 14 -- 13"
+      },
+      "dogruCevap": "D",
+      "dogruCevapMetni": "Jelatin- sertleştirilmiş protein- enzim -- 12 of 14 -- 13"
+    },
+    {
+      "soru": "47. Çelikten mamul boş yangın söndürme cihazı Türk Gümrük Tarife Cetvelinde hangi tarife pozisyonunda sınıflandırılır?",
+      "cevap": "Doğru cevap: C) 84.24",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "73.26",
+        "B": "83.07",
+        "C": "84.24",
+        "D": "84.79"
+      },
+      "dogruCevap": "C",
+      "dogruCevapMetni": "84.24"
+    },
+    {
+      "soru": "48. Aşağıdakilerden hangisi Türk Gümrük Tarife Cetvelinde 85.28 tarife pozisyonunda sınıflandırılmaz?",
+      "cevap": "Doğru cevap: D) Katot ışınlı TV görüntü tüpü",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "Bilgisayar monitörü",
+        "B": "Video monitörü",
+        "C": "TV alıcı cihazları",
+        "D": "Katot ışınlı TV görüntü tüpü"
+      },
+      "dogruCevap": "D",
+      "dogruCevapMetni": "Katot ışınlı TV görüntü tüpü"
+    },
+    {
+      "soru": "49. Otomobillerde kullanılan elektrik motorlu cam siliciler hangi tarife pozisyonunda sınıflandırılır?",
+      "cevap": "Doğru cevap: C) 85.12",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "87.08",
+        "B": "40.16",
+        "C": "85.12",
+        "D": "39.26"
+      },
+      "dogruCevap": "C",
+      "dogruCevapMetni": "85.12"
+    },
+    {
+      "soru": "50. Basılı ve rölyef halindeki dünya haritası hangi tarife alt pozisyonundadır?",
+      "cevap": "Doğru cevap: C) 9023.00",
+      "kategori": "Gumruk Musavirligi 2008 Mesleki Yeterlilik",
+      "secenekler": {
+        "A": "4905.91",
+        "B": "4905.99",
+        "C": "9023.00",
+        "D": "4906.00 -- 13 of 14 -- 14 GÜMRÜK MÜıAVİRLİĞİ MESLEKİ YETERLİLİK SINAVI SORU CEVAP SORU CEVAP 1 D 26 D 2 A 27 C 3 B 28 D 4 C 29 C 5 B 30 C 6 D 31 D 7 B 32 A 8 A 33 C 9 C 34 B 10 C 35 B 11 C 36 D 12 A 37 A 13 A 38 C 14 A 39 C 15 D 40 C 16 C 41 C 17 A 42 D 18 C 43 B 19 B 44 C 20 D 45 C 21 C 46 D 22 A 47 C 23 B 48 D 24 A 49 C 25 C 50 C -- 14 of 14 --"
+      },
+      "dogruCevap": "C",
+      "dogruCevapMetni": "9023.00"
+    }
+  ]
+}
