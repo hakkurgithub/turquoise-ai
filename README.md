@@ -36,6 +36,7 @@ sorulan sorulara cevap verir. Bilmedigi sorulari WhatsApp uzerinden uzmana ileti
     ├── gayrimenkul-hukuk-dataset.json # Tapu, imar ve gayrimenkul hukuku
     ├── gumruk-musavirligi-2006-sinav.json # 2006 Gümrük Müşavirliği Ön Eleme Sınavı (100 soru + seçenek açıklamalı)
     ├── gumruk-musavirligi-2008-sinav.json # 2008 Gümrük Müşavirliği Mesleki Yeterlilik Sınavı (50 soru + seçenek açıklamalı)
+    ├── gumruk-musavirligi-2010-sinav.json # 2010 Gümrük Müşavirliği Mesleki Yeterlilik Sınavı (50 soru + seçenek açıklamalı)
     ├── b2b-ticaret-dataset.json # B2B ticaret, tedarik zinciri, sozlesmeler
     ├── lojistik-tasimacilik-dataset.json # Lojistik ve tasimacilik
     ├── finans-vergi-dataset.json # Finans ve vergi mevzuati
@@ -61,7 +62,7 @@ sorulan sorulara cevap verir. Bilmedigi sorulari WhatsApp uzerinden uzmana ileti
 | Sirket/Is Hukuku | Kurulus sureci, kidem/ihbar tazminati, ISG |
 | Turkiye Ekonomisi | Ihracat/ithalat, enflasyon, faiz, GSYH |
 | Emlak Yatirim | Kira verimi, GYO/GYF, konut kredisi, tapu masraflari |
-| Sınavlar | 2006 Ön Eleme (100 soru), 2008 Mesleki Yeterlilik (50 soru) — her seçeneğin açıklaması ayrı konu olarak eklendi |
+| Sınavlar | 2006 (100 soru), 2008 (50 soru), 2010 (50 soru) — her seçeneğin açıklaması ayrı konu olarak eklendi |
 | Tapu/Imar/Hukuk | Tapu islemleri, ipotek, imar, kentsel donusum, kira hukuku |
 | Sehirler | 81 il, populer bolgeler, arazi fiyatlari |
 

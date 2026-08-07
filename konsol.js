@@ -79,6 +79,7 @@ function veriYukle() {
     'gayrimenkul-hukuk-dataset.json',
     'gumruk-musavirligi-2006-sinav.json',
     'gumruk-musavirligi-2008-sinav.json',
+    'gumruk-musavirligi-2010-sinav.json',
     'b2b-ticaret-dataset.json',
     'lojistik-tasimacilik-dataset.json',
     'finans-vergi-dataset.json',
