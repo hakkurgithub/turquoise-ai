@@ -1,52 +1,39 @@
 {
   "dataset": [
     {
-      "soru": "9. soru - A seçeneği: \"Dördüncü bölüm, 16-24 fasıl\" ne demek?",
-      "cevap": "Dördüncü bölüm, 16-24 fasıl — Bu yanlış cevaptır.",
-      "kategori": "Gumruk Musavirligi 2011 Secenek Aciklamasi",
-      "soruNumarasi": 9,
-      "secenek": "A"
-    },
-    {
-      "soru": "9. soru - B seçeneği: \"Yedinci bölüm, 39-40 fasıl\" ne demek?",
-      "cevap": "Yedinci bölüm, 39-40 fasıl — Bu yanlış cevaptır.",
-      "kategori": "Gumruk Musavirligi 2011 Secenek Aciklamasi",
-      "soruNumarasi": 9,
-      "secenek": "B"
-    },
-    {
-      "soru": "9. soru - C seçeneği: \"Dokuzuncu bölüm, 44-46 fasıl\" ne demek?",
-      "cevap": "Dokuzuncu bölüm, 44-46 fasıl — Bu yanlış cevaptır.",
-      "kategori": "Gumruk Musavirligi 2011 Secenek Aciklamasi",
-      "soruNumarasi": 9,
-      "secenek": "C"
-    },
-    {
-      "soru": "9. soru - D seçeneği: \"On birinci bölüm, 50-63 fasıl TEST BİTTİ. SINAVDA UYGULANACA\" ne demek?",
-      "cevap": "On birinci bölüm, 50-63 fasıl TEST BİTTİ. SINAVDA UYGULANACAK KURALLAR — Bu yanlış cevaptır.",
-      "kategori": "Gumruk Musavirligi 2011 Secenek Aciklamasi",
-      "soruNumarasi": 9,
-      "secenek": "D"
-    },
-    {
       "soru": "9. Kitapçığın sayfalarındaki boş yerleri müsvedde için kullanabilirsiniz.  Anadolu Üniversitesi tarafından hazırlanmış olan bu testlerin her hakkı saklıdır. Hangi amaçla olursa olsun, testlerin tamamının veya bir kısmının Anadolu Üniversitesi'nin yazılı izni olmadan kopya edilmesi, fotoğraflarının çekilmesi, herhangi bir yolla çoğaltılması, yayımlanması ya da kullanılması yasaktır. Bu yasağa uymayanlar gerekli cezai sorumluluğu ve testlerin hazırlanmasındaki mali külfeti peşinen kabullenmiş sayılır.  Bu testte yer alan sorular 1 Ağustos 2011 tarihinden sonra yapılmış olabilecek yasal değişiklik ve düzenlemeleri içermemektedir. Soruları cevaplarken bu durumu göz önünde bulundurunuz. Eşyanın gümrükçe onaylanmış bir işlem veya kullanıma tabi tutulması, aşağıdaki işlemlerden hangisini içermez?",
       "cevap": "Doğru cevap mevcut değil.",
       "kategori": "Gumruk Musavirligi 2011 OnEleme",
-      "secenekler": {
-        "A": "Dördüncü bölüm, 16-24 fasıl",
-        "B": "Yedinci bölüm, 39-40 fasıl",
-        "C": "Dokuzuncu bölüm, 44-46 fasıl",
-        "D": "On birinci bölüm, 50-63 fasıl TEST BİTTİ. SINAVDA UYGULANACAK KURALLAR",
-        "E": ""
-      },
-      "secenekAciklamalari": {
-        "A": "Dördüncü bölüm, 16-24 fasıl — Bu yanlış cevaptır.",
-        "B": "Yedinci bölüm, 39-40 fasıl — Bu yanlış cevaptır.",
-        "C": "Dokuzuncu bölüm, 44-46 fasıl — Bu yanlış cevaptır.",
-        "D": "On birinci bölüm, 50-63 fasıl TEST BİTTİ. SINAVDA UYGULANACAK KURALLAR — Bu yanlış cevaptır."
-      },
       "dogruCevap": "",
       "dogruCevapMetni": ""
+    },
+    {
+      "soru": "Dördüncü bölüm, 16-24 fasıl nedir? ne demek?",
+      "cevap": "Dördüncü bölüm, 16-24 fasıl ✗ Bu sorunun yanlış cevabıdır. (9. Kitapçığın sayfalarındaki boş yerleri müsvedde ... sorusunda bu seçenek yanlış cevaptır.)",
+      "kategori": "Gumruk Musavirligi 2011 OnEleme",
+      "ilgiliSoru": "9. Kitapçığın sayfalarındaki boş yerleri müsvedde için kullanabilirsiniz.  Anado",
+      "dogruMu": false
+    },
+    {
+      "soru": "Yedinci bölüm, 39-40 fasıl nedir? ne demek?",
+      "cevap": "Yedinci bölüm, 39-40 fasıl ✗ Bu sorunun yanlış cevabıdır. (9. Kitapçığın sayfalarındaki boş yerleri müsvedde ... sorusunda bu seçenek yanlış cevaptır.)",
+      "kategori": "Gumruk Musavirligi 2011 OnEleme",
+      "ilgiliSoru": "9. Kitapçığın sayfalarındaki boş yerleri müsvedde için kullanabilirsiniz.  Anado",
+      "dogruMu": false
+    },
+    {
+      "soru": "Dokuzuncu bölüm, 44-46 fasıl nedir? ne demek?",
+      "cevap": "Dokuzuncu bölüm, 44-46 fasıl ✗ Bu sorunun yanlış cevabıdır. (9. Kitapçığın sayfalarındaki boş yerleri müsvedde ... sorusunda bu seçenek yanlış cevaptır.)",
+      "kategori": "Gumruk Musavirligi 2011 OnEleme",
+      "ilgiliSoru": "9. Kitapçığın sayfalarındaki boş yerleri müsvedde için kullanabilirsiniz.  Anado",
+      "dogruMu": false
+    },
+    {
+      "soru": "On birinci bölüm, 50-63 fasıl TEST BİTTİ. SINAVDA UYGULANACAK KURALLAR nedir? ne demek?",
+      "cevap": "On birinci bölüm, 50-63 fasıl TEST BİTTİ. SINAVDA UYGULANACAK KURALLAR ✗ Bu sorunun yanlış cevabıdır. (9. Kitapçığın sayfalarındaki boş yerleri müsvedde ... sorusunda bu seçenek yanlış cevaptır.)",
+      "kategori": "Gumruk Musavirligi 2011 OnEleme",
+      "ilgiliSoru": "9. Kitapçığın sayfalarındaki boş yerleri müsvedde için kullanabilirsiniz.  Anado",
+      "dogruMu": false
     }
   ]
 }
