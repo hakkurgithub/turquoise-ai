@@ -3,231 +3,827 @@
   "kaynak": "Dunya Gumruk Orgutu Armonize Sistem Nomanklaturu (HS) + Ulusal Siniflandirma",
   "toplam_bolum_sayisi": 21,
   "toplam_fasil_sayisi": 99,
-  "ulusal_fasillar": [98, 99],
+  "ulusal_fasillar": [
+    98,
+    99
+  ],
   "bolumler": [
     {
       "bolum_no": 1,
       "bolum_adi": "Canli Hayvanlar ve Hayvansal Urunler",
       "fasillar": [
-        { "fasil_no": 1, "fasil_adi": "Canli hayvanlar", "aciklama": "Sığır, koyun, keçi, domsu, tavuk, ördek, kaz, hindi, kanguru, balık, karides, arı, böcek ve diğer canlı hayvanlar" },
-        { "fasil_no": 2, "fasil_adi": "Etler ve yenilen sakatat", "aciklama": "Sığır, domuz, koyun, keçi, tavuk, manda, tavşan etleri; dondurulmuş, taze, tuzlu etler; sakatat" },
-        { "fasil_no": 3, "fasil_adi": "Balık ve kabuklu deniz hayvanları, su omurgasızları", "aciklama": "Taze, soğutulmuş, donmuş balık; karides, istiridye, midye, kalamar, ahtapot; suda yaşayan omurgasızlar" },
-        { "fasil_no": 4, "fasil_adi": "Süt ürünleri; yumurta; bal; doğal balık yumurtası", "aciklama": "Süt, krema, yoğurt, peynir, kefir, tereyağı, yogurt; kuş yumurtası; arı balı; doğal balık yumurtası" },
-        { "fasil_no": 5, "fasil_adi": "Hayvansalardan elde edilen diğer ürünler", "aciklama": "Hamur, işlenmemiş kıl, tüy, kemik, boynaz, sedef, mersin, mercan, işlenmemiş hayvansal maddeler" }
+        {
+          "fasil_no": 1,
+          "fasil_adi": "Canli hayvanlar",
+          "aciklama": "Sığır, koyun, keçi, domsu, tavuk, ördek, kaz, hindi, kanguru, balık, karides, arı, böcek ve diğer canlı hayvanlar",
+          "gtip_araligi": "01",
+          "anahtar_kelimeler": "sığır koyun domuz tavuk ördek kaz hayvan canlı"
+        },
+        {
+          "fasil_no": 2,
+          "fasil_adi": "Etler ve yenilen sakatat",
+          "aciklama": "Sığır, domuz, koyun, keçi, tavuk, manda, tavşan etleri; dondurulmuş, taze, tuzlu etler; sakatat",
+          "gtip_araligi": "02",
+          "anahtar_kelimeler": "et sakatat dana kuzu tavuk kırmızı et"
+        },
+        {
+          "fasil_no": 3,
+          "fasil_adi": "Balık ve kabuklu deniz hayvanları, su omurgasızları",
+          "aciklama": "Taze, soğutulmuş, donmuş balık; karides, istiridye, midye, kalamar, ahtapot; suda yaşayan omurgasızlar",
+          "gtip_araligi": "03",
+          "anahtar_kelimeler": "balık karides midye hamsi somon alabalık deniz"
+        },
+        {
+          "fasil_no": 4,
+          "fasil_adi": "Süt ürünleri; yumurta; bal; doğal balık yumurtası",
+          "aciklama": "Süt, krema, yoğurt, peynir, kefir, tereyağı, yogurt; kuş yumurtası; arı balı; doğal balık yumurtası",
+          "gtip_araligi": "04",
+          "anahtar_kelimeler": "süt peynir yumurta yoğurt tereyağı krema süt ürünü"
+        },
+        {
+          "fasil_no": 5,
+          "fasil_adi": "Hayvansalardan elde edilen diğer ürünler",
+          "aciklama": "Hamur, işlenmemiş kıl, tüy, kemik, boynaz, sedef, mersin, mercan, işlenmemiş hayvansal maddeler",
+          "gtip_araligi": "05"
+        }
       ]
     },
     {
       "bolum_no": 2,
       "bolum_adi": "Bitkisel Ürünler",
       "fasillar": [
-        { "fasil_no": 6, "fasil_adi": "Canli bitkiler ve çiçekçilik ürünleri", "aciklama": "Canlı bitkiler, çeler, kökler, soğanlar; kesme çiçekler, yapraklar, dallar" },
-        { "fasil_no": 7, "fasil_adi": "Sebzeler, kökler ve yumrular", "aciklama": "Patates, domates, soğan, sarımsak, lahana, havuç, turp, bakla, bezelye, bamya, enginar, mantar" },
-        { "fasil_no": 8, "fasil_adi": "Yenilebilir meyve ve meyve kabukları", "aciklama": "Portakal, elma, muz, üzüm, çilek, karpuz, kavun, şeftali, kayısı, incir, zeytin, ceviz, fındık" },
-        { "fasil_no": 9, "fasil_adi": "Çay, kahve, mate ve baharat", "aciklama": "Siyah çay, yeşil çay, kahve çekirdeği, mate; karabiber, tarçın, kakao, zencefil, kimyon, anason" },
-        { "fasil_no": 10, "fasil_adi": "Hububatlar", "aciklama": "Buğday, pirinç, mısır, yulaf, arpa, çavdar, darı, quinoa, tapioka" },
-        { "fasil_no": 11, "fasil_adi": "Değirmencilik ürünleri; yumusak nişasta; gluten", "aciklama": "Buğday unu, mısır unu, pirinç unu; nişasta, yumusak nişasta; buğday gluten" },
-        { "fasil_no": 12, "fasil_adi": "Yağlı tohum ve meyveler; endüstri bitkileri; saman ve kaba yem", "aciklama": "Ayçiçeği tohumu, soya, pamuk tohumu, susam, haşhaş; kenevir, tütün, çay; saman, yem bitkileri" },
-        { "fasil_no": 13, "fasil_adi": "Lak; sakız; reçiner; balsamlar", "aciklama": "Lak; sakız, kaugat; doğal reçine, balsam; bitkisel özler" },
-        { "fasil_no": 14, "fasil_adi": "Örme maddeler; bitkisel maddelerden yapılan eşya", "aciklama": "Bambu, hasır, sepet, çöp sapları; bitkisel lifler, örme maddeler" }
+        {
+          "fasil_no": 6,
+          "fasil_adi": "Canli bitkiler ve çiçekçilik ürünleri",
+          "aciklama": "Canlı bitkiler, çeler, kökler, soğanlar; kesme çiçekler, yapraklar, dallar",
+          "gtip_araligi": "06",
+          "anahtar_kelimeler": "çiçek bitki dal yaprak kesme çiçekçilik"
+        },
+        {
+          "fasil_no": 7,
+          "fasil_adi": "Sebzeler, kökler ve yumrular",
+          "aciklama": "Patates, domates, soğan, sarımsak, lahana, havuç, turp, bakla, bezelye, bamya, enginar, mantar",
+          "gtip_araligi": "07",
+          "anahtar_kelimeler": "sebze patates domates soğan lahana havuç turp"
+        },
+        {
+          "fasil_no": 8,
+          "fasil_adi": "Yenilebilir meyve ve meyve kabukları",
+          "aciklama": "Portakal, elma, muz, üzüm, çilek, karpuz, kavun, şeftali, kayısı, incir, zeytin, ceviz, fındık",
+          "gtip_araligi": "08",
+          "anahtar_kelimeler": "meyve elma portakal muz üzüm çilek karpuz"
+        },
+        {
+          "fasil_no": 9,
+          "fasil_adi": "Çay, kahve, mate ve baharat",
+          "aciklama": "Siyah çay, yeşil çay, kahve çekirdeği, mate; karabiber, tarçın, kakao, zencefil, kimyon, anason",
+          "gtip_araligi": "09",
+          "anahtar_kelimeler": "çay kahve kakao karabiber tarçın baharat"
+        },
+        {
+          "fasil_no": 10,
+          "fasil_adi": "Hububatlar",
+          "aciklama": "Buğday, pirinç, mısır, yulaf, arpa, çavdar, darı, quinoa, tapioka",
+          "gtip_araligi": "10",
+          "anahtar_kelimeler": "buğday pirinç mısır yulaf arpa çavdar hububat"
+        },
+        {
+          "fasil_no": 11,
+          "fasil_adi": "Değirmencilik ürünleri; yumusak nişasta; gluten",
+          "aciklama": "Buğday unu, mısır unu, pirinç unu; nişasta, yumusak nişasta; buğday gluten",
+          "gtip_araligi": "11",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 12,
+          "fasil_adi": "Yağlı tohum ve meyveler; endüstri bitkileri; saman ve kaba yem",
+          "aciklama": "Ayçiçeği tohumu, soya, pamuk tohumu, susam, haşhaş; kenevir, tütün, çay; saman, yem bitkileri",
+          "gtip_araligi": "12",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 13,
+          "fasil_adi": "Lak; sakız; reçiner; balsamlar",
+          "aciklama": "Lak; sakız, kaugat; doğal reçine, balsam; bitkisel özler",
+          "gtip_araligi": "13",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 14,
+          "fasil_adi": "Örme maddeler; bitkisel maddelerden yapılan eşya",
+          "aciklama": "Bambu, hasır, sepet, çöp sapları; bitkisel lifler, örme maddeler",
+          "gtip_araligi": "14",
+          "anahtar_kelimeler": ""
+        }
       ]
     },
     {
       "bolum_no": 3,
       "bolum_adi": "Hayvansal ve Bitkisel Yağlar ve Katı Yağlar; Mumlar",
       "fasillar": [
-        { "fasil_no": 15, "fasil_adi": "Hayvansal ve bitkisel yağlar; katı yağlar; mumlar", "aciklama": "Ayçiçeği yağı, zeytinyağı, palm yağı, hindistan cevizi yağı; tereyağı, iç yağı; bal mumu, parafin" }
+        {
+          "fasil_no": 15,
+          "fasil_adi": "Hayvansal ve bitkisel yağlar; katı yağlar; mumlar",
+          "aciklama": "Ayçiçeği yağı, zeytinyağı, palm yağı, hindistan cevizi yağı; tereyağı, iç yağı; bal mumu, parafin",
+          "gtip_araligi": "15",
+          "anahtar_kelimeler": ""
+        }
       ]
     },
     {
       "bolum_no": 4,
       "bolum_adi": "Gıdalar; İçecekler; Tütün ve Mamulleri",
       "fasillar": [
-        { "fasil_no": 16, "fasil_adi": "Et, balık veya kabuklu deniz hayvanlarından mamul gıdalar", "aciklama": "Sucuk, sosis, salam, pastırma; balık konservesi, hamsi; karides konservesi" },
-        { "fasil_no": 17, "fasil_adi": "Şeker ve şekerleme", "aciklama": "Krema, lokum, akide şekeri, şekerleme, çikolata, kiklat, şeker hamuru" },
-        { "fasil_no": 18, "fasil_adi": "Kakao ve kakao mamulleri", "aciklama": "Kakao çekirdeği, kakao tozu, kakao yağı; çikolata, kiklat, kakao kreması" },
-        { "fasil_no": 19, "fasil_adi": "Buğday unundan veya irmikten mamul gıdalar", "aciklama": "Makarna, erişte, bisküvi, kraeker, sandviç ekmesi, pasta, hamur işleri" },
-        { "fasil_no": 20, "fasil_adi": "Sebzeler, meyveler veya diğer bitkisel ürünlerin mamulleri", "aciklama": "Reçel, marmalata, meyve sulu; konserve sebze; kurutulmuş meyve; meyce suyu" },
-        { "fasil_no": 21, "fasil_adi": "Çeşitli yenilebilir mamuller", "aciklama": "Hazır çorbalar, soslar, hardal, sirke, mayonez, ketçap, baharat karışımları" },
-        { "fasil_no": 22, "fasil_adi": "İçecekler, alkollü içecekler ve şarap", "aciklama": "Su, maden suyu, meyve suyu; bira, şarap, likör, viski, konyak, votka, rakı" },
-        { "fasil_no": 23, "fasil_adi": "Gıda sanayi atıkları; hazırlanmış hayvan yemi", "aciklama": "Kasap atıkları; bira fabrikası atığı; hazırlanmış hayvan yemi" },
-        { "fasil_no": 24, "fasil_adi": "Tütün ve tütün mamulleri", "aciklama": "İşlenmemiş tütün; sigara, puro, nargile tütüt; tütün yerine geçenler" }
+        {
+          "fasil_no": 16,
+          "fasil_adi": "Et, balık veya kabuklu deniz hayvanlarından mamul gıdalar",
+          "aciklama": "Sucuk, sosis, salam, pastırma; balık konservesi, hamsi; karides konservesi",
+          "gtip_araligi": "16",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 17,
+          "fasil_adi": "Şeker ve şekerleme",
+          "aciklama": "Krema, lokum, akide şekeri, şekerleme, çikolata, kiklat, şeker hamuru",
+          "gtip_araligi": "17",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 18,
+          "fasil_adi": "Kakao ve kakao mamulleri",
+          "aciklama": "Kakao çekirdeği, kakao tozu, kakao yağı; çikolata, kiklat, kakao kreması",
+          "gtip_araligi": "18",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 19,
+          "fasil_adi": "Buğday unundan veya irmikten mamul gıdalar",
+          "aciklama": "Makarna, erişte, bisküvi, kraeker, sandviç ekmesi, pasta, hamur işleri",
+          "gtip_araligi": "19",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 20,
+          "fasil_adi": "Sebzeler, meyveler veya diğer bitkisel ürünlerin mamulleri",
+          "aciklama": "Reçel, marmalata, meyve sulu; konserve sebze; kurutulmuş meyve; meyce suyu",
+          "gtip_araligi": "20",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 21,
+          "fasil_adi": "Çeşitli yenilebilir mamuller",
+          "aciklama": "Hazır çorbalar, soslar, hardal, sirke, mayonez, ketçap, baharat karışımları",
+          "gtip_araligi": "21",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 22,
+          "fasil_adi": "İçecekler, alkollü içecekler ve şarap",
+          "aciklama": "Su, maden suyu, meyve suyu; bira, şarap, likör, viski, konyak, votka, rakı",
+          "gtip_araligi": "22",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 23,
+          "fasil_adi": "Gıda sanayi atıkları; hazırlanmış hayvan yemi",
+          "aciklama": "Kasap atıkları; bira fabrikası atığı; hazırlanmış hayvan yemi",
+          "gtip_araligi": "23",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 24,
+          "fasil_adi": "Tütün ve tütün mamulleri",
+          "aciklama": "İşlenmemiş tütün; sigara, puro, nargile tütüt; tütün yerine geçenler",
+          "gtip_araligi": "24",
+          "anahtar_kelimeler": ""
+        }
       ]
     },
     {
       "bolum_no": 5,
       "bolum_adi": "Mineral Maddeler",
       "fasillar": [
-        { "fasil_no": 25, "fasil_adi": "Kükürt; toprak ve taş; alçı, kireç ve çimento", "aciklama": "Kükürt; mermer, granit, kum, çakıl; alçı taşı, kireç taşı, çimento" },
-        { "fasil_no": 26, "fasil_adi": "Cevherler, curuf ve kül", "aciklama": "Demir cevheri, bakır cevheri, altın cevheri; curuf, kül, maden atıkları" },
-        { "fasil_no": 27, "fasil_adi": "Mineraller, petrol ve petrol ürünleri; doğal gaz", "aciklama": "Ham petrol, benzin, mazot, motorin; doğal gaz, LPG, LNG; asfalt, parafin" }
+        {
+          "fasil_no": 25,
+          "fasil_adi": "Kükürt; toprak ve taş; alçı, kireç ve çimento",
+          "aciklama": "Kükürt; mermer, granit, kum, çakıl; alçı taşı, kireç taşı, çimento",
+          "gtip_araligi": "25",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 26,
+          "fasil_adi": "Cevherler, curuf ve kül",
+          "aciklama": "Demir cevheri, bakır cevheri, altın cevheri; curuf, kül, maden atıkları",
+          "gtip_araligi": "26",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 27,
+          "fasil_adi": "Mineraller, petrol ve petrol ürünleri; doğal gaz",
+          "aciklama": "Ham petrol, benzin, mazot, motorin; doğal gaz, LPG, LNG; asfalt, parafin",
+          "gtip_araligi": "27",
+          "anahtar_kelimeler": ""
+        }
       ]
     },
     {
       "bolum_no": 6,
       "bolum_adi": "Kimya Sanayi Ürünleri",
       "fasillar": [
-        { "fasil_no": 28, "fasil_adi": "İnorganik kimyasallar; nadir toprak metalleri", "aciklama": "Asitler, bazlar, oksitler, tuzlar; kükürt, sodyum klorür, amonyak; nadir toprak metalleri" },
-        { "fasil_no": 29, "fasil_adi": "Organik kimyasallar", "aciklama": "Alkohloller, fenoller, eterler, ketonler, aldehitler; organik bileşikler" },
-        { "fasil_no": 30, "fasil_adi": "Eczacılık ürünleri", "aciklama": "İlaçlar, serumlar, aşılar, eczane malzemeleri; sargı bezi, bandaj, cerrahi malzemeler" },
-        { "fasil_no": 31, "fasil_adi": "Gübreler", "aciklama": "Azotlu gübreler, fosfat gübreleri, potasyum gübreleri; organik gübreler" },
-        { "fasil_no": 32, "fasil_adi": "Boyarmadde ve boya maddeleri; tanen maddeleri", "aciklama": "Boyalar, pigmentler, vernik, lake; tanen maddeleri, boya maddeleri" },
-        { "fasil_no": 33, "fasil_adi": "Uçucu yağlar ve rezinler; parfümeri ve kozmetik ürünler", "aciklama": "Esans, uçucu yağlar, parfüm, sabun, şampuan, losyon, diç macunu, makyaj malzemeleri" },
-        { "fasil_no": 34, "fasil_adi": "Sabun, yüzey aktif maddeler; mumlar; cilalılar", "aciklama": "Sıvı sabun, tablet sabun; deterjan, yüzey aktif maddeler; mumlar, cilalılar, pasta" },
-        { "fasil_no": 35, "fasil_adi": "Albüminoid maddeler; modifiye edilmiş nişastalar; tutkal", "aciklama": "Albumin, şeret, jelatin; yapıştırıcılar, tutkal, yapışkan maddeler" },
-        { "fasil_no": 36, "fasil_adi": "Patlayıcılar; piroteknik ürünler; kibritler", "aciklama": "Barut, dinamit, TNT; fişek, havai fişek; kibrit, çakmak" },
-        { "fasil_no": 37, "fasil_adi": "Fotoğraf veya sinema ürünleri", "aciklama": "Fotoğraf filmi, kamera filmi; karanlık oda kimyasalları; polaroid" },
-        { "fasil_no": 38, "fasil_adi": "Çeşitli kimyasal ürünler", "aciklama": "Endüstriyel kimyasallar, katalizörler, solventler; çeşitli kimyasal ürünler" }
+        {
+          "fasil_no": 28,
+          "fasil_adi": "İnorganik kimyasallar; nadir toprak metalleri",
+          "aciklama": "Asitler, bazlar, oksitler, tuzlar; kükürt, sodyum klorür, amonyak; nadir toprak metalleri",
+          "gtip_araligi": "28",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 29,
+          "fasil_adi": "Organik kimyasallar",
+          "aciklama": "Alkohloller, fenoller, eterler, ketonler, aldehitler; organik bileşikler",
+          "gtip_araligi": "29",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 30,
+          "fasil_adi": "Eczacılık ürünleri",
+          "aciklama": "İlaçlar, serumlar, aşılar, eczane malzemeleri; sargı bezi, bandaj, cerrahi malzemeler",
+          "gtip_araligi": "30",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 31,
+          "fasil_adi": "Gübreler",
+          "aciklama": "Azotlu gübreler, fosfat gübreleri, potasyum gübreleri; organik gübreler",
+          "gtip_araligi": "31",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 32,
+          "fasil_adi": "Boyarmadde ve boya maddeleri; tanen maddeleri",
+          "aciklama": "Boyalar, pigmentler, vernik, lake; tanen maddeleri, boya maddeleri",
+          "gtip_araligi": "32",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 33,
+          "fasil_adi": "Uçucu yağlar ve rezinler; parfümeri ve kozmetik ürünler",
+          "aciklama": "Esans, uçucu yağlar, parfüm, sabun, şampuan, losyon, diç macunu, makyaj malzemeleri",
+          "gtip_araligi": "33",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 34,
+          "fasil_adi": "Sabun, yüzey aktif maddeler; mumlar; cilalılar",
+          "aciklama": "Sıvı sabun, tablet sabun; deterjan, yüzey aktif maddeler; mumlar, cilalılar, pasta",
+          "gtip_araligi": "34",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 35,
+          "fasil_adi": "Albüminoid maddeler; modifiye edilmiş nişastalar; tutkal",
+          "aciklama": "Albumin, şeret, jelatin; yapıştırıcılar, tutkal, yapışkan maddeler",
+          "gtip_araligi": "35",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 36,
+          "fasil_adi": "Patlayıcılar; piroteknik ürünler; kibritler",
+          "aciklama": "Barut, dinamit, TNT; fişek, havai fişek; kibrit, çakmak",
+          "gtip_araligi": "36",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 37,
+          "fasil_adi": "Fotoğraf veya sinema ürünleri",
+          "aciklama": "Fotoğraf filmi, kamera filmi; karanlık oda kimyasalları; polaroid",
+          "gtip_araligi": "37",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 38,
+          "fasil_adi": "Çeşitli kimyasal ürünler",
+          "aciklama": "Endüstriyel kimyasallar, katalizörler, solventler; çeşitli kimyasal ürünler",
+          "gtip_araligi": "38",
+          "anahtar_kelimeler": ""
+        }
       ]
     },
     {
       "bolum_no": 7,
       "bolum_adi": "Plastik ve Kauçuk Mamulleri",
       "fasillar": [
-        { "fasil_no": 39, "fasil_adi": "Plastik ve plastikten mamul eşyalar", "aciklama": "PE, PP, PVC, PET, ABS plastikler; plastik borular, çalar, valiz, ambalaj, şişe" },
-        { "fasil_no": 40, "fasil_adi": "Kauçuk ve kauçuktan mamul eşyalar", "aciklama": "Doğal kauçuk, sentetik kauçuk; lastik, hortum, kauçuk conta, eldiven" }
+        {
+          "fasil_no": 39,
+          "fasil_adi": "Plastik ve plastikten mamul eşyalar",
+          "aciklama": "PE, PP, PVC, PET, ABS plastikler; plastik borular, çalar, valiz, ambalaj, şişe",
+          "gtip_araligi": "39",
+          "anahtar_kelimeler": "plastik polietilen PVC PET boru şişe valiz çanta plastik"
+        },
+        {
+          "fasil_no": 40,
+          "fasil_adi": "Kauçuk ve kauçuktan mamul eşyalar",
+          "aciklama": "Doğal kauçuk, sentetik kauçuk; lastik, hortum, kauçuk conta, eldiven",
+          "gtip_araligi": "40",
+          "anahtar_kelimeler": "kauçuk lastik hortum conta kauçuk"
+        }
       ]
     },
     {
       "bolum_no": 8,
       "bolum_adi": "Deri, Kösele ve Kürk Eşyalar",
       "fasillar": [
-        { "fasil_no": 41, "fasil_adi": "İşlenmemiş deri ve kösele; kürk postlar", "aciklama": "Sığır derisi, koyun derisi; deri kösele; kürk postu, tilki postu" },
-        { "fasil_no": 42, "fasil_adi": "Deri eşyalar; kösele eşyalar; koşum takımları", "aciklama": "Çanta, valiz, cüzdan, kemer; deri giysi; at koşumu, hayvan bakım eşyaları" },
-        { "fasil_no": 43, "fasil_adi": "Kürk ve kürkten mamul eşyalar; yapay kürk", "aciklama": "Kürk şapka, kürk yelek, kürk ayakkabı; yapay kürk, kürk ürünleri" }
+        {
+          "fasil_no": 41,
+          "fasil_adi": "İşlenmemiş deri ve kösele; kürk postlar",
+          "aciklama": "Sığır derisi, koyun derisi; deri kösele; kürk postu, tilki postu",
+          "gtip_araligi": "41",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 42,
+          "fasil_adi": "Deri eşyalar; kösele eşyalar; koşum takımları",
+          "aciklama": "Çanta, valiz, cüzdan, kemer; deri giysi; at koşumu, hayvan bakım eşyaları",
+          "gtip_araligi": "42",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 43,
+          "fasil_adi": "Kürk ve kürkten mamul eşyalar; yapay kürk",
+          "aciklama": "Kürk şapka, kürk yelek, kürk ayakkabı; yapay kürk, kürk ürünleri",
+          "gtip_araligi": "43",
+          "anahtar_kelimeler": ""
+        }
       ]
     },
     {
       "bolum_no": 9,
       "bolum_adi": "Ahşap, Mantar ve Bitkisel Maddelerden Mamul Eşyalar",
       "fasillar": [
-        { "fasil_no": 44, "fasil_adi": "Ahşap ve ahşaptan mamul eşyalar", "aciklama": "Kereste, tahta, kontrplak, MDF; ahşap kapı, pencere, zemin; mobilya parçaları" },
-        { "fasil_no": 45, "fasil_adi": "Mantar ve mantardan mamul eşyalar", "aciklama": "Mantar, hamur işi, eşya; mantardan yapılan ürünler" },
-        { "fasil_no": 46, "fasil_adi": "Bitkisel maddelerden mamul eşyalar (hasır, sepet)", "aciklama": "Hasır, sepet, şale, bambu ürünleri; bitkisel mamullerden yapılan eşyalar" }
+        {
+          "fasil_no": 44,
+          "fasil_adi": "Ahşap ve ahşaptan mamul eşyalar",
+          "aciklama": "Kereste, tahta, kontrplak, MDF; ahşap kapı, pencere, zemin; mobilya parçaları",
+          "gtip_araligi": "44",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 45,
+          "fasil_adi": "Mantar ve mantardan mamul eşyalar",
+          "aciklama": "Mantar, hamur işi, eşya; mantardan yapılan ürünler",
+          "gtip_araligi": "45",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 46,
+          "fasil_adi": "Bitkisel maddelerden mamul eşyalar (hasır, sepet)",
+          "aciklama": "Hasır, sepet, şale, bambu ürünleri; bitkisel mamullerden yapılan eşyalar",
+          "gtip_araligi": "46",
+          "anahtar_kelimeler": ""
+        }
       ]
     },
     {
       "bolum_no": 10,
       "bolum_adi": "Kağıt, Karton ve Baskı Sanayi Mamulleri",
       "fasillar": [
-        { "fasil_no": 47, "fasil_adi": "Odun hamuru ve selüloz; kağıt ve karton", "aciklama": "Odun hamuru, selüloz; kağıt, karton, mukavva; geri dönüştürülmüş kağıt" },
-        { "fasil_no": 48, "fasil_adi": "Kağıt ve karton; kağıt ve kartondan mamul eşyalar", "aciklama": "Yazıcı kağıdı, karton, teneke karton; zarf, dosya, defter; kağıt ürünleri" },
-        { "fasil_no": 49, "fasil_adi": "Basılı kitap, gazete, dergi, resim ve yazılar", "aciklama": "Basılı kitap, dergi, gazete; resim, afiş, kartpostal; el yazması, tipografi" }
+        {
+          "fasil_no": 47,
+          "fasil_adi": "Odun hamuru ve selüloz; kağıt ve karton",
+          "aciklama": "Odun hamuru, selüloz; kağıt, karton, mukavva; geri dönüştürülmüş kağıt",
+          "gtip_araligi": "47",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 48,
+          "fasil_adi": "Kağıt ve karton; kağıt ve kartondan mamul eşyalar",
+          "aciklama": "Yazıcı kağıdı, karton, teneke karton; zarf, dosya, defter; kağıt ürünleri",
+          "gtip_araligi": "48",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 49,
+          "fasil_adi": "Basılı kitap, gazete, dergi, resim ve yazılar",
+          "aciklama": "Basılı kitap, dergi, gazete; resim, afiş, kartpostal; el yazması, tipografi",
+          "gtip_araligi": "49",
+          "anahtar_kelimeler": ""
+        }
       ]
     },
     {
       "bolum_no": 11,
       "bolum_adi": "Tekstil ve Tekstil Ürünleri",
       "fasillar": [
-        { "fasil_no": 50, "fasil_adi": "İpek", "aciklama": "Ham ipek, ipek yarnı, ipek kumaş; ipekten mamul eşyalar" },
-        { "fasil_no": 51, "fasil_adi": "Yün, ince ve kaba kıl; at kılı", "aciklama": "Yün, merino, kaşmir; at kılı; yün ipliği, yünlü kumaş" },
-        { "fasil_no": 52, "fasil_adi": "Pamuk", "aciklama": "Pamuk çekirdeği, pamuk yarnı, pamuk kumaş; pamuklu tekstil ürünleri" },
-        { "fasil_no": 53, "fasil_adi": "Diğer bitkisel tekstil iplikleri; kâğıt ipliği", "aciklama": "Keten, jüt, kenevir ipliği; kâğıt ipliği; bitkisel tekstil iplikleri" },
-        { "fasil_no": 54, "fasil_adi": "Sentetik ve suni filamentler; şeritler", "aciklama": "Naylon, poliester, akrilik filament; suni iplik; şeritler, kordul" },
-        { "fasil_no": 55, "fasil_adi": "Sentetik ve suni devamsız elyaf", "aciklama": "Sentetik elyaf, suni elyaf; poliester elyaf, naylon elyaf" },
-        { "fasil_no": 56, "fasil_adi": "Vatka, keçe ve dokunmuş kumaş; iplikler", "aciklama": "Vatka, keçe, dokunmuş kumaş; örgü, iplik; tekstil yardımcı maddeleri" },
-        { "fasil_no": 57, "fasil_adi": "Halılar ve diğer döşeme tekstili", "aciklama": "Halı, kilim, sure; döşeme tekstili, yer kaplamaları" },
-        { "fasil_no": 58, "fasil_adi": "Özel dokumalar; dantel; halı; kordul", "aciklama": "Özel dokuma, dantel, halı, kordul, nakış, kurdele" },
-        { "fasil_no": 59, "fasil_adi": "Emdirilmiş, kaplanmış veya kompozit tekstil maddeleri", "aciklama": "Emdirilmiş kumaş, kaplanmış kumaş, kompozit tekstil; tekstil ürünleri" },
-        { "fasil_no": 60, "fasil_adi": "Örme ve tığ işi mensucat eşyası", "aciklama": "Örme giyim, çorap, eldiven, atkı; örme kumaş, tığ işi ürünler" },
-        { "fasil_no": 61, "fasil_adi": "Örme ve tığ işi dışında kalan giyim eşyası ve aksesuarları", "aciklama": "Takım elbise, pantolon, gömlek, çorap, kravat; örme olmayan giyim" },
-        { "fasil_no": 62, "fasil_adi": "Örme ve tığ işi dışında kalan giyim eşyası ve aksesuarları", "aciklama": "Mont, kabak, kaban, palto, şort, eşofman; örme olmayan giyim" },
-        { "fasil_no": 63, "fasil_adi": "Hazır tekstil eşyaları; takımlar; kullanılmış giyim eşyası ve dokunmuş kumaşlar", "aciklama": "Çarşaf, yastık, havlu, örtü; kullanılmış giyim; dokunmuş kumaş; takım elbise takımları" }
+        {
+          "fasil_no": 50,
+          "fasil_adi": "İpek",
+          "aciklama": "Ham ipek, ipek yarnı, ipek kumaş; ipekten mamul eşyalar",
+          "gtip_araligi": "50",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 51,
+          "fasil_adi": "Yün, ince ve kaba kıl; at kılı",
+          "aciklama": "Yün, merino, kaşmir; at kılı; yün ipliği, yünlü kumaş",
+          "gtip_araligi": "51",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 52,
+          "fasil_adi": "Pamuk",
+          "aciklama": "Pamuk çekirdeği, pamuk yarnı, pamuk kumaş; pamuklu tekstil ürünleri",
+          "gtip_araligi": "52",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 53,
+          "fasil_adi": "Diğer bitkisel tekstil iplikleri; kâğıt ipliği",
+          "aciklama": "Keten, jüt, kenevir ipliği; kâğıt ipliği; bitkisel tekstil iplikleri",
+          "gtip_araligi": "53",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 54,
+          "fasil_adi": "Sentetik ve suni filamentler; şeritler",
+          "aciklama": "Naylon, poliester, akrilik filament; suni iplik; şeritler, kordul",
+          "gtip_araligi": "54",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 55,
+          "fasil_adi": "Sentetik ve suni devamsız elyaf",
+          "aciklama": "Sentetik elyaf, suni elyaf; poliester elyaf, naylon elyaf",
+          "gtip_araligi": "55",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 56,
+          "fasil_adi": "Vatka, keçe ve dokunmuş kumaş; iplikler",
+          "aciklama": "Vatka, keçe, dokunmuş kumaş; örgü, iplik; tekstil yardımcı maddeleri",
+          "gtip_araligi": "56",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 57,
+          "fasil_adi": "Halılar ve diğer döşeme tekstili",
+          "aciklama": "Halı, kilim, sure; döşeme tekstili, yer kaplamaları",
+          "gtip_araligi": "57",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 58,
+          "fasil_adi": "Özel dokumalar; dantel; halı; kordul",
+          "aciklama": "Özel dokuma, dantel, halı, kordul, nakış, kurdele",
+          "gtip_araligi": "58",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 59,
+          "fasil_adi": "Emdirilmiş, kaplanmış veya kompozit tekstil maddeleri",
+          "aciklama": "Emdirilmiş kumaş, kaplanmış kumaş, kompozit tekstil; tekstil ürünleri",
+          "gtip_araligi": "59",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 60,
+          "fasil_adi": "Örme ve tığ işi mensucat eşyası",
+          "aciklama": "Örme giyim, çorap, eldiven, atkı; örme kumaş, tığ işi ürünler",
+          "gtip_araligi": "60",
+          "anahtar_kelimeler": "örgü örme çorap eldiven tığ"
+        },
+        {
+          "fasil_no": 61,
+          "fasil_adi": "Örme ve tığ işi dışında kalan giyim eşyası ve aksesuarları",
+          "aciklama": "Takım elbise, pantolon, gömlek, çorap, kravat; örme olmayan giyim",
+          "gtip_araligi": "61",
+          "anahtar_kelimeler": "giyim takım elbise pantolon gömlek kravat çorap"
+        },
+        {
+          "fasil_no": 62,
+          "fasil_adi": "Örme ve tığ işi dışında kalan giyim eşyası ve aksesuarları",
+          "aciklama": "Mont, kabak, kaban, palto, şort, eşofman; örme olmayan giyim",
+          "gtip_araligi": "62",
+          "anahtar_kelimeler": "giyim mont kabak palto şort eşofman kaban"
+        },
+        {
+          "fasil_no": 63,
+          "fasil_adi": "Hazır tekstil eşyaları; takımlar; kullanılmış giyim eşyası ve dokunmuş kumaşlar",
+          "aciklama": "Çarşaf, yastık, havlu, örtü; kullanılmış giyim; dokunmuş kumaş; takım elbise takımları",
+          "gtip_araligi": "63",
+          "anahtar_kelimeler": "çarşaf yastık havlu örtü kullanılmış giyim halı"
+        }
       ]
     },
     {
       "bolum_no": 12,
       "bolum_adi": "Ayakkabı, Başlık ve Şemsiyeler; Çıta ve Kuş Tüyü",
       "fasillar": [
-        { "fasil_no": 64, "fasil_adi": "Ayakkabı, getrler ve benzeri eşyalar", "aciklama": "Spor ayakkabı, bot, çizme, sandalet, terlik; ayakkabı parçaları, getrler" },
-        { "fasil_no": 65, "fasil_adi": "Başlık ve başlık parçaları", "aciklama": "Şapka, beret, bone, şişe; başlık parçaları, şapka süsleri" },
-        { "fasil_no": 66, "fasil_adi": "Şemsiyeler, güneş şemsiyeleri, bastonlar", "aciklama": "Şemsiye, güneş şemsiyesi, baston, koltuk değneği" },
-        { "fasil_no": 67, "fasil_adi": "İşlenmiş kuş tüyü ve yapay çiçekler", "aciklama": "İşlenmiş tüy, yapay çiçek, süs eşyaları; kuş tüyünden mamul eşyalar" }
+        {
+          "fasil_no": 64,
+          "fasil_adi": "Ayakkabı, getrler ve benzeri eşyalar",
+          "aciklama": "Spor ayakkabı, bot, çizme, sandalet, terlik; ayakkabı parçaları, getrler",
+          "gtip_araligi": "64",
+          "anahtar_kelimeler": "ayakkabı bot çizme sandalet terlik çizme"
+        },
+        {
+          "fasil_no": 65,
+          "fasil_adi": "Başlık ve başlık parçaları",
+          "aciklama": "Şapka, beret, bone, şişe; başlık parçaları, şapka süsleri",
+          "gtip_araligi": "65",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 66,
+          "fasil_adi": "Şemsiyeler, güneş şemsiyeleri, bastonlar",
+          "aciklama": "Şemsiye, güneş şemsiyesi, baston, koltuk değneği",
+          "gtip_araligi": "66",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 67,
+          "fasil_adi": "İşlenmiş kuş tüyü ve yapay çiçekler",
+          "aciklama": "İşlenmiş tüy, yapay çiçek, süs eşyaları; kuş tüyünden mamul eşyalar",
+          "gtip_araligi": "67",
+          "anahtar_kelimeler": ""
+        }
       ]
     },
     {
       "bolum_no": 13,
       "bolum_adi": "Taş, Alçı, Çimento, Seramik, Cam ve Cam Eşya",
       "fasillar": [
-        { "fasil_no": 68, "fasil_adi": "Taş, alçı, çimento, mika ve benzeri maddelerden mamul eşyalar", "aciklama": "Mermer ürünleri, beton, alçı taşı; asbest ürünleri; taş eşyaları" },
-        { "fasil_no": 69, "fasil_adi": "Seramik ürünler", "aciklama": "Çini, vazo, tuvalet gereçleri; seramik sıhhi tesisat; ateşe dayanıklı seramik" },
-        { "fasil_no": 70, "fasil_adi": "Cam ve cam eşya", "aciklama": "Levha cam, cam şişe, cam bardak; cam elyafı; cam eşyaları" }
+        {
+          "fasil_no": 68,
+          "fasil_adi": "Taş, alçı, çimento, mika ve benzeri maddelerden mamul eşyalar",
+          "aciklama": "Mermer ürünleri, beton, alçı taşı; asbest ürünleri; taş eşyaları",
+          "gtip_araligi": "68",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 69,
+          "fasil_adi": "Seramik ürünler",
+          "aciklama": "Çini, vazo, tuvalet gereçleri; seramik sıhhi tesisat; ateşe dayanıklı seramik",
+          "gtip_araligi": "69",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 70,
+          "fasil_adi": "Cam ve cam eşya",
+          "aciklama": "Levha cam, cam şişe, cam bardak; cam elyafı; cam eşyaları",
+          "gtip_araligi": "70",
+          "anahtar_kelimeler": ""
+        }
       ]
     },
     {
       "bolum_no": 14,
       "bolum_adi": "İnci, Değerli Taş, Değerli Metal ve Bunlardan Mamul Eşyalar",
       "fasillar": [
-        { "fasil_no": 71, "fasil_adi": "İnci, değerli taş, değerli metal ve bunlardan mamul eşyalar", "aciklama": "Altın, gümüş, platin; elmas, yakut, zümrüt; mücevher, saat; değerli metal eşya" }
+        {
+          "fasil_no": 71,
+          "fasil_adi": "İnci, değerli taş, değerli metal ve bunlardan mamul eşyalar",
+          "aciklama": "Altın, gümüş, platin; elmas, yakut, zümrüt; mücevher, saat; değerli metal eşya",
+          "gtip_araligi": "71",
+          "anahtar_kelimeler": ""
+        }
       ]
     },
     {
       "bolum_no": 15,
       "bolum_adi": "Adi Metaller ve Bunlardan Mamul Eşyalar",
       "fasillar": [
-        { "fasil_no": 72, "fasil_adi": "Demir ve çelik", "aciklama": "Demir cevheri, çelik, inşaat demiri; demir ve çelik ürünleri" },
-        { "fasil_no": 73, "fasil_adi": "Demir veya çelikten mamul eşyalar", "aciklama": "Demir boru, çelik çatı, çelik konstrüksiyon; demir eşyaları, kazan" },
-        { "fasil_no": 74, "fasil_adi": "Bakır ve bakırdan mamul eşyalar", "aciklama": "Bakır cevheri, bakır tel, bakır boru; bakır eşyaları" },
-        { "fasil_no": 75, "fasil_adi": "Nikel ve nikeldan mamul eşyalar", "aciklama": "Nikel cevheri, nikel alaşım; nikeldan mamul eşyalar" },
-        { "fasil_no": 76, "fasil_adi": "Alüminyum ve alüminyumdan mamul eşyalar", "aciklama": "Alüminyum folyo, alüminyum profil, alüminyum boru; alüminyum eşyaları" },
-        { "fasil_no": 77, "fasil_adi": "(Boş bırakılmıştır)", "aciklama": "Gelecekteki kullanımlar için ayrılmıştır" },
-        { "fasil_no": 78, "fasil_adi": "Kurşun ve kurşundan mamul eşyalar", "aciklama": "Kurşun cevheri, kurşun levha; kurşun eşyaları" },
-        { "fasil_no": 79, "fasil_adi": "Çinko ve çinkodan mamul eşyalar", "aciklama": "Çinko cevheri, çinko levha, çinko kaplama; çinko eşyaları" },
-        { "fasil_no": 80, "fasil_adi": "Kalay ve kalaydan mamul eşyalar", "aciklama": "Kalay cevheri, kalay tel, kalay lehim; kalay eşyaları" },
-        { "fasil_no": 81, "fasil_adi": "Diğer adi metaller; metal seramikler", "aciklama": "Tungsten, molibden, titanyum; metal seramikler, karbürler" },
-        { "fasil_no": 82, "fasil_adi": "Aletler, bıçaklar, çatal-kaşık; adi metallerden mamul eşyalar", "aciklama": "Çakı, bıçak, makas, tornavida; çatal-kaşık seti; el aletleri" },
-        { "fasil_no": 83, "fasil_adi": "Adi metallerden mamul diğer eşyalar", "aciklama": "Adi metal kapı, pencere; metal eşyaları, kilit, zincir" }
+        {
+          "fasil_no": 72,
+          "fasil_adi": "Demir ve çelik",
+          "aciklama": "Demir cevheri, çelik, inşaat demiri; demir ve çelik ürünleri",
+          "gtip_araligi": "72",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 73,
+          "fasil_adi": "Demir veya çelikten mamul eşyalar",
+          "aciklama": "Demir boru, çelik çatı, çelik konstrüksiyon; demir eşyaları, kazan",
+          "gtip_araligi": "73",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 74,
+          "fasil_adi": "Bakır ve bakırdan mamul eşyalar",
+          "aciklama": "Bakır cevheri, bakır tel, bakır boru; bakır eşyaları",
+          "gtip_araligi": "74",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 75,
+          "fasil_adi": "Nikel ve nikeldan mamul eşyalar",
+          "aciklama": "Nikel cevheri, nikel alaşım; nikeldan mamul eşyalar",
+          "gtip_araligi": "75",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 76,
+          "fasil_adi": "Alüminyum ve alüminyumdan mamul eşyalar",
+          "aciklama": "Alüminyum folyo, alüminyum profil, alüminyum boru; alüminyum eşyaları",
+          "gtip_araligi": "76",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 77,
+          "fasil_adi": "(Boş bırakılmıştır)",
+          "aciklama": "Gelecekteki kullanımlar için ayrılmıştır",
+          "gtip_araligi": "77",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 78,
+          "fasil_adi": "Kurşun ve kurşundan mamul eşyalar",
+          "aciklama": "Kurşun cevheri, kurşun levha; kurşun eşyaları",
+          "gtip_araligi": "78",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 79,
+          "fasil_adi": "Çinko ve çinkodan mamul eşyalar",
+          "aciklama": "Çinko cevheri, çinko levha, çinko kaplama; çinko eşyaları",
+          "gtip_araligi": "79",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 80,
+          "fasil_adi": "Kalay ve kalaydan mamul eşyalar",
+          "aciklama": "Kalay cevheri, kalay tel, kalay lehim; kalay eşyaları",
+          "gtip_araligi": "80",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 81,
+          "fasil_adi": "Diğer adi metaller; metal seramikler",
+          "aciklama": "Tungsten, molibden, titanyum; metal seramikler, karbürler",
+          "gtip_araligi": "81",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 82,
+          "fasil_adi": "Aletler, bıçaklar, çatal-kaşık; adi metallerden mamul eşyalar",
+          "aciklama": "Çakı, bıçak, makas, tornavida; çatal-kaşık seti; el aletleri",
+          "gtip_araligi": "82",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 83,
+          "fasil_adi": "Adi metallerden mamul diğer eşyalar",
+          "aciklama": "Adi metal kapı, pencere; metal eşyaları, kilit, zincir",
+          "gtip_araligi": "83",
+          "anahtar_kelimeler": ""
+        }
       ]
     },
     {
       "bolum_no": 16,
       "bolum_adi": "Nükleer Reaktörler, Kazanlar, Makinalar ve Mekanik Cihazlar; Elektrikli Makine ve Cihazlar",
       "fasillar": [
-        { "fasil_no": 84, "fasil_adi": "Nükleer reaktörler, kazanlar, makinalar ve mekanik cihazlar", "aciklama": "Nükleer reaktörler, buhar kazanları; motorlar, pompalar, kompresörler; sanayi makineleri" },
-        { "fasil_no": 85, "fasil_adi": "Elektrikli makinalar ve cihazlar; ses ve görüntü kaydediciler", "aciklama": "Elektrik motorları, jeneratörler, transformatörler; televizyon, radyo, telefon" }
+        {
+          "fasil_no": 84,
+          "fasil_adi": "Nükleer reaktörler, kazanlar, makinalar ve mekanik cihazlar",
+          "aciklama": "Nükleer reaktörler, buhar kazanları; motorlar, pompalar, kompresörler; sanayi makineleri",
+          "gtip_araligi": "84",
+          "anahtar_kelimeler": "makina motor pompa kompresör bilgisayar makine"
+        },
+        {
+          "fasil_no": 85,
+          "fasil_adi": "Elektrikli makinalar ve cihazlar; ses ve görüntü kaydediciler",
+          "aciklama": "Elektrik motorları, jeneratörler, transformatörler; televizyon, radyo, telefon",
+          "gtip_araligi": "85",
+          "anahtar_kelimeler": "elektrik televizyon radyo telefon kamera saat"
+        }
       ]
     },
     {
       "bolum_no": 17,
       "bolum_adi": "Nakil Vasıtaları (Kara, Hava ve Deniz Taşıtları)",
       "fasillar": [
-        { "fasil_no": 86, "fasil_adi": "Tramvay, demiryolu ve benzeri araçlar", "aciklama": "Tramvay, lokomotif, vagon; demiryolu parçaları; raylı taşıtlar" },
-        { "fasil_no": 87, "fasil_adi": "Kara taşıtları (otomobil, traktör, bisiklet, kamyon vb.)", "aciklama": "Otomobil, traktör, kamyon, bisiklet; kara taşıtı parçaları, aksesuarları" },
-        { "fasil_no": 88, "fasil_adi": "Hava taşıtları, uzay araçları ve bunların parçaları", "aciklama": "Uçak, helikopter, roket, uydu; hava taşıtı parçaları" },
-        { "fasil_no": 89, "fasil_adi": "Gemiler ve su taşıtları", "aciklama": "Gemi, yelkenli, tekneler, feribot; gemi parçaları, dingil" }
+        {
+          "fasil_no": 86,
+          "fasil_adi": "Tramvay, demiryolu ve benzeri araçlar",
+          "aciklama": "Tramvay, lokomotif, vagon; demiryolu parçaları; raylı taşıtlar",
+          "gtip_araligi": "86",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 87,
+          "fasil_adi": "Kara taşıtları (otomobil, traktör, bisiklet, kamyon vb.)",
+          "aciklama": "Otomobil, traktör, kamyon, bisiklet; kara taşıtı parçaları, aksesuarları",
+          "gtip_araligi": "87",
+          "anahtar_kelimeler": "otomobil traktör bisiklet kamyon araç otomotiv"
+        },
+        {
+          "fasil_no": 88,
+          "fasil_adi": "Hava taşıtları, uzay araçları ve bunların parçaları",
+          "aciklama": "Uçak, helikopter, roket, uydu; hava taşıtı parçaları",
+          "gtip_araligi": "88",
+          "anahtar_kelimeler": "uçak helikopter roket uzay hava taşıt"
+        },
+        {
+          "fasil_no": 89,
+          "fasil_adi": "Gemiler ve su taşıtları",
+          "aciklama": "Gemi, yelkenli, tekneler, feribot; gemi parçaları, dingil",
+          "gtip_araligi": "89",
+          "anahtar_kelimeler": "gemi yelkenli tekneler feribot deniz taşıt"
+        }
       ]
     },
     {
       "bolum_no": 18,
       "bolum_adi": "Optik, Fotoğraf, Sinema, Ölçüm, Kontrol, Tıbbi ve Cerrahi Cihazlar; Saatler",
       "fasillar": [
-        { "fasil_no": 90, "fasil_adi": "Optik, fotoğraf, sinema, ölçüm, kontrol, tıbbi ve cerrahi cihazlar", "aciklama": "Gözlük, mikroskop, teleskop; kamera; ölçüm cihazları; tıbbi cihazlar, amelathane" },
-        { "fasil_no": 91, "fasil_adi": "Saatler ve parçaları", "aciklama": "Kol saati, duvar saati, kronometre; saat parçaları, mekanizmaları" },
-        { "fasil_no": 92, "fasil_adi": "Müzik aletleri ve parçaları", "aciklama": "Gitar, piyano, keman, trompet; müzik aleti parçaları, aksesuarları" }
+        {
+          "fasil_no": 90,
+          "fasil_adi": "Optik, fotoğraf, sinema, ölçüm, kontrol, tıbbi ve cerrahi cihazlar",
+          "aciklama": "Gözlük, mikroskop, teleskop; kamera; ölçüm cihazları; tıbbi cihazlar, amelathane",
+          "gtip_araligi": "90",
+          "anahtar_kelimeler": "gözlük mikroskop kamera tıbbi cihaz saat"
+        },
+        {
+          "fasil_no": 91,
+          "fasil_adi": "Saatler ve parçaları",
+          "aciklama": "Kol saati, duvar saati, kronometre; saat parçaları, mekanizmaları",
+          "gtip_araligi": "91",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 92,
+          "fasil_adi": "Müzik aletleri ve parçaları",
+          "aciklama": "Gitar, piyano, keman, trompet; müzik aleti parçaları, aksesuarları",
+          "gtip_araligi": "92",
+          "anahtar_kelimeler": ""
+        }
       ]
     },
     {
       "bolum_no": 19,
       "bolum_adi": "Silah ve Mühimmat",
       "fasillar": [
-        { "fasil_no": 93, "fasil_adi": "Silahlar ve mühimmat", "aciklama": "Tüfek, tabanca, havan, roket; mermi, kurşun, patlayıcılar; askeri eşyalar" }
+        {
+          "fasil_no": 93,
+          "fasil_adi": "Silahlar ve mühimmat",
+          "aciklama": "Tüfek, tabanca, havan, roket; mermi, kurşun, patlayıcılar; askeri eşyalar",
+          "gtip_araligi": "93",
+          "anahtar_kelimeler": ""
+        }
       ]
     },
     {
       "bolum_no": 20,
       "bolum_adi": "Çeşitli Mamul Eşyalar",
       "fasillar": [
-        { "fasil_no": 94, "fasil_adi": "Mobilya, yatak, aydınlatma cihazları, prefabrik yapılar", "aciklama": "Kanepe, sandalye, yatak, dolap; lamba, abajur; prefabrik ev, kabin" },
-        { "fasil_no": 95, "fasil_adi": "Oyun, eğlence ve spor eşyaları", "aciklama": "Oyuncak, lego, bisiklet; spor ekipmanları; eğlence ürünleri" },
-        { "fasil_no": 96, "fasil_adi": "Çeşitli mamul eşyalar (kalem, şemsiye, bıçak vb.)", "aciklama": "Kalem, silgi, cetvel; şemsiye, baston; bıçak, makas; dini eşyalar" },
-        { "fasil_no": 97, "fasil_adi": "Sanat eserleri, antika ve koleksiyon parçaları", "aciklama": "Tabl heykel, antika eşya; pul, para koleksiyonu; sanat eserleri" }
+        {
+          "fasil_no": 94,
+          "fasil_adi": "Mobilya, yatak, aydınlatma cihazları, prefabrik yapılar",
+          "aciklama": "Kanepe, sandalye, yatak, dolap; lamba, abajur; prefabrik ev, kabin",
+          "gtip_araligi": "94",
+          "anahtar_kelimeler": "mobilya yatak dolap kanepe lamba prefabrik"
+        },
+        {
+          "fasil_no": 95,
+          "fasil_adi": "Oyun, eğlence ve spor eşyaları",
+          "aciklama": "Oyuncak, lego, bisiklet; spor ekipmanları; eğlence ürünleri",
+          "gtip_araligi": "95",
+          "anahtar_kelimeler": "oyuncak lego bisiklet spor eğlence"
+        },
+        {
+          "fasil_no": 96,
+          "fasil_adi": "Çeşitli mamul eşyalar (kalem, şemsiye, bıçak vb.)",
+          "aciklama": "Kalem, silgi, cetvel; şemsiye, baston; bıçak, makas; dini eşyalar",
+          "gtip_araligi": "96",
+          "anahtar_kelimeler": ""
+        },
+        {
+          "fasil_no": 97,
+          "fasil_adi": "Sanat eserleri, antika ve koleksiyon parçaları",
+          "aciklama": "Tabl heykel, antika eşya; pul, para koleksiyonu; sanat eserleri",
+          "gtip_araligi": "97",
+          "anahtar_kelimeler": ""
+        }
       ]
     },
     {
       "bolum_no": 21,
       "bolum_adi": "Ulusal Sınıflandırma (Türkiye'ye Özel Fasıllar)",
       "fasillar": [
-        { "fasil_no": 98, "fasil_adi": "Demonte vaziyetteki sanayi tesisler (komple tesisler)", "aciklama": "Demonte edilmiş fabrika tesisleri, komple endüstriyel tesisler; kurulum ve taşıma için gümrük beyanı" },
-        { "fasil_no": 99, "fasil_adi": "Yolcu beraberinde gelen kişisel veya özel eşyalar", "aciklama": "Yolcu beraberi eşyalar; kişisel kullanım eşyalar; özel gümrük muafiyeti durumları" }
+        {
+          "fasil_no": 98,
+          "fasil_adi": "Demonte vaziyetteki sanayi tesisler (komple tesisler)",
+          "aciklama": "Demonte edilmiş fabrika tesisleri, komple endüstriyel tesisler; kurulum ve taşıma için gümrük beyanı",
+          "gtip_araligi": "98",
+          "anahtar_kelimeler": "tesis fabrika komple sanayi demonte"
+        },
+        {
+          "fasil_no": 99,
+          "fasil_adi": "Yolcu beraberinde gelen kişisel veya özel eşyalar",
+          "aciklama": "Yolcu beraberi eşyalar; kişisel kullanım eşyalar; özel gümrük muafiyeti durumları",
+          "gtip_araligi": "99",
+          "anahtar_kelimeler": "yolcu beraber kişisel eşya bagaj"
+        }
       ]
     }
   ]
