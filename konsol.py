@@ -95,6 +95,7 @@ def veri_yukle():
                 'gumruk-musavirligi-2017-sinav.json',
                 'gumruk-musavirligi-2018-sinav.json',
                 'gumruk-tarife-cetveli-fasillar.json',
+                'gumruk-tarife-cetveli-detayli.json',
                 'b2b-ticaret-dataset.json', 'lojistik-tasimacilik-dataset.json',
                 'finans-vergi-dataset.json', 'sirket-is-hukuku-dataset.json',
                 'turkiye-ekonomi-dataset.json', 'emlak-yatirim-dataset.json']

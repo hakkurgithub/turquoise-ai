@@ -1,0 +1,2044 @@
+{
+  "dataset": [
+    {
+      "soru": "1. bölüm nedir? Canli Hayvanlar ve Hayvansal Urunler hangi fasılları içerir?",
+      "cevap": "1. Bölüm: Canli Hayvanlar ve Hayvansal Urunler. Bu bölüm şu fasılları içerir: 1. Canli hayvanlar, 2. Etler ve yenilen sakatat, 3. Baliklar, kabuklu hayvanlar, yumusakcalar ve suda yasayan diger omurgasiz hayvanlar, 4. Sut urunleri; kus ve kumes hayvanlarinin yumurtalari; tabii bal; tarifenin baska yerinde belirtilmeyen veya yer almayan yenilebilir hayvansal menseli urunler, 5. Tarifenin baska yerinde belirtilmeyen veya yer almayan hayvansal menseli urunler.",
+      "kategori": "Gumruk Tarife Cetveli Bolumler"
+    },
+    {
+      "soru": "1. fasıl nedir? Canli hayvanlar ne demek?",
+      "cevap": "1. Fasıl: Canli hayvanlar. Bölüm 1: Canli Hayvanlar ve Hayvansal Urunler.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 01 hangi fasıl? 01 ne demek?",
+      "cevap": "GTİP kodu 01 → 1. Fasıl: Canli hayvanlar (Bölüm 1: Canli Hayvanlar ve Hayvansal Urunler)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "2. fasıl nedir? Etler ve yenilen sakatat ne demek?",
+      "cevap": "2. Fasıl: Etler ve yenilen sakatat. Bölüm 1: Canli Hayvanlar ve Hayvansal Urunler.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 02 hangi fasıl? 02 ne demek?",
+      "cevap": "GTİP kodu 02 → 2. Fasıl: Etler ve yenilen sakatat (Bölüm 1: Canli Hayvanlar ve Hayvansal Urunler)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "3. fasıl nedir? Baliklar, kabuklu hayvanlar, yumusakcalar ve suda yasayan diger omurgasiz hayvanlar ne demek?",
+      "cevap": "3. Fasıl: Baliklar, kabuklu hayvanlar, yumusakcalar ve suda yasayan diger omurgasiz hayvanlar. Bölüm 1: Canli Hayvanlar ve Hayvansal Urunler.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 03 hangi fasıl? 03 ne demek?",
+      "cevap": "GTİP kodu 03 → 3. Fasıl: Baliklar, kabuklu hayvanlar, yumusakcalar ve suda yasayan diger omurgasiz hayvanlar (Bölüm 1: Canli Hayvanlar ve Hayvansal Urunler)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "4. fasıl nedir? Sut urunleri; kus ve kumes hayvanlarinin yumurtalari; tabii bal; tarifenin baska yerinde belirtilmeyen veya yer almayan yenilebilir hayvansal menseli urunler ne demek?",
+      "cevap": "4. Fasıl: Sut urunleri; kus ve kumes hayvanlarinin yumurtalari; tabii bal; tarifenin baska yerinde belirtilmeyen veya yer almayan yenilebilir hayvansal menseli urunler. Bölüm 1: Canli Hayvanlar ve Hayvansal Urunler.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 04 hangi fasıl? 04 ne demek?",
+      "cevap": "GTİP kodu 04 → 4. Fasıl: Sut urunleri; kus ve kumes hayvanlarinin yumurtalari; tabii bal; tarifenin baska yerinde belirtilmeyen veya yer almayan yenilebilir hayvansal menseli urunler (Bölüm 1: Canli Hayvanlar ve Hayvansal Urunler)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "5. fasıl nedir? Tarifenin baska yerinde belirtilmeyen veya yer almayan hayvansal menseli urunler ne demek?",
+      "cevap": "5. Fasıl: Tarifenin baska yerinde belirtilmeyen veya yer almayan hayvansal menseli urunler. Bölüm 1: Canli Hayvanlar ve Hayvansal Urunler.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 05 hangi fasıl? 05 ne demek?",
+      "cevap": "GTİP kodu 05 → 5. Fasıl: Tarifenin baska yerinde belirtilmeyen veya yer almayan hayvansal menseli urunler (Bölüm 1: Canli Hayvanlar ve Hayvansal Urunler)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "2. bölüm nedir? Bitkisel Urunler hangi fasılları içerir?",
+      "cevap": "2. Bölüm: Bitkisel Urunler. Bu bölüm şu fasılları içerir: 6. Canli agaclar ve diger bitkiler; yumrular, kokler ve benzerleri; kesme cicekler ve sus yapraklari, 7. Yenilen sebzeler ve bazi kok ve yumrular, 8. Yenilen meyveler ve yenilen sert kabuklu meyveler; turuncgillerin ve kavunlarin veya karpuzlarin kabuklari, 9. Kahve, cay, paraguay cayi ve baharat, 10. Hububat, 11. Degirmencilik urunleri; malt; nisasta; inulin; bugday gluteni, 12. Yagli tohum ve meyveler; muhtelif tane, tohum ve meyveler; sanayide ve tipta kullanilan bitkiler; saman ve kaba yem, 13. Lak; sakiz, recine ve diger bitkisel ozsu ve hulasalar, 14. Orulmeye elverisli bitkisel maddeler; tarifenin baska yerinde belirtilmeyen veya yer almayan bitkisel urunler.",
+      "kategori": "Gumruk Tarife Cetveli Bolumler"
+    },
+    {
+      "soru": "6. fasıl nedir? Canli agaclar ve diger bitkiler; yumrular, kokler ve benzerleri; kesme cicekler ve sus yapraklari ne demek?",
+      "cevap": "6. Fasıl: Canli agaclar ve diger bitkiler; yumrular, kokler ve benzerleri; kesme cicekler ve sus yapraklari. Bölüm 2: Bitkisel Urunler.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 06 hangi fasıl? 06 ne demek?",
+      "cevap": "GTİP kodu 06 → 6. Fasıl: Canli agaclar ve diger bitkiler; yumrular, kokler ve benzerleri; kesme cicekler ve sus yapraklari (Bölüm 2: Bitkisel Urunler)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "7. fasıl nedir? Yenilen sebzeler ve bazi kok ve yumrular ne demek?",
+      "cevap": "7. Fasıl: Yenilen sebzeler ve bazi kok ve yumrular. Bölüm 2: Bitkisel Urunler.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 07 hangi fasıl? 07 ne demek?",
+      "cevap": "GTİP kodu 07 → 7. Fasıl: Yenilen sebzeler ve bazi kok ve yumrular (Bölüm 2: Bitkisel Urunler)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "8. fasıl nedir? Yenilen meyveler ve yenilen sert kabuklu meyveler; turuncgillerin ve kavunlarin veya karpuzlarin kabuklari ne demek?",
+      "cevap": "8. Fasıl: Yenilen meyveler ve yenilen sert kabuklu meyveler; turuncgillerin ve kavunlarin veya karpuzlarin kabuklari. Bölüm 2: Bitkisel Urunler.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 08 hangi fasıl? 08 ne demek?",
+      "cevap": "GTİP kodu 08 → 8. Fasıl: Yenilen meyveler ve yenilen sert kabuklu meyveler; turuncgillerin ve kavunlarin veya karpuzlarin kabuklari (Bölüm 2: Bitkisel Urunler)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "9. fasıl nedir? Kahve, cay, paraguay cayi ve baharat ne demek?",
+      "cevap": "9. Fasıl: Kahve, cay, paraguay cayi ve baharat. Bölüm 2: Bitkisel Urunler.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 09 hangi fasıl? 09 ne demek?",
+      "cevap": "GTİP kodu 09 → 9. Fasıl: Kahve, cay, paraguay cayi ve baharat (Bölüm 2: Bitkisel Urunler)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "10. fasıl nedir? Hububat ne demek?",
+      "cevap": "10. Fasıl: Hububat. Bölüm 2: Bitkisel Urunler.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 10 hangi fasıl? 10 ne demek?",
+      "cevap": "GTİP kodu 10 → 10. Fasıl: Hububat (Bölüm 2: Bitkisel Urunler)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "11. fasıl nedir? Degirmencilik urunleri; malt; nisasta; inulin; bugday gluteni ne demek?",
+      "cevap": "11. Fasıl: Degirmencilik urunleri; malt; nisasta; inulin; bugday gluteni. Bölüm 2: Bitkisel Urunler.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 11 hangi fasıl? 11 ne demek?",
+      "cevap": "GTİP kodu 11 → 11. Fasıl: Degirmencilik urunleri; malt; nisasta; inulin; bugday gluteni (Bölüm 2: Bitkisel Urunler)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "12. fasıl nedir? Yagli tohum ve meyveler; muhtelif tane, tohum ve meyveler; sanayide ve tipta kullanilan bitkiler; saman ve kaba yem ne demek?",
+      "cevap": "12. Fasıl: Yagli tohum ve meyveler; muhtelif tane, tohum ve meyveler; sanayide ve tipta kullanilan bitkiler; saman ve kaba yem. Bölüm 2: Bitkisel Urunler.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 12 hangi fasıl? 12 ne demek?",
+      "cevap": "GTİP kodu 12 → 12. Fasıl: Yagli tohum ve meyveler; muhtelif tane, tohum ve meyveler; sanayide ve tipta kullanilan bitkiler; saman ve kaba yem (Bölüm 2: Bitkisel Urunler)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "13. fasıl nedir? Lak; sakiz, recine ve diger bitkisel ozsu ve hulasalar ne demek?",
+      "cevap": "13. Fasıl: Lak; sakiz, recine ve diger bitkisel ozsu ve hulasalar. Bölüm 2: Bitkisel Urunler.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 13 hangi fasıl? 13 ne demek?",
+      "cevap": "GTİP kodu 13 → 13. Fasıl: Lak; sakiz, recine ve diger bitkisel ozsu ve hulasalar (Bölüm 2: Bitkisel Urunler)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "14. fasıl nedir? Orulmeye elverisli bitkisel maddeler; tarifenin baska yerinde belirtilmeyen veya yer almayan bitkisel urunler ne demek?",
+      "cevap": "14. Fasıl: Orulmeye elverisli bitkisel maddeler; tarifenin baska yerinde belirtilmeyen veya yer almayan bitkisel urunler. Bölüm 2: Bitkisel Urunler.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 14 hangi fasıl? 14 ne demek?",
+      "cevap": "GTİP kodu 14 → 14. Fasıl: Orulmeye elverisli bitkisel maddeler; tarifenin baska yerinde belirtilmeyen veya yer almayan bitkisel urunler (Bölüm 2: Bitkisel Urunler)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "3. bölüm nedir? Hayvansal ve Bitkisel Kati ve Sivi Yaglar ve Bunlarin Parcalanma Urunleri; Hazir Yemeklik Kati Yaglar; Hayvansal ve Bitkisel Mumlar hangi fasılları içerir?",
+      "cevap": "3. Bölüm: Hayvansal ve Bitkisel Kati ve Sivi Yaglar ve Bunlarin Parcalanma Urunleri; Hazir Yemeklik Kati Yaglar; Hayvansal ve Bitkisel Mumlar. Bu bölüm şu fasılları içerir: 15. Hayvansal ve bitkisel kati ve sivi yaglar ve bunlarin parcalanma urunleri; hazir yemeklik kati yaglar; hayvansal ve bitkisel mumlar.",
+      "kategori": "Gumruk Tarife Cetveli Bolumler"
+    },
+    {
+      "soru": "15. fasıl nedir? Hayvansal ve bitkisel kati ve sivi yaglar ve bunlarin parcalanma urunleri; hazir yemeklik kati yaglar; hayvansal ve bitkisel mumlar ne demek?",
+      "cevap": "15. Fasıl: Hayvansal ve bitkisel kati ve sivi yaglar ve bunlarin parcalanma urunleri; hazir yemeklik kati yaglar; hayvansal ve bitkisel mumlar. Bölüm 3: Hayvansal ve Bitkisel Kati ve Sivi Yaglar ve Bunlarin Parcalanma Urunleri; Hazir Yemeklik Kati Yaglar; Hayvansal ve Bitkisel Mumlar.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 15 hangi fasıl? 15 ne demek?",
+      "cevap": "GTİP kodu 15 → 15. Fasıl: Hayvansal ve bitkisel kati ve sivi yaglar ve bunlarin parcalanma urunleri; hazir yemeklik kati yaglar; hayvansal ve bitkisel mumlar (Bölüm 3: Hayvansal ve Bitkisel Kati ve Sivi Yaglar ve Bunlarin Parcalanma Urunleri; Hazir Yemeklik Kati Yaglar; Hayvansal ve Bitkisel Mumlar)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "4. bölüm nedir? Gida Sanayii Mustahzarlari; Mesrubat, Alkollu Ickiler ve Sirke; Tutun veya Tutun Yerine Gecen Islenmis Maddeler hangi fasılları içerir?",
+      "cevap": "4. Bölüm: Gida Sanayii Mustahzarlari; Mesrubat, Alkollu Ickiler ve Sirke; Tutun veya Tutun Yerine Gecen Islenmis Maddeler. Bu bölüm şu fasılları içerir: 16. Et, balik, kabuklu hayvanlar, yumusakcalar veya diger su omurgasizlarinin mustahzarlari, 17. Seker ve seker mamulleri, 18. Kakao ve kakao mustahzarlari, 19. Hububat, un, nisasta veya sut mustahzarlari; pastacilik urunleri, 20. Sebzeler, meyveler, sert kabuklu meyveler ve bitkilerin diger kisimlarindan elde edilen mustahzarlar, 21. Yenilen cesitli gida mustahzarlari, 22. Mesrubat, alkollu ickiler ve sirke, 23. Gida sanayiinin kalinti ve dokuntuleri; hayvanlar icin hazirlanmis kaba yemler, 24. Tutun ve tutun yerine gecen islenmis maddeler.",
+      "kategori": "Gumruk Tarife Cetveli Bolumler"
+    },
+    {
+      "soru": "16. fasıl nedir? Et, balik, kabuklu hayvanlar, yumusakcalar veya diger su omurgasizlarinin mustahzarlari ne demek?",
+      "cevap": "16. Fasıl: Et, balik, kabuklu hayvanlar, yumusakcalar veya diger su omurgasizlarinin mustahzarlari. Bölüm 4: Gida Sanayii Mustahzarlari; Mesrubat, Alkollu Ickiler ve Sirke; Tutun veya Tutun Yerine Gecen Islenmis Maddeler.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 16 hangi fasıl? 16 ne demek?",
+      "cevap": "GTİP kodu 16 → 16. Fasıl: Et, balik, kabuklu hayvanlar, yumusakcalar veya diger su omurgasizlarinin mustahzarlari (Bölüm 4: Gida Sanayii Mustahzarlari; Mesrubat, Alkollu Ickiler ve Sirke; Tutun veya Tutun Yerine Gecen Islenmis Maddeler)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "17. fasıl nedir? Seker ve seker mamulleri ne demek?",
+      "cevap": "17. Fasıl: Seker ve seker mamulleri. Bölüm 4: Gida Sanayii Mustahzarlari; Mesrubat, Alkollu Ickiler ve Sirke; Tutun veya Tutun Yerine Gecen Islenmis Maddeler.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 17 hangi fasıl? 17 ne demek?",
+      "cevap": "GTİP kodu 17 → 17. Fasıl: Seker ve seker mamulleri (Bölüm 4: Gida Sanayii Mustahzarlari; Mesrubat, Alkollu Ickiler ve Sirke; Tutun veya Tutun Yerine Gecen Islenmis Maddeler)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "18. fasıl nedir? Kakao ve kakao mustahzarlari ne demek?",
+      "cevap": "18. Fasıl: Kakao ve kakao mustahzarlari. Bölüm 4: Gida Sanayii Mustahzarlari; Mesrubat, Alkollu Ickiler ve Sirke; Tutun veya Tutun Yerine Gecen Islenmis Maddeler.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 18 hangi fasıl? 18 ne demek?",
+      "cevap": "GTİP kodu 18 → 18. Fasıl: Kakao ve kakao mustahzarlari (Bölüm 4: Gida Sanayii Mustahzarlari; Mesrubat, Alkollu Ickiler ve Sirke; Tutun veya Tutun Yerine Gecen Islenmis Maddeler)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "19. fasıl nedir? Hububat, un, nisasta veya sut mustahzarlari; pastacilik urunleri ne demek?",
+      "cevap": "19. Fasıl: Hububat, un, nisasta veya sut mustahzarlari; pastacilik urunleri. Bölüm 4: Gida Sanayii Mustahzarlari; Mesrubat, Alkollu Ickiler ve Sirke; Tutun veya Tutun Yerine Gecen Islenmis Maddeler.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 19 hangi fasıl? 19 ne demek?",
+      "cevap": "GTİP kodu 19 → 19. Fasıl: Hububat, un, nisasta veya sut mustahzarlari; pastacilik urunleri (Bölüm 4: Gida Sanayii Mustahzarlari; Mesrubat, Alkollu Ickiler ve Sirke; Tutun veya Tutun Yerine Gecen Islenmis Maddeler)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "20. fasıl nedir? Sebzeler, meyveler, sert kabuklu meyveler ve bitkilerin diger kisimlarindan elde edilen mustahzarlar ne demek?",
+      "cevap": "20. Fasıl: Sebzeler, meyveler, sert kabuklu meyveler ve bitkilerin diger kisimlarindan elde edilen mustahzarlar. Bölüm 4: Gida Sanayii Mustahzarlari; Mesrubat, Alkollu Ickiler ve Sirke; Tutun veya Tutun Yerine Gecen Islenmis Maddeler.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 20 hangi fasıl? 20 ne demek?",
+      "cevap": "GTİP kodu 20 → 20. Fasıl: Sebzeler, meyveler, sert kabuklu meyveler ve bitkilerin diger kisimlarindan elde edilen mustahzarlar (Bölüm 4: Gida Sanayii Mustahzarlari; Mesrubat, Alkollu Ickiler ve Sirke; Tutun veya Tutun Yerine Gecen Islenmis Maddeler)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "21. fasıl nedir? Yenilen cesitli gida mustahzarlari ne demek?",
+      "cevap": "21. Fasıl: Yenilen cesitli gida mustahzarlari. Bölüm 4: Gida Sanayii Mustahzarlari; Mesrubat, Alkollu Ickiler ve Sirke; Tutun veya Tutun Yerine Gecen Islenmis Maddeler.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 21 hangi fasıl? 21 ne demek?",
+      "cevap": "GTİP kodu 21 → 21. Fasıl: Yenilen cesitli gida mustahzarlari (Bölüm 4: Gida Sanayii Mustahzarlari; Mesrubat, Alkollu Ickiler ve Sirke; Tutun veya Tutun Yerine Gecen Islenmis Maddeler)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "22. fasıl nedir? Mesrubat, alkollu ickiler ve sirke ne demek?",
+      "cevap": "22. Fasıl: Mesrubat, alkollu ickiler ve sirke. Bölüm 4: Gida Sanayii Mustahzarlari; Mesrubat, Alkollu Ickiler ve Sirke; Tutun veya Tutun Yerine Gecen Islenmis Maddeler.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 22 hangi fasıl? 22 ne demek?",
+      "cevap": "GTİP kodu 22 → 22. Fasıl: Mesrubat, alkollu ickiler ve sirke (Bölüm 4: Gida Sanayii Mustahzarlari; Mesrubat, Alkollu Ickiler ve Sirke; Tutun veya Tutun Yerine Gecen Islenmis Maddeler)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "23. fasıl nedir? Gida sanayiinin kalinti ve dokuntuleri; hayvanlar icin hazirlanmis kaba yemler ne demek?",
+      "cevap": "23. Fasıl: Gida sanayiinin kalinti ve dokuntuleri; hayvanlar icin hazirlanmis kaba yemler. Bölüm 4: Gida Sanayii Mustahzarlari; Mesrubat, Alkollu Ickiler ve Sirke; Tutun veya Tutun Yerine Gecen Islenmis Maddeler.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 23 hangi fasıl? 23 ne demek?",
+      "cevap": "GTİP kodu 23 → 23. Fasıl: Gida sanayiinin kalinti ve dokuntuleri; hayvanlar icin hazirlanmis kaba yemler (Bölüm 4: Gida Sanayii Mustahzarlari; Mesrubat, Alkollu Ickiler ve Sirke; Tutun veya Tutun Yerine Gecen Islenmis Maddeler)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "24. fasıl nedir? Tutun ve tutun yerine gecen islenmis maddeler ne demek?",
+      "cevap": "24. Fasıl: Tutun ve tutun yerine gecen islenmis maddeler. Bölüm 4: Gida Sanayii Mustahzarlari; Mesrubat, Alkollu Ickiler ve Sirke; Tutun veya Tutun Yerine Gecen Islenmis Maddeler.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 24 hangi fasıl? 24 ne demek?",
+      "cevap": "GTİP kodu 24 → 24. Fasıl: Tutun ve tutun yerine gecen islenmis maddeler (Bölüm 4: Gida Sanayii Mustahzarlari; Mesrubat, Alkollu Ickiler ve Sirke; Tutun veya Tutun Yerine Gecen Islenmis Maddeler)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "5. bölüm nedir? Mineral Maddeler hangi fasılları içerir?",
+      "cevap": "5. Bölüm: Mineral Maddeler. Bu bölüm şu fasılları içerir: 25. Tuz; kukurt; topraklar ve taslar; alcilar, kirecler ve cimento, 26. Metal cevherleri, curuf ve kul, 27. Mineral yakitlar, mineral yaglar ve bunlarin damitilmasindan elde edilen urunler; bitumenli maddeler; mineral mumlar.",
+      "kategori": "Gumruk Tarife Cetveli Bolumler"
+    },
+    {
+      "soru": "25. fasıl nedir? Tuz; kukurt; topraklar ve taslar; alcilar, kirecler ve cimento ne demek?",
+      "cevap": "25. Fasıl: Tuz; kukurt; topraklar ve taslar; alcilar, kirecler ve cimento. Bölüm 5: Mineral Maddeler.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 25 hangi fasıl? 25 ne demek?",
+      "cevap": "GTİP kodu 25 → 25. Fasıl: Tuz; kukurt; topraklar ve taslar; alcilar, kirecler ve cimento (Bölüm 5: Mineral Maddeler)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "26. fasıl nedir? Metal cevherleri, curuf ve kul ne demek?",
+      "cevap": "26. Fasıl: Metal cevherleri, curuf ve kul. Bölüm 5: Mineral Maddeler.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 26 hangi fasıl? 26 ne demek?",
+      "cevap": "GTİP kodu 26 → 26. Fasıl: Metal cevherleri, curuf ve kul (Bölüm 5: Mineral Maddeler)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "27. fasıl nedir? Mineral yakitlar, mineral yaglar ve bunlarin damitilmasindan elde edilen urunler; bitumenli maddeler; mineral mumlar ne demek?",
+      "cevap": "27. Fasıl: Mineral yakitlar, mineral yaglar ve bunlarin damitilmasindan elde edilen urunler; bitumenli maddeler; mineral mumlar. Bölüm 5: Mineral Maddeler.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 27 hangi fasıl? 27 ne demek?",
+      "cevap": "GTİP kodu 27 → 27. Fasıl: Mineral yakitlar, mineral yaglar ve bunlarin damitilmasindan elde edilen urunler; bitumenli maddeler; mineral mumlar (Bölüm 5: Mineral Maddeler)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "6. bölüm nedir? Kimya Sanayii ve Buna Bagli Sanayii Urunleri hangi fasılları içerir?",
+      "cevap": "6. Bölüm: Kimya Sanayii ve Buna Bagli Sanayii Urunleri. Bu bölüm şu fasılları içerir: 28. Anorganik kimyasallar; kiymetli metallerin, radyoaktif elementlerin, nadir toprak metallerinin veya izotoplarinin organik veya anorganik bilesikleri, 29. Organik kimyasal urunler, 30. Eczacilik urunleri, 31. Gubreler, 32. Debagatte veya boyacilikta kullanilan hulasalar; tanenler ve turevleri; boyalar, pigmentler ve diger boyayici maddeler; mustahzar boyalar ve vernikler; macunlar; murekkepler, 33. Ucucu yaglar ve rezinoitler; parfumeri, kozmetik veya tuvalet mustahzarlari, 34. Sabunlar, yuzey-aktif organik maddeler, yikama mustahzarlari, yaglama mustahzarlari, suni mumlar, mustahzar mumlar, temizleme veya bakim mustahzarlari, isik temini icin kullanilan her turlu mumlar ve benzerleri, model yapmaya mahsus her turlu patlar, 'disci mumlari' ve alci esasli discilik mustahzarlari, 35. Albuminoid maddeler; degisiklige ugramis nisasta esasli urunler; tutkallar; enzimler, 36. Barut ve patlayici maddeler; pirotekni mamulleri; kibritler; piroforik alasimlar; ates alici maddeler, 37. Fotografcilikta veya sinemacilikta kullanilan esya, 38. Muhtelif kimyasal maddeler.",
+      "kategori": "Gumruk Tarife Cetveli Bolumler"
+    },
+    {
+      "soru": "28. fasıl nedir? Anorganik kimyasallar; kiymetli metallerin, radyoaktif elementlerin, nadir toprak metallerinin veya izotoplarinin organik veya anorganik bilesikleri ne demek?",
+      "cevap": "28. Fasıl: Anorganik kimyasallar; kiymetli metallerin, radyoaktif elementlerin, nadir toprak metallerinin veya izotoplarinin organik veya anorganik bilesikleri. Bölüm 6: Kimya Sanayii ve Buna Bagli Sanayii Urunleri.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 28 hangi fasıl? 28 ne demek?",
+      "cevap": "GTİP kodu 28 → 28. Fasıl: Anorganik kimyasallar; kiymetli metallerin, radyoaktif elementlerin, nadir toprak metallerinin veya izotoplarinin organik veya anorganik bilesikleri (Bölüm 6: Kimya Sanayii ve Buna Bagli Sanayii Urunleri)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "29. fasıl nedir? Organik kimyasal urunler ne demek?",
+      "cevap": "29. Fasıl: Organik kimyasal urunler. Bölüm 6: Kimya Sanayii ve Buna Bagli Sanayii Urunleri.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 29 hangi fasıl? 29 ne demek?",
+      "cevap": "GTİP kodu 29 → 29. Fasıl: Organik kimyasal urunler (Bölüm 6: Kimya Sanayii ve Buna Bagli Sanayii Urunleri)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "30. fasıl nedir? Eczacilik urunleri ne demek?",
+      "cevap": "30. Fasıl: Eczacilik urunleri. Bölüm 6: Kimya Sanayii ve Buna Bagli Sanayii Urunleri.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 30 hangi fasıl? 30 ne demek?",
+      "cevap": "GTİP kodu 30 → 30. Fasıl: Eczacilik urunleri (Bölüm 6: Kimya Sanayii ve Buna Bagli Sanayii Urunleri)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "31. fasıl nedir? Gubreler ne demek?",
+      "cevap": "31. Fasıl: Gubreler. Bölüm 6: Kimya Sanayii ve Buna Bagli Sanayii Urunleri.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 31 hangi fasıl? 31 ne demek?",
+      "cevap": "GTİP kodu 31 → 31. Fasıl: Gubreler (Bölüm 6: Kimya Sanayii ve Buna Bagli Sanayii Urunleri)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "32. fasıl nedir? Debagatte veya boyacilikta kullanilan hulasalar; tanenler ve turevleri; boyalar, pigmentler ve diger boyayici maddeler; mustahzar boyalar ve vernikler; macunlar; murekkepler ne demek?",
+      "cevap": "32. Fasıl: Debagatte veya boyacilikta kullanilan hulasalar; tanenler ve turevleri; boyalar, pigmentler ve diger boyayici maddeler; mustahzar boyalar ve vernikler; macunlar; murekkepler. Bölüm 6: Kimya Sanayii ve Buna Bagli Sanayii Urunleri.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 32 hangi fasıl? 32 ne demek?",
+      "cevap": "GTİP kodu 32 → 32. Fasıl: Debagatte veya boyacilikta kullanilan hulasalar; tanenler ve turevleri; boyalar, pigmentler ve diger boyayici maddeler; mustahzar boyalar ve vernikler; macunlar; murekkepler (Bölüm 6: Kimya Sanayii ve Buna Bagli Sanayii Urunleri)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "33. fasıl nedir? Ucucu yaglar ve rezinoitler; parfumeri, kozmetik veya tuvalet mustahzarlari ne demek?",
+      "cevap": "33. Fasıl: Ucucu yaglar ve rezinoitler; parfumeri, kozmetik veya tuvalet mustahzarlari. Bölüm 6: Kimya Sanayii ve Buna Bagli Sanayii Urunleri.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 33 hangi fasıl? 33 ne demek?",
+      "cevap": "GTİP kodu 33 → 33. Fasıl: Ucucu yaglar ve rezinoitler; parfumeri, kozmetik veya tuvalet mustahzarlari (Bölüm 6: Kimya Sanayii ve Buna Bagli Sanayii Urunleri)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "34. fasıl nedir? Sabunlar, yuzey-aktif organik maddeler, yikama mustahzarlari, yaglama mustahzarlari, suni mumlar, mustahzar mumlar, temizleme veya bakim mustahzarlari, isik temini icin kullanilan her turlu mumlar ve benzerleri, model yapmaya mahsus her turlu patlar, 'disci mumlari' ve alci esasli discilik mustahzarlari ne demek?",
+      "cevap": "34. Fasıl: Sabunlar, yuzey-aktif organik maddeler, yikama mustahzarlari, yaglama mustahzarlari, suni mumlar, mustahzar mumlar, temizleme veya bakim mustahzarlari, isik temini icin kullanilan her turlu mumlar ve benzerleri, model yapmaya mahsus her turlu patlar, 'disci mumlari' ve alci esasli discilik mustahzarlari. Bölüm 6: Kimya Sanayii ve Buna Bagli Sanayii Urunleri.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 34 hangi fasıl? 34 ne demek?",
+      "cevap": "GTİP kodu 34 → 34. Fasıl: Sabunlar, yuzey-aktif organik maddeler, yikama mustahzarlari, yaglama mustahzarlari, suni mumlar, mustahzar mumlar, temizleme veya bakim mustahzarlari, isik temini icin kullanilan her turlu mumlar ve benzerleri, model yapmaya mahsus her turlu patlar, 'disci mumlari' ve alci esasli discilik mustahzarlari (Bölüm 6: Kimya Sanayii ve Buna Bagli Sanayii Urunleri)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "35. fasıl nedir? Albuminoid maddeler; degisiklige ugramis nisasta esasli urunler; tutkallar; enzimler ne demek?",
+      "cevap": "35. Fasıl: Albuminoid maddeler; degisiklige ugramis nisasta esasli urunler; tutkallar; enzimler. Bölüm 6: Kimya Sanayii ve Buna Bagli Sanayii Urunleri.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 35 hangi fasıl? 35 ne demek?",
+      "cevap": "GTİP kodu 35 → 35. Fasıl: Albuminoid maddeler; degisiklige ugramis nisasta esasli urunler; tutkallar; enzimler (Bölüm 6: Kimya Sanayii ve Buna Bagli Sanayii Urunleri)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "36. fasıl nedir? Barut ve patlayici maddeler; pirotekni mamulleri; kibritler; piroforik alasimlar; ates alici maddeler ne demek?",
+      "cevap": "36. Fasıl: Barut ve patlayici maddeler; pirotekni mamulleri; kibritler; piroforik alasimlar; ates alici maddeler. Bölüm 6: Kimya Sanayii ve Buna Bagli Sanayii Urunleri.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 36 hangi fasıl? 36 ne demek?",
+      "cevap": "GTİP kodu 36 → 36. Fasıl: Barut ve patlayici maddeler; pirotekni mamulleri; kibritler; piroforik alasimlar; ates alici maddeler (Bölüm 6: Kimya Sanayii ve Buna Bagli Sanayii Urunleri)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "37. fasıl nedir? Fotografcilikta veya sinemacilikta kullanilan esya ne demek?",
+      "cevap": "37. Fasıl: Fotografcilikta veya sinemacilikta kullanilan esya. Bölüm 6: Kimya Sanayii ve Buna Bagli Sanayii Urunleri.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 37 hangi fasıl? 37 ne demek?",
+      "cevap": "GTİP kodu 37 → 37. Fasıl: Fotografcilikta veya sinemacilikta kullanilan esya (Bölüm 6: Kimya Sanayii ve Buna Bagli Sanayii Urunleri)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "38. fasıl nedir? Muhtelif kimyasal maddeler ne demek?",
+      "cevap": "38. Fasıl: Muhtelif kimyasal maddeler. Bölüm 6: Kimya Sanayii ve Buna Bagli Sanayii Urunleri.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 38 hangi fasıl? 38 ne demek?",
+      "cevap": "GTİP kodu 38 → 38. Fasıl: Muhtelif kimyasal maddeler (Bölüm 6: Kimya Sanayii ve Buna Bagli Sanayii Urunleri)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "7. bölüm nedir? Plastikler ve Mamulleri; Kaucuk ve Mamulleri hangi fasılları içerir?",
+      "cevap": "7. Bölüm: Plastikler ve Mamulleri; Kaucuk ve Mamulleri. Bu bölüm şu fasılları içerir: 39. Plastikler ve mamulleri, 40. Kaucuk ve mamulleri.",
+      "kategori": "Gumruk Tarife Cetveli Bolumler"
+    },
+    {
+      "soru": "39. fasıl nedir? Plastikler ve mamulleri ne demek?",
+      "cevap": "39. Fasıl: Plastikler ve mamulleri. Bölüm 7: Plastikler ve Mamulleri; Kaucuk ve Mamulleri.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 39 hangi fasıl? 39 ne demek?",
+      "cevap": "GTİP kodu 39 → 39. Fasıl: Plastikler ve mamulleri (Bölüm 7: Plastikler ve Mamulleri; Kaucuk ve Mamulleri)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "40. fasıl nedir? Kaucuk ve mamulleri ne demek?",
+      "cevap": "40. Fasıl: Kaucuk ve mamulleri. Bölüm 7: Plastikler ve Mamulleri; Kaucuk ve Mamulleri.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 40 hangi fasıl? 40 ne demek?",
+      "cevap": "GTİP kodu 40 → 40. Fasıl: Kaucuk ve mamulleri (Bölüm 7: Plastikler ve Mamulleri; Kaucuk ve Mamulleri)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "8. bölüm nedir? Postlar, Deriler, Koseleler, Kurkler ve Bu Maddelerden Mamul Esya; Saraciye Esyasi ve Eyer Takimlari; Yolculuk Esyasi, El Cantalari ve Benzeri Mahfazalar; Hayvan Barsagindan Mamul Esya hangi fasılları içerir?",
+      "cevap": "8. Bölüm: Postlar, Deriler, Koseleler, Kurkler ve Bu Maddelerden Mamul Esya; Saraciye Esyasi ve Eyer Takimlari; Yolculuk Esyasi, El Cantalari ve Benzeri Mahfazalar; Hayvan Barsagindan Mamul Esya. Bu bölüm şu fasılları içerir: 41. Postlar, deriler (kurkler haric) ve koseleler, 42. Deri esya; saraciye esyasi ve eyer takimlari; yolculuk esyasi, el cantalari ve benzeri mahfazalar; hayvan barsagindan (ipek bocegi gurbuzu haric) mamul esya, 43. Postlar, kurkler ve taklit kurkler; bunlarin mamulleri.",
+      "kategori": "Gumruk Tarife Cetveli Bolumler"
+    },
+    {
+      "soru": "41. fasıl nedir? Postlar, deriler (kurkler haric) ve koseleler ne demek?",
+      "cevap": "41. Fasıl: Postlar, deriler (kurkler haric) ve koseleler. Bölüm 8: Postlar, Deriler, Koseleler, Kurkler ve Bu Maddelerden Mamul Esya; Saraciye Esyasi ve Eyer Takimlari; Yolculuk Esyasi, El Cantalari ve Benzeri Mahfazalar; Hayvan Barsagindan Mamul Esya.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 41 hangi fasıl? 41 ne demek?",
+      "cevap": "GTİP kodu 41 → 41. Fasıl: Postlar, deriler (kurkler haric) ve koseleler (Bölüm 8: Postlar, Deriler, Koseleler, Kurkler ve Bu Maddelerden Mamul Esya; Saraciye Esyasi ve Eyer Takimlari; Yolculuk Esyasi, El Cantalari ve Benzeri Mahfazalar; Hayvan Barsagindan Mamul Esya)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "42. fasıl nedir? Deri esya; saraciye esyasi ve eyer takimlari; yolculuk esyasi, el cantalari ve benzeri mahfazalar; hayvan barsagindan (ipek bocegi gurbuzu haric) mamul esya ne demek?",
+      "cevap": "42. Fasıl: Deri esya; saraciye esyasi ve eyer takimlari; yolculuk esyasi, el cantalari ve benzeri mahfazalar; hayvan barsagindan (ipek bocegi gurbuzu haric) mamul esya. Bölüm 8: Postlar, Deriler, Koseleler, Kurkler ve Bu Maddelerden Mamul Esya; Saraciye Esyasi ve Eyer Takimlari; Yolculuk Esyasi, El Cantalari ve Benzeri Mahfazalar; Hayvan Barsagindan Mamul Esya.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 42 hangi fasıl? 42 ne demek?",
+      "cevap": "GTİP kodu 42 → 42. Fasıl: Deri esya; saraciye esyasi ve eyer takimlari; yolculuk esyasi, el cantalari ve benzeri mahfazalar; hayvan barsagindan (ipek bocegi gurbuzu haric) mamul esya (Bölüm 8: Postlar, Deriler, Koseleler, Kurkler ve Bu Maddelerden Mamul Esya; Saraciye Esyasi ve Eyer Takimlari; Yolculuk Esyasi, El Cantalari ve Benzeri Mahfazalar; Hayvan Barsagindan Mamul Esya)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "43. fasıl nedir? Postlar, kurkler ve taklit kurkler; bunlarin mamulleri ne demek?",
+      "cevap": "43. Fasıl: Postlar, kurkler ve taklit kurkler; bunlarin mamulleri. Bölüm 8: Postlar, Deriler, Koseleler, Kurkler ve Bu Maddelerden Mamul Esya; Saraciye Esyasi ve Eyer Takimlari; Yolculuk Esyasi, El Cantalari ve Benzeri Mahfazalar; Hayvan Barsagindan Mamul Esya.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 43 hangi fasıl? 43 ne demek?",
+      "cevap": "GTİP kodu 43 → 43. Fasıl: Postlar, kurkler ve taklit kurkler; bunlarin mamulleri (Bölüm 8: Postlar, Deriler, Koseleler, Kurkler ve Bu Maddelerden Mamul Esya; Saraciye Esyasi ve Eyer Takimlari; Yolculuk Esyasi, El Cantalari ve Benzeri Mahfazalar; Hayvan Barsagindan Mamul Esya)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "9. bölüm nedir? Odun ve Ahsap Esya; Odun Komuru; Mantar ve Mantardan Mamul Esya; Hasirdan, Sazdan veya Orulmeye Elverisli Diger Maddelerden Mamul Esya; Sepetci ve Hasir Esya hangi fasılları içerir?",
+      "cevap": "9. Bölüm: Odun ve Ahsap Esya; Odun Komuru; Mantar ve Mantardan Mamul Esya; Hasirdan, Sazdan veya Orulmeye Elverisli Diger Maddelerden Mamul Esya; Sepetci ve Hasir Esya. Bu bölüm şu fasılları içerir: 44. Ahsap esya ve odun komuru, 45. Mantar and mantardan mamul esya, 46. Hasirdan, sazdan veya orulmeye elverisli diger maddelerden mamul esya; sepetci ve hasir esya.",
+      "kategori": "Gumruk Tarife Cetveli Bolumler"
+    },
+    {
+      "soru": "44. fasıl nedir? Ahsap esya ve odun komuru ne demek?",
+      "cevap": "44. Fasıl: Ahsap esya ve odun komuru. Bölüm 9: Odun ve Ahsap Esya; Odun Komuru; Mantar ve Mantardan Mamul Esya; Hasirdan, Sazdan veya Orulmeye Elverisli Diger Maddelerden Mamul Esya; Sepetci ve Hasir Esya.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 44 hangi fasıl? 44 ne demek?",
+      "cevap": "GTİP kodu 44 → 44. Fasıl: Ahsap esya ve odun komuru (Bölüm 9: Odun ve Ahsap Esya; Odun Komuru; Mantar ve Mantardan Mamul Esya; Hasirdan, Sazdan veya Orulmeye Elverisli Diger Maddelerden Mamul Esya; Sepetci ve Hasir Esya)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "45. fasıl nedir? Mantar and mantardan mamul esya ne demek?",
+      "cevap": "45. Fasıl: Mantar and mantardan mamul esya. Bölüm 9: Odun ve Ahsap Esya; Odun Komuru; Mantar ve Mantardan Mamul Esya; Hasirdan, Sazdan veya Orulmeye Elverisli Diger Maddelerden Mamul Esya; Sepetci ve Hasir Esya.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 45 hangi fasıl? 45 ne demek?",
+      "cevap": "GTİP kodu 45 → 45. Fasıl: Mantar and mantardan mamul esya (Bölüm 9: Odun ve Ahsap Esya; Odun Komuru; Mantar ve Mantardan Mamul Esya; Hasirdan, Sazdan veya Orulmeye Elverisli Diger Maddelerden Mamul Esya; Sepetci ve Hasir Esya)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "46. fasıl nedir? Hasirdan, sazdan veya orulmeye elverisli diger maddelerden mamul esya; sepetci ve hasir esya ne demek?",
+      "cevap": "46. Fasıl: Hasirdan, sazdan veya orulmeye elverisli diger maddelerden mamul esya; sepetci ve hasir esya. Bölüm 9: Odun ve Ahsap Esya; Odun Komuru; Mantar ve Mantardan Mamul Esya; Hasirdan, Sazdan veya Orulmeye Elverisli Diger Maddelerden Mamul Esya; Sepetci ve Hasir Esya.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 46 hangi fasıl? 46 ne demek?",
+      "cevap": "GTİP kodu 46 → 46. Fasıl: Hasirdan, sazdan veya orulmeye elverisli diger maddelerden mamul esya; sepetci ve hasir esya (Bölüm 9: Odun ve Ahsap Esya; Odun Komuru; Mantar ve Mantardan Mamul Esya; Hasirdan, Sazdan veya Orulmeye Elverisli Diger Maddelerden Mamul Esya; Sepetci ve Hasir Esya)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "10. bölüm nedir? Odun veya Diger Lifli Selulozik Maddelerin Hamurlari; Geri Kazanilmis Kagit veya Karton (Dokuntu ve Kirpintilar); Kagit, Karton ve Mamulleri hangi fasılları içerir?",
+      "cevap": "10. Bölüm: Odun veya Diger Lifli Selulozik Maddelerin Hamurlari; Geri Kazanilmis Kagit veya Karton (Dokuntu ve Kirpintilar); Kagit, Karton ve Mamulleri. Bu bölüm şu fasılları içerir: 47. Odun veya diger lifli selulozik maddelerin hamurlari; geri kazanilmis kagit veya karton (dokuntu ve kirpintilar), 48. Kagit ve karton; kagit hamurundan, kagit veya kartondan mamul esya, 49. Basili kitaplar, gazeteler, resimler ve diger baski sanayii mamulleri; el yazmalari, daktilo yazilari ve planlar.",
+      "kategori": "Gumruk Tarife Cetveli Bolumler"
+    },
+    {
+      "soru": "47. fasıl nedir? Odun veya diger lifli selulozik maddelerin hamurlari; geri kazanilmis kagit veya karton (dokuntu ve kirpintilar) ne demek?",
+      "cevap": "47. Fasıl: Odun veya diger lifli selulozik maddelerin hamurlari; geri kazanilmis kagit veya karton (dokuntu ve kirpintilar). Bölüm 10: Odun veya Diger Lifli Selulozik Maddelerin Hamurlari; Geri Kazanilmis Kagit veya Karton (Dokuntu ve Kirpintilar); Kagit, Karton ve Mamulleri.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 47 hangi fasıl? 47 ne demek?",
+      "cevap": "GTİP kodu 47 → 47. Fasıl: Odun veya diger lifli selulozik maddelerin hamurlari; geri kazanilmis kagit veya karton (dokuntu ve kirpintilar) (Bölüm 10: Odun veya Diger Lifli Selulozik Maddelerin Hamurlari; Geri Kazanilmis Kagit veya Karton (Dokuntu ve Kirpintilar); Kagit, Karton ve Mamulleri)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "48. fasıl nedir? Kagit ve karton; kagit hamurundan, kagit veya kartondan mamul esya ne demek?",
+      "cevap": "48. Fasıl: Kagit ve karton; kagit hamurundan, kagit veya kartondan mamul esya. Bölüm 10: Odun veya Diger Lifli Selulozik Maddelerin Hamurlari; Geri Kazanilmis Kagit veya Karton (Dokuntu ve Kirpintilar); Kagit, Karton ve Mamulleri.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 48 hangi fasıl? 48 ne demek?",
+      "cevap": "GTİP kodu 48 → 48. Fasıl: Kagit ve karton; kagit hamurundan, kagit veya kartondan mamul esya (Bölüm 10: Odun veya Diger Lifli Selulozik Maddelerin Hamurlari; Geri Kazanilmis Kagit veya Karton (Dokuntu ve Kirpintilar); Kagit, Karton ve Mamulleri)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "49. fasıl nedir? Basili kitaplar, gazeteler, resimler ve diger baski sanayii mamulleri; el yazmalari, daktilo yazilari ve planlar ne demek?",
+      "cevap": "49. Fasıl: Basili kitaplar, gazeteler, resimler ve diger baski sanayii mamulleri; el yazmalari, daktilo yazilari ve planlar. Bölüm 10: Odun veya Diger Lifli Selulozik Maddelerin Hamurlari; Geri Kazanilmis Kagit veya Karton (Dokuntu ve Kirpintilar); Kagit, Karton ve Mamulleri.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 49 hangi fasıl? 49 ne demek?",
+      "cevap": "GTİP kodu 49 → 49. Fasıl: Basili kitaplar, gazeteler, resimler ve diger baski sanayii mamulleri; el yazmalari, daktilo yazilari ve planlar (Bölüm 10: Odun veya Diger Lifli Selulozik Maddelerin Hamurlari; Geri Kazanilmis Kagit veya Karton (Dokuntu ve Kirpintilar); Kagit, Karton ve Mamulleri)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "11. bölüm nedir? Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya hangi fasılları içerir?",
+      "cevap": "11. Bölüm: Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya. Bu bölüm şu fasılları içerir: 50. Ipek, 51. Yapagi ve yun, ince veya kaba hayvan kili; at kilindan iplik ve dokunmus mensucat, 52. Pamuk, 53. Dokumaya elverisli diger bitkisel lifler; kagit ipligi ve kagit ipliginden dokunmus mensucat, 54. Sentetik ve suni filamentler; seritler ve dokumaya elverisli benzeri sentetik ve suni maddeler, 55. Sentetik ve suni devamsiz lifler, 56. Vatka, kece ve dokunmamis mensucat; ozel iplikler; sicim, kordon, ip, halat ve bunlardan mamul esya, 57. Halilar ve dokumaya elverisli diger yer kaplamalari, 58. Ozel dokunmus mensucat; tufte edilmis dokumaya elverisli mensucat; dantela; duvar kaplamalari; seritci esyasi; suslemeler, 59. Emdirilmis, sivanmis, kaplanmis veya lamine edilmis dokumaya elverisli mensucat; dokumaya elverisli maddelerden teknik her turlu esya, 60. Orme mensucat, 61. Orme giyim esyasi ve aksesuari, 62. Orulmemis giyim esyasi ve aksesuari, 63. Dokumaya elverisli maddelerden diger hazir esya; takimlar; kullanilmis giyim esyasi ve dokumaya elverisli maddelerden kullanilmis esya; pacavralar.",
+      "kategori": "Gumruk Tarife Cetveli Bolumler"
+    },
+    {
+      "soru": "50. fasıl nedir? Ipek ne demek?",
+      "cevap": "50. Fasıl: Ipek. Bölüm 11: Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 50 hangi fasıl? 50 ne demek?",
+      "cevap": "GTİP kodu 50 → 50. Fasıl: Ipek (Bölüm 11: Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "51. fasıl nedir? Yapagi ve yun, ince veya kaba hayvan kili; at kilindan iplik ve dokunmus mensucat ne demek?",
+      "cevap": "51. Fasıl: Yapagi ve yun, ince veya kaba hayvan kili; at kilindan iplik ve dokunmus mensucat. Bölüm 11: Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 51 hangi fasıl? 51 ne demek?",
+      "cevap": "GTİP kodu 51 → 51. Fasıl: Yapagi ve yun, ince veya kaba hayvan kili; at kilindan iplik ve dokunmus mensucat (Bölüm 11: Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "52. fasıl nedir? Pamuk ne demek?",
+      "cevap": "52. Fasıl: Pamuk. Bölüm 11: Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 52 hangi fasıl? 52 ne demek?",
+      "cevap": "GTİP kodu 52 → 52. Fasıl: Pamuk (Bölüm 11: Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "53. fasıl nedir? Dokumaya elverisli diger bitkisel lifler; kagit ipligi ve kagit ipliginden dokunmus mensucat ne demek?",
+      "cevap": "53. Fasıl: Dokumaya elverisli diger bitkisel lifler; kagit ipligi ve kagit ipliginden dokunmus mensucat. Bölüm 11: Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 53 hangi fasıl? 53 ne demek?",
+      "cevap": "GTİP kodu 53 → 53. Fasıl: Dokumaya elverisli diger bitkisel lifler; kagit ipligi ve kagit ipliginden dokunmus mensucat (Bölüm 11: Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "54. fasıl nedir? Sentetik ve suni filamentler; seritler ve dokumaya elverisli benzeri sentetik ve suni maddeler ne demek?",
+      "cevap": "54. Fasıl: Sentetik ve suni filamentler; seritler ve dokumaya elverisli benzeri sentetik ve suni maddeler. Bölüm 11: Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 54 hangi fasıl? 54 ne demek?",
+      "cevap": "GTİP kodu 54 → 54. Fasıl: Sentetik ve suni filamentler; seritler ve dokumaya elverisli benzeri sentetik ve suni maddeler (Bölüm 11: Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "55. fasıl nedir? Sentetik ve suni devamsiz lifler ne demek?",
+      "cevap": "55. Fasıl: Sentetik ve suni devamsiz lifler. Bölüm 11: Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 55 hangi fasıl? 55 ne demek?",
+      "cevap": "GTİP kodu 55 → 55. Fasıl: Sentetik ve suni devamsiz lifler (Bölüm 11: Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "56. fasıl nedir? Vatka, kece ve dokunmamis mensucat; ozel iplikler; sicim, kordon, ip, halat ve bunlardan mamul esya ne demek?",
+      "cevap": "56. Fasıl: Vatka, kece ve dokunmamis mensucat; ozel iplikler; sicim, kordon, ip, halat ve bunlardan mamul esya. Bölüm 11: Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 56 hangi fasıl? 56 ne demek?",
+      "cevap": "GTİP kodu 56 → 56. Fasıl: Vatka, kece ve dokunmamis mensucat; ozel iplikler; sicim, kordon, ip, halat ve bunlardan mamul esya (Bölüm 11: Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "57. fasıl nedir? Halilar ve dokumaya elverisli diger yer kaplamalari ne demek?",
+      "cevap": "57. Fasıl: Halilar ve dokumaya elverisli diger yer kaplamalari. Bölüm 11: Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 57 hangi fasıl? 57 ne demek?",
+      "cevap": "GTİP kodu 57 → 57. Fasıl: Halilar ve dokumaya elverisli diger yer kaplamalari (Bölüm 11: Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "58. fasıl nedir? Ozel dokunmus mensucat; tufte edilmis dokumaya elverisli mensucat; dantela; duvar kaplamalari; seritci esyasi; suslemeler ne demek?",
+      "cevap": "58. Fasıl: Ozel dokunmus mensucat; tufte edilmis dokumaya elverisli mensucat; dantela; duvar kaplamalari; seritci esyasi; suslemeler. Bölüm 11: Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 58 hangi fasıl? 58 ne demek?",
+      "cevap": "GTİP kodu 58 → 58. Fasıl: Ozel dokunmus mensucat; tufte edilmis dokumaya elverisli mensucat; dantela; duvar kaplamalari; seritci esyasi; suslemeler (Bölüm 11: Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "59. fasıl nedir? Emdirilmis, sivanmis, kaplanmis veya lamine edilmis dokumaya elverisli mensucat; dokumaya elverisli maddelerden teknik her turlu esya ne demek?",
+      "cevap": "59. Fasıl: Emdirilmis, sivanmis, kaplanmis veya lamine edilmis dokumaya elverisli mensucat; dokumaya elverisli maddelerden teknik her turlu esya. Bölüm 11: Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 59 hangi fasıl? 59 ne demek?",
+      "cevap": "GTİP kodu 59 → 59. Fasıl: Emdirilmis, sivanmis, kaplanmis veya lamine edilmis dokumaya elverisli mensucat; dokumaya elverisli maddelerden teknik her turlu esya (Bölüm 11: Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "60. fasıl nedir? Orme mensucat ne demek?",
+      "cevap": "60. Fasıl: Orme mensucat. Bölüm 11: Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 60 hangi fasıl? 60 ne demek?",
+      "cevap": "GTİP kodu 60 → 60. Fasıl: Orme mensucat (Bölüm 11: Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "61. fasıl nedir? Orme giyim esyasi ve aksesuari ne demek?",
+      "cevap": "61. Fasıl: Orme giyim esyasi ve aksesuari. Bölüm 11: Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 61 hangi fasıl? 61 ne demek?",
+      "cevap": "GTİP kodu 61 → 61. Fasıl: Orme giyim esyasi ve aksesuari (Bölüm 11: Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "62. fasıl nedir? Orulmemis giyim esyasi ve aksesuari ne demek?",
+      "cevap": "62. Fasıl: Orulmemis giyim esyasi ve aksesuari. Bölüm 11: Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 62 hangi fasıl? 62 ne demek?",
+      "cevap": "GTİP kodu 62 → 62. Fasıl: Orulmemis giyim esyasi ve aksesuari (Bölüm 11: Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "63. fasıl nedir? Dokumaya elverisli maddelerden diger hazir esya; takimlar; kullanilmis giyim esyasi ve dokumaya elverisli maddelerden kullanilmis esya; pacavralar ne demek?",
+      "cevap": "63. Fasıl: Dokumaya elverisli maddelerden diger hazir esya; takimlar; kullanilmis giyim esyasi ve dokumaya elverisli maddelerden kullanilmis esya; pacavralar. Bölüm 11: Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 63 hangi fasıl? 63 ne demek?",
+      "cevap": "GTİP kodu 63 → 63. Fasıl: Dokumaya elverisli maddelerden diger hazir esya; takimlar; kullanilmis giyim esyasi ve dokumaya elverisli maddelerden kullanilmis esya; pacavralar (Bölüm 11: Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "12. bölüm nedir? Ayakkabilar, Basliklar, Semsiyeler, Gunes Semsiyeleri, Bastonlar, Kamcilar, Kirbaclar ve Bunlarin Aksami; Hazirlanmis Tuyler ve Bunlardan Mamul Esya; Yapma Cicekler; Insan Sacindan Mamul Esya hangi fasılları içerir?",
+      "cevap": "12. Bölüm: Ayakkabilar, Basliklar, Semsiyeler, Gunes Semsiyeleri, Bastonlar, Kamcilar, Kirbaclar ve Bunlarin Aksami; Hazirlanmis Tuyler ve Bunlardan Mamul Esya; Yapma Cicekler; Insan Sacindan Mamul Esya. Bu bölüm şu fasılları içerir: 64. Ayakkabilar, getrler, tozluklar ve benzeri esya; bunlarin aksami, 65. Basliklar ve aksami, 66. Semsiyeler, gunes semsiyeleri, bastonlar, baston-sandalyeler, kamcilar, kirbaclar ve bunlarin aksami, 67. Hazirlanmis kus tuyleri ve kus tuyunden mamul esya; yapma cicekler; insan sacindan mamul esya.",
+      "kategori": "Gumruk Tarife Cetveli Bolumler"
+    },
+    {
+      "soru": "64. fasıl nedir? Ayakkabilar, getrler, tozluklar ve benzeri esya; bunlarin aksami ne demek?",
+      "cevap": "64. Fasıl: Ayakkabilar, getrler, tozluklar ve benzeri esya; bunlarin aksami. Bölüm 12: Ayakkabilar, Basliklar, Semsiyeler, Gunes Semsiyeleri, Bastonlar, Kamcilar, Kirbaclar ve Bunlarin Aksami; Hazirlanmis Tuyler ve Bunlardan Mamul Esya; Yapma Cicekler; Insan Sacindan Mamul Esya.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 64 hangi fasıl? 64 ne demek?",
+      "cevap": "GTİP kodu 64 → 64. Fasıl: Ayakkabilar, getrler, tozluklar ve benzeri esya; bunlarin aksami (Bölüm 12: Ayakkabilar, Basliklar, Semsiyeler, Gunes Semsiyeleri, Bastonlar, Kamcilar, Kirbaclar ve Bunlarin Aksami; Hazirlanmis Tuyler ve Bunlardan Mamul Esya; Yapma Cicekler; Insan Sacindan Mamul Esya)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "65. fasıl nedir? Basliklar ve aksami ne demek?",
+      "cevap": "65. Fasıl: Basliklar ve aksami. Bölüm 12: Ayakkabilar, Basliklar, Semsiyeler, Gunes Semsiyeleri, Bastonlar, Kamcilar, Kirbaclar ve Bunlarin Aksami; Hazirlanmis Tuyler ve Bunlardan Mamul Esya; Yapma Cicekler; Insan Sacindan Mamul Esya.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 65 hangi fasıl? 65 ne demek?",
+      "cevap": "GTİP kodu 65 → 65. Fasıl: Basliklar ve aksami (Bölüm 12: Ayakkabilar, Basliklar, Semsiyeler, Gunes Semsiyeleri, Bastonlar, Kamcilar, Kirbaclar ve Bunlarin Aksami; Hazirlanmis Tuyler ve Bunlardan Mamul Esya; Yapma Cicekler; Insan Sacindan Mamul Esya)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "66. fasıl nedir? Semsiyeler, gunes semsiyeleri, bastonlar, baston-sandalyeler, kamcilar, kirbaclar ve bunlarin aksami ne demek?",
+      "cevap": "66. Fasıl: Semsiyeler, gunes semsiyeleri, bastonlar, baston-sandalyeler, kamcilar, kirbaclar ve bunlarin aksami. Bölüm 12: Ayakkabilar, Basliklar, Semsiyeler, Gunes Semsiyeleri, Bastonlar, Kamcilar, Kirbaclar ve Bunlarin Aksami; Hazirlanmis Tuyler ve Bunlardan Mamul Esya; Yapma Cicekler; Insan Sacindan Mamul Esya.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 66 hangi fasıl? 66 ne demek?",
+      "cevap": "GTİP kodu 66 → 66. Fasıl: Semsiyeler, gunes semsiyeleri, bastonlar, baston-sandalyeler, kamcilar, kirbaclar ve bunlarin aksami (Bölüm 12: Ayakkabilar, Basliklar, Semsiyeler, Gunes Semsiyeleri, Bastonlar, Kamcilar, Kirbaclar ve Bunlarin Aksami; Hazirlanmis Tuyler ve Bunlardan Mamul Esya; Yapma Cicekler; Insan Sacindan Mamul Esya)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "67. fasıl nedir? Hazirlanmis kus tuyleri ve kus tuyunden mamul esya; yapma cicekler; insan sacindan mamul esya ne demek?",
+      "cevap": "67. Fasıl: Hazirlanmis kus tuyleri ve kus tuyunden mamul esya; yapma cicekler; insan sacindan mamul esya. Bölüm 12: Ayakkabilar, Basliklar, Semsiyeler, Gunes Semsiyeleri, Bastonlar, Kamcilar, Kirbaclar ve Bunlarin Aksami; Hazirlanmis Tuyler ve Bunlardan Mamul Esya; Yapma Cicekler; Insan Sacindan Mamul Esya.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 67 hangi fasıl? 67 ne demek?",
+      "cevap": "GTİP kodu 67 → 67. Fasıl: Hazirlanmis kus tuyleri ve kus tuyunden mamul esya; yapma cicekler; insan sacindan mamul esya (Bölüm 12: Ayakkabilar, Basliklar, Semsiyeler, Gunes Semsiyeleri, Bastonlar, Kamcilar, Kirbaclar ve Bunlarin Aksami; Hazirlanmis Tuyler ve Bunlardan Mamul Esya; Yapma Cicekler; Insan Sacindan Mamul Esya)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "13. bölüm nedir? Tas, Alci, Cimento, Asbest, Mika veya Benzeri Maddelerden Esya; Seramik Mamulleri; Cam ve Cam Esya hangi fasılları içerir?",
+      "cevap": "13. Bölüm: Tas, Alci, Cimento, Asbest, Mika veya Benzeri Maddelerden Esya; Seramik Mamulleri; Cam ve Cam Esya. Bu bölüm şu fasılları içerir: 68. Tas, alci, cimento, asbest, mika veya benzeri maddelerden esya, 69. Seramik mamulleri, 70. Cam ve cam esya.",
+      "kategori": "Gumruk Tarife Cetveli Bolumler"
+    },
+    {
+      "soru": "68. fasıl nedir? Tas, alci, cimento, asbest, mika veya benzeri maddelerden esya ne demek?",
+      "cevap": "68. Fasıl: Tas, alci, cimento, asbest, mika veya benzeri maddelerden esya. Bölüm 13: Tas, Alci, Cimento, Asbest, Mika veya Benzeri Maddelerden Esya; Seramik Mamulleri; Cam ve Cam Esya.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 68 hangi fasıl? 68 ne demek?",
+      "cevap": "GTİP kodu 68 → 68. Fasıl: Tas, alci, cimento, asbest, mika veya benzeri maddelerden esya (Bölüm 13: Tas, Alci, Cimento, Asbest, Mika veya Benzeri Maddelerden Esya; Seramik Mamulleri; Cam ve Cam Esya)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "69. fasıl nedir? Seramik mamulleri ne demek?",
+      "cevap": "69. Fasıl: Seramik mamulleri. Bölüm 13: Tas, Alci, Cimento, Asbest, Mika veya Benzeri Maddelerden Esya; Seramik Mamulleri; Cam ve Cam Esya.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 69 hangi fasıl? 69 ne demek?",
+      "cevap": "GTİP kodu 69 → 69. Fasıl: Seramik mamulleri (Bölüm 13: Tas, Alci, Cimento, Asbest, Mika veya Benzeri Maddelerden Esya; Seramik Mamulleri; Cam ve Cam Esya)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "70. fasıl nedir? Cam ve cam esya ne demek?",
+      "cevap": "70. Fasıl: Cam ve cam esya. Bölüm 13: Tas, Alci, Cimento, Asbest, Mika veya Benzeri Maddelerden Esya; Seramik Mamulleri; Cam ve Cam Esya.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 70 hangi fasıl? 70 ne demek?",
+      "cevap": "GTİP kodu 70 → 70. Fasıl: Cam ve cam esya (Bölüm 13: Tas, Alci, Cimento, Asbest, Mika veya Benzeri Maddelerden Esya; Seramik Mamulleri; Cam ve Cam Esya)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "14. bölüm nedir? Tabii veya Kultur Inciler, Kiymetli veya Yari Kiymetli Taslar, Kiymetli Metaller, Kiymetli Metallerle Kaplanmis Metaller ve Bunlardan Mamul Esya; Taklit Mucevherci Esyasi; Metal Paralar hangi fasılları içerir?",
+      "cevap": "14. Bölüm: Tabii veya Kultur Inciler, Kiymetli veya Yari Kiymetli Taslar, Kiymetli Metaller, Kiymetli Metallerle Kaplanmis Metaller ve Bunlardan Mamul Esya; Taklit Mucevherci Esyasi; Metal Paralar. Bu bölüm şu fasılları içerir: 71. Tabii veya kultur inciler, kiymetli veya yari kiymetli taslar, kiymetli metaller, kiymetli metallerle kaplanmis metaller ve bunlarin mamulu esya; taklit mucevherci esyasi; metal paralar.",
+      "kategori": "Gumruk Tarife Cetveli Bolumler"
+    },
+    {
+      "soru": "71. fasıl nedir? Tabii veya kultur inciler, kiymetli veya yari kiymetli taslar, kiymetli metaller, kiymetli metallerle kaplanmis metaller ve bunlarin mamulu esya; taklit mucevherci esyasi; metal paralar ne demek?",
+      "cevap": "71. Fasıl: Tabii veya kultur inciler, kiymetli veya yari kiymetli taslar, kiymetli metaller, kiymetli metallerle kaplanmis metaller ve bunlarin mamulu esya; taklit mucevherci esyasi; metal paralar. Bölüm 14: Tabii veya Kultur Inciler, Kiymetli veya Yari Kiymetli Taslar, Kiymetli Metaller, Kiymetli Metallerle Kaplanmis Metaller ve Bunlardan Mamul Esya; Taklit Mucevherci Esyasi; Metal Paralar.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 71 hangi fasıl? 71 ne demek?",
+      "cevap": "GTİP kodu 71 → 71. Fasıl: Tabii veya kultur inciler, kiymetli veya yari kiymetli taslar, kiymetli metaller, kiymetli metallerle kaplanmis metaller ve bunlarin mamulu esya; taklit mucevherci esyasi; metal paralar (Bölüm 14: Tabii veya Kultur Inciler, Kiymetli veya Yari Kiymetli Taslar, Kiymetli Metaller, Kiymetli Metallerle Kaplanmis Metaller ve Bunlardan Mamul Esya; Taklit Mucevherci Esyasi; Metal Paralar)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "15. bölüm nedir? Adi Metaller ve Adi Metallerden Mamul Esya hangi fasılları içerir?",
+      "cevap": "15. Bölüm: Adi Metaller ve Adi Metallerden Mamul Esya. Bu bölüm şu fasılları içerir: 72. Demir ve celik, 73. Demir veya celikten esya, 74. Bakir ve bakirdan esya, 75. Nikel ve nikelden esya, 76. Aluminyum ve aluminyumdan esya, 77. Gelecekteki uluslararasi kullanimlar icin sakli tutulmustur (Bos), 78. Kursun ve kursundan esya, 79. Cinko ve cinkodan esya, 80. Kalay ve kalaydan esya, 81. Diger adi metaller, sermetler; bunlarin mamulu esya, 82. Adi metallerden aletler, bicakci esyasi ve sofra takimlari; bunlarin adi metallerden aksam ve parcalari, 83. Adi metallerden muhtelif esya.",
+      "kategori": "Gumruk Tarife Cetveli Bolumler"
+    },
+    {
+      "soru": "72. fasıl nedir? Demir ve celik ne demek?",
+      "cevap": "72. Fasıl: Demir ve celik. Bölüm 15: Adi Metaller ve Adi Metallerden Mamul Esya.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 72 hangi fasıl? 72 ne demek?",
+      "cevap": "GTİP kodu 72 → 72. Fasıl: Demir ve celik (Bölüm 15: Adi Metaller ve Adi Metallerden Mamul Esya)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "73. fasıl nedir? Demir veya celikten esya ne demek?",
+      "cevap": "73. Fasıl: Demir veya celikten esya. Bölüm 15: Adi Metaller ve Adi Metallerden Mamul Esya.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 73 hangi fasıl? 73 ne demek?",
+      "cevap": "GTİP kodu 73 → 73. Fasıl: Demir veya celikten esya (Bölüm 15: Adi Metaller ve Adi Metallerden Mamul Esya)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "74. fasıl nedir? Bakir ve bakirdan esya ne demek?",
+      "cevap": "74. Fasıl: Bakir ve bakirdan esya. Bölüm 15: Adi Metaller ve Adi Metallerden Mamul Esya.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 74 hangi fasıl? 74 ne demek?",
+      "cevap": "GTİP kodu 74 → 74. Fasıl: Bakir ve bakirdan esya (Bölüm 15: Adi Metaller ve Adi Metallerden Mamul Esya)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "75. fasıl nedir? Nikel ve nikelden esya ne demek?",
+      "cevap": "75. Fasıl: Nikel ve nikelden esya. Bölüm 15: Adi Metaller ve Adi Metallerden Mamul Esya.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 75 hangi fasıl? 75 ne demek?",
+      "cevap": "GTİP kodu 75 → 75. Fasıl: Nikel ve nikelden esya (Bölüm 15: Adi Metaller ve Adi Metallerden Mamul Esya)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "76. fasıl nedir? Aluminyum ve aluminyumdan esya ne demek?",
+      "cevap": "76. Fasıl: Aluminyum ve aluminyumdan esya. Bölüm 15: Adi Metaller ve Adi Metallerden Mamul Esya.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 76 hangi fasıl? 76 ne demek?",
+      "cevap": "GTİP kodu 76 → 76. Fasıl: Aluminyum ve aluminyumdan esya (Bölüm 15: Adi Metaller ve Adi Metallerden Mamul Esya)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "77. fasıl nedir? Gelecekteki uluslararasi kullanimlar icin sakli tutulmustur (Bos) ne demek?",
+      "cevap": "77. Fasıl: Gelecekteki uluslararasi kullanimlar icin sakli tutulmustur (Bos). Bölüm 15: Adi Metaller ve Adi Metallerden Mamul Esya.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 77 hangi fasıl? 77 ne demek?",
+      "cevap": "GTİP kodu 77 → 77. Fasıl: Gelecekteki uluslararasi kullanimlar icin sakli tutulmustur (Bos) (Bölüm 15: Adi Metaller ve Adi Metallerden Mamul Esya)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "78. fasıl nedir? Kursun ve kursundan esya ne demek?",
+      "cevap": "78. Fasıl: Kursun ve kursundan esya. Bölüm 15: Adi Metaller ve Adi Metallerden Mamul Esya.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 78 hangi fasıl? 78 ne demek?",
+      "cevap": "GTİP kodu 78 → 78. Fasıl: Kursun ve kursundan esya (Bölüm 15: Adi Metaller ve Adi Metallerden Mamul Esya)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "79. fasıl nedir? Cinko ve cinkodan esya ne demek?",
+      "cevap": "79. Fasıl: Cinko ve cinkodan esya. Bölüm 15: Adi Metaller ve Adi Metallerden Mamul Esya.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 79 hangi fasıl? 79 ne demek?",
+      "cevap": "GTİP kodu 79 → 79. Fasıl: Cinko ve cinkodan esya (Bölüm 15: Adi Metaller ve Adi Metallerden Mamul Esya)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "80. fasıl nedir? Kalay ve kalaydan esya ne demek?",
+      "cevap": "80. Fasıl: Kalay ve kalaydan esya. Bölüm 15: Adi Metaller ve Adi Metallerden Mamul Esya.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 80 hangi fasıl? 80 ne demek?",
+      "cevap": "GTİP kodu 80 → 80. Fasıl: Kalay ve kalaydan esya (Bölüm 15: Adi Metaller ve Adi Metallerden Mamul Esya)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "81. fasıl nedir? Diger adi metaller, sermetler; bunlarin mamulu esya ne demek?",
+      "cevap": "81. Fasıl: Diger adi metaller, sermetler; bunlarin mamulu esya. Bölüm 15: Adi Metaller ve Adi Metallerden Mamul Esya.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 81 hangi fasıl? 81 ne demek?",
+      "cevap": "GTİP kodu 81 → 81. Fasıl: Diger adi metaller, sermetler; bunlarin mamulu esya (Bölüm 15: Adi Metaller ve Adi Metallerden Mamul Esya)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "82. fasıl nedir? Adi metallerden aletler, bicakci esyasi ve sofra takimlari; bunlarin adi metallerden aksam ve parcalari ne demek?",
+      "cevap": "82. Fasıl: Adi metallerden aletler, bicakci esyasi ve sofra takimlari; bunlarin adi metallerden aksam ve parcalari. Bölüm 15: Adi Metaller ve Adi Metallerden Mamul Esya.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 82 hangi fasıl? 82 ne demek?",
+      "cevap": "GTİP kodu 82 → 82. Fasıl: Adi metallerden aletler, bicakci esyasi ve sofra takimlari; bunlarin adi metallerden aksam ve parcalari (Bölüm 15: Adi Metaller ve Adi Metallerden Mamul Esya)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "83. fasıl nedir? Adi metallerden muhtelif esya ne demek?",
+      "cevap": "83. Fasıl: Adi metallerden muhtelif esya. Bölüm 15: Adi Metaller ve Adi Metallerden Mamul Esya.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 83 hangi fasıl? 83 ne demek?",
+      "cevap": "GTİP kodu 83 → 83. Fasıl: Adi metallerden muhtelif esya (Bölüm 15: Adi Metaller ve Adi Metallerden Mamul Esya)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "16. bölüm nedir? Makinalar ve Mekanik Cihazlar; Elektrik Malzemeleri; Bunlarin Aksam ve Parcalari; Ses Kaydediciler ve Cogalticilar, Televizyon Goruntu ve Ses Kaydedicileri ve Cogalticilari; Bunlarin Aksam, Parca ve Aksesuari hangi fasılları içerir?",
+      "cevap": "16. Bölüm: Makinalar ve Mekanik Cihazlar; Elektrik Malzemeleri; Bunlarin Aksam ve Parcalari; Ses Kaydediciler ve Cogalticilar, Televizyon Goruntu ve Ses Kaydedicileri ve Cogalticilari; Bunlarin Aksam, Parca ve Aksesuari. Bu bölüm şu fasılları içerir: 84. Nukleer reaktorler, kazanlar, makinalar, mekanik cihazlar ve aletler; bunlarin aksam ve parcalari, 85. Elektrikli makina ve cihazlar, bunlarin aksam ve parcalari; ses kaydetmeye ve kaydedilen sesi tekrar vermeye mahsus cihazlar, televizyon goruntu ve seslerinin kaydedilmesine ve tekrar verilmesine mahsus cihazlar; bunlarin aksam, parca ve aksesuari.",
+      "kategori": "Gumruk Tarife Cetveli Bolumler"
+    },
+    {
+      "soru": "84. fasıl nedir? Nukleer reaktorler, kazanlar, makinalar, mekanik cihazlar ve aletler; bunlarin aksam ve parcalari ne demek?",
+      "cevap": "84. Fasıl: Nukleer reaktorler, kazanlar, makinalar, mekanik cihazlar ve aletler; bunlarin aksam ve parcalari. Bölüm 16: Makinalar ve Mekanik Cihazlar; Elektrik Malzemeleri; Bunlarin Aksam ve Parcalari; Ses Kaydediciler ve Cogalticilar, Televizyon Goruntu ve Ses Kaydedicileri ve Cogalticilari; Bunlarin Aksam, Parca ve Aksesuari.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 84 hangi fasıl? 84 ne demek?",
+      "cevap": "GTİP kodu 84 → 84. Fasıl: Nukleer reaktorler, kazanlar, makinalar, mekanik cihazlar ve aletler; bunlarin aksam ve parcalari (Bölüm 16: Makinalar ve Mekanik Cihazlar; Elektrik Malzemeleri; Bunlarin Aksam ve Parcalari; Ses Kaydediciler ve Cogalticilar, Televizyon Goruntu ve Ses Kaydedicileri ve Cogalticilari; Bunlarin Aksam, Parca ve Aksesuari)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "85. fasıl nedir? Elektrikli makina ve cihazlar, bunlarin aksam ve parcalari; ses kaydetmeye ve kaydedilen sesi tekrar vermeye mahsus cihazlar, televizyon goruntu ve seslerinin kaydedilmesine ve tekrar verilmesine mahsus cihazlar; bunlarin aksam, parca ve aksesuari ne demek?",
+      "cevap": "85. Fasıl: Elektrikli makina ve cihazlar, bunlarin aksam ve parcalari; ses kaydetmeye ve kaydedilen sesi tekrar vermeye mahsus cihazlar, televizyon goruntu ve seslerinin kaydedilmesine ve tekrar verilmesine mahsus cihazlar; bunlarin aksam, parca ve aksesuari. Bölüm 16: Makinalar ve Mekanik Cihazlar; Elektrik Malzemeleri; Bunlarin Aksam ve Parcalari; Ses Kaydediciler ve Cogalticilar, Televizyon Goruntu ve Ses Kaydedicileri ve Cogalticilari; Bunlarin Aksam, Parca ve Aksesuari.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 85 hangi fasıl? 85 ne demek?",
+      "cevap": "GTİP kodu 85 → 85. Fasıl: Elektrikli makina ve cihazlar, bunlarin aksam ve parcalari; ses kaydetmeye ve kaydedilen sesi tekrar vermeye mahsus cihazlar, televizyon goruntu ve seslerinin kaydedilmesine ve tekrar verilmesine mahsus cihazlar; bunlarin aksam, parca ve aksesuari (Bölüm 16: Makinalar ve Mekanik Cihazlar; Elektrik Malzemeleri; Bunlarin Aksam ve Parcalari; Ses Kaydediciler ve Cogalticilar, Televizyon Goruntu ve Ses Kaydedicileri ve Cogalticilari; Bunlarin Aksam, Parca ve Aksesuari)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "17. bölüm nedir? Nakil Vasitallari hangi fasılları içerir?",
+      "cevap": "17. Bölüm: Nakil Vasitallari. Bu bölüm şu fasılları içerir: 86. Demiryolu veya tramvay hatlarina ait lokomotifler, vagonlar ve bunlarin aksam ve parcalari; demiryolu veya tramvay hatlarina ait sabit malzemeler ve bunlarin aksam ve parcalari; her turlu mekanik (elektromekanik dahil) isaret cihazlari, 87. Motorlu kara tasitlari, traktorler, bisikletler, motosikletler ve diger kara tasitlari; bunlarin aksam, parca ve aksesuari, 88. Hava tasitlari, uzay tasitlari ve bunlarin aksam ve parcalari, 89. Gemiler ve suda yuzen diger araclar.",
+      "kategori": "Gumruk Tarife Cetveli Bolumler"
+    },
+    {
+      "soru": "86. fasıl nedir? Demiryolu veya tramvay hatlarina ait lokomotifler, vagonlar ve bunlarin aksam ve parcalari; demiryolu veya tramvay hatlarina ait sabit malzemeler ve bunlarin aksam ve parcalari; her turlu mekanik (elektromekanik dahil) isaret cihazlari ne demek?",
+      "cevap": "86. Fasıl: Demiryolu veya tramvay hatlarina ait lokomotifler, vagonlar ve bunlarin aksam ve parcalari; demiryolu veya tramvay hatlarina ait sabit malzemeler ve bunlarin aksam ve parcalari; her turlu mekanik (elektromekanik dahil) isaret cihazlari. Bölüm 17: Nakil Vasitallari.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 86 hangi fasıl? 86 ne demek?",
+      "cevap": "GTİP kodu 86 → 86. Fasıl: Demiryolu veya tramvay hatlarina ait lokomotifler, vagonlar ve bunlarin aksam ve parcalari; demiryolu veya tramvay hatlarina ait sabit malzemeler ve bunlarin aksam ve parcalari; her turlu mekanik (elektromekanik dahil) isaret cihazlari (Bölüm 17: Nakil Vasitallari)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "87. fasıl nedir? Motorlu kara tasitlari, traktorler, bisikletler, motosikletler ve diger kara tasitlari; bunlarin aksam, parca ve aksesuari ne demek?",
+      "cevap": "87. Fasıl: Motorlu kara tasitlari, traktorler, bisikletler, motosikletler ve diger kara tasitlari; bunlarin aksam, parca ve aksesuari. Bölüm 17: Nakil Vasitallari.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 87 hangi fasıl? 87 ne demek?",
+      "cevap": "GTİP kodu 87 → 87. Fasıl: Motorlu kara tasitlari, traktorler, bisikletler, motosikletler ve diger kara tasitlari; bunlarin aksam, parca ve aksesuari (Bölüm 17: Nakil Vasitallari)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "88. fasıl nedir? Hava tasitlari, uzay tasitlari ve bunlarin aksam ve parcalari ne demek?",
+      "cevap": "88. Fasıl: Hava tasitlari, uzay tasitlari ve bunlarin aksam ve parcalari. Bölüm 17: Nakil Vasitallari.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 88 hangi fasıl? 88 ne demek?",
+      "cevap": "GTİP kodu 88 → 88. Fasıl: Hava tasitlari, uzay tasitlari ve bunlarin aksam ve parcalari (Bölüm 17: Nakil Vasitallari)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "89. fasıl nedir? Gemiler ve suda yuzen diger araclar ne demek?",
+      "cevap": "89. Fasıl: Gemiler ve suda yuzen diger araclar. Bölüm 17: Nakil Vasitallari.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 89 hangi fasıl? 89 ne demek?",
+      "cevap": "GTİP kodu 89 → 89. Fasıl: Gemiler ve suda yuzen diger araclar (Bölüm 17: Nakil Vasitallari)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "18. bölüm nedir? Optik, Fotograf, Sinema, Olcu, Kontrol, Ayar, Tibbi veya Cerrahi Alet ve Cihazlar; Saatci Esyasi; Muzik Aletleri; Bunlarin Aksam, Parca ve Aksesuari hangi fasılları içerir?",
+      "cevap": "18. Bölüm: Optik, Fotograf, Sinema, Olcu, Kontrol, Ayar, Tibbi veya Cerrahi Alet ve Cihazlar; Saatci Esyasi; Muzik Aletleri; Bunlarin Aksam, Parca ve Aksesuari. Bu bölüm şu fasılları içerir: 90. Optik, fotograf, sinema, olcu, kontrol, ayar, tibbi veya cerrahi alet ve cihazlar; bunlarin aksam, parca ve aksesuari, 91. Saatler ve aksami, 92. Muzik aletleri; bunlarin aksam, parca ve aksesuari.",
+      "kategori": "Gumruk Tarife Cetveli Bolumler"
+    },
+    {
+      "soru": "90. fasıl nedir? Optik, fotograf, sinema, olcu, kontrol, ayar, tibbi veya cerrahi alet ve cihazlar; bunlarin aksam, parca ve aksesuari ne demek?",
+      "cevap": "90. Fasıl: Optik, fotograf, sinema, olcu, kontrol, ayar, tibbi veya cerrahi alet ve cihazlar; bunlarin aksam, parca ve aksesuari. Bölüm 18: Optik, Fotograf, Sinema, Olcu, Kontrol, Ayar, Tibbi veya Cerrahi Alet ve Cihazlar; Saatci Esyasi; Muzik Aletleri; Bunlarin Aksam, Parca ve Aksesuari.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 90 hangi fasıl? 90 ne demek?",
+      "cevap": "GTİP kodu 90 → 90. Fasıl: Optik, fotograf, sinema, olcu, kontrol, ayar, tibbi veya cerrahi alet ve cihazlar; bunlarin aksam, parca ve aksesuari (Bölüm 18: Optik, Fotograf, Sinema, Olcu, Kontrol, Ayar, Tibbi veya Cerrahi Alet ve Cihazlar; Saatci Esyasi; Muzik Aletleri; Bunlarin Aksam, Parca ve Aksesuari)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "91. fasıl nedir? Saatler ve aksami ne demek?",
+      "cevap": "91. Fasıl: Saatler ve aksami. Bölüm 18: Optik, Fotograf, Sinema, Olcu, Kontrol, Ayar, Tibbi veya Cerrahi Alet ve Cihazlar; Saatci Esyasi; Muzik Aletleri; Bunlarin Aksam, Parca ve Aksesuari.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 91 hangi fasıl? 91 ne demek?",
+      "cevap": "GTİP kodu 91 → 91. Fasıl: Saatler ve aksami (Bölüm 18: Optik, Fotograf, Sinema, Olcu, Kontrol, Ayar, Tibbi veya Cerrahi Alet ve Cihazlar; Saatci Esyasi; Muzik Aletleri; Bunlarin Aksam, Parca ve Aksesuari)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "92. fasıl nedir? Muzik aletleri; bunlarin aksam, parca ve aksesuari ne demek?",
+      "cevap": "92. Fasıl: Muzik aletleri; bunlarin aksam, parca ve aksesuari. Bölüm 18: Optik, Fotograf, Sinema, Olcu, Kontrol, Ayar, Tibbi veya Cerrahi Alet ve Cihazlar; Saatci Esyasi; Muzik Aletleri; Bunlarin Aksam, Parca ve Aksesuari.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 92 hangi fasıl? 92 ne demek?",
+      "cevap": "GTİP kodu 92 → 92. Fasıl: Muzik aletleri; bunlarin aksam, parca ve aksesuari (Bölüm 18: Optik, Fotograf, Sinema, Olcu, Kontrol, Ayar, Tibbi veya Cerrahi Alet ve Cihazlar; Saatci Esyasi; Muzik Aletleri; Bunlarin Aksam, Parca ve Aksesuari)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "19. bölüm nedir? Silahlar ve Muhimmat; Bunlarin Aksam, Parca ve Aksesuari hangi fasılları içerir?",
+      "cevap": "19. Bölüm: Silahlar ve Muhimmat; Bunlarin Aksam, Parca ve Aksesuari. Bu bölüm şu fasılları içerir: 93. Silahlar ve muhimmat; bunlarin aksam, parca ve aksesuari.",
+      "kategori": "Gumruk Tarife Cetveli Bolumler"
+    },
+    {
+      "soru": "93. fasıl nedir? Silahlar ve muhimmat; bunlarin aksam, parca ve aksesuari ne demek?",
+      "cevap": "93. Fasıl: Silahlar ve muhimmat; bunlarin aksam, parca ve aksesuari. Bölüm 19: Silahlar ve Muhimmat; Bunlarin Aksam, Parca ve Aksesuari.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 93 hangi fasıl? 93 ne demek?",
+      "cevap": "GTİP kodu 93 → 93. Fasıl: Silahlar ve muhimmat; bunlarin aksam, parca ve aksesuari (Bölüm 19: Silahlar ve Muhimmat; Bunlarin Aksam, Parca ve Aksesuari)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "20. bölüm nedir? Muhtelif Mamul Esya hangi fasılları içerir?",
+      "cevap": "20. Bölüm: Muhtelif Mamul Esya. Bu bölüm şu fasılları içerir: 94. Mobilyalar, tibbi-cerrahi mobilyalar, yatak takimlari ve benzeri doldurulmus esya; baska yerde belirtilmeyen veya yer almayan aydinlatma cihazlari; isikli tabelalar, isikli panolar ve benzerleri; prefabrik yapilar, 95. Oyuncaklar, oyun ve spor levazimati; bunlarin aksam, parca ve aksesuari, 96. Muhtelif mamul esya.",
+      "kategori": "Gumruk Tarife Cetveli Bolumler"
+    },
+    {
+      "soru": "94. fasıl nedir? Mobilyalar, tibbi-cerrahi mobilyalar, yatak takimlari ve benzeri doldurulmus esya; baska yerde belirtilmeyen veya yer almayan aydinlatma cihazlari; isikli tabelalar, isikli panolar ve benzerleri; prefabrik yapilar ne demek?",
+      "cevap": "94. Fasıl: Mobilyalar, tibbi-cerrahi mobilyalar, yatak takimlari ve benzeri doldurulmus esya; baska yerde belirtilmeyen veya yer almayan aydinlatma cihazlari; isikli tabelalar, isikli panolar ve benzerleri; prefabrik yapilar. Bölüm 20: Muhtelif Mamul Esya.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 94 hangi fasıl? 94 ne demek?",
+      "cevap": "GTİP kodu 94 → 94. Fasıl: Mobilyalar, tibbi-cerrahi mobilyalar, yatak takimlari ve benzeri doldurulmus esya; baska yerde belirtilmeyen veya yer almayan aydinlatma cihazlari; isikli tabelalar, isikli panolar ve benzerleri; prefabrik yapilar (Bölüm 20: Muhtelif Mamul Esya)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "95. fasıl nedir? Oyuncaklar, oyun ve spor levazimati; bunlarin aksam, parca ve aksesuari ne demek?",
+      "cevap": "95. Fasıl: Oyuncaklar, oyun ve spor levazimati; bunlarin aksam, parca ve aksesuari. Bölüm 20: Muhtelif Mamul Esya.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 95 hangi fasıl? 95 ne demek?",
+      "cevap": "GTİP kodu 95 → 95. Fasıl: Oyuncaklar, oyun ve spor levazimati; bunlarin aksam, parca ve aksesuari (Bölüm 20: Muhtelif Mamul Esya)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "96. fasıl nedir? Muhtelif mamul esya ne demek?",
+      "cevap": "96. Fasıl: Muhtelif mamul esya. Bölüm 20: Muhtelif Mamul Esya.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 96 hangi fasıl? 96 ne demek?",
+      "cevap": "GTİP kodu 96 → 96. Fasıl: Muhtelif mamul esya (Bölüm 20: Muhtelif Mamul Esya)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "21. bölüm nedir? Sanat Eserleri, Kolleksiyon Esyasi ve Antikalar hangi fasılları içerir?",
+      "cevap": "21. Bölüm: Sanat Eserleri, Kolleksiyon Esyasi ve Antikalar. Bu bölüm şu fasılları içerir: 97. Sanat eserleri, kolleksiyon esyasi ve antikalar.",
+      "kategori": "Gumruk Tarife Cetveli Bolumler"
+    },
+    {
+      "soru": "97. fasıl nedir? Sanat eserleri, kolleksiyon esyasi ve antikalar ne demek?",
+      "cevap": "97. Fasıl: Sanat eserleri, kolleksiyon esyasi ve antikalar. Bölüm 21: Sanat Eserleri, Kolleksiyon Esyasi ve Antikalar.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 97 hangi fasıl? 97 ne demek?",
+      "cevap": "GTİP kodu 97 → 97. Fasıl: Sanat eserleri, kolleksiyon esyasi ve antikalar (Bölüm 21: Sanat Eserleri, Kolleksiyon Esyasi ve Antikalar)",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "22. bölüm nedir? Ulusal Kullanim Fasillari (Turkiye'ye Ozel) hangi fasılları içerir?",
+      "cevap": "22. Bölüm: Ulusal Kullanim Fasillari (Turkiye'ye Ozel). Bu bölüm şu fasılları içerir: 98. Demonte vaziyetteki sanayi tesisleri (Komple tesisler), 99. Yolcu beraberinde gelen kisisel veya ozel esyalar ve diger ozel siniflandirmalar.",
+      "kategori": "Gumruk Tarife Cetveli Bolumler"
+    },
+    {
+      "soru": "98. fasıl nedir? Demonte vaziyetteki sanayi tesisleri (Komple tesisler) ne demek?",
+      "cevap": "98. Fasıl: Demonte vaziyetteki sanayi tesisleri (Komple tesisler). Bölüm 22: Ulusal Kullanim Fasillari (Turkiye'ye Ozel).",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 98 hangi fasıl? 98 ne demek?",
+      "cevap": "GTİP kodu 98 → 98. Fasıl: Demonte vaziyetteki sanayi tesisleri (Komple tesisler) (Bölüm 22: Ulusal Kullanim Fasillari (Turkiye'ye Ozel))",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "99. fasıl nedir? Yolcu beraberinde gelen kisisel veya ozel esyalar ve diger ozel siniflandirmalar ne demek?",
+      "cevap": "99. Fasıl: Yolcu beraberinde gelen kisisel veya ozel esyalar ve diger ozel siniflandirmalar. Bölüm 22: Ulusal Kullanim Fasillari (Turkiye'ye Ozel).",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "GTİP 99 hangi fasıl? 99 ne demek?",
+      "cevap": "GTİP kodu 99 → 99. Fasıl: Yolcu beraberinde gelen kisisel veya ozel esyalar ve diger ozel siniflandirmalar (Bölüm 22: Ulusal Kullanim Fasillari (Turkiye'ye Ozel))",
+      "kategori": "Gumruk Tarife Cetveli GTIP"
+    },
+    {
+      "soru": "GTİP fasıl sorgu aracı nedir? Nasıl kullanılır?",
+      "cevap": "Turquoise AI bilgi hazinesi icin tasarlanmıs, Turk Gumruk Tarife Cetveli (TGTC) 99 fasıl eslestirme ve dogrulama veritabanına sahip Python tabanlı pratik sorgu aracı. Kullanım: python gtip_sorgu.py 84713000",
+      "kategori": "Gumruk Araclari"
+    },
+    {
+      "soru": "GTİP kodu nedir? Ne demek?",
+      "cevap": "GTİP (Gümrük Tarife İstatistik Pozisyonu), uluslararası ticarette malları sınıflandırmak için kullanılan kod sistemdir. İlk 2 hanesi fasıl, ilk 4 hanesi pozisyon, ilk 6 hanesi alt pozisyon belirtir.",
+      "kategori": "Gumruk Terimleri"
+    },
+    {
+      "soru": "Armonize Sistem Nomanklatürü nedir? HS kodu ne demek?",
+      "cevap": "Armonize Sistem (HS - Harmonized System), Dünya Gümrük Örgütü tarafından yönetilen uluslararası tarife sınıflandırma sistemidir. 21 Bölüm ve 97 Fasıldan oluşur (77. fasıl boş tutulur). Türkiye'de 98 ve 99. fasıllar ulusal kullanım için eklenmiştir.",
+      "kategori": "Gumruk Terimleri"
+    },
+    {
+      "soru": "TGTC nedir? Türk Gümrük Tarife Cetveli kaç fasıldan oluşur?",
+      "cevap": "TGTC (Türk Gümrük Tarife Cetveli), Armonize Sistem Nomanklatürü'nü temel alır. 21 Bölüm ve 99 Fasıldan oluşur. Fasıl 98: Demonte sanayi tesisleri. Fasıl 99: Yolcu beraberindeki kişisel eşyalar.",
+      "kategori": "Gumruk Terimleri"
+    },
+    {
+      "soru": "98. fasıl nedir? Ne demek? Ulusal fasıl ne demek?",
+      "cevap": "98. Fasıl: Demonte vaziyetteki sanayi tesisleri (komple tesisler) için gümrük beyanında kullanılır. Ulusal fasıl, Armonize Sistem'e ek olarak ülke özelinde eklenen fasıldır.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "99. fasıl nedir? Ne demek?",
+      "cevap": "99. Fasıl: Yolcu beraberinde gelen kişisel veya özel eşyalar ile diğer özel gümrük muafiyeti durumlarının sınıflandırılmasında kullanılır.",
+      "kategori": "Gumruk Tarife Cetveli Fasiller"
+    },
+    {
+      "soru": "bilgisayar hangi fasılda? bilgisayar GTİP kodu nedir? bilgisayar tarife",
+      "cevap": "Bilgisayar → 84. Fasıl: Nukleer reaktorler, kazanlar, makinalar, mekanik cihazlar ve aletler; bunlarin aksam ve parcalari (Bölüm 16: Makinalar ve Mekanik Cihazlar; Elektrik Malzemeleri; Bunlarin Aksam ve Parcalari; Ses Kaydediciler ve Cogalticilar, Televizyon Goruntu ve Ses Kaydedicileri ve Cogalticilari; Bunlarin Aksam, Parca ve Aksesuari). GTİP kodu: 84xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "telefon hangi fasılda? telefon GTİP kodu nedir? telefon tarife",
+      "cevap": "Telefon → 85. Fasıl: Elektrikli makina ve cihazlar, bunlarin aksam ve parcalari; ses kaydetmeye ve kaydedilen sesi tekrar vermeye mahsus cihazlar, televizyon goruntu ve seslerinin kaydedilmesine ve tekrar verilmesine mahsus cihazlar; bunlarin aksam, parca ve aksesuari (Bölüm 16: Makinalar ve Mekanik Cihazlar; Elektrik Malzemeleri; Bunlarin Aksam ve Parcalari; Ses Kaydediciler ve Cogalticilar, Televizyon Goruntu ve Ses Kaydedicileri ve Cogalticilari; Bunlarin Aksam, Parca ve Aksesuari). GTİP kodu: 85xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "otomobil hangi fasılda? otomobil GTİP kodu nedir? otomobil tarife",
+      "cevap": "Otomobil → 87. Fasıl: Motorlu kara tasitlari, traktorler, bisikletler, motosikletler ve diger kara tasitlari; bunlarin aksam, parca ve aksesuari (Bölüm 17: Nakil Vasitallari). GTİP kodu: 87xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "traktör hangi fasılda? traktör GTİP kodu nedir? traktör tarife",
+      "cevap": "Traktör → 87. Fasıl: Motorlu kara tasitlari, traktorler, bisikletler, motosikletler ve diger kara tasitlari; bunlarin aksam, parca ve aksesuari (Bölüm 17: Nakil Vasitallari). GTİP kodu: 87xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "giyim hangi fasılda? giyim GTİP kodu nedir? giyim tarife",
+      "cevap": "Giyim → 61. Fasıl: Orme giyim esyasi ve aksesuari (Bölüm 11: Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya). GTİP kodu: 61xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "örgü hangi fasılda? örgü GTİP kodu nedir? örgü tarife",
+      "cevap": "Örgü → 60. Fasıl: Orme mensucat (Bölüm 11: Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya). GTİP kodu: 60xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "plastik hangi fasılda? plastik GTİP kodu nedir? plastik tarife",
+      "cevap": "Plastik → 39. Fasıl: Plastikler ve mamulleri (Bölüm 7: Plastikler ve Mamulleri; Kaucuk ve Mamulleri). GTİP kodu: 39xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "kauçuk hangi fasılda? kauçuk GTİP kodu nedir? kauçuk tarife",
+      "cevap": "Kauçuk → 40. Fasıl: Kaucuk ve mamulleri (Bölüm 7: Plastikler ve Mamulleri; Kaucuk ve Mamulleri). GTİP kodu: 40xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "demir hangi fasılda? demir GTİP kodu nedir? demir tarife",
+      "cevap": "Demir → 72. Fasıl: Demir ve celik (Bölüm 15: Adi Metaller ve Adi Metallerden Mamul Esya). GTİP kodu: 72xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "çelik hangi fasılda? çelik GTİP kodu nedir? çelik tarife",
+      "cevap": "Çelik → 72. Fasıl: Demir ve celik (Bölüm 15: Adi Metaller ve Adi Metallerden Mamul Esya). GTİP kodu: 72xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "altın hangi fasılda? altın GTİP kodu nedir? altın tarife",
+      "cevap": "Altın → 71. Fasıl: Tabii veya kultur inciler, kiymetli veya yari kiymetli taslar, kiymetli metaller, kiymetli metallerle kaplanmis metaller ve bunlarin mamulu esya; taklit mucevherci esyasi; metal paralar (Bölüm 14: Tabii veya Kultur Inciler, Kiymetli veya Yari Kiymetli Taslar, Kiymetli Metaller, Kiymetli Metallerle Kaplanmis Metaller ve Bunlardan Mamul Esya; Taklit Mucevherci Esyasi; Metal Paralar). GTİP kodu: 71xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "gümüş hangi fasılda? gümüş GTİP kodu nedir? gümüş tarife",
+      "cevap": "Gümüş → 71. Fasıl: Tabii veya kultur inciler, kiymetli veya yari kiymetli taslar, kiymetli metaller, kiymetli metallerle kaplanmis metaller ve bunlarin mamulu esya; taklit mucevherci esyasi; metal paralar (Bölüm 14: Tabii veya Kultur Inciler, Kiymetli veya Yari Kiymetli Taslar, Kiymetli Metaller, Kiymetli Metallerle Kaplanmis Metaller ve Bunlardan Mamul Esya; Taklit Mucevherci Esyasi; Metal Paralar). GTİP kodu: 71xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "elmas hangi fasılda? elmas GTİP kodu nedir? elmas tarife",
+      "cevap": "Elmas → 71. Fasıl: Tabii veya kultur inciler, kiymetli veya yari kiymetli taslar, kiymetli metaller, kiymetli metallerle kaplanmis metaller ve bunlarin mamulu esya; taklit mucevherci esyasi; metal paralar (Bölüm 14: Tabii veya Kultur Inciler, Kiymetli veya Yari Kiymetli Taslar, Kiymetli Metaller, Kiymetli Metallerle Kaplanmis Metaller ve Bunlardan Mamul Esya; Taklit Mucevherci Esyasi; Metal Paralar). GTİP kodu: 71xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "ayakkabı hangi fasılda? ayakkabı GTİP kodu nedir? ayakkabı tarife",
+      "cevap": "Ayakkabı → 64. Fasıl: Ayakkabilar, getrler, tozluklar ve benzeri esya; bunlarin aksami (Bölüm 12: Ayakkabilar, Basliklar, Semsiyeler, Gunes Semsiyeleri, Bastonlar, Kamcilar, Kirbaclar ve Bunlarin Aksami; Hazirlanmis Tuyler ve Bunlardan Mamul Esya; Yapma Cicekler; Insan Sacindan Mamul Esya). GTİP kodu: 64xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "mobilya hangi fasılda? mobilya GTİP kodu nedir? mobilya tarife",
+      "cevap": "Mobilya → 94. Fasıl: Mobilyalar, tibbi-cerrahi mobilyalar, yatak takimlari ve benzeri doldurulmus esya; baska yerde belirtilmeyen veya yer almayan aydinlatma cihazlari; isikli tabelalar, isikli panolar ve benzerleri; prefabrik yapilar (Bölüm 20: Muhtelif Mamul Esya). GTİP kodu: 94xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "oyuncak hangi fasılda? oyuncak GTİP kodu nedir? oyuncak tarife",
+      "cevap": "Oyuncak → 95. Fasıl: Oyuncaklar, oyun ve spor levazimati; bunlarin aksam, parca ve aksesuari (Bölüm 20: Muhtelif Mamul Esya). GTİP kodu: 95xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "ilaç hangi fasılda? ilaç GTİP kodu nedir? ilaç tarife",
+      "cevap": "Ilaç → 30. Fasıl: Eczacilik urunleri (Bölüm 6: Kimya Sanayii ve Buna Bagli Sanayii Urunleri). GTİP kodu: 30xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "gübre hangi fasılda? gübre GTİP kodu nedir? gübre tarife",
+      "cevap": "Gübre → 31. Fasıl: Gubreler (Bölüm 6: Kimya Sanayii ve Buna Bagli Sanayii Urunleri). GTİP kodu: 31xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "kahve hangi fasılda? kahve GTİP kodu nedir? kahve tarife",
+      "cevap": "Kahve → 9. Fasıl: Kahve, cay, paraguay cayi ve baharat (Bölüm 2: Bitkisel Urunler). GTİP kodu: 09xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "çay hangi fasılda? çay GTİP kodu nedir? çay tarife",
+      "cevap": "Çay → 9. Fasıl: Kahve, cay, paraguay cayi ve baharat (Bölüm 2: Bitkisel Urunler). GTİP kodu: 09xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "balık hangi fasılda? balık GTİP kodu nedir? balık tarife",
+      "cevap": "Balık → 3. Fasıl: Baliklar, kabuklu hayvanlar, yumusakcalar ve suda yasayan diger omurgasiz hayvanlar (Bölüm 1: Canli Hayvanlar ve Hayvansal Urunler). GTİP kodu: 03xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "et hangi fasılda? et GTİP kodu nedir? et tarife",
+      "cevap": "Et → 2. Fasıl: Etler ve yenilen sakatat (Bölüm 1: Canli Hayvanlar ve Hayvansal Urunler). GTİP kodu: 02xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "süt hangi fasılda? süt GTİP kodu nedir? süt tarife",
+      "cevap": "Süt → 4. Fasıl: Sut urunleri; kus ve kumes hayvanlarinin yumurtalari; tabii bal; tarifenin baska yerinde belirtilmeyen veya yer almayan yenilebilir hayvansal menseli urunler (Bölüm 1: Canli Hayvanlar ve Hayvansal Urunler). GTİP kodu: 04xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "un hangi fasılda? un GTİP kodu nedir? un tarife",
+      "cevap": "Un → 11. Fasıl: Degirmencilik urunleri; malt; nisasta; inulin; bugday gluteni (Bölüm 2: Bitkisel Urunler). GTİP kodu: 11xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "yağ hangi fasılda? yağ GTİP kodu nedir? yağ tarife",
+      "cevap": "Yağ → 15. Fasıl: Hayvansal ve bitkisel kati ve sivi yaglar ve bunlarin parcalanma urunleri; hazir yemeklik kati yaglar; hayvansal ve bitkisel mumlar (Bölüm 3: Hayvansal ve Bitkisel Kati ve Sivi Yaglar ve Bunlarin Parcalanma Urunleri; Hazir Yemeklik Kati Yaglar; Hayvansal ve Bitkisel Mumlar). GTİP kodu: 15xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "şeker hangi fasılda? şeker GTİP kodu nedir? şeker tarife",
+      "cevap": "Şeker → 17. Fasıl: Seker ve seker mamulleri (Bölüm 4: Gida Sanayii Mustahzarlari; Mesrubat, Alkollu Ickiler ve Sirke; Tutun veya Tutun Yerine Gecen Islenmis Maddeler). GTİP kodu: 17xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "çikolata hangi fasılda? çikolata GTİP kodu nedir? çikolata tarife",
+      "cevap": "Çikolata → 18. Fasıl: Kakao ve kakao mustahzarlari (Bölüm 4: Gida Sanayii Mustahzarlari; Mesrubat, Alkollu Ickiler ve Sirke; Tutun veya Tutun Yerine Gecen Islenmis Maddeler). GTİP kodu: 18xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "bira hangi fasılda? bira GTİP kodu nedir? bira tarife",
+      "cevap": "Bira → 22. Fasıl: Mesrubat, alkollu ickiler ve sirke (Bölüm 4: Gida Sanayii Mustahzarlari; Mesrubat, Alkollu Ickiler ve Sirke; Tutun veya Tutun Yerine Gecen Islenmis Maddeler). GTİP kodu: 22xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "şarap hangi fasılda? şarap GTİP kodu nedir? şarap tarife",
+      "cevap": "Şarap → 22. Fasıl: Mesrubat, alkollu ickiler ve sirke (Bölüm 4: Gida Sanayii Mustahzarlari; Mesrubat, Alkollu Ickiler ve Sirke; Tutun veya Tutun Yerine Gecen Islenmis Maddeler). GTİP kodu: 22xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "tütün hangi fasılda? tütün GTİP kodu nedir? tütün tarife",
+      "cevap": "Tütün → 24. Fasıl: Tutun ve tutun yerine gecen islenmis maddeler (Bölüm 4: Gida Sanayii Mustahzarlari; Mesrubat, Alkollu Ickiler ve Sirke; Tutun veya Tutun Yerine Gecen Islenmis Maddeler). GTİP kodu: 24xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "pamuk hangi fasılda? pamuk GTİP kodu nedir? pamuk tarife",
+      "cevap": "Pamuk → 52. Fasıl: Pamuk (Bölüm 11: Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya). GTİP kodu: 52xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "ipek hangi fasılda? ipek GTİP kodu nedir? ipek tarife",
+      "cevap": "Ipek → 50. Fasıl: Ipek (Bölüm 11: Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya). GTİP kodu: 50xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "yün hangi fasılda? yün GTİP kodu nedir? yün tarife",
+      "cevap": "Yün → 51. Fasıl: Yapagi ve yun, ince veya kaba hayvan kili; at kilindan iplik ve dokunmus mensucat (Bölüm 11: Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya). GTİP kodu: 51xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "halı hangi fasılda? halı GTİP kodu nedir? halı tarife",
+      "cevap": "Halı → 57. Fasıl: Halilar ve dokumaya elverisli diger yer kaplamalari (Bölüm 11: Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya). GTİP kodu: 57xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "cam hangi fasılda? cam GTİP kodu nedir? cam tarife",
+      "cevap": "Cam → 70. Fasıl: Cam ve cam esya (Bölüm 13: Tas, Alci, Cimento, Asbest, Mika veya Benzeri Maddelerden Esya; Seramik Mamulleri; Cam ve Cam Esya). GTİP kodu: 70xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "seramik hangi fasılda? seramik GTİP kodu nedir? seramik tarife",
+      "cevap": "Seramik → 69. Fasıl: Seramik mamulleri (Bölüm 13: Tas, Alci, Cimento, Asbest, Mika veya Benzeri Maddelerden Esya; Seramik Mamulleri; Cam ve Cam Esya). GTİP kodu: 69xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "saat hangi fasılda? saat GTİP kodu nedir? saat tarife",
+      "cevap": "Saat → 91. Fasıl: Saatler ve aksami (Bölüm 18: Optik, Fotograf, Sinema, Olcu, Kontrol, Ayar, Tibbi veya Cerrahi Alet ve Cihazlar; Saatci Esyasi; Muzik Aletleri; Bunlarin Aksam, Parca ve Aksesuari). GTİP kodu: 91xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "müzik hangi fasılda? müzik GTİP kodu nedir? müzik tarife",
+      "cevap": "Müzik → 92. Fasıl: Muzik aletleri; bunlarin aksam, parca ve aksesuari (Bölüm 18: Optik, Fotograf, Sinema, Olcu, Kontrol, Ayar, Tibbi veya Cerrahi Alet ve Cihazlar; Saatci Esyasi; Muzik Aletleri; Bunlarin Aksam, Parca ve Aksesuari). GTİP kodu: 92xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "silah hangi fasılda? silah GTİP kodu nedir? silah tarife",
+      "cevap": "Silah → 93. Fasıl: Silahlar ve muhimmat; bunlarin aksam, parca ve aksesuari (Bölüm 19: Silahlar ve Muhimmat; Bunlarin Aksam, Parca ve Aksesuari). GTİP kodu: 93xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "uçak hangi fasılda? uçak GTİP kodu nedir? uçak tarife",
+      "cevap": "Uçak → 88. Fasıl: Hava tasitlari, uzay tasitlari ve bunlarin aksam ve parcalari (Bölüm 17: Nakil Vasitallari). GTİP kodu: 88xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "gemi hangi fasılda? gemi GTİP kodu nedir? gemi tarife",
+      "cevap": "Gemi → 89. Fasıl: Gemiler ve suda yuzen diger araclar (Bölüm 17: Nakil Vasitallari). GTİP kodu: 89xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "bisiklet hangi fasılda? bisiklet GTİP kodu nedir? bisiklet tarife",
+      "cevap": "Bisiklet → 87. Fasıl: Motorlu kara tasitlari, traktorler, bisikletler, motosikletler ve diger kara tasitlari; bunlarin aksam, parca ve aksesuari (Bölüm 17: Nakil Vasitallari). GTİP kodu: 87xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "medikal hangi fasılda? medikal GTİP kodu nedir? medikal tarife",
+      "cevap": "Medikal → 90. Fasıl: Optik, fotograf, sinema, olcu, kontrol, ayar, tibbi veya cerrahi alet ve cihazlar; bunlarin aksam, parca ve aksesuari (Bölüm 18: Optik, Fotograf, Sinema, Olcu, Kontrol, Ayar, Tibbi veya Cerrahi Alet ve Cihazlar; Saatci Esyasi; Muzik Aletleri; Bunlarin Aksam, Parca ve Aksesuari). GTİP kodu: 90xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "fotokopi hangi fasılda? fotokopi GTİP kodu nedir? fotokopi tarife",
+      "cevap": "Fotokopi → 84. Fasıl: Nukleer reaktorler, kazanlar, makinalar, mekanik cihazlar ve aletler; bunlarin aksam ve parcalari (Bölüm 16: Makinalar ve Mekanik Cihazlar; Elektrik Malzemeleri; Bunlarin Aksam ve Parcalari; Ses Kaydediciler ve Cogalticilar, Televizyon Goruntu ve Ses Kaydedicileri ve Cogalticilari; Bunlarin Aksam, Parca ve Aksesuari). GTİP kodu: 84xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "kamera hangi fasılda? kamera GTİP kodu nedir? kamera tarife",
+      "cevap": "Kamera → 90. Fasıl: Optik, fotograf, sinema, olcu, kontrol, ayar, tibbi veya cerrahi alet ve cihazlar; bunlarin aksam, parca ve aksesuari (Bölüm 18: Optik, Fotograf, Sinema, Olcu, Kontrol, Ayar, Tibbi veya Cerrahi Alet ve Cihazlar; Saatci Esyasi; Muzik Aletleri; Bunlarin Aksam, Parca ve Aksesuari). GTİP kodu: 90xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "televizyon hangi fasılda? televizyon GTİP kodu nedir? televizyon tarife",
+      "cevap": "Televizyon → 85. Fasıl: Elektrikli makina ve cihazlar, bunlarin aksam ve parcalari; ses kaydetmeye ve kaydedilen sesi tekrar vermeye mahsus cihazlar, televizyon goruntu ve seslerinin kaydedilmesine ve tekrar verilmesine mahsus cihazlar; bunlarin aksam, parca ve aksesuari (Bölüm 16: Makinalar ve Mekanik Cihazlar; Elektrik Malzemeleri; Bunlarin Aksam ve Parcalari; Ses Kaydediciler ve Cogalticilar, Televizyon Goruntu ve Ses Kaydedicileri ve Cogalticilari; Bunlarin Aksam, Parca ve Aksesuari). GTİP kodu: 85xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "buzdolabı hangi fasılda? buzdolabı GTİP kodu nedir? buzdolabı tarife",
+      "cevap": "Buzdolabı → 84. Fasıl: Nukleer reaktorler, kazanlar, makinalar, mekanik cihazlar ve aletler; bunlarin aksam ve parcalari (Bölüm 16: Makinalar ve Mekanik Cihazlar; Elektrik Malzemeleri; Bunlarin Aksam ve Parcalari; Ses Kaydediciler ve Cogalticilar, Televizyon Goruntu ve Ses Kaydedicileri ve Cogalticilari; Bunlarin Aksam, Parca ve Aksesuari). GTİP kodu: 84xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "çamaşır hangi fasılda? çamaşır GTİP kodu nedir? çamaşır tarife",
+      "cevap": "Çamaşır → 84. Fasıl: Nukleer reaktorler, kazanlar, makinalar, mekanik cihazlar ve aletler; bunlarin aksam ve parcalari (Bölüm 16: Makinalar ve Mekanik Cihazlar; Elektrik Malzemeleri; Bunlarin Aksam ve Parcalari; Ses Kaydediciler ve Cogalticilar, Televizyon Goruntu ve Ses Kaydedicileri ve Cogalticilari; Bunlarin Aksam, Parca ve Aksesuari). GTİP kodu: 84xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "koltuk hangi fasılda? koltuk GTİP kodu nedir? koltuk tarife",
+      "cevap": "Koltuk → 94. Fasıl: Mobilyalar, tibbi-cerrahi mobilyalar, yatak takimlari ve benzeri doldurulmus esya; baska yerde belirtilmeyen veya yer almayan aydinlatma cihazlari; isikli tabelalar, isikli panolar ve benzerleri; prefabrik yapilar (Bölüm 20: Muhtelif Mamul Esya). GTİP kodu: 94xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "yatak hangi fasılda? yatak GTİP kodu nedir? yatak tarife",
+      "cevap": "Yatak → 94. Fasıl: Mobilyalar, tibbi-cerrahi mobilyalar, yatak takimlari ve benzeri doldurulmus esya; baska yerde belirtilmeyen veya yer almayan aydinlatma cihazlari; isikli tabelalar, isikli panolar ve benzerleri; prefabrik yapilar (Bölüm 20: Muhtelif Mamul Esya). GTİP kodu: 94xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "kitap hangi fasılda? kitap GTİP kodu nedir? kitap tarife",
+      "cevap": "Kitap → 49. Fasıl: Basili kitaplar, gazeteler, resimler ve diger baski sanayii mamulleri; el yazmalari, daktilo yazilari ve planlar (Bölüm 10: Odun veya Diger Lifli Selulozik Maddelerin Hamurlari; Geri Kazanilmis Kagit veya Karton (Dokuntu ve Kirpintilar); Kagit, Karton ve Mamulleri). GTİP kodu: 49xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "gazete hangi fasılda? gazete GTİP kodu nedir? gazete tarife",
+      "cevap": "Gazete → 49. Fasıl: Basili kitaplar, gazeteler, resimler ve diger baski sanayii mamulleri; el yazmalari, daktilo yazilari ve planlar (Bölüm 10: Odun veya Diger Lifli Selulozik Maddelerin Hamurlari; Geri Kazanilmis Kagit veya Karton (Dokuntu ve Kirpintilar); Kagit, Karton ve Mamulleri). GTİP kodu: 49xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "kâğıt hangi fasılda? kâğıt GTİP kodu nedir? kâğıt tarife",
+      "cevap": "Kâğıt → 48. Fasıl: Kagit ve karton; kagit hamurundan, kagit veya kartondan mamul esya (Bölüm 10: Odun veya Diger Lifli Selulozik Maddelerin Hamurlari; Geri Kazanilmis Kagit veya Karton (Dokuntu ve Kirpintilar); Kagit, Karton ve Mamulleri). GTİP kodu: 48xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "defter hangi fasılda? defter GTİP kodu nedir? defter tarife",
+      "cevap": "Defter → 48. Fasıl: Kagit ve karton; kagit hamurundan, kagit veya kartondan mamul esya (Bölüm 10: Odun veya Diger Lifli Selulozik Maddelerin Hamurlari; Geri Kazanilmis Kagit veya Karton (Dokuntu ve Kirpintilar); Kagit, Karton ve Mamulleri). GTİP kodu: 48xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "kalem hangi fasılda? kalem GTİP kodu nedir? kalem tarife",
+      "cevap": "Kalem → 96. Fasıl: Muhtelif mamul esya (Bölüm 20: Muhtelif Mamul Esya). GTİP kodu: 96xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "çanta hangi fasılda? çanta GTİP kodu nedir? çanta tarife",
+      "cevap": "Çanta → 42. Fasıl: Deri esya; saraciye esyasi ve eyer takimlari; yolculuk esyasi, el cantalari ve benzeri mahfazalar; hayvan barsagindan (ipek bocegi gurbuzu haric) mamul esya (Bölüm 8: Postlar, Deriler, Koseleler, Kurkler ve Bu Maddelerden Mamul Esya; Saraciye Esyasi ve Eyer Takimlari; Yolculuk Esyasi, El Cantalari ve Benzeri Mahfazalar; Hayvan Barsagindan Mamul Esya). GTİP kodu: 42xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "valiz hangi fasılda? valiz GTİP kodu nedir? valiz tarife",
+      "cevap": "Valiz → 42. Fasıl: Deri esya; saraciye esyasi ve eyer takimlari; yolculuk esyasi, el cantalari ve benzeri mahfazalar; hayvan barsagindan (ipek bocegi gurbuzu haric) mamul esya (Bölüm 8: Postlar, Deriler, Koseleler, Kurkler ve Bu Maddelerden Mamul Esya; Saraciye Esyasi ve Eyer Takimlari; Yolculuk Esyasi, El Cantalari ve Benzeri Mahfazalar; Hayvan Barsagindan Mamul Esya). GTİP kodu: 42xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "cüzdan hangi fasılda? cüzdan GTİP kodu nedir? cüzdan tarife",
+      "cevap": "Cüzdan → 42. Fasıl: Deri esya; saraciye esyasi ve eyer takimlari; yolculuk esyasi, el cantalari ve benzeri mahfazalar; hayvan barsagindan (ipek bocegi gurbuzu haric) mamul esya (Bölüm 8: Postlar, Deriler, Koseleler, Kurkler ve Bu Maddelerden Mamul Esya; Saraciye Esyasi ve Eyer Takimlari; Yolculuk Esyasi, El Cantalari ve Benzeri Mahfazalar; Hayvan Barsagindan Mamul Esya). GTİP kodu: 42xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "kemer hangi fasılda? kemer GTİP kodu nedir? kemer tarife",
+      "cevap": "Kemer → 42. Fasıl: Deri esya; saraciye esyasi ve eyer takimlari; yolculuk esyasi, el cantalari ve benzeri mahfazalar; hayvan barsagindan (ipek bocegi gurbuzu haric) mamul esya (Bölüm 8: Postlar, Deriler, Koseleler, Kurkler ve Bu Maddelerden Mamul Esya; Saraciye Esyasi ve Eyer Takimlari; Yolculuk Esyasi, El Cantalari ve Benzeri Mahfazalar; Hayvan Barsagindan Mamul Esya). GTİP kodu: 42xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "deri hangi fasılda? deri GTİP kodu nedir? deri tarife",
+      "cevap": "Deri → 41. Fasıl: Postlar, deriler (kurkler haric) ve koseleler (Bölüm 8: Postlar, Deriler, Koseleler, Kurkler ve Bu Maddelerden Mamul Esya; Saraciye Esyasi ve Eyer Takimlari; Yolculuk Esyasi, El Cantalari ve Benzeri Mahfazalar; Hayvan Barsagindan Mamul Esya). GTİP kodu: 41xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "kürk hangi fasılda? kürk GTİP kodu nedir? kürk tarife",
+      "cevap": "Kürk → 43. Fasıl: Postlar, kurkler ve taklit kurkler; bunlarin mamulleri (Bölüm 8: Postlar, Deriler, Koseleler, Kurkler ve Bu Maddelerden Mamul Esya; Saraciye Esyasi ve Eyer Takimlari; Yolculuk Esyasi, El Cantalari ve Benzeri Mahfazalar; Hayvan Barsagindan Mamul Esya). GTİP kodu: 43xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "taş hangi fasılda? taş GTİP kodu nedir? taş tarife",
+      "cevap": "Taş → 71. Fasıl: Tabii veya kultur inciler, kiymetli veya yari kiymetli taslar, kiymetli metaller, kiymetli metallerle kaplanmis metaller ve bunlarin mamulu esya; taklit mucevherci esyasi; metal paralar (Bölüm 14: Tabii veya Kultur Inciler, Kiymetli veya Yari Kiymetli Taslar, Kiymetli Metaller, Kiymetli Metallerle Kaplanmis Metaller ve Bunlardan Mamul Esya; Taklit Mucevherci Esyasi; Metal Paralar). GTİP kodu: 71xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "bakır hangi fasılda? bakır GTİP kodu nedir? bakır tarife",
+      "cevap": "Bakır → 74. Fasıl: Bakir ve bakirdan esya (Bölüm 15: Adi Metaller ve Adi Metallerden Mamul Esya). GTİP kodu: 74xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "alüminyum hangi fasılda? alüminyum GTİP kodu nedir? alüminyum tarife",
+      "cevap": "Alüminyum → 76. Fasıl: Aluminyum ve aluminyumdan esya (Bölüm 15: Adi Metaller ve Adi Metallerden Mamul Esya). GTİP kodu: 76xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "nikel hangi fasılda? nikel GTİP kodu nedir? nikel tarife",
+      "cevap": "Nikel → 75. Fasıl: Nikel ve nikelden esya (Bölüm 15: Adi Metaller ve Adi Metallerden Mamul Esya). GTİP kodu: 75xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "çinko hangi fasılda? çinko GTİP kodu nedir? çinko tarife",
+      "cevap": "Çinko → 79. Fasıl: Cinko ve cinkodan esya (Bölüm 15: Adi Metaller ve Adi Metallerden Mamul Esya). GTİP kodu: 79xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "kalay hangi fasılda? kalay GTİP kodu nedir? kalay tarife",
+      "cevap": "Kalay → 80. Fasıl: Kalay ve kalaydan esya (Bölüm 15: Adi Metaller ve Adi Metallerden Mamul Esya). GTİP kodu: 80xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "kurşun hangi fasılda? kurşun GTİP kodu nedir? kurşun tarife",
+      "cevap": "Kurşun → 78. Fasıl: Kursun ve kursundan esya (Bölüm 15: Adi Metaller ve Adi Metallerden Mamul Esya). GTİP kodu: 78xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "petrol hangi fasılda? petrol GTİP kodu nedir? petrol tarife",
+      "cevap": "Petrol → 27. Fasıl: Mineral yakitlar, mineral yaglar ve bunlarin damitilmasindan elde edilen urunler; bitumenli maddeler; mineral mumlar (Bölüm 5: Mineral Maddeler). GTİP kodu: 27xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "mazot hangi fasılda? mazot GTİP kodu nedir? mazot tarife",
+      "cevap": "Mazot → 27. Fasıl: Mineral yakitlar, mineral yaglar ve bunlarin damitilmasindan elde edilen urunler; bitumenli maddeler; mineral mumlar (Bölüm 5: Mineral Maddeler). GTİP kodu: 27xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "benzin hangi fasılda? benzin GTİP kodu nedir? benzin tarife",
+      "cevap": "Benzin → 27. Fasıl: Mineral yakitlar, mineral yaglar ve bunlarin damitilmasindan elde edilen urunler; bitumenli maddeler; mineral mumlar (Bölüm 5: Mineral Maddeler). GTİP kodu: 27xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "doğalgaz hangi fasılda? doğalgaz GTİP kodu nedir? doğalgaz tarife",
+      "cevap": "Doğalgaz → 27. Fasıl: Mineral yakitlar, mineral yaglar ve bunlarin damitilmasindan elde edilen urunler; bitumenli maddeler; mineral mumlar (Bölüm 5: Mineral Maddeler). GTİP kodu: 27xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "LPG hangi fasılda? LPG GTİP kodu nedir? LPG tarife",
+      "cevap": "LPG → 27. Fasıl: Mineral yakitlar, mineral yaglar ve bunlarin damitilmasindan elde edilen urunler; bitumenli maddeler; mineral mumlar (Bölüm 5: Mineral Maddeler). GTİP kodu: 27xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "köür hangi fasılda? köür GTİP kodu nedir? köür tarife",
+      "cevap": "Köür → 27. Fasıl: Mineral yakitlar, mineral yaglar ve bunlarin damitilmasindan elde edilen urunler; bitumenli maddeler; mineral mumlar (Bölüm 5: Mineral Maddeler). GTİP kodu: 27xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "asit hangi fasılda? asit GTİP kodu nedir? asit tarife",
+      "cevap": "Asit → 28. Fasıl: Anorganik kimyasallar; kiymetli metallerin, radyoaktif elementlerin, nadir toprak metallerinin veya izotoplarinin organik veya anorganik bilesikleri (Bölüm 6: Kimya Sanayii ve Buna Bagli Sanayii Urunleri). GTİP kodu: 28xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "boya hangi fasılda? boya GTİP kodu nedir? boya tarife",
+      "cevap": "Boya → 32. Fasıl: Debagatte veya boyacilikta kullanilan hulasalar; tanenler ve turevleri; boyalar, pigmentler ve diger boyayici maddeler; mustahzar boyalar ve vernikler; macunlar; murekkepler (Bölüm 6: Kimya Sanayii ve Buna Bagli Sanayii Urunleri). GTİP kodu: 32xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "parfüm hangi fasılda? parfüm GTİP kodu nedir? parfüm tarife",
+      "cevap": "Parfüm → 33. Fasıl: Ucucu yaglar ve rezinoitler; parfumeri, kozmetik veya tuvalet mustahzarlari (Bölüm 6: Kimya Sanayii ve Buna Bagli Sanayii Urunleri). GTİP kodu: 33xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "şampuan hangi fasılda? şampuan GTİP kodu nedir? şampuan tarife",
+      "cevap": "Şampuan → 33. Fasıl: Ucucu yaglar ve rezinoitler; parfumeri, kozmetik veya tuvalet mustahzarlari (Bölüm 6: Kimya Sanayii ve Buna Bagli Sanayii Urunleri). GTİP kodu: 33xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "sabun hangi fasılda? sabun GTİP kodu nedir? sabun tarife",
+      "cevap": "Sabun → 34. Fasıl: Sabunlar, yuzey-aktif organik maddeler, yikama mustahzarlari, yaglama mustahzarlari, suni mumlar, mustahzar mumlar, temizleme veya bakim mustahzarlari, isik temini icin kullanilan her turlu mumlar ve benzerleri, model yapmaya mahsus her turlu patlar, 'disci mumlari' ve alci esasli discilik mustahzarlari (Bölüm 6: Kimya Sanayii ve Buna Bagli Sanayii Urunleri). GTİP kodu: 34xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "deterjan hangi fasılda? deterjan GTİP kodu nedir? deterjan tarife",
+      "cevap": "Deterjan → 34. Fasıl: Sabunlar, yuzey-aktif organik maddeler, yikama mustahzarlari, yaglama mustahzarlari, suni mumlar, mustahzar mumlar, temizleme veya bakim mustahzarlari, isik temini icin kullanilan her turlu mumlar ve benzerleri, model yapmaya mahsus her turlu patlar, 'disci mumlari' ve alci esasli discilik mustahzarlari (Bölüm 6: Kimya Sanayii ve Buna Bagli Sanayii Urunleri). GTİP kodu: 34xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "plastik hangi fasılda? plastik GTİP kodu nedir? plastik tarife",
+      "cevap": "Plastik → 39. Fasıl: Plastikler ve mamulleri (Bölüm 7: Plastikler ve Mamulleri; Kaucuk ve Mamulleri). GTİP kodu: 39xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "boru hangi fasılda? boru GTİP kodu nedir? boru tarife",
+      "cevap": "Boru → 39. Fasıl: Plastikler ve mamulleri (Bölüm 7: Plastikler ve Mamulleri; Kaucuk ve Mamulleri). GTİP kodu: 39xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "şişe hangi fasılda? şişe GTİP kodu nedir? şişe tarife",
+      "cevap": "Şişe → 39. Fasıl: Plastikler ve mamulleri (Bölüm 7: Plastikler ve Mamulleri; Kaucuk ve Mamulleri). GTİP kodu: 39xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "çadır hangi fasılda? çadır GTİP kodu nedir? çadır tarife",
+      "cevap": "Çadır → 63. Fasıl: Dokumaya elverisli maddelerden diger hazir esya; takimlar; kullanilmis giyim esyasi ve dokumaya elverisli maddelerden kullanilmis esya; pacavralar (Bölüm 11: Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya). GTİP kodu: 63xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "paspas hangi fasılda? paspas GTİP kodu nedir? paspas tarife",
+      "cevap": "Paspas → 57. Fasıl: Halilar ve dokumaya elverisli diger yer kaplamalari (Bölüm 11: Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya). GTİP kodu: 57xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "havlu hangi fasılda? havlu GTİP kodu nedir? havlu tarife",
+      "cevap": "Havlu → 63. Fasıl: Dokumaya elverisli maddelerden diger hazir esya; takimlar; kullanilmis giyim esyasi ve dokumaya elverisli maddelerden kullanilmis esya; pacavralar (Bölüm 11: Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya). GTİP kodu: 63xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "çarşaf hangi fasılda? çarşaf GTİP kodu nedir? çarşaf tarife",
+      "cevap": "Çarşaf → 63. Fasıl: Dokumaya elverisli maddelerden diger hazir esya; takimlar; kullanilmis giyim esyasi ve dokumaya elverisli maddelerden kullanilmis esya; pacavralar (Bölüm 11: Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya). GTİP kodu: 63xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "yastık hangi fasılda? yastık GTİP kodu nedir? yastık tarife",
+      "cevap": "Yastık → 63. Fasıl: Dokumaya elverisli maddelerden diger hazir esya; takimlar; kullanilmis giyim esyasi ve dokumaya elverisli maddelerden kullanilmis esya; pacavralar (Bölüm 11: Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya). GTİP kodu: 63xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "kumaş hangi fasılda? kumaş GTİP kodu nedir? kumaş tarife",
+      "cevap": "Kumaş → 50. Fasıl: Ipek (Bölüm 11: Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya). GTİP kodu: 50xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "iplik hangi fasılda? iplik GTİP kodu nedir? iplik tarife",
+      "cevap": "Iplik → 50. Fasıl: Ipek (Bölüm 11: Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya). GTİP kodu: 50xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "lif hangi fasılda? lif GTİP kodu nedir? lif tarife",
+      "cevap": "Lif → 55. Fasıl: Sentetik ve suni devamsiz lifler (Bölüm 11: Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya). GTİP kodu: 55xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "vatka hangi fasılda? vatka GTİP kodu nedir? vatka tarife",
+      "cevap": "Vatka → 56. Fasıl: Vatka, kece ve dokunmamis mensucat; ozel iplikler; sicim, kordon, ip, halat ve bunlardan mamul esya (Bölüm 11: Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya). GTİP kodu: 56xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "dantel hangi fasılda? dantel GTİP kodu nedir? dantel tarife",
+      "cevap": "Dantel → 58. Fasıl: Ozel dokunmus mensucat; tufte edilmis dokumaya elverisli mensucat; dantela; duvar kaplamalari; seritci esyasi; suslemeler (Bölüm 11: Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya). GTİP kodu: 58xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "duvar hangi fasılda? duvar GTİP kodu nedir? duvar tarife",
+      "cevap": "Duvar → 58. Fasıl: Ozel dokunmus mensucat; tufte edilmis dokumaya elverisli mensucat; dantela; duvar kaplamalari; seritci esyasi; suslemeler (Bölüm 11: Dokumaya Elverisli Maddeler ve Bunlardan Mamul Esya). GTİP kodu: 58xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "tuvalet hangi fasılda? tuvalet GTİP kodu nedir? tuvalet tarife",
+      "cevap": "Tuvalet → 69. Fasıl: Seramik mamulleri (Bölüm 13: Tas, Alci, Cimento, Asbest, Mika veya Benzeri Maddelerden Esya; Seramik Mamulleri; Cam ve Cam Esya). GTİP kodu: 69xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "çini hangi fasılda? çini GTİP kodu nedir? çini tarife",
+      "cevap": "Çini → 69. Fasıl: Seramik mamulleri (Bölüm 13: Tas, Alci, Cimento, Asbest, Mika veya Benzeri Maddelerden Esya; Seramik Mamulleri; Cam ve Cam Esya). GTİP kodu: 69xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "vazo hangi fasılda? vazo GTİP kodu nedir? vazo tarife",
+      "cevap": "Vazo → 69. Fasıl: Seramik mamulleri (Bölüm 13: Tas, Alci, Cimento, Asbest, Mika veya Benzeri Maddelerden Esya; Seramik Mamulleri; Cam ve Cam Esya). GTİP kodu: 69xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "ayna hangi fasılda? ayna GTİP kodu nedir? ayna tarife",
+      "cevap": "Ayna → 70. Fasıl: Cam ve cam esya (Bölüm 13: Tas, Alci, Cimento, Asbest, Mika veya Benzeri Maddelerden Esya; Seramik Mamulleri; Cam ve Cam Esya). GTİP kodu: 70xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "bardak hangi fasılda? bardak GTİP kodu nedir? bardak tarife",
+      "cevap": "Bardak → 70. Fasıl: Cam ve cam esya (Bölüm 13: Tas, Alci, Cimento, Asbest, Mika veya Benzeri Maddelerden Esya; Seramik Mamulleri; Cam ve Cam Esya). GTİP kodu: 70xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "pencere hangi fasılda? pencere GTİP kodu nedir? pencere tarife",
+      "cevap": "Pencere → 70. Fasıl: Cam ve cam esya (Bölüm 13: Tas, Alci, Cimento, Asbest, Mika veya Benzeri Maddelerden Esya; Seramik Mamulleri; Cam ve Cam Esya). GTİP kodu: 70xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "seramik hangi fasılda? seramik GTİP kodu nedir? seramik tarife",
+      "cevap": "Seramik → 69. Fasıl: Seramik mamulleri (Bölüm 13: Tas, Alci, Cimento, Asbest, Mika veya Benzeri Maddelerden Esya; Seramik Mamulleri; Cam ve Cam Esya). GTİP kodu: 69xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "toprak hangi fasılda? toprak GTİP kodu nedir? toprak tarife",
+      "cevap": "Toprak → 25. Fasıl: Tuz; kukurt; topraklar ve taslar; alcilar, kirecler ve cimento (Bölüm 5: Mineral Maddeler). GTİP kodu: 25xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "kireç hangi fasılda? kireç GTİP kodu nedir? kireç tarife",
+      "cevap": "Kireç → 25. Fasıl: Tuz; kukurt; topraklar ve taslar; alcilar, kirecler ve cimento (Bölüm 5: Mineral Maddeler). GTİP kodu: 25xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "çimento hangi fasılda? çimento GTİP kodu nedir? çimento tarife",
+      "cevap": "Çimento → 25. Fasıl: Tuz; kukurt; topraklar ve taslar; alcilar, kirecler ve cimento (Bölüm 5: Mineral Maddeler). GTİP kodu: 25xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "mercimek hangi fasılda? mercimek GTİP kodu nedir? mercimek tarife",
+      "cevap": "Mercimek → 7. Fasıl: Yenilen sebzeler ve bazi kok ve yumrular (Bölüm 2: Bitkisel Urunler). GTİP kodu: 07xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "nohut hangi fasılda? nohut GTİP kodu nedir? nohut tarife",
+      "cevap": "Nohut → 7. Fasıl: Yenilen sebzeler ve bazi kok ve yumrular (Bölüm 2: Bitkisel Urunler). GTİP kodu: 07xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "fasulye hangi fasılda? fasulye GTİP kodu nedir? fasulye tarife",
+      "cevap": "Fasulye → 7. Fasıl: Yenilen sebzeler ve bazi kok ve yumrular (Bölüm 2: Bitkisel Urunler). GTİP kodu: 07xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "bakla hangi fasılda? bakla GTİP kodu nedir? bakla tarife",
+      "cevap": "Bakla → 7. Fasıl: Yenilen sebzeler ve bazi kok ve yumrular (Bölüm 2: Bitkisel Urunler). GTİP kodu: 07xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "bezelye hangi fasılda? bezelye GTİP kodu nedir? bezelye tarife",
+      "cevap": "Bezelye → 7. Fasıl: Yenilen sebzeler ve bazi kok ve yumrular (Bölüm 2: Bitkisel Urunler). GTİP kodu: 07xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "soğan hangi fasılda? soğan GTİP kodu nedir? soğan tarife",
+      "cevap": "Soğan → 7. Fasıl: Yenilen sebzeler ve bazi kok ve yumrular (Bölüm 2: Bitkisel Urunler). GTİP kodu: 07xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "sarımsak hangi fasılda? sarımsak GTİP kodu nedir? sarımsak tarife",
+      "cevap": "Sarımsak → 7. Fasıl: Yenilen sebzeler ve bazi kok ve yumrular (Bölüm 2: Bitkisel Urunler). GTİP kodu: 07xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "patates hangi fasılda? patates GTİP kodu nedir? patates tarife",
+      "cevap": "Patates → 7. Fasıl: Yenilen sebzeler ve bazi kok ve yumrular (Bölüm 2: Bitkisel Urunler). GTİP kodu: 07xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "domates hangi fasılda? domates GTİP kodu nedir? domates tarife",
+      "cevap": "Domates → 7. Fasıl: Yenilen sebzeler ve bazi kok ve yumrular (Bölüm 2: Bitkisel Urunler). GTİP kodu: 07xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "havuç hangi fasılda? havuç GTİP kodu nedir? havuç tarife",
+      "cevap": "Havuç → 7. Fasıl: Yenilen sebzeler ve bazi kok ve yumrular (Bölüm 2: Bitkisel Urunler). GTİP kodu: 07xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "turp hangi fasılda? turp GTİP kodu nedir? turp tarife",
+      "cevap": "Turp → 7. Fasıl: Yenilen sebzeler ve bazi kok ve yumrular (Bölüm 2: Bitkisel Urunler). GTİP kodu: 07xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "lahana hangi fasılda? lahana GTİP kodu nedir? lahana tarife",
+      "cevap": "Lahana → 7. Fasıl: Yenilen sebzeler ve bazi kok ve yumrular (Bölüm 2: Bitkisel Urunler). GTİP kodu: 07xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "marul hangi fasılda? marul GTİP kodu nedir? marul tarife",
+      "cevap": "Marul → 7. Fasıl: Yenilen sebzeler ve bazi kok ve yumrular (Bölüm 2: Bitkisel Urunler). GTİP kodu: 07xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "ıspanak hangi fasılda? ıspanak GTİP kodu nedir? ıspanak tarife",
+      "cevap": "Ispanak → 7. Fasıl: Yenilen sebzeler ve bazi kok ve yumrular (Bölüm 2: Bitkisel Urunler). GTİP kodu: 07xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "karnabahar hangi fasılda? karnabahar GTİP kodu nedir? karnabahar tarife",
+      "cevap": "Karnabahar → 7. Fasıl: Yenilen sebzeler ve bazi kok ve yumrular (Bölüm 2: Bitkisel Urunler). GTİP kodu: 07xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "brokoli hangi fasılda? brokoli GTİP kodu nedir? brokoli tarife",
+      "cevap": "Brokoli → 7. Fasıl: Yenilen sebzeler ve bazi kok ve yumrular (Bölüm 2: Bitkisel Urunler). GTİP kodu: 07xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "bamya hangi fasılda? bamya GTİP kodu nedir? bamya tarife",
+      "cevap": "Bamya → 7. Fasıl: Yenilen sebzeler ve bazi kok ve yumrular (Bölüm 2: Bitkisel Urunler). GTİP kodu: 07xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "enginar hangi fasılda? enginar GTİP kodu nedir? enginar tarife",
+      "cevap": "Enginar → 7. Fasıl: Yenilen sebzeler ve bazi kok ve yumrular (Bölüm 2: Bitkisel Urunler). GTİP kodu: 07xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "mantar hangi fasılda? mantar GTİP kodu nedir? mantar tarife",
+      "cevap": "Mantar → 7. Fasıl: Yenilen sebzeler ve bazi kok ve yumrular (Bölüm 2: Bitkisel Urunler). GTİP kodu: 07xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "kabak hangi fasılda? kabak GTİP kodu nedir? kabak tarife",
+      "cevap": "Kabak → 7. Fasıl: Yenilen sebzeler ve bazi kok ve yumrular (Bölüm 2: Bitkisel Urunler). GTİP kodu: 07xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "biber hangi fasılda? biber GTİP kodu nedir? biber tarife",
+      "cevap": "Biber → 7. Fasıl: Yenilen sebzeler ve bazi kok ve yumrular (Bölüm 2: Bitkisel Urunler). GTİP kodu: 07xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "patlıcan hangi fasılda? patlıcan GTİP kodu nedir? patlıcan tarife",
+      "cevap": "Patlıcan → 7. Fasıl: Yenilen sebzeler ve bazi kok ve yumrular (Bölüm 2: Bitkisel Urunler). GTİP kodu: 07xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "misir hangi fasılda? misir GTİP kodu nedir? misir tarife",
+      "cevap": "Misir → 7. Fasıl: Yenilen sebzeler ve bazi kok ve yumrular (Bölüm 2: Bitkisel Urunler). GTİP kodu: 07xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "ananas hangi fasılda? ananas GTİP kodu nedir? ananas tarife",
+      "cevap": "Ananas → 8. Fasıl: Yenilen meyveler ve yenilen sert kabuklu meyveler; turuncgillerin ve kavunlarin veya karpuzlarin kabuklari (Bölüm 2: Bitkisel Urunler). GTİP kodu: 08xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "avokado hangi fasılda? avokado GTİP kodu nedir? avokado tarife",
+      "cevap": "Avokado → 8. Fasıl: Yenilen meyveler ve yenilen sert kabuklu meyveler; turuncgillerin ve kavunlarin veya karpuzlarin kabuklari (Bölüm 2: Bitkisel Urunler). GTİP kodu: 08xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "kiwi hangi fasılda? kiwi GTİP kodu nedir? kiwi tarife",
+      "cevap": "Kiwi → 8. Fasıl: Yenilen meyveler ve yenilen sert kabuklu meyveler; turuncgillerin ve kavunlarin veya karpuzlarin kabuklari (Bölüm 2: Bitkisel Urunler). GTİP kodu: 08xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "mango hangi fasılda? mango GTİP kodu nedir? mango tarife",
+      "cevap": "Mango → 8. Fasıl: Yenilen meyveler ve yenilen sert kabuklu meyveler; turuncgillerin ve kavunlarin veya karpuzlarin kabuklari (Bölüm 2: Bitkisel Urunler). GTİP kodu: 08xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "papaya hangi fasılda? papaya GTİP kodu nedir? papaya tarife",
+      "cevap": "Papaya → 8. Fasıl: Yenilen meyveler ve yenilen sert kabuklu meyveler; turuncgillerin ve kavunlarin veya karpuzlarin kabuklari (Bölüm 2: Bitkisel Urunler). GTİP kodu: 08xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "hindistancevizi hangi fasılda? hindistancevizi GTİP kodu nedir? hindistancevizi tarife",
+      "cevap": "Hindistancevizi → 8. Fasıl: Yenilen meyveler ve yenilen sert kabuklu meyveler; turuncgillerin ve kavunlarin veya karpuzlarin kabuklari (Bölüm 2: Bitkisel Urunler). GTİP kodu: 08xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "limon hangi fasılda? limon GTİP kodu nedir? limon tarife",
+      "cevap": "Limon → 8. Fasıl: Yenilen meyveler ve yenilen sert kabuklu meyveler; turuncgillerin ve kavunlarin veya karpuzlarin kabuklari (Bölüm 2: Bitkisel Urunler). GTİP kodu: 08xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "portakal hangi fasılda? portakal GTİP kodu nedir? portakal tarife",
+      "cevap": "Portakal → 8. Fasıl: Yenilen meyveler ve yenilen sert kabuklu meyveler; turuncgillerin ve kavunlarin veya karpuzlarin kabuklari (Bölüm 2: Bitkisel Urunler). GTİP kodu: 08xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "mandalina hangi fasılda? mandalina GTİP kodu nedir? mandalina tarife",
+      "cevap": "Mandalina → 8. Fasıl: Yenilen meyveler ve yenilen sert kabuklu meyveler; turuncgillerin ve kavunlarin veya karpuzlarin kabuklari (Bölüm 2: Bitkisel Urunler). GTİP kodu: 08xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "greyfurt hangi fasılda? greyfurt GTİP kodu nedir? greyfurt tarife",
+      "cevap": "Greyfurt → 8. Fasıl: Yenilen meyveler ve yenilen sert kabuklu meyveler; turuncgillerin ve kavunlarin veya karpuzlarin kabuklari (Bölüm 2: Bitkisel Urunler). GTİP kodu: 08xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "üzüm hangi fasılda? üzüm GTİP kodu nedir? üzüm tarife",
+      "cevap": "Üzüm → 8. Fasıl: Yenilen meyveler ve yenilen sert kabuklu meyveler; turuncgillerin ve kavunlarin veya karpuzlarin kabuklari (Bölüm 2: Bitkisel Urunler). GTİP kodu: 08xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "kayısı hangi fasılda? kayısı GTİP kodu nedir? kayısı tarife",
+      "cevap": "Kayısı → 8. Fasıl: Yenilen meyveler ve yenilen sert kabuklu meyveler; turuncgillerin ve kavunlarin veya karpuzlarin kabuklari (Bölüm 2: Bitkisel Urunler). GTİP kodu: 08xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "şeftali hangi fasılda? şeftali GTİP kodu nedir? şeftali tarife",
+      "cevap": "Şeftali → 8. Fasıl: Yenilen meyveler ve yenilen sert kabuklu meyveler; turuncgillerin ve kavunlarin veya karpuzlarin kabuklari (Bölüm 2: Bitkisel Urunler). GTİP kodu: 08xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "erik hangi fasılda? erik GTİP kodu nedir? erik tarife",
+      "cevap": "Erik → 8. Fasıl: Yenilen meyveler ve yenilen sert kabuklu meyveler; turuncgillerin ve kavunlarin veya karpuzlarin kabuklari (Bölüm 2: Bitkisel Urunler). GTİP kodu: 08xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "kiraz hangi fasılda? kiraz GTİP kodu nedir? kiraz tarife",
+      "cevap": "Kiraz → 8. Fasıl: Yenilen meyveler ve yenilen sert kabuklu meyveler; turuncgillerin ve kavunlarin veya karpuzlarin kabuklari (Bölüm 2: Bitkisel Urunler). GTİP kodu: 08xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "vişne hangi fasılda? vişne GTİP kodu nedir? vişne tarife",
+      "cevap": "Vişne → 8. Fasıl: Yenilen meyveler ve yenilen sert kabuklu meyveler; turuncgillerin ve kavunlarin veya karpuzlarin kabuklari (Bölüm 2: Bitkisel Urunler). GTİP kodu: 08xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "armut hangi fasılda? armut GTİP kodu nedir? armut tarife",
+      "cevap": "Armut → 8. Fasıl: Yenilen meyveler ve yenilen sert kabuklu meyveler; turuncgillerin ve kavunlarin veya karpuzlarin kabuklari (Bölüm 2: Bitkisel Urunler). GTİP kodu: 08xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "elma hangi fasılda? elma GTİP kodu nedir? elma tarife",
+      "cevap": "Elma → 8. Fasıl: Yenilen meyveler ve yenilen sert kabuklu meyveler; turuncgillerin ve kavunlarin veya karpuzlarin kabuklari (Bölüm 2: Bitkisel Urunler). GTİP kodu: 08xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "armut hangi fasılda? armut GTİP kodu nedir? armut tarife",
+      "cevap": "Armut → 8. Fasıl: Yenilen meyveler ve yenilen sert kabuklu meyveler; turuncgillerin ve kavunlarin veya karpuzlarin kabuklari (Bölüm 2: Bitkisel Urunler). GTİP kodu: 08xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "kavun hangi fasılda? kavun GTİP kodu nedir? kavun tarife",
+      "cevap": "Kavun → 8. Fasıl: Yenilen meyveler ve yenilen sert kabuklu meyveler; turuncgillerin ve kavunlarin veya karpuzlarin kabuklari (Bölüm 2: Bitkisel Urunler). GTİP kodu: 08xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "karpuz hangi fasılda? karpuz GTİP kodu nedir? karpuz tarife",
+      "cevap": "Karpuz → 8. Fasıl: Yenilen meyveler ve yenilen sert kabuklu meyveler; turuncgillerin ve kavunlarin veya karpuzlarin kabuklari (Bölüm 2: Bitkisel Urunler). GTİP kodu: 08xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "çilek hangi fasılda? çilek GTİP kodu nedir? çilek tarife",
+      "cevap": "Çilek → 8. Fasıl: Yenilen meyveler ve yenilen sert kabuklu meyveler; turuncgillerin ve kavunlarin veya karpuzlarin kabuklari (Bölüm 2: Bitkisel Urunler). GTİP kodu: 08xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "böğürtlen hangi fasılda? böğürtlen GTİP kodu nedir? böğürtlen tarife",
+      "cevap": "Böğürtlen → 8. Fasıl: Yenilen meyveler ve yenilen sert kabuklu meyveler; turuncgillerin ve kavunlarin veya karpuzlarin kabuklari (Bölüm 2: Bitkisel Urunler). GTİP kodu: 08xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "frambuaz hangi fasılda? frambuaz GTİP kodu nedir? frambuaz tarife",
+      "cevap": "Frambuaz → 8. Fasıl: Yenilen meyveler ve yenilen sert kabuklu meyveler; turuncgillerin ve kavunlarin veya karpuzlarin kabuklari (Bölüm 2: Bitkisel Urunler). GTİP kodu: 08xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "incir hangi fasılda? incir GTİP kodu nedir? incir tarife",
+      "cevap": "Incir → 8. Fasıl: Yenilen meyveler ve yenilen sert kabuklu meyveler; turuncgillerin ve kavunlarin veya karpuzlarin kabuklari (Bölüm 2: Bitkisel Urunler). GTİP kodu: 08xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "kestane hangi fasılda? kestane GTİP kodu nedir? kestane tarife",
+      "cevap": "Kestane → 8. Fasıl: Yenilen meyveler ve yenilen sert kabuklu meyveler; turuncgillerin ve kavunlarin veya karpuzlarin kabuklari (Bölüm 2: Bitkisel Urunler). GTİP kodu: 08xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "ceviz hangi fasılda? ceviz GTİP kodu nedir? ceviz tarife",
+      "cevap": "Ceviz → 8. Fasıl: Yenilen meyveler ve yenilen sert kabuklu meyveler; turuncgillerin ve kavunlarin veya karpuzlarin kabuklari (Bölüm 2: Bitkisel Urunler). GTİP kodu: 08xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "fındık hangi fasılda? fındık GTİP kodu nedir? fındık tarife",
+      "cevap": "Fındık → 8. Fasıl: Yenilen meyveler ve yenilen sert kabuklu meyveler; turuncgillerin ve kavunlarin veya karpuzlarin kabuklari (Bölüm 2: Bitkisel Urunler). GTİP kodu: 08xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "badem hangi fasılda? badem GTİP kodu nedir? badem tarife",
+      "cevap": "Badem → 8. Fasıl: Yenilen meyveler ve yenilen sert kabuklu meyveler; turuncgillerin ve kavunlarin veya karpuzlarin kabuklari (Bölüm 2: Bitkisel Urunler). GTİP kodu: 08xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "antepfıstığı hangi fasılda? antepfıstığı GTİP kodu nedir? antepfıstığı tarife",
+      "cevap": "Antepfıstığı → 8. Fasıl: Yenilen meyveler ve yenilen sert kabuklu meyveler; turuncgillerin ve kavunlarin veya karpuzlarin kabuklari (Bölüm 2: Bitkisel Urunler). GTİP kodu: 08xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "makarna hangi fasılda? makarna GTİP kodu nedir? makarna tarife",
+      "cevap": "Makarna → 19. Fasıl: Hububat, un, nisasta veya sut mustahzarlari; pastacilik urunleri (Bölüm 4: Gida Sanayii Mustahzarlari; Mesrubat, Alkollu Ickiler ve Sirke; Tutun veya Tutun Yerine Gecen Islenmis Maddeler). GTİP kodu: 19xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "bisküvi hangi fasılda? bisküvi GTİP kodu nedir? bisküvi tarife",
+      "cevap": "Bisküvi → 19. Fasıl: Hububat, un, nisasta veya sut mustahzarlari; pastacilik urunleri (Bölüm 4: Gida Sanayii Mustahzarlari; Mesrubat, Alkollu Ickiler ve Sirke; Tutun veya Tutun Yerine Gecen Islenmis Maddeler). GTİP kodu: 19xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "kraeker hangi fasılda? kraeker GTİP kodu nedir? kraeker tarife",
+      "cevap": "Kraeker → 19. Fasıl: Hububat, un, nisasta veya sut mustahzarlari; pastacilik urunleri (Bölüm 4: Gida Sanayii Mustahzarlari; Mesrubat, Alkollu Ickiler ve Sirke; Tutun veya Tutun Yerine Gecen Islenmis Maddeler). GTİP kodu: 19xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "dondurma hangi fasılda? dondurma GTİP kodu nedir? dondurma tarife",
+      "cevap": "Dondurma → 21. Fasıl: Yenilen cesitli gida mustahzarlari (Bölüm 4: Gida Sanayii Mustahzarlari; Mesrubat, Alkollu Ickiler ve Sirke; Tutun veya Tutun Yerine Gecen Islenmis Maddeler). GTİP kodu: 21xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "reçel hangi fasılda? reçel GTİP kodu nedir? reçel tarife",
+      "cevap": "Reçel → 20. Fasıl: Sebzeler, meyveler, sert kabuklu meyveler ve bitkilerin diger kisimlarindan elde edilen mustahzarlar (Bölüm 4: Gida Sanayii Mustahzarlari; Mesrubat, Alkollu Ickiler ve Sirke; Tutun veya Tutun Yerine Gecen Islenmis Maddeler). GTİP kodu: 20xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "marmalata hangi fasılda? marmalata GTİP kodu nedir? marmalata tarife",
+      "cevap": "Marmalata → 20. Fasıl: Sebzeler, meyveler, sert kabuklu meyveler ve bitkilerin diger kisimlarindan elde edilen mustahzarlar (Bölüm 4: Gida Sanayii Mustahzarlari; Mesrubat, Alkollu Ickiler ve Sirke; Tutun veya Tutun Yerine Gecen Islenmis Maddeler). GTİP kodu: 20xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "salça hangi fasılda? salça GTİP kodu nedir? salça tarife",
+      "cevap": "Salça → 20. Fasıl: Sebzeler, meyveler, sert kabuklu meyveler ve bitkilerin diger kisimlarindan elde edilen mustahzarlar (Bölüm 4: Gida Sanayii Mustahzarlari; Mesrubat, Alkollu Ickiler ve Sirke; Tutun veya Tutun Yerine Gecen Islenmis Maddeler). GTİP kodu: 20xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "turşu hangi fasılda? turşu GTİP kodu nedir? turşu tarife",
+      "cevap": "Turşu → 20. Fasıl: Sebzeler, meyveler, sert kabuklu meyveler ve bitkilerin diger kisimlarindan elde edilen mustahzarlar (Bölüm 4: Gida Sanayii Mustahzarlari; Mesrubat, Alkollu Ickiler ve Sirke; Tutun veya Tutun Yerine Gecen Islenmis Maddeler). GTİP kodu: 20xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "konserve hangi fasılda? konserve GTİP kodu nedir? konserve tarife",
+      "cevap": "Konserve → 20. Fasıl: Sebzeler, meyveler, sert kabuklu meyveler ve bitkilerin diger kisimlarindan elde edilen mustahzarlar (Bölüm 4: Gida Sanayii Mustahzarlari; Mesrubat, Alkollu Ickiler ve Sirke; Tutun veya Tutun Yerine Gecen Islenmis Maddeler). GTİP kodu: 20xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "salam hangi fasılda? salam GTİP kodu nedir? salam tarife",
+      "cevap": "Salam → 16. Fasıl: Et, balik, kabuklu hayvanlar, yumusakcalar veya diger su omurgasizlarinin mustahzarlari (Bölüm 4: Gida Sanayii Mustahzarlari; Mesrubat, Alkollu Ickiler ve Sirke; Tutun veya Tutun Yerine Gecen Islenmis Maddeler). GTİP kodu: 16xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "sucuk hangi fasılda? sucuk GTİP kodu nedir? sucuk tarife",
+      "cevap": "Sucuk → 16. Fasıl: Et, balik, kabuklu hayvanlar, yumusakcalar veya diger su omurgasizlarinin mustahzarlari (Bölüm 4: Gida Sanayii Mustahzarlari; Mesrubat, Alkollu Ickiler ve Sirke; Tutun veya Tutun Yerine Gecen Islenmis Maddeler). GTİP kodu: 16xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "pastırma hangi fasılda? pastırma GTİP kodu nedir? pastırma tarife",
+      "cevap": "Pastırma → 16. Fasıl: Et, balik, kabuklu hayvanlar, yumusakcalar veya diger su omurgasizlarinin mustahzarlari (Bölüm 4: Gida Sanayii Mustahzarlari; Mesrubat, Alkollu Ickiler ve Sirke; Tutun veya Tutun Yerine Gecen Islenmis Maddeler). GTİP kodu: 16xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "sosis hangi fasılda? sosis GTİP kodu nedir? sosis tarife",
+      "cevap": "Sosis → 16. Fasıl: Et, balik, kabuklu hayvanlar, yumusakcalar veya diger su omurgasizlarinin mustahzarlari (Bölüm 4: Gida Sanayii Mustahzarlari; Mesrubat, Alkollu Ickiler ve Sirke; Tutun veya Tutun Yerine Gecen Islenmis Maddeler). GTİP kodu: 16xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "salamata hangi fasılda? salamata GTİP kodu nedir? salamata tarife",
+      "cevap": "Salamata → 16. Fasıl: Et, balik, kabuklu hayvanlar, yumusakcalar veya diger su omurgasizlarinin mustahzarlari (Bölüm 4: Gida Sanayii Mustahzarlari; Mesrubat, Alkollu Ickiler ve Sirke; Tutun veya Tutun Yerine Gecen Islenmis Maddeler). GTİP kodu: 16xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "hamsi hangi fasılda? hamsi GTİP kodu nedir? hamsi tarife",
+      "cevap": "Hamsi → 16. Fasıl: Et, balik, kabuklu hayvanlar, yumusakcalar veya diger su omurgasizlarinin mustahzarlari (Bölüm 4: Gida Sanayii Mustahzarlari; Mesrubat, Alkollu Ickiler ve Sirke; Tutun veya Tutun Yerine Gecen Islenmis Maddeler). GTİP kodu: 16xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "sardalya hangi fasılda? sardalya GTİP kodu nedir? sardalya tarife",
+      "cevap": "Sardalya → 16. Fasıl: Et, balik, kabuklu hayvanlar, yumusakcalar veya diger su omurgasizlarinin mustahzarlari (Bölüm 4: Gida Sanayii Mustahzarlari; Mesrubat, Alkollu Ickiler ve Sirke; Tutun veya Tutun Yerine Gecen Islenmis Maddeler). GTİP kodu: 16xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "ton hangi fasılda? ton GTİP kodu nedir? ton tarife",
+      "cevap": "Ton → 16. Fasıl: Et, balik, kabuklu hayvanlar, yumusakcalar veya diger su omurgasizlarinin mustahzarlari (Bölüm 4: Gida Sanayii Mustahzarlari; Mesrubat, Alkollu Ickiler ve Sirke; Tutun veya Tutun Yerine Gecen Islenmis Maddeler). GTİP kodu: 16xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "zeytinyağı hangi fasılda? zeytinyağı GTİP kodu nedir? zeytinyağı tarife",
+      "cevap": "Zeytinyağı → 15. Fasıl: Hayvansal ve bitkisel kati ve sivi yaglar ve bunlarin parcalanma urunleri; hazir yemeklik kati yaglar; hayvansal ve bitkisel mumlar (Bölüm 3: Hayvansal ve Bitkisel Kati ve Sivi Yaglar ve Bunlarin Parcalanma Urunleri; Hazir Yemeklik Kati Yaglar; Hayvansal ve Bitkisel Mumlar). GTİP kodu: 15xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "ayçiçeği hangi fasılda? ayçiçeği GTİP kodu nedir? ayçiçeği tarife",
+      "cevap": "Ayçiçeği → 15. Fasıl: Hayvansal ve bitkisel kati ve sivi yaglar ve bunlarin parcalanma urunleri; hazir yemeklik kati yaglar; hayvansal ve bitkisel mumlar (Bölüm 3: Hayvansal ve Bitkisel Kati ve Sivi Yaglar ve Bunlarin Parcalanma Urunleri; Hazir Yemeklik Kati Yaglar; Hayvansal ve Bitkisel Mumlar). GTİP kodu: 15xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "mısır hangi fasılda? mısır GTİP kodu nedir? mısır tarife",
+      "cevap": "Mısır → 15. Fasıl: Hayvansal ve bitkisel kati ve sivi yaglar ve bunlarin parcalanma urunleri; hazir yemeklik kati yaglar; hayvansal ve bitkisel mumlar (Bölüm 3: Hayvansal ve Bitkisel Kati ve Sivi Yaglar ve Bunlarin Parcalanma Urunleri; Hazir Yemeklik Kati Yaglar; Hayvansal ve Bitkisel Mumlar). GTİP kodu: 15xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "kanola hangi fasılda? kanola GTİP kodu nedir? kanola tarife",
+      "cevap": "Kanola → 15. Fasıl: Hayvansal ve bitkisel kati ve sivi yaglar ve bunlarin parcalanma urunleri; hazir yemeklik kati yaglar; hayvansal ve bitkisel mumlar (Bölüm 3: Hayvansal ve Bitkisel Kati ve Sivi Yaglar ve Bunlarin Parcalanma Urunleri; Hazir Yemeklik Kati Yaglar; Hayvansal ve Bitkisel Mumlar). GTİP kodu: 15xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "soya hangi fasılda? soya GTİP kodu nedir? soya tarife",
+      "cevap": "Soya → 15. Fasıl: Hayvansal ve bitkisel kati ve sivi yaglar ve bunlarin parcalanma urunleri; hazir yemeklik kati yaglar; hayvansal ve bitkisel mumlar (Bölüm 3: Hayvansal ve Bitkisel Kati ve Sivi Yaglar ve Bunlarin Parcalanma Urunleri; Hazir Yemeklik Kati Yaglar; Hayvansal ve Bitkisel Mumlar). GTİP kodu: 15xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "susam hangi fasılda? susam GTİP kodu nedir? susam tarife",
+      "cevap": "Susam → 15. Fasıl: Hayvansal ve bitkisel kati ve sivi yaglar ve bunlarin parcalanma urunleri; hazir yemeklik kati yaglar; hayvansal ve bitkisel mumlar (Bölüm 3: Hayvansal ve Bitkisel Kati ve Sivi Yaglar ve Bunlarin Parcalanma Urunleri; Hazir Yemeklik Kati Yaglar; Hayvansal ve Bitkisel Mumlar). GTİP kodu: 15xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "balmumu hangi fasılda? balmumu GTİP kodu nedir? balmumu tarife",
+      "cevap": "Balmumu → 15. Fasıl: Hayvansal ve bitkisel kati ve sivi yaglar ve bunlarin parcalanma urunleri; hazir yemeklik kati yaglar; hayvansal ve bitkisel mumlar (Bölüm 3: Hayvansal ve Bitkisel Kati ve Sivi Yaglar ve Bunlarin Parcalanma Urunleri; Hazir Yemeklik Kati Yaglar; Hayvansal ve Bitkisel Mumlar). GTİP kodu: 15xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    },
+    {
+      "soru": "parafin hangi fasılda? parafin GTİP kodu nedir? parafin tarife",
+      "cevap": "Parafin → 15. Fasıl: Hayvansal ve bitkisel kati ve sivi yaglar ve bunlarin parcalanma urunleri; hazir yemeklik kati yaglar; hayvansal ve bitkisel mumlar (Bölüm 3: Hayvansal ve Bitkisel Kati ve Sivi Yaglar ve Bunlarin Parcalanma Urunleri; Hazir Yemeklik Kati Yaglar; Hayvansal ve Bitkisel Mumlar). GTİP kodu: 15xx.xx.xx.xx",
+      "kategori": "Urun-Fasil Eslestirmesi"
+    }
+  ]
+}
