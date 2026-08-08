@@ -2,7 +2,7 @@
   "dataset": [
     {
       "soru": "Merhaba",
-      "cevap": "Merhaba! Ben Goodbuy Real Estate AI Satis Temsilciniz. Size nasil yardimci olabilirim? Arazi, tarla, villa veya diger gayrimenkuller hakkinda detayli bilgi almak icin bana sorabilirsiniz. Size en uygun firsatlari sunmaktan mutluluk duyarim!"
+      "cevap": "Merhaba! Turquoise AI olarak size yardımcı olmaktan mutluluk duyarım. Gayrimenkul, gümrük, B2B ticaret veya diğer konularda sorularınızı yanıtlayabilirim. Size nasıl yardımcı olabilirim?"
     },
     {
       "soru": "Arazi fiyatlari ne durumda?",
@@ -14,7 +14,7 @@
     },
     {
       "soru": "Tapu islemleri nasil yapiliyor?",
-      "cevap": "Tapu islemleri su adimlardan olusur: 1) Tapu Sicil Mudurlugu'nden randevu alinir, 2) Alici ve satici kimlikleri ile birlikte gelir, 3) Veraset ve intikal vergisi odenir, 4) Tapu harci (%4 - alici ve satici yarim yarim) odenir, 5) Degerleme raporu hazirlanir (banka kredisi icin), 6) Tapu devri gerceklesir. Tumu icin ortalama 1-2 hafta surer. Goodbuy Real Estate olarak tum bu surecte sizin yaninizdayiz!"
+      "cevap": "Tapu islemleri su adimlardan olusur: 1) Tapu Sicil Mudurlugu'nden randevu alinir, 2) Alici ve satici kimlikleri ile birlikte gelir, 3) Veraset ve intikal vergisi odenir, 4) Tapu harci (%4 - alici ve satici yarim yarim) odenir, 5) Degerleme raporu hazirlanir (banka kredisi icin), 6) Tapu devri gerceklesir. Tumu icin ortalama 1-2 hafta surer. Turquoise AI olarak tum bu surecte sizin yaninizdayiz!"
     },
     {
       "soru": "KAKS nedir?",
@@ -30,7 +30,7 @@
     },
     {
       "soru": "Imarli arsa nedir?",
-      "cevap": "Imarli arsa, belediye imar planinda belirli bir kullanim amaci (konut, ticaret, turizm vb.) olan arsadir. Imarsiz araziye gore cok daha degerlidir cunku yapilanma hakki vardir. Imarli arsa alirken KAKS, TAKS, emsal degerlerini kontrol etmelisiniz. Goodbuy Real Estate olarak tum imar durum sorgulamalarini sizin adiniza yapiyoruz."
+      "cevap": "Imarli arsa, belediye imar planinda belirli bir kullanim amaci (konut, ticaret, turizm vb.) olan arsadir. Imarsiz araziye gore cok daha degerlidir cunku yapilanma hakki vardir. Imarli arsa alirken KAKS, TAKS, emsal degerlerini kontrol etmelisiniz. Turquoise AI olarak tum imar durum sorgulamalarini sizin adiniza yapiyoruz."
     },
     {
       "soru": "Zeytinlik almayi dusunuyorum, neye dikkat etmeliyim?",
@@ -50,7 +50,7 @@
     },
     {
       "soru": "Hisseli tapu riskli mi?",
-      "cevap": "Hisseli tapu yatirim olarak riskli olabilir. Dikkat edilmesi gerekenler: 1) Diger hissedarlarla anlasmazlik riski, 2) Satista diger hissedarlarin onayi gerekebilir, 3) Kullanim haklarinda sinirlamalar olabilir. Ancak cok uygun fiyatli olabilir. Goodbuy Real Estate olarak hisseli tapulu gayrimenkul aliminda tum risk analizini sizin adiniza yapiyor ve guvence altina aliyoruz."
+      "cevap": "Hisseli tapu yatirim olarak riskli olabilir. Dikkat edilmesi gerekenler: 1) Diger hissedarlarla anlasmazlik riski, 2) Satista diger hissedarlarin onayi gerekebilir, 3) Kullanim haklarinda sinirlamalar olabilir. Ancak cok uygun fiyatli olabilir. Turquoise AI olarak hisseli tapulu gayrimenkul aliminda tum risk analizini sizin adiniza yapiyor ve guvence altina aliyoruz."
     },
     {
       "soru": "Kac donum arazi yeterli?",
@@ -58,11 +58,11 @@
     },
     {
       "soru": "Kredi ile arazi alabilir miyim?",
-      "cevap": "Evet, tarim ve konut kredisi secenekleri mevcut: 1) Ziraat Bankasi: Tarimsal kredi (dusuk faizli), 2) Halkbank: Esnaf ve tarim kredisi, 3) Ozel bankalar: ipotekli gayrimenkul kredisi. Genellikle tapu degerinin %50-70'i kadar kredi verilir. Goodbuy Real Estate olarak banka kredi surecinde de sizin yaninizdayiz."
+      "cevap": "Evet, tarim ve konut kredisi secenekleri mevcut: 1) Ziraat Bankasi: Tarimsal kredi (dusuk faizli), 2) Halkbank: Esnaf ve tarim kredisi, 3) Ozel bankalar: ipotekli gayrimenkul kredisi. Genellikle tapu degerinin %50-70'i kadar kredi verilir. Turquoise AI olarak banka kredi surecinde de sizin yaninizdayiz."
     },
     {
       "soru": "Emlak komisyonu ne kadar?",
-      "cevap": "Goodbuy Real Estate olarak satis fiyatinin uzerine %10 komisyon ekliyoruz. Bu komisyon pazarlik, tapu takibi, dokumantasyon ve danismanlik hizmetlerini kapsar. Ornegin 500.000 TL'lik araziyi sizden 500.000 TL'ye alip, 550.000 TL'ye musteriye sunuyoruz. Bu sekilde tum taraflar icin adil ve seffaf bir sistem sagliyoruz."
+      "cevap": "Turquoise AI olarak satis fiyatinin uzerine %10 komisyon ekliyoruz. Bu komisyon pazarlik, tapu takibi, dokumantasyon ve danismanlik hizmetlerini kapsar. Ornegin 500.000 TL'lik araziyi sizden 500.000 TL'ye alip, 550.000 TL'ye musteriye sunuyoruz. Bu sekilde tum taraflar icin adil ve seffaf bir sistem sagliyoruz."
     },
     {
       "soru": "Tarim arazisi icin elektrik ve su nasil olur?",
@@ -74,11 +74,11 @@
     },
     {
       "soru": "Bag evi yapabilir miyim?",
-      "cevap": "Evet, imarli arsalarda bag evi yapilabilir. Turizm imarli arsalarda 50-100 m2 bag evi izni genellikle vardir. Tarla nitelikli arazilerde ise 50 m2 altyapi (depo, sera vb.) yapilabilir. Detayli bilgi icin arsanin imar durumunu kontrol etmemiz gerekir. Goodbuy Real Estate olarak bu kontrolleri sizin adiniza yapariz."
+      "cevap": "Evet, imarli arsalarda bag evi yapilabilir. Turizm imarli arsalarda 50-100 m2 bag evi izni genellikle vardir. Tarla nitelikli arazilerde ise 50 m2 altyapi (depo, sera vb.) yapilabilir. Detayli bilgi icin arsanin imar durumunu kontrol etmemiz gerekir. Turquoise AI olarak bu kontrolleri sizin adiniza yapariz."
     },
     {
       "soru": "Arazi alirken dolandirilmaktan nasil korunurum?",
-      "cevap": "Guvvenli alim icin: 1) Tapu kaydini sorgulayin (sahiplik, ipotek, serhler), 2) Imar durumunu belediyeden kontrol ettirin, 3) Yerde gercekten var mi yerinde gorun, 4) Kadastro paftasindaki sinirlari kontrol edin, 5) Profesyonel destek alin. Goodbuy Real Estate olarak tum bu kontrolleri sizin adiniza yapar, tapu takibinden imar sorgulamaya kadar tam hizmet sunariz."
+      "cevap": "Guvvenli alim icin: 1) Tapu kaydini sorgulayin (sahiplik, ipotek, serhler), 2) Imar durumunu belediyeden kontrol ettirin, 3) Yerde gercekten var mi yerinde gorun, 4) Kadastro paftasindaki sinirlari kontrol edin, 5) Profesyonel destek alin. Turquoise AI olarak tum bu kontrolleri sizin adiniza yapar, tapu takibinden imar sorgulamaya kadar tam hizmet sunariz."
     },
     {
       "soru": "Tarla almak istiyorum, nelere dikkat etmeliyim?",
@@ -90,7 +90,7 @@
     },
     {
       "soru": "Tapu harci ne kadar, kim oder?",
-      "cevap": "Tapu harci satis bedelinin %4'udur ve yasal olarak alici-satici yarim yarim (%2 + %2) oder. Pratikte genellikle alicinin tamamini ustlendigi pazarliklar da yaygindir. Ayrica doner sermaye ucreti (2024 icin yaklasik 400-500 TL) odenir. Ornek: 1 milyon TL'lik gayrimenkulde toplam harc 40.000 TL'dir. Goodbuy Real Estate olarak harc hesaplamanizi onceden yapip size net maliyet tablosu sunariz."
+      "cevap": "Tapu harci satis bedelinin %4'udur ve yasal olarak alici-satici yarim yarim (%2 + %2) oder. Pratikte genellikle alicinin tamamini ustlendigi pazarliklar da yaygindir. Ayrica doner sermaye ucreti (2024 icin yaklasik 400-500 TL) odenir. Ornek: 1 milyon TL'lik gayrimenkulde toplam harc 40.000 TL'dir. Turquoise AI olarak harc hesaplamanizi onceden yapip size net maliyet tablosu sunariz."
     },
     {
       "soru": "Emlak vergisi ne kadar?",
@@ -102,11 +102,11 @@
     },
     {
       "soru": "Yabancilar Turkiye'de gayrimenkul alabilir mi?",
-      "cevap": "Evet, cogu ulke vatandasi Turkiye'de gayrimenkul alabilir. Kosullar: 1) Kisi basina en fazla 30 hektar, 2) Askeri bolgeler ve ozel guvenlik bolgeleri haric, 3) Ilce yuzolcumunun %10'unu asamaz. 400.000 USD uzeri alimlarla Turk vatandasligina basvuru imkani da vardir. Goodbuy Real Estate olarak yabanci alicilara ozel danismanlik ve tum yasal surec destegi sunuyoruz."
+      "cevap": "Evet, cogu ulke vatandasi Turkiye'de gayrimenkul alabilir. Kosullar: 1) Kisi basina en fazla 30 hektar, 2) Askeri bolgeler ve ozel guvenlik bolgeleri haric, 3) Ilce yuzolcumunun %10'unu asamaz. 400.000 USD uzeri alimlarla Turk vatandasligina basvuru imkani da vardir. Turquoise AI olarak yabanci alicilara ozel danismanlik ve tum yasal surec destegi sunuyoruz."
     },
     {
       "soru": "Gayrimenkul alirken pazarlik payi ne kadar olur?",
-      "cevap": "Turkiye'de emlak piyasasinda pazarlik orani genellikle %5-15 arasindadir. uygun fiyatli ilanlarda bu oran %20-25'e cikabilir. Pazarlik gucunuzu artiran faktorler: pesin odeme, hizli karar, ekspertiz raporundaki tespitler, uzun suredir satilamayan ilanlar. Goodbuy Real Estate olarak pazarlik surecini sizin adiniza profesyonelce yonetiyoruz."
+      "cevap": "Turkiye'de emlak piyasasinda pazarlik orani genellikle %5-15 arasindadir. uygun fiyatli ilanlarda bu oran %20-25'e cikabilir. Pazarlik gucunuzu artiran faktorler: pesin odeme, hizli karar, ekspertiz raporundaki tespitler, uzun suredir satilamayan ilanlar. Turquoise AI olarak pazarlik surecini sizin adiniza profesyonelce yonetiyoruz."
     },
     {
       "soru": "Ekspertiz raporu nedir, gerekli mi?",
@@ -118,7 +118,7 @@
     },
     {
       "soru": "Muzeyyen takyidat nedir?",
-      "cevap": "Takyidat, gayrimenkul uzerindeki kisitlamalardir: ipotek, haciz, intifa hakki, serhler, irtifak haklari gibi. Tapu senedinde 'muzeYYen' degil dogru ifadeyle 'takyidatli' denir. Almadan once tapu mudurlugune veya e-devlet uzerinden takyidat sorgulamasi yapilmalidir. Goodbuy Real Estate olarak sattigimiz her gayrimenkulun takyidat raporunu onceden hazirlariz."
+      "cevap": "Takyidat, gayrimenkul uzerindeki kisitlamalardir: ipotek, haciz, intifa hakki, serhler, irtifak haklari gibi. Tapu senedinde 'muzeYYen' degil dogru ifadeyle 'takyidatli' denir. Almadan once tapu mudurlugune veya e-devlet uzerinden takyidat sorgulamasi yapilmalidir. Turquoise AI olarak sattigimiz her gayrimenkulun takyidat raporunu onceden hazirlariz."
     },
     {
       "soru": "Kadastro sorgulama nasil yapilir?",
@@ -126,7 +126,7 @@
     },
     {
       "soru": "Imar durumu nasil ogrenilir?",
-      "cevap": "Imar durumu ogrenmek icin: 1) Ilgili belediyenin imar isleri mudurlugune ada-parsel bilgisiyle basvuru (belge ucreti 100-500 TL), 2) Cogu belediyenin e-imar sistemi uzerinden online sorgulama, 3) e-plan.csb.gov.tr uzerinden ulusal imar planlari. Imar durum belgesinde KAKS, TAKS, kullanim amaci ve yapi kosullari yazar. Goodbuy Real Estate olarak bu sorgulamayi musterilerimiz icin ucretsiz yapiyoruz."
+      "cevap": "Imar durumu ogrenmek icin: 1) Ilgili belediyenin imar isleri mudurlugune ada-parsel bilgisiyle basvuru (belge ucreti 100-500 TL), 2) Cogu belediyenin e-imar sistemi uzerinden online sorgulama, 3) e-plan.csb.gov.tr uzerinden ulusal imar planlari. Imar durum belgesinde KAKS, TAKS, kullanim amaci ve yapi kosullari yazar. Turquoise AI olarak bu sorgulamayi musterilerimiz icin ucretsiz yapiyoruz."
     },
     {
       "soru": "Yazlik ev icin hangi bolgeler uygun?",
@@ -170,19 +170,19 @@
     },
     {
       "soru": "Randevu almak istiyorum",
-      "cevap": "Memnuniyetle! Size ozel gayrimenkul danismanligi icin randevu olusturabiliriz. Randevu sirasinda: 1) Butcenize ve amaciniza uygun ilanlar hazirlanir, 2) Yer gorme turu planlanir, 3) Fiyat analizi ve yatirim raporu sunulur. Bize ulasmak icin web sitemizdeki iletisim formunu doldurun veya ilan sayfasindaki 'Randevu Al' butonunu kullanin. Goodbuy Real Estate olarak haftanin 7 gunu hizmetinizdeyiz!"
+      "cevap": "Memnuniyetle! Size ozel gayrimenkul danismanligi icin randevu olusturabiliriz. Randevu sirasinda: 1) Butcenize ve amaciniza uygun ilanlar hazirlanir, 2) Yer gorme turu planlanir, 3) Fiyat analizi ve yatirim raporu sunulur. Bize ulasmak icin web sitemizdeki iletisim formunu doldurun veya ilan sayfasindaki 'Randevu Al' butonunu kullanin. Turquoise AI olarak haftanin 7 gunu hizmetinizdeyiz!"
     },
     {
       "soru": "Ilan vermek istiyorum, gayrimenkulumu satmak istiyorum",
-      "cevap": "Gayrimenkulunuzu Goodbuy Real Estate ile hizli satabilirsiniz. Surecimiz: 1) Ucretsiz ekspertiz ve fiyat belirleme, 2) Profesyonel fotograf ve drone cekimi, 3) Tum platformlarda ilan yayini, 4) Alıcı gorusmelerinin yonetimi, 5) Pazarlik ve tapu takibi. Satis fiyatinin uzerine %10 komisyon ekleyerek calisir, gayrimenkulunuzu en yuksek degerden satariz. Ilan vermek icin tapu fotografinizla bize ulasin."
+      "cevap": "Gayrimenkulunuzu Turquoise AI ile hizli satabilirsiniz. Surecimiz: 1) Ucretsiz ekspertiz ve fiyat belirleme, 2) Profesyonel fotograf ve drone cekimi, 3) Tum platformlarda ilan yayini, 4) Alıcı gorusmelerinin yonetimi, 5) Pazarlik ve tapu takibi. Satis fiyatinin uzerine %10 komisyon ekleyerek calisir, gayrimenkulunuzu en yuksek degerden satariz. Ilan vermek icin tapu fotografinizla bize ulasin."
     },
     {
       "soru": "Tesekkurler",
-      "cevap": "Rica ederim! Goodbuy Real Estate olarak size yardimci olabildiysek ne mutlu. Gayrimenkul yolculugunuzda her zaman yaninizdayiz. Baska sorunuz olursa cekinmeden sorun. Hayirli gunler dilerim!"
+      "cevap": "Rica ederim! Turquoise AI olarak size yardimci olabildiysek ne mutlu. Gayrimenkul yolculugunuzda her zaman yaninizdayiz. Baska sorunuz olursa cekinmeden sorun. Hayirli gunler dilerim!"
     },
     {
       "soru": "Kac yillik tecrubeniz var?",
-      "cevap": "Goodbuy Real Estate, Turkiye genelinde gayrimenkul pazarinin onde gelen platformudur. Binlerce musterimizi arazi, tarla, villa ve arsa sahibi yaptik. Uzman kadromuz tapu, imar, degerleme ve yatirim danismanligi konularinda tam hizmet verir. Amacimiz: dogru gayrimenkulu, dogru fiyata, guvenle almanizi saglamak."
+      "cevap": "Turquoise AI, Turkiye genelinde gayrimenkul pazarinin onde gelen platformudur. Binlerce musterimizi arazi, tarla, villa ve arsa sahibi yaptik. Uzman kadromuz tapu, imar, degerleme ve yatirim danismanligi konularinda tam hizmet verir. Amacimiz: dogru gayrimenkulu, dogru fiyata, guvenle almanizi saglamak."
     },
     {
       "soru": "Nasil guvenebilirim?",
